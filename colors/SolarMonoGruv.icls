@@ -4,9 +4,10 @@
     <property name="created">2016-09-08T20:40:02</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2016.2.3.0.0</property>
-    <property name="modified">2017-08-11T01:53:14</property>
+    <property name="modified">2018-10-04T17:36:57</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="14" />
@@ -15,7 +16,7 @@
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <colors>
     <option name="CARET_COLOR" value="fbf1c7" />
     <option name="CARET_ROW_COLOR" value="504945" />
@@ -417,7 +418,11 @@
         <option name="FOREGROUND" value="b3bb26" />
       </value>
     </option>
-    <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="b16286" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="928374" />
@@ -456,6 +461,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
+        <option name="FOREGROUND" value="d3869b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -491,8 +497,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="fe8019" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="b16286" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -513,7 +518,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="fabd2f" />
+        <option name="FOREGROUND" value="b8bb26" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
@@ -10876,11 +10881,6 @@
       </value>
     </option>
     <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="PY.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="83a598" />
-      </value>
-    </option>
     <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
