@@ -61,11 +61,11 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540585910703">
-        <mark key="[" line="79" column="17" />
-        <mark key="]" line="79" column="21" />
-        <mark key="^" line="79" column="21" />
-        <mark key="." line="79" column="21" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540588278249">
+        <mark key="[" line="86" column="21" />
+        <mark key="]" line="86" column="21" />
+        <mark key="." line="86" column="21" />
+        <mark key="^" line="86" column="21" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
         <mark key="[" line="2" column="39" />
@@ -327,7 +327,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>##</text>
@@ -336,31 +336,31 @@
         <text encoding="base64">aW1wb3J0IHdpbjMyc2VydmljZXV0aWwKaW1wb3J0IHdpbjMyc2VydmljZQppbXBvcnQgc3VicHJvY2Vzcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gZ3JvdXBfZmJrOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBncm91cF9mYms6IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZ3JvdXA6Cg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBncm91cF9mYms6IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBMb29rdXBHcm91cEJ5TmFtZXNGYWlsZWQgYXMgZToKICAgICAgICBMT0dHRVIuZXhjZXB0aW9uKGUpCiAgICAgICAgZXhpdCgxKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZ3JvdXA6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyA0LiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
