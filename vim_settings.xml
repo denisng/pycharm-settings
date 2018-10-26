@@ -61,6 +61,12 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="27" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540585910703">
+        <mark key="[" line="79" column="17" />
+        <mark key="]" line="79" column="21" />
+        <mark key="^" line="79" column="21" />
+        <mark key="." line="79" column="21" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="4" column="22" />
@@ -174,11 +180,11 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="62" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1540578295371">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="39" />
-        <mark key="." line="17" column="39" />
-        <mark key="^" line="17" column="39" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1540585507923">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="28" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" timestamp="1514746889796">
         <mark key="'" line="362" column="28" />
@@ -321,7 +327,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>##</text>
