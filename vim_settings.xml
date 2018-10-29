@@ -67,12 +67,12 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540850849785">
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540853454763">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="88" column="16" />
-        <mark key="^" line="171" column="19" />
-        <mark key="." line="168" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="106" column="19" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
         <mark key="[" line="2" column="39" />
@@ -87,12 +87,12 @@
         <mark key="^" line="258" column="29" />
         <mark key="." line="258" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" timestamp="1540850988839">
-        <mark key="'" line="157" column="31" />
-        <mark key="[" line="157" column="65" />
-        <mark key="]" line="157" column="65" />
-        <mark key="^" line="120" column="62" />
-        <mark key="." line="157" column="65" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" timestamp="1540853756081">
+        <mark key="'" line="127" column="80" />
+        <mark key="[" line="158" column="85" />
+        <mark key="]" line="158" column="85" />
+        <mark key="^" line="127" column="80" />
+        <mark key="." line="158" column="85" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/README.md" timestamp="1502442592367">
         <mark key="'" line="27" column="0" />
@@ -248,14 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="404" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRFails.py" />
-      <jump line="343" column="4" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
-      <jump line="283" column="74" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
-      <jump line="39" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
-      <jump line="44" column="29" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRFails.py" />
-      <jump line="383" column="3" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
-      <jump line="333" column="8" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
-      <jump line="197" column="39" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
       <jump line="230" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
       <jump line="209" column="8" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
       <jump line="0" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
@@ -347,7 +339,15 @@
       <jump line="27" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="23" column="19" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
       <jump line="122" column="49" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
+      <jump line="120" column="59" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
       <jump line="156" column="31" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
+      <jump line="119" column="27" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
+      <jump line="158" column="31" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
+      <jump line="148" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
+      <jump line="149" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
+      <jump line="127" column="80" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -357,7 +357,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>15\.0)</text>
       </register>
       <register name="0" type="4">
         <text>(180, 0),
@@ -400,42 +400,42 @@
         (45, 315)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKHR5cGUoc2VxdWVuY2UubmV4dCgpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uX3N0ZXBzKGdyb3VwLCA0NSwgMzE1LCBwb3NpdGlvbl9kdXJhdGlvbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uX3N0ZXBzKGdyb3VwLCAxMzUuMCwgMzE1LjAsIHBvc2l0aW9uX2R1cmF0aW9uKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uX3N0ZXBzKGdyb3VwLCAxMTIuMCwgMzQwLjAsIHBvc2l0aW9uX2R1cmF0aW9uKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBzdGVwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uX3N0ZXBzKGdyb3VwLCAyMjUuMCwgMzE1LjAsIHBvc2l0aW9uX2R1cmF0aW9uKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoJ3lpZWxkaW5nIG5leHQgc3RlcCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uX3N0ZXBzKGdyb3VwLCAzMTUuMCwgMzE1LjAsIHBvc2l0aW9uX2R1cmF0aW9uKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBzdGVwIGluIHN0ZXBzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uX3N0ZXBzKGdyb3VwLCAyNzAuMCwgMjcwLjAsIHBvc2l0aW9uX2R1cmF0aW9uKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZXBzID0gaXRlcnRvb2xzLmNoYWluKHN0ZXBzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uX3N0ZXBzKGdyb3VwLCAyMjUuMCwgMjI1LjAsIHBvc2l0aW9uX2R1cmF0aW9uKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uX3N0ZXBzKGdyb3VwLCAxODAuMCwgMjcwLjAsIHBvc2l0aW9uX2R1cmF0aW9uKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uX3N0ZXBzKGdyb3VwLCAxMzUuMCwgMjI1LjAsIHBvc2l0aW9uX2R1cmF0aW9uKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>15\.0)</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
-      <last-replace>, 15)</last-replace>
-      <last-substitute>)</last-substitute>
+      <last-pattern>15\.0)</last-pattern>
+      <last-replace>position_duration)</last-replace>
+      <last-substitute>15\.0)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -450,6 +450,10 @@
         <entry>^</entry>
         <entry>(</entry>
         <entry>)</entry>
+        <entry>\(\d\),</entry>
+        <entry>15)</entry>
+        <entry>15\.0</entry>
+        <entry>15\.0)</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -465,6 +469,10 @@
         <entry>121,157s/(/position_steps(/</entry>
         <entry>121,157s/(/(group, /</entry>
         <entry>121,157s/)/, 15)/</entry>
+        <entry>121,157s/\(\d\),/\1.0,/g</entry>
+        <entry>119,158s/15)/15.0)/</entry>
+        <entry>120,159s/15\.0/position_duration/</entry>
+        <entry>120,159s/15\.0)/position_duration)/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
