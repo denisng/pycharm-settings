@@ -67,12 +67,12 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540921852644">
-        <mark key="'" line="188" column="45" />
-        <mark key="[" line="173" column="70" />
-        <mark key="]" line="174" column="40" />
-        <mark key="^" line="174" column="40" />
-        <mark key="." line="174" column="40" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540924111939">
+        <mark key="'" line="185" column="45" />
+        <mark key="[" line="105" column="54" />
+        <mark key="]" line="105" column="54" />
+        <mark key="." line="105" column="54" />
+        <mark key="^" line="105" column="54" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
         <mark key="[" line="2" column="39" />
@@ -350,7 +350,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>writing</text>
       </register>
       <register name="/" type="4">
         <text>velocity_duration</text>
@@ -362,28 +362,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aW1lIGFsbG90ZWQgdG8gYWNoaWV2ZSB2ZWxvY2l0eQogICAgICAgICAgICB2ZWxvY2l0eV9kdXJhdGlvbiA9IDE1Cg==</text>
+        <text encoding="base64">CiAgICAgICAgIyBUT0RPOiBoYW5kbGUgdGltZW91dCBjb25kaXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmx0ID0gNC4wCg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmh0ID0gMy4wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hdGgucmFkaWFucyhyb3RhdGVfcG9zKSkK</text>
+        <text encoding="base64">R1JPVVBfSU5GTyA9IGhlYmkuR3JvdXBJbmZvKDIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kLnBvc2l0aW9uID0gKG1hdGgucmFkaWFucyh0aWx0X3BvcyksCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlbG9jaXR5X3N0ZXBzKGdyb3VwLCAwLjAsIDAuMCkK</text>
+        <text encoding="base64">ICAgICAgICBHUk9VUF9JTkZPID0gZ3JvdXAucmVxdWVzdF9pbmZvKHRpbWVvdXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm5fdG9fb3JpZ2luKGdyb3VwKQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBHUk9VUF9JTkZPOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCdoZWxwPycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
