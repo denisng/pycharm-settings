@@ -67,12 +67,12 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540921067452">
-        <mark key="'" line="186" column="45" />
-        <mark key="[" line="200" column="50" />
-        <mark key="]" line="200" column="50" />
-        <mark key="^" line="197" column="45" />
-        <mark key="." line="200" column="50" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540921852644">
+        <mark key="'" line="188" column="45" />
+        <mark key="[" line="173" column="70" />
+        <mark key="]" line="174" column="40" />
+        <mark key="^" line="174" column="40" />
+        <mark key="." line="174" column="40" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
         <mark key="[" line="2" column="39" />
@@ -117,7 +117,7 @@
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540849712283">
+      <file name="/Dummy.txt" timestamp="1540921446074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRFails.py" timestamp="1514746862038">
@@ -350,7 +350,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>velocity_duration</text>
