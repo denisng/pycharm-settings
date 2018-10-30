@@ -67,12 +67,12 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540855178304">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="102" column="64" />
-        <mark key="]" line="103" column="51" />
-        <mark key="^" line="103" column="51" />
-        <mark key="." line="103" column="51" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540861053226">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="35" />
+        <mark key="^" line="172" column="65" />
+        <mark key="." line="200" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
         <mark key="[" line="2" column="39" />
@@ -87,12 +87,10 @@
         <mark key="^" line="258" column="29" />
         <mark key="." line="258" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" timestamp="1540855328874">
-        <mark key="'" line="128" column="80" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="121" column="24" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" timestamp="1540858151322">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/README.md" timestamp="1502442592367">
         <mark key="'" line="27" column="0" />
@@ -248,9 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
-      <jump line="209" column="8" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
-      <jump line="0" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
       <jump line="232" column="4" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
       <jump line="371" column="38" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" />
       <jump line="48" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
@@ -285,7 +280,6 @@
       <jump line="40" column="67" filename="D:/Documents/Python/Projects/ip-table-banger/tesla.py" />
       <jump line="16" column="41" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/command_line.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" />
-      <jump line="38" column="7" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
@@ -304,7 +298,6 @@
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
@@ -348,83 +341,51 @@
       <jump line="150" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
       <jump line="149" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
       <jump line="127" column="80" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
+      <jump line="103" column="51" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
+      <jump line="34" column="3" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>10.0</text>
+        <text>clear()</text>
       </register>
       <register name="/" type="4">
         <text>15\.0)</text>
       </register>
       <register name="0" type="4">
-        <text>(180, 0),
-        (270, 0),
-        (291, 15),
-        (315, 45),
-        (225, 45),
-        (135, 45),
-        (45, 45),
-        (60, 80),
-        (9, 72),
-        (0, 90),
-        (90, 90),
-        (180, 90),
-        (270, 90),
-        (315, 135),
-        (225, 135),
-        (135, 135),
-        (45, 135),
-        (0, 180),
-        (90, 180),
-        (180, 180),
-        (199, 150),
-        (250, 100),
-        (270, 180),
-        (315, 225),
-        (225, 225),
-        (135, 225),
-        (45, 225),
-        (0, 270),
-        (78, 320),
-        (90, 270),
-        (180, 270),
-        (270, 270),
-        (330, 280),
-        (315, 315),
-        (225, 315),
-        (112, 340),
-        (135, 315),
-        (45, 315)</text>
+        <text>threading.Event</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcG9zaXRpb24gZHVyYXRpb24gb2YgMTVzIGNvbWVzIGZyb20gYSBtYXhfc3RlcF90aW1lIHBhcmFtZXRlciBpbgogICAgIyBDUkwncyBjb2RlIHdob3NlIHZhbHVlIGlzIDE1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm5fdG9fb3JpZ2luKGdyb3VwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbl9zdGVwcyhncm91cCwgMzE1LjAsIDMxNS4wLCBwb3NpdGlvbl9kdXJhdGlvbiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCdoZWxwPycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbl9zdGVwcyhncm91cCwgMzE1LjAsIDMxNS4wLCBwb3NpdGlvbl9kdXJhdGlvbiksCg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygncmV0dXJuIHRvIG9yaWdpbj8nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbl9zdGVwcyhncm91cCwgMzE1LjAsIDIyNS4wLCBwb3NpdGlvbl9kdXJhdGlvbiksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbl9zdGVwcyhncm91cCwgMzE1LjAsIDEzNS4wLCBwb3NpdGlvbl9kdXJhdGlvbiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuX3RvX29yaWdpbi5wb3NpdGlvbiA9ICgwLjAsIDAuMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbl9zdGVwcyhncm91cCwgMzE1LjAsIDQ1LjAsIHBvc2l0aW9uX2R1cmF0aW9uKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuX3RvX29yaWdpbiA9IGhlYmkuR3JvdXBDb21tYW5kKGdyb3VwLnNpemUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbl9zdGVwcyhncm91cCwgMjkxLjAsIDE1LjAsIHBvc2l0aW9uX2R1cmF0aW9uKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbl9zdGVwcyhncm91cCwgMjUwLjAsIDEwMC4wLCBwb3NpdGlvbl9kdXJhdGlvbiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbl9zdGVwcyhncm91cCwgMjI1LjAsIDIyNS4wLCBwb3NpdGlvbl9kdXJhdGlvbiksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
