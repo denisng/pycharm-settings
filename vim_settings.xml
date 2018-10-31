@@ -119,7 +119,7 @@
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540921446074">
+      <file name="/Dummy.txt" timestamp="1541010479652">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRFails.py" timestamp="1514746862038">
@@ -135,6 +135,13 @@
         <mark key="]" line="171" column="1" />
         <mark key="^" line="171" column="1" />
         <mark key="." line="171" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/.gitignore" timestamp="1541010443757">
+        <mark key="'" line="2" column="4" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="7" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" timestamp="1514578063964">
         <mark key="'" line="52" column="0" />
@@ -246,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
       <jump line="0" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
       <jump line="346" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
       <jump line="179" column="23" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
@@ -346,13 +352,14 @@
       <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
+      <jump line="2" column="4" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>imu-cal-machine.iml</text>
       </register>
       <register name="/" type="4">
         <text>velocity_duration</text>
@@ -361,31 +368,31 @@
         <text encoding="base64">ICAgIGZhbWlseSA6IHN0cgogICAgICAgIEFjdHVhdG9yICpmYW1pbHkqIHRvIHNlYXJjaCBmb3IuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEV4Y2VwdGlvbiByYWlzZWQgd2hlbiBMb29rdXAgZmFpbHMgdG8gY3JlYXRlIGEgZ3JvdXAgdXNpbmcgbW9kdWxlIGZhbWlseSBhbmQgbW9kdWxlIG5hbWVzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIiIkV4Y2VwdGlvbiByYWlzZWQgd2hlbiBMb29rdXAgZmFpbHMgdG8gY3JlYXRlIGEgZ3JvdXAgdXNpbmcgbW9kdWxlIGZhbWlseSBhbmQgbW9kdWxlIG5hbWVzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgRW5kT2ZDb250cm9sKEV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">LmlkZWEvaW11LWNhbC1tYWNoaW5lLmltbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBpbXVfY2FsX3BpZC5lcnJvcnMgaW1wb3J0IEVuZE9mQ29udHJvbAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZhbWlseQo=</text>
+        <text encoding="base64">ICAgIEV4Y2VwdGlvbiByYWlzZWQgd2hlbiBMb29rdXAgZmFpbHMgdG8gY3JlYXRlIGEgZ3JvdXAgdXNpbmcgbW9kdWxlIGZhbWlseSBhbmQgbW9kdWxlIG5hbWVzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICIiIkV4Y2VwdGlvbiByYWlzZWQgd2hlbiBMb29rdXAgZmFpbHMgdG8gY3JlYXRlIGEgZ3JvdXAgdXNpbmcgbW9kdWxlIGZhbWlseSBhbmQgbW9kdWxlIG5hbWVzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE9uZSB3YXkgdG8gZ2V0Cg==</text>
+        <text encoding="base64">Y2xhc3MgRW5kT2ZDb250cm9sKEV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
