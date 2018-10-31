@@ -119,7 +119,7 @@
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541010479652">
+      <file name="/Dummy.txt" timestamp="1541022674341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRFails.py" timestamp="1514746862038">
@@ -238,12 +238,12 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="58" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1541019057552">
-        <mark key="'" line="748" column="0" />
-        <mark key="[" line="941" column="57" />
-        <mark key="]" line="942" column="42" />
-        <mark key="^" line="942" column="42" />
-        <mark key="." line="942" column="42" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1541023499985">
+        <mark key="'" line="749" column="0" />
+        <mark key="[" line="584" column="12" />
+        <mark key="]" line="584" column="31" />
+        <mark key="^" line="584" column="11" />
+        <mark key="." line="584" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" timestamp="1540580305994">
         <mark key="'" line="95" column="0" />
@@ -366,7 +366,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text># not even possible</text>
       </register>
       <register name="/" type="4">
         <text>+</text>
