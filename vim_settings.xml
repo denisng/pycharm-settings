@@ -238,12 +238,12 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="58" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1541012821519">
-        <mark key="'" line="726" column="0" />
-        <mark key="[" line="1008" column="0" />
-        <mark key="]" line="1008" column="0" />
-        <mark key="^" line="848" column="7" />
-        <mark key="." line="1008" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1541017245642">
+        <mark key="'" line="963" column="58" />
+        <mark key="[" line="949" column="65" />
+        <mark key="]" line="950" column="42" />
+        <mark key="^" line="950" column="42" />
+        <mark key="." line="950" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" timestamp="1540580305994">
         <mark key="'" line="95" column="0" />
@@ -260,13 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="172" column="31" filename="$USER_HOME$/.virtualenvs/imu-cal-pid/lib/python2.7/site-packages/hebi/_internal/message_utils.py" />
-      <jump line="173" column="18" filename="$USER_HOME$/.virtualenvs/imu-cal-pid/lib/python2.7/site-packages/hebi/_internal/message_utils.py" />
-      <jump line="29" column="4" filename="$USER_HOME$/.virtualenvs/imu-cal-pid/lib/python2.7/site-packages/hebi/_internal/message_utils.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/imu-cal-pid/lib/python2.7/site-packages/hebi/_internal/message_utils.py" />
       <jump line="109" column="7" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
@@ -342,7 +335,6 @@
       <jump line="556" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="559" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="564" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="567" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="569" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="579" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="582" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
@@ -356,10 +348,18 @@
       <jump line="620" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="628" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="633" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="637" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="641" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="644" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="721" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="570" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="567" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="626" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="632" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="637" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="638" column="49" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="797" column="54" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="992" column="31" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="962" column="58" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -369,7 +369,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\t</text>
+        <text>+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbWRfc3RyaW5nID0gIi9ob21lL2NybC9jYWxpYi1tYWNoaW5lL3NlcmlhbF9jYXQucHkgIiArIHNlbGYuZGV2aWNlICsgIiAxMTUyMDAiCg==</text>
@@ -387,7 +387,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9sZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -399,18 +399,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbWRfc3RyaW5nICs9IAogICAgICAgIGNtZF9zdHJpbmcgKz0gCiAgICAgICAgY21kX3N0cmluZyArPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\t</last-search>
+      <last-search>+</last-search>
       <last-offset />
-      <last-pattern>\t</last-pattern>
-      <last-replace encoding="base64">ICAgIA==</last-replace>
-      <last-substitute>\t</last-substitute>
+      <last-pattern>+</last-pattern>
+      <last-replace encoding="base64">ICs=</last-replace>
+      <last-substitute>+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -434,11 +434,10 @@
         <entry>#\(\w\)</entry>
         <entry encoding="base64">ICsg</entry>
         <entry>\t</entry>
+        <entry encoding="base64">LCA=</entry>
+        <entry>+</entry>
       </history-search>
       <history-cmd>
-        <entry>8,30y</entry>
-        <entry>9,30y</entry>
-        <entry>28,67s/^/#/</entry>
         <entry encoding="base64">JzwsJz5zLyMvLw==</entry>
         <entry>121,157s/^/position_steps/</entry>
         <entry>121,157s/(/position_steps(/</entry>
@@ -455,6 +454,9 @@
         <entry>s/ + /\ncmd_string += /g</entry>
         <entry>s/ + /\rcmd_string += /g</entry>
         <entry>%s/\t/    /g</entry>
+        <entry>s/, /,\r/g</entry>
+        <entry>s/+/ + /g</entry>
+        <entry>s/+/ +/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
