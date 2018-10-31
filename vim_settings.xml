@@ -67,12 +67,12 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540948842861">
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540949461573">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="73" column="13" />
-        <mark key="]" line="73" column="12" />
-        <mark key="." line="73" column="12" />
-        <mark key="^" line="73" column="12" />
+        <mark key="[" line="139" column="18" />
+        <mark key="]" line="139" column="35" />
+        <mark key="." line="139" column="35" />
+        <mark key="^" line="139" column="35" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
         <mark key="[" line="2" column="39" />
@@ -87,10 +87,10 @@
         <mark key="^" line="258" column="29" />
         <mark key="." line="258" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" timestamp="1540948285739">
-        <mark key="[" line="84" column="9" />
-        <mark key="]" line="84" column="49" />
-        <mark key="." line="76" column="35" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" timestamp="1540949485003">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/README.md" timestamp="1502442592367">
         <mark key="'" line="27" column="0" />
@@ -192,11 +192,11 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/errors.py" timestamp="1540849201403">
-        <mark key="[" line="8" column="59" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/errors.py" timestamp="1540949524369">
+        <mark key="[" line="1" column="66" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="D:/Documents/Python/Projects/ip-table-banger/src/__init__.py" timestamp="1524363947612">
         <mark key="'" line="0" column="0" />
@@ -352,41 +352,40 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Actuator *name*s to search for.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>velocity_duration</text>
       </register>
-      <register name="0" type="4">
-        <text>:py:class:`hebi._internal.group.Group`</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZhbWlseSA6IHN0cgogICAgICAgIEFjdHVhdG9yICpmYW1pbHkqIHRvIHNlYXJjaCBmb3IuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdyb3VwCg==</text>
+        <text encoding="base64">ICAgIEV4Y2VwdGlvbiByYWlzZWQgd2hlbiBMb29rdXAgZmFpbHMgdG8gY3JlYXRlIGEgZ3JvdXAgdXNpbmcgbW9kdWxlIGZhbWlseSBhbmQgbW9kdWxlIG5hbWVzLgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>Cancel all control set points, rescinding all actuator control
-    instructions.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICIiIkV4Y2VwdGlvbiByYWlzZWQgd2hlbiBMb29rdXAgZmFpbHMgdG8gY3JlYXRlIGEgZ3JvdXAgdXNpbmcgbW9kdWxlIGZhbWlseSBhbmQgbW9kdWxlIG5hbWVzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUK</text>
+        <text encoding="base64">Y2xhc3MgRW5kT2ZDb250cm9sKEV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBpbXVfY2FsX3BpZC5lcnJvcnMgaW1wb3J0IEVuZE9mQ29udHJvbAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBUT0RPOiBoYW5kbGUgdGltZW91dCBjb25kaXRpb24K</text>
+        <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZAo=</text>
+        <text encoding="base64">ICAgIGZhbWlseQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">R1JPVVBfSU5GTyA9IGhlYmkuR3JvdXBJbmZvKDIpCg==</text>
+        <text encoding="base64">ICAgIE9uZSB3YXkgdG8gZ2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
