@@ -238,6 +238,13 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="58" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1541012047078">
+        <mark key="'" line="284" column="8" />
+        <mark key="[" line="337" column="28" />
+        <mark key="]" line="338" column="7" />
+        <mark key="^" line="338" column="7" />
+        <mark key="." line="338" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" timestamp="1540580305994">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="33" column="7" />
@@ -253,9 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
-      <jump line="346" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
-      <jump line="179" column="23" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" />
       <jump line="39" column="0" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
       <jump line="56" column="36" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
       <jump line="373" column="4" filename="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits.py" />
@@ -353,31 +357,34 @@
       <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="2" column="4" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="916" column="12" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="284" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>imu-cal-machine.iml</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>velocity_duration</text>
+        <text encoding="base64">ICsg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZhbWlseSA6IHN0cgogICAgICAgIEFjdHVhdG9yICpmYW1pbHkqIHRvIHNlYXJjaCBmb3IuCg==</text>
+        <text encoding="base64">ICAgICAgICBjbWRfc3RyaW5nID0gIi9ob21lL2NybC9jYWxpYi1tYWNoaW5lL3dyaXRlX3NpbV9pbXUucHkgIiArICIgIi5qb2luKGFjY2VsKSArICIgIiArIHN0cihBQ0NFTF9OT0lTRSkgKyAiICIgKyAiICIuam9pbihneXJvKSArICIgIiArIHN0cihHWVJPX05PSVNFKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbWRfc3RyaW5nICs9IAogICAgICAgIGNtZF9zdHJpbmcgKz0gCiAgICAgICAgY21kX3N0cmluZyArPSAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmlkZWEvaW11LWNhbC1tYWNoaW5lLmltbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -386,24 +393,24 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEV4Y2VwdGlvbiByYWlzZWQgd2hlbiBMb29rdXAgZmFpbHMgdG8gY3JlYXRlIGEgZ3JvdXAgdXNpbmcgbW9kdWxlIGZhbWlseSBhbmQgbW9kdWxlIG5hbWVzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIkV4Y2VwdGlvbiByYWlzZWQgd2hlbiBMb29rdXAgZmFpbHMgdG8gY3JlYXRlIGEgZ3JvdXAgdXNpbmcgbW9kdWxlIGZhbWlseSBhbmQgbW9kdWxlIG5hbWVzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgRW5kT2ZDb250cm9sKEV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>velocity_duration</last-search>
+      <last-search encoding="base64">ICsg</last-search>
       <last-offset />
-      <last-pattern>velocity_duration</last-pattern>
-      <last-replace>position_duration)</last-replace>
-      <last-substitute>15\.0)</last-substitute>
+      <last-pattern encoding="base64">ICsg</last-pattern>
+      <last-replace encoding="base64">XHJjbWRfc3RyaW5nICs9IA==</last-replace>
+      <last-substitute encoding="base64">ICsg</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -423,12 +430,11 @@
         <entry>15\.0</entry>
         <entry>15\.0)</entry>
         <entry>velocity_duration</entry>
+        <entry>#(\w)</entry>
+        <entry>#\(\w\)</entry>
+        <entry encoding="base64">ICsg</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
-        <entry>4,25y</entry>
-        <entry>4,26y</entry>
-        <entry>%s/^##/#/g</entry>
         <entry>%s/##/#/g</entry>
         <entry>8,30y</entry>
         <entry>9,30y</entry>
@@ -443,6 +449,11 @@
         <entry>120,159s/15\.0/position_duration/</entry>
         <entry>120,159s/15\.0)/position_duration)/</entry>
         <entry>.w</entry>
+        <entry>%s/#(\w)/# \1/</entry>
+        <entry>%s/#\(\w\)/# \1/</entry>
+        <entry>Qw</entry>
+        <entry>s/ + /\ncmd_string += /g</entry>
+        <entry>s/ + /\rcmd_string += /g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
