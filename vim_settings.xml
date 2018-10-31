@@ -238,12 +238,12 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="58" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1541023499985">
-        <mark key="'" line="749" column="0" />
-        <mark key="[" line="584" column="12" />
-        <mark key="]" line="584" column="31" />
-        <mark key="^" line="584" column="11" />
-        <mark key="." line="584" column="12" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1541025013425">
+        <mark key="'" line="137" column="36" />
+        <mark key="[" line="135" column="15" />
+        <mark key="]" line="135" column="59" />
+        <mark key="^" line="135" column="59" />
+        <mark key="." line="135" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" timestamp="1540580305994">
         <mark key="'" line="95" column="0" />
@@ -260,11 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
@@ -360,22 +355,27 @@
       <jump line="962" column="58" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="935" column="47" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="748" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="104" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="106" column="38" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="108" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="152" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="125" column="36" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text># not even possible</text>
+        <text encoding="base64">bWFrZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>+</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbWRfc3RyaW5nID0gIi9ob21lL2NybC9jYWxpYi1tYWNoaW5lL3NlcmlhbF9jYXQucHkgIiArIHNlbGYuZGV2aWNlICsgIiAxMTUyMDAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -387,10 +387,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -406,23 +406,17 @@
       </register>
     </registers>
     <search>
-      <last-search>+</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>+</last-pattern>
-      <last-replace encoding="base64">ICs=</last-replace>
-      <last-substitute>+</last-substitute>
+      <last-pattern>^</last-pattern>
+      <last-replace>#</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
-        <entry>HelloWorld</entry>
-        <entry>^##</entry>
-        <entry>##</entry>
-        <entry>set_int</entry>
         <entry>#</entry>
-        <entry>^</entry>
         <entry>(</entry>
         <entry>)</entry>
         <entry>\(\d\),</entry>
@@ -436,15 +430,14 @@
         <entry>\t</entry>
         <entry encoding="base64">LCA=</entry>
         <entry>+</entry>
+        <entry>[-*]</entry>
+        <entry>[,-*]</entry>
+        <entry>[-*\,]</entry>
+        <entry>,</entry>
+        <entry>*</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyMvLw==</entry>
-        <entry>121,157s/^/position_steps/</entry>
-        <entry>121,157s/(/position_steps(/</entry>
-        <entry>121,157s/(/(group, /</entry>
-        <entry>121,157s/)/, 15)/</entry>
-        <entry>121,157s/\(\d\),/\1.0,/g</entry>
-        <entry>119,158s/15)/15.0)/</entry>
         <entry>120,159s/15\.0/position_duration/</entry>
         <entry>120,159s/15\.0)/position_duration)/</entry>
         <entry>.w</entry>
@@ -457,6 +450,13 @@
         <entry>s/, /,\r/g</entry>
         <entry>s/+/ + /g</entry>
         <entry>s/+/ +/g</entry>
+        <entry>s/[-*]/\0 /g</entry>
+        <entry>s/[,-*]/\0 /g</entry>
+        <entry>s/[-*\,]/\0 /g</entry>
+        <entry>s/,/, /g</entry>
+        <entry>s/*/ * /g</entry>
+        <entry encoding="base64">JzwsJz5zL14vIyB4eHggLw==</entry>
+        <entry>126,153s/^/#/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

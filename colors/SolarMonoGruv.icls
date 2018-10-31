@@ -4,7 +4,7 @@
     <property name="created">2016-09-08T20:40:02</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2016.2.3.0.0</property>
-    <property name="modified">2018-10-29T11:12:31</property>
+    <property name="modified">2018-10-31T15:32:36</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -11247,8 +11247,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="282828" />
-        <option name="BACKGROUND" value="fabd2f" />
+        <option name="FOREGROUND" value="7c6f64" />
+        <option name="BACKGROUND" value="fbf1c7" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="fabd2f" />
       </value>
