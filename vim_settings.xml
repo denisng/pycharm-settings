@@ -67,12 +67,12 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540947166006">
-        <mark key="'" line="209" column="16" />
-        <mark key="[" line="112" column="24" />
-        <mark key="]" line="114" column="25" />
-        <mark key="." line="114" column="25" />
-        <mark key="^" line="114" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1540948053660">
+        <mark key="'" line="213" column="16" />
+        <mark key="[" line="107" column="44" />
+        <mark key="]" line="107" column="68" />
+        <mark key="." line="107" column="68" />
+        <mark key="^" line="107" column="68" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
         <mark key="[" line="2" column="39" />
@@ -350,7 +350,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>writing</text>
+        <text>this can fail</text>
       </register>
       <register name="/" type="4">
         <text>velocity_duration</text>
