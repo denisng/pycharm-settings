@@ -111,6 +111,9 @@
         <mark key="." line="15" column="21" />
         <mark key="^" line="15" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_tools/piksi_tools/settings.py" timestamp="1541540981201">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="5" />
@@ -286,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="588" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="595" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="599" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="603" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
@@ -386,6 +388,7 @@
       <jump line="708" column="12" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="846" column="14" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="847" column="15" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_tools/piksi_tools/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
