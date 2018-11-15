@@ -9,8 +9,12 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/hebi.py" timestamp="1542240636811">
-        <mark key="'" line="217" column="43" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/hebi.py" timestamp="1542242590821">
+        <mark key="'" line="467" column="54" />
+        <mark key="[" line="467" column="40" />
+        <mark key="]" line="467" column="47" />
+        <mark key="." line="467" column="47" />
+        <mark key="^" line="467" column="47" />
       </file>
       <file name="/Python Console" timestamp="1541468367441">
         <mark key="[" line="0" column="0" />
@@ -292,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="992" column="31" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="962" column="58" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="935" column="47" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="748" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
@@ -392,46 +395,47 @@
       <jump line="227" column="55" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/hebi.py" />
       <jump line="220" column="18" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/hebi.py" />
       <jump line="217" column="43" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/hebi.py" />
+      <jump line="467" column="54" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/hebi.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHt9Jy5mb3JtYXQoT1VUUFVUX1BBVEgpKQ==</text>
+        <text>*180.0/pi</text>
       </register>
       <register name="/" type="4">
         <text>self.feedback</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbWRfc3RyaW5nID0gIi9ob21lL2NybC9jYWxpYi1tYWNoaW5lL3NlcmlhbF9jYXQucHkgIiArIHNlbGYuZGV2aWNlICsgIiAxMTUyMDAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFbInBvcyJdW2ldID0gKHJldnMsIG9mZnNldC52YWx1ZSoxODAuMC9waSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">T1VUUFVUX0RJUiA9ICcnCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhZAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJldHVybnMKICAgIC0tLS0tLS0KICAgIE5vbmUKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICdSZXY6IHt9LCBQb3M6IHt9Jy5mb3JtYXQocmV2cywgb2Zmc2V0LnZhbHVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJldHVybnMKICAgIC0tLS0tLS0KICAgIE5vbmUKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICdBY3R1YXRvciB7fScuZm9ybWF0KGkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICdERUJVRycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">T1VUUFVUX0RJUiA9ICcnCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBSZXR1cm5zCiAgICAtLS0tLS0tCiAgICBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
