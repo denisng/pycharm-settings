@@ -19,12 +19,12 @@
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/__init__.py" timestamp="1541200793824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/command_line.py" timestamp="1542779073267">
-        <mark key="'" line="38" column="33" />
-        <mark key="[" line="15" column="54" />
-        <mark key="]" line="18" column="62" />
-        <mark key="^" line="18" column="62" />
-        <mark key="." line="18" column="62" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/command_line.py" timestamp="1543351387699">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="49" column="36" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/LTRAudistList.py" timestamp="1514578018961">
         <mark key="'" line="67" column="0" />
@@ -65,12 +65,12 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1543342538355">
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1543351436507">
         <mark key="'" line="92" column="0" />
-        <mark key="[" line="136" column="72" />
-        <mark key="]" line="137" column="3" />
-        <mark key="." line="137" column="3" />
-        <mark key="^" line="137" column="3" />
+        <mark key="[" line="306" column="4" />
+        <mark key="]" line="306" column="16" />
+        <mark key="." line="306" column="16" />
+        <mark key="^" line="306" column="16" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
         <mark key="[" line="2" column="39" />
@@ -129,11 +129,11 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1540596514622">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="15" column="28" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1543351254104">
+        <mark key="[" line="19" column="70" />
+        <mark key="]" line="19" column="74" />
+        <mark key="." line="19" column="74" />
+        <mark key="^" line="19" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/nmap/invocation.py" timestamp="1541468665848">
         <mark key="'" line="27" column="23" />
@@ -195,19 +195,19 @@
         <mark key="." line="35" column="47" />
         <mark key="^" line="35" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/conf.py" timestamp="1543341840311">
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/conf.py" timestamp="1543357897937">
         <mark key="'" line="43" column="16" />
-        <mark key="[" line="186" column="48" />
-        <mark key="]" line="186" column="49" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="13" />
         <mark key="^" line="186" column="49" />
-        <mark key="." line="186" column="49" />
+        <mark key="." line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543346847941">
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543350708572">
         <mark key="'" line="37" column="14" />
         <mark key="[" line="37" column="15" />
-        <mark key="]" line="42" column="20" />
-        <mark key="^" line="42" column="20" />
-        <mark key="." line="42" column="20" />
+        <mark key="]" line="41" column="18" />
+        <mark key="^" line="41" column="18" />
+        <mark key="." line="41" column="18" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
@@ -313,9 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="46" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="420" column="23" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="427" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="597" column="47" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="411" column="15" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="435" column="6" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
@@ -413,13 +410,16 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" />
       <jump line="23" column="1" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" />
       <jump line="22" column="14" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" />
+      <jump line="32" column="4" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/command_line.py" />
+      <jump line="56" column="4" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/command_line.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/command_line.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text>intersphinx</text>
@@ -428,31 +428,37 @@
         <text>:py:class:`hebi.GroupInfo`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygnZmFtaWx5OiB7fScuZm9ybWF0KGFyZ3MuZmFtaWx5KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhZAo=</text>
+        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygncGFyc2VkIGFyZ3VtZW50cycpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>handles argument parsing and starts the actuator movement
+    simulation.
+
+    Parameters
+    ----------
+    family : str
+        The name of the *family* of actuators to be exercised.</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICdSZXY6IHt9LCBQb3M6IHt9Jy5mb3JtYXQocmV2cywgb2Zmc2V0LnZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgJ2NvbnRyb2wgZXJyb3IuJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICdBY3R1YXRvciB7fScuZm9ybWF0KGkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICdERUJVRycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">T1VUUFVUX0RJUiA9ICcnCgo=</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnZmFtaWx5JywKICAgICAgICAgICAgICAgICAgICBoZWxwPSdhY3R1YXRvciAiZmFtaWx5IiAodHlwaWNhbGx5IHRoZSBmaXh0dXJlXCdzICcKICAgICAgICAgICAgICAgICAgICAgICAgICdob3N0bmFtZSknKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVwaWxvZz0nVGhpcyBwcm9ncmFtIGFzc3VtZXMgdGhhdCB0aGUnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbmFtZXMgb2YgdGhlIGFjdHVhdG9ycyBhcmUnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnInRpbHQiIGFuZCAicm90YXRlIi46dycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
