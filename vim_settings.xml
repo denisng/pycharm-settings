@@ -13,6 +13,22 @@
       <file name="/start_script.py" timestamp="1543300979442">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Documents/GitHub/py-prj-core/.gitignore" timestamp="1502443391491">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="9" />
+        <mark key="^" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+      </file>
+      <file name="/Python Console" timestamp="1541468367441">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506662067930">
+        <mark key="'" line="17" column="42" />
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="26" column="47" />
+        <mark key="." line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+      </file>
       <file name="/a.dummy" timestamp="1541464847325">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,6 +55,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/setup.py" timestamp="1541464756652">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="12" column="5" />
+      </file>
       <file name="D:/Documents/Python/Projects/ip-table-banger/ipbangsrv.py" timestamp="1524364709647">
         <mark key="[" line="58" column="45" />
         <mark key="]" line="58" column="65" />
@@ -51,6 +73,13 @@
         <mark key="]" line="109" column="3" />
         <mark key="^" line="109" column="3" />
         <mark key="." line="109" column="3" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" timestamp="1514746880267">
+        <mark key="'" line="261" column="19" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="28" />
+        <mark key="." line="26" column="54" />
+        <mark key="^" line="26" column="54" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/requirements.txt" timestamp="1512547521594">
         <mark key="[" line="4" column="4" />
@@ -65,12 +94,12 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1543300202310">
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" timestamp="1543342538355">
         <mark key="'" line="92" column="0" />
-        <mark key="[" line="102" column="24" />
-        <mark key="]" line="102" column="24" />
-        <mark key="^" line="43" column="24" />
-        <mark key="." line="102" column="24" />
+        <mark key="[" line="136" column="72" />
+        <mark key="]" line="137" column="3" />
+        <mark key="." line="137" column="3" />
+        <mark key="^" line="137" column="3" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
         <mark key="[" line="2" column="39" />
@@ -84,6 +113,20 @@
         <mark key="]" line="258" column="29" />
         <mark key="^" line="258" column="29" />
         <mark key="." line="258" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" timestamp="1542779524935">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="35" column="47" />
+        <mark key="." line="35" column="47" />
+        <mark key="^" line="35" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/conf.py" timestamp="1543341840311">
+        <mark key="'" line="43" column="16" />
+        <mark key="[" line="186" column="48" />
+        <mark key="]" line="186" column="49" />
+        <mark key="^" line="186" column="49" />
+        <mark key="." line="186" column="49" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/README.md" timestamp="1502442592367">
         <mark key="'" line="27" column="0" />
@@ -102,96 +145,6 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="35" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/imu-cal-pid/lib/python2.7/site-packages/hebi/_internal/message_utils.py" timestamp="1540591475748">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="171" column="2" />
-        <mark key="]" line="171" column="1" />
-        <mark key="^" line="171" column="1" />
-        <mark key="." line="171" column="1" />
-      </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" timestamp="1514578063964">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="65" column="22" />
-        <mark key="]" line="65" column="35" />
-        <mark key="." line="65" column="35" />
-        <mark key="^" line="65" column="35" />
-      </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512549441129">
-        <mark key="'" line="19" column="2" />
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="19" column="20" />
-        <mark key="^" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-      </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/src/settings.py" timestamp="1512538038097">
-        <mark key="[" line="20" column="59" />
-        <mark key="]" line="21" column="39" />
-        <mark key="." line="21" column="39" />
-        <mark key="^" line="21" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1540596514622">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="15" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/nmap/invocation.py" timestamp="1541468665848">
-        <mark key="'" line="27" column="23" />
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="36" />
-        <mark key="." line="32" column="36" />
-        <mark key="^" line="32" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1542239600188">
-        <mark key="'" line="175" column="12" />
-        <mark key="[" line="135" column="15" />
-        <mark key="]" line="135" column="59" />
-        <mark key="^" line="135" column="59" />
-        <mark key="." line="135" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" timestamp="1540580305994">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="34" column="7" />
-        <mark key="." line="34" column="7" />
-        <mark key="^" line="34" column="7" />
-      </file>
-      <file name="D:/Documents/GitHub/py-prj-core/.gitignore" timestamp="1502443391491">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="9" />
-        <mark key="^" line="16" column="9" />
-        <mark key="." line="16" column="9" />
-      </file>
-      <file name="/Python Console" timestamp="1541468367441">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506662067930">
-        <mark key="'" line="17" column="42" />
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="26" column="47" />
-        <mark key="." line="26" column="47" />
-        <mark key="^" line="26" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/setup.py" timestamp="1541464756652">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="12" column="5" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="12" column="5" />
-      </file>
-      <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_PETALUMA.py" timestamp="1514746880267">
-        <mark key="'" line="261" column="19" />
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="28" />
-        <mark key="." line="26" column="54" />
-        <mark key="^" line="26" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" timestamp="1542779524935">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="35" column="30" />
-        <mark key="]" line="35" column="47" />
-        <mark key="." line="35" column="47" />
-        <mark key="^" line="35" column="47" />
-      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="5" />
@@ -208,6 +161,13 @@
       <file name="/Dummy.txt" timestamp="1543301296242">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/imu-cal-pid/lib/python2.7/site-packages/hebi/_internal/message_utils.py" timestamp="1540591475748">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="171" column="2" />
+        <mark key="]" line="171" column="1" />
+        <mark key="^" line="171" column="1" />
+        <mark key="." line="171" column="1" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRFails.py" timestamp="1514746862038">
         <mark key="'" line="405" column="10" />
         <mark key="[" line="405" column="0" />
@@ -221,6 +181,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="7" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication.py" timestamp="1514578063964">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="65" column="22" />
+        <mark key="]" line="65" column="35" />
+        <mark key="." line="65" column="35" />
+        <mark key="^" line="65" column="35" />
       </file>
       <file name="D:/Documents/Python/Projects/ip-table-banger/tesla.py" timestamp="1526160908451">
         <mark key="'" line="40" column="67" />
@@ -236,11 +203,24 @@
         <mark key="^" line="469" column="26" />
         <mark key="." line="469" column="26" />
       </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512549441129">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="48" />
         <mark key="^" line="25" column="47" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="D:/Documents/Python/Projects/Miscellaneous/src/settings.py" timestamp="1512538038097">
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="21" column="39" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/meta.json" timestamp="1506660260745">
         <mark key="[" line="1" column="19" />
@@ -261,12 +241,25 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="62" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1540596514622">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="15" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/.gitignore" timestamp="1541463614914">
         <mark key="'" line="71" column="17" />
         <mark key="[" line="106" column="5" />
         <mark key="]" line="106" column="5" />
         <mark key="^" line="106" column="5" />
         <mark key="." line="106" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/nmap/invocation.py" timestamp="1541468665848">
+        <mark key="'" line="27" column="23" />
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="32" column="36" />
+        <mark key="." line="32" column="36" />
+        <mark key="^" line="32" column="36" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" timestamp="1514746889796">
         <mark key="'" line="362" column="28" />
@@ -288,6 +281,20 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="58" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1542239600188">
+        <mark key="'" line="175" column="12" />
+        <mark key="[" line="135" column="15" />
+        <mark key="]" line="135" column="59" />
+        <mark key="^" line="135" column="59" />
+        <mark key="." line="135" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" timestamp="1540580305994">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="34" column="7" />
+        <mark key="." line="34" column="7" />
+        <mark key="^" line="34" column="7" />
+      </file>
       <file name="D:/Documents/GitHub/cherrypy-warehouse/requirements.txt" timestamp="1496724978130">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="5" />
@@ -296,13 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="134" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="128" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="135" column="39" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="302" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="177" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="71" column="17" filename="$USER_HOME$/Documents/GitHub/py-tool-nmap/.gitignore" />
       <jump line="5" column="44" filename="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/nmap/invocation.py" />
       <jump line="17" column="23" filename="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/nmap/invocation.py" />
@@ -396,55 +396,62 @@
       <jump line="64" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
       <jump line="105" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
+      <jump line="82" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/conf.py" />
+      <jump line="84" column="72" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/conf.py" />
+      <jump line="85" column="53" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/conf.py" />
+      <jump line="88" column="7" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/conf.py" />
+      <jump line="99" column="36" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/conf.py" />
+      <jump line="17" column="23" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/conf.py" />
+      <jump line="43" column="16" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/conf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="/" type="4">
-        <text>tmp</text>
+        <text>intersphinx</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFbInBvcyJdW2ldID0gKHJldnMsIG9mZnNldC52YWx1ZSoxODAuMC9waSkK</text>
+      <register name="0" type="4">
+        <text>:py:class:`hebi.GroupInfo`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICdSZXY6IHt9LCBQb3M6IHt9Jy5mb3JtYXQocmV2cywgb2Zmc2V0LnZhbHVlKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICdBY3R1YXRvciB7fScuZm9ybWF0KGkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICdERUJVRycK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">T1VUUFVUX0RJUiA9ICcnCgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhZAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICdSZXY6IHt9LCBQb3M6IHt9Jy5mb3JtYXQocmV2cywgb2Zmc2V0LnZhbHVlKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICdBY3R1YXRvciB7fScuZm9ybWF0KGkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICdERUJVRycK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">T1VUUFVUX0RJUiA9ICcnCgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tmp</last-search>
+      <last-search>intersphinx</last-search>
       <last-offset />
-      <last-pattern>tmp</last-pattern>
+      <last-pattern>intersphinx</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -452,8 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">LCA=</entry>
-        <entry>+</entry>
         <entry>[-*]</entry>
         <entry>[,-*]</entry>
         <entry>[-*\,]</entry>
@@ -472,6 +477,8 @@
         <entry>\.control</entry>
         <entry>self.feedback</entry>
         <entry>tmp</entry>
+        <entry>theme</entry>
+        <entry>intersphinx</entry>
       </history-search>
       <history-cmd>
         <entry>120,159s/15\.0/position_duration/</entry>
