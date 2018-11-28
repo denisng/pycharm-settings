@@ -146,8 +146,8 @@
         <mark key="." line="32" column="36" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1543431017149">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1543433261136">
+        <mark key="'" line="788" column="8" />
         <mark key="[" line="135" column="15" />
         <mark key="]" line="135" column="59" />
         <mark key="^" line="135" column="59" />
@@ -328,24 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="14" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="167" column="14" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="170" column="12" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="175" column="12" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="448" column="63" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/hebi.py" />
-      <jump line="227" column="55" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/hebi.py" />
-      <jump line="220" column="18" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/hebi.py" />
-      <jump line="217" column="43" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/hebi.py" />
-      <jump line="467" column="54" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/hebi.py" />
-      <jump line="160" column="24" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="143" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="151" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="159" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="163" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="176" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="187" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="190" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="194" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="198" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
@@ -428,6 +410,24 @@
       <jump line="439" column="35" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="385" column="6" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="713" column="18" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="717" column="12" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="704" column="12" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="703" column="12" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="488" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="487" column="35" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="485" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="484" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="483" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="482" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="1020" column="12" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="29" column="15" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="990" column="23" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="481" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="37" column="14" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="741" column="32" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="787" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="788" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -437,7 +437,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>sbp_piksi_reader</text>
+        <text>self.screen.</text>
       </register>
       <register name="0" type="4">
         <text>:py:class:`hebi.GroupInfo`</text>
@@ -474,9 +474,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sbp_piksi_reader</last-search>
+      <last-search>self.screen.</last-search>
       <last-offset />
-      <last-pattern>sbp_piksi_reader</last-pattern>
+      <last-pattern>self.screen.</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -484,9 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calib_num_piksies</entry>
-        <entry>self.calib_num_piksis</entry>
-        <entry>self.control</entry>
         <entry>hebi_actuator_controller</entry>
         <entry>.control</entry>
         <entry>\.control</entry>
@@ -504,6 +501,9 @@
         <entry>calibration_process(</entry>
         <entry>piksi_group_reader</entry>
         <entry>sbp_piksi_reader</entry>
+        <entry>self.screen</entry>
+        <entry>hc.Hand</entry>
+        <entry>self.screen.</entry>
       </history-search>
       <history-cmd>
         <entry>120,159s/15\.0/position_duration/</entry>
