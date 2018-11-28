@@ -146,12 +146,12 @@
         <mark key="." line="32" column="36" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1543444617233">
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1543445870154">
         <mark key="'" line="1035" column="131" />
-        <mark key="[" line="807" column="42" />
-        <mark key="]" line="807" column="42" />
-        <mark key="^" line="807" column="42" />
-        <mark key="." line="807" column="42" />
+        <mark key="[" line="813" column="61" />
+        <mark key="]" line="813" column="61" />
+        <mark key="^" line="813" column="61" />
+        <mark key="." line="813" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" timestamp="1540580305994">
         <mark key="'" line="95" column="0" />
@@ -434,7 +434,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>to boot... (</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>CALIB_SUBSTATE_GATHER_DATA</text>
