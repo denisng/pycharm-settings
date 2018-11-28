@@ -146,12 +146,12 @@
         <mark key="." line="32" column="36" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1543435632336">
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1543444617233">
         <mark key="'" line="1035" column="131" />
-        <mark key="[" line="807" column="40" />
-        <mark key="]" line="807" column="40" />
-        <mark key="^" line="807" column="40" />
-        <mark key="." line="807" column="40" />
+        <mark key="[" line="807" column="42" />
+        <mark key="]" line="807" column="42" />
+        <mark key="^" line="807" column="42" />
+        <mark key="." line="807" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" timestamp="1540580305994">
         <mark key="'" line="95" column="0" />
