@@ -146,12 +146,12 @@
         <mark key="." line="32" column="36" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1543433261136">
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1543433983481">
         <mark key="'" line="788" column="8" />
-        <mark key="[" line="135" column="15" />
-        <mark key="]" line="135" column="59" />
-        <mark key="^" line="135" column="59" />
-        <mark key="." line="135" column="59" />
+        <mark key="[" line="704" column="40" />
+        <mark key="]" line="705" column="32" />
+        <mark key="^" line="705" column="32" />
+        <mark key="." line="705" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" timestamp="1540580305994">
         <mark key="'" line="95" column="0" />
@@ -169,7 +169,7 @@
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/index.rst" timestamp="1543343213958">
         <mark key="[" line="10" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1541468367441">
+      <file name="/Python Console" timestamp="1543434062752">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506662067930">
