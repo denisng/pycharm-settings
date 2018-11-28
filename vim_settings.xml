@@ -146,8 +146,8 @@
         <mark key="." line="32" column="36" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1542239600188">
-        <mark key="'" line="175" column="12" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" timestamp="1543431017149">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="135" column="15" />
         <mark key="]" line="135" column="59" />
         <mark key="^" line="135" column="59" />
@@ -328,22 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="871" column="42" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="708" column="12" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="846" column="14" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="847" column="15" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_tools/piksi_tools/settings.py" />
-      <jump line="183" column="15" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="190" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="177" column="15" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="223" column="15" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="1041" column="48" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="14" column="11" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="123" column="12" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="150" column="31" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="153" column="31" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="161" column="31" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="164" column="31" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="166" column="14" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="167" column="14" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="170" column="12" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
@@ -428,6 +412,22 @@
       <jump line="12" column="4" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
       <jump line="107" column="7" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
+      <jump line="851" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="233" column="16" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="329" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="330" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="331" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="332" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="347" column="13" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="490" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="1044" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="315" column="16" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="435" column="6" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="1042" column="19" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="1039" column="29" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="439" column="35" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="385" column="6" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -437,7 +437,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>sph</text>
+        <text>sbp_piksi_reader</text>
       </register>
       <register name="0" type="4">
         <text>:py:class:`hebi.GroupInfo`</text>
@@ -474,9 +474,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sph</last-search>
+      <last-search>sbp_piksi_reader</last-search>
       <last-offset />
-      <last-pattern>sph</last-pattern>
+      <last-pattern>sbp_piksi_reader</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -484,12 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>*</entry>
-        <entry>^</entry>
-        <entry>found</entry>
-        <entry>detected</entry>
-        <entry>piksies</entry>
-        <entry>piksi</entry>
         <entry>calib_num_piksies</entry>
         <entry>self.calib_num_piksis</entry>
         <entry>self.control</entry>
@@ -504,6 +498,12 @@
         <entry>Yield</entry>
         <entry>sphinx</entry>
         <entry>sph</entry>
+        <entry>original serial numbers</entry>
+        <entry>piksi_reader</entry>
+        <entry>self.piksi_reader</entry>
+        <entry>calibration_process(</entry>
+        <entry>piksi_group_reader</entry>
+        <entry>sbp_piksi_reader</entry>
       </history-search>
       <history-cmd>
         <entry>120,159s/15\.0/position_duration/</entry>
