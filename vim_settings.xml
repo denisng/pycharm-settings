@@ -45,12 +45,11 @@
         <mark key="." line="58" column="65" />
         <mark key="^" line="58" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" timestamp="1543370439322">
-        <mark key="'" line="109" column="3" />
-        <mark key="[" line="106" column="6" />
-        <mark key="]" line="109" column="3" />
-        <mark key="^" line="109" column="3" />
-        <mark key="." line="109" column="3" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" timestamp="1543373581497">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/requirements.txt" timestamp="1512547521594">
         <mark key="[" line="4" column="4" />
@@ -329,8 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="60" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
-      <jump line="850" column="30" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="871" column="42" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="708" column="12" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
       <jump line="846" column="14" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/piksi_imu_calib.py" />
@@ -397,7 +394,6 @@
       <jump line="89" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="92" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="103" column="11" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
@@ -429,55 +425,58 @@
       <jump line="116" column="9" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
       <jump line="115" column="4" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
+      <jump line="107" column="7" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>Yield</text>
+        <text>sph</text>
       </register>
       <register name="0" type="4">
         <text>:py:class:`hebi.GroupInfo`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmlkZWEvdmNzLnhtbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q3VycmVudCBgYGZhbWlseWBgIG5hbWVzIGFyZToKCiogYGBpbXUtY2FsLTFgYAoqIGBgaW11LWNhbC0yYGAKCg==</text>
+        <text encoding="base64">LmlkZWEvKioK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgQ3VycmVudCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q3VycmVudCBgYGZhbWlseWBgIG5hbWVzIGFyZToKCiogYGBpbXUtY2FsLTFgYAoqIGBgaW11LWNhbC0yYGAKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Rm9yIGJhc2ljIGhlbHAsIGlzc3VlIHRoZSBmb2xsb3dpbmcgdGhyb3VnaCB5b3VyIE9TIHRlcm1pbmFsOgo=</text>
+        <text encoding="base64">ICAgQ3VycmVudCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnwgJD4gaW11LWNhbC1waWQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Rm9yIGJhc2ljIGhlbHAsIGlzc3VlIHRoZSBmb2xsb3dpbmcgdGhyb3VnaCB5b3VyIE9TIHRlcm1pbmFsOgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZyhhcmdzKQo=</text>
+        <text encoding="base64">CnwgJD4gaW11LWNhbC1waWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgKGFyZ3MuZmFtaWx5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Yield</last-search>
+      <last-search>sph</last-search>
       <last-offset />
-      <last-pattern>Yield</last-pattern>
+      <last-pattern>sph</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -485,8 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>[-*\,]</entry>
-        <entry>,</entry>
         <entry>*</entry>
         <entry>^</entry>
         <entry>found</entry>
@@ -505,6 +502,8 @@
         <entry>intersphinx</entry>
         <entry>build</entry>
         <entry>Yield</entry>
+        <entry>sphinx</entry>
+        <entry>sph</entry>
       </history-search>
       <history-cmd>
         <entry>120,159s/15\.0/position_duration/</entry>
