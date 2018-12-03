@@ -153,6 +153,12 @@
         <mark key="^" line="813" column="61" />
         <mark key="." line="813" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" timestamp="1543866768412">
+        <mark key="'" line="155" column="8" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" timestamp="1540580305994">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="33" column="7" />
@@ -231,12 +237,12 @@
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" timestamp="1543864813850">
-        <mark key="'" line="782" column="1" />
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="22" column="18" />
-        <mark key="^" line="22" column="18" />
-        <mark key="." line="22" column="18" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" timestamp="1543866406707">
+        <mark key="'" line="60" column="6" />
+        <mark key="[" line="139" column="16" />
+        <mark key="]" line="139" column="50" />
+        <mark key="^" line="139" column="15" />
+        <mark key="." line="139" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1543372785236">
         <mark key="[" line="0" column="0" />
@@ -335,23 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="89" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/operate_actuators.py" />
-      <jump line="103" column="11" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-pid/.gitignore" />
@@ -430,21 +419,38 @@
       <jump line="492" column="9" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="496" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="498" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
-      <jump line="501" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="504" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="525" column="9" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="527" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="780" column="1" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="74" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="85" column="4" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="147" column="37" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="64" column="4" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="65" column="4" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="66" column="4" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="67" column="4" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="145" column="25" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="330" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="373" column="48" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="377" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="441" column="48" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="501" column="26" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="60" column="6" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="39" column="38" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
+      <jump line="116" column="10" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
+      <jump line="155" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>CALIB_SUBSTATE_GATHER_DATA</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5zdWJzdGF0ZSA9PSBDQUxJQl9TVUJTVEFURV9TVEFSVF9DT01NQU5EOgogICAgICAgICAgICAgICAgc2VsZi5vbl9zdWJzdGF0ZV9zdGFydF9jb21tYW5kKCkK</text>
@@ -462,10 +468,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNpbmNlIHNxdyArIHNxeCArIHNxeSArIHNxeiA9MS9pbnZzKmludnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGl0Y2ggPSBxdWF0LkZyb21BeGlzQW5nbGUodmVjKDAsIDkwKkRFR19UT19SQUQsIDApKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -481,23 +487,16 @@
       </register>
     </registers>
     <search>
-      <last-search>CALIB_SUBSTATE_GATHER_DATA</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>CALIB_SUBSTATE_GATHER_DATA</last-pattern>
-      <last-replace>#</last-replace>
-      <last-substitute>^</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>,</last-pattern>
+      <last-replace encoding="base64">LCA=</last-replace>
+      <last-substitute>,</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self.feedback</entry>
-        <entry>tmp</entry>
-        <entry>theme</entry>
-        <entry>intersphinx</entry>
-        <entry>build</entry>
-        <entry>Yield</entry>
-        <entry>sphinx</entry>
         <entry>sph</entry>
         <entry>original serial numbers</entry>
         <entry>piksi_reader</entry>
@@ -511,13 +510,15 @@
         <entry>CALIB_SUBSTATE</entry>
         <entry>CALIB_SUBSTATE_STARTUP_INFO</entry>
         <entry>CALIB_SUBSTATE_GATHER_DATA</entry>
+        <entry>*</entry>
+        <entry>\/</entry>
+        <entry>quat</entry>
+        <entry>def quat</entry>
+        <entry encoding="base64">cXVhdCA9IA==</entry>
+        <entry encoding="base64">XDxpbnZzXD4=</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry>120,159s/15\.0/position_duration/</entry>
-        <entry>120,159s/15\.0)/position_duration)/</entry>
-        <entry>.w</entry>
-        <entry>%s/#(\w)/# \1/</entry>
-        <entry>%s/#\(\w\)/# \1/</entry>
         <entry>Qw</entry>
         <entry>s/ + /\ncmd_string += /g</entry>
         <entry>s/ + /\rcmd_string += /g</entry>
@@ -528,10 +529,15 @@
         <entry>s/[-*]/\0 /g</entry>
         <entry>s/[,-*]/\0 /g</entry>
         <entry>s/[-*\,]/\0 /g</entry>
-        <entry>s/,/, /g</entry>
         <entry>s/*/ * /g</entry>
         <entry encoding="base64">JzwsJz5zL14vIyB4eHggLw==</entry>
         <entry>126,153s/^/#/</entry>
+        <entry>65,68s/,/, /g</entry>
+        <entry>65,68s/*/ * /g</entry>
+        <entry>74,87s/*/ * /g</entry>
+        <entry>74,87s/\// \/ /g</entry>
+        <entry>s/,/, /g</entry>
+        <entry>156,180s/,/, /g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
