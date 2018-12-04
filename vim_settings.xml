@@ -153,12 +153,12 @@
         <mark key="^" line="813" column="61" />
         <mark key="." line="813" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" timestamp="1543885857078">
-        <mark key="'" line="110" column="26" />
-        <mark key="[" line="93" column="8" />
-        <mark key="]" line="98" column="45" />
-        <mark key="." line="98" column="45" />
-        <mark key="^" line="98" column="45" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" timestamp="1543890355787">
+        <mark key="'" line="118" column="26" />
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="47" column="57" />
+        <mark key="." line="47" column="57" />
+        <mark key="^" line="47" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" timestamp="1540580305994">
         <mark key="'" line="95" column="0" />
@@ -448,7 +448,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;&quot;Scalar division?&quot;&quot;&quot;</text>
+        <text>&quot;&quot;&quot;Quaternion&quot;&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
