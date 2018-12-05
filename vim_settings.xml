@@ -153,12 +153,12 @@
         <mark key="^" line="813" column="61" />
         <mark key="." line="813" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" timestamp="1543890355787">
-        <mark key="'" line="118" column="26" />
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="47" column="57" />
-        <mark key="." line="47" column="57" />
-        <mark key="^" line="47" column="57" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" timestamp="1543978064074">
+        <mark key="'" line="120" column="26" />
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/imu_cal_pid/operate_actuators.py" timestamp="1540580305994">
         <mark key="'" line="95" column="0" />
@@ -235,12 +235,12 @@
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" timestamp="1543969364389">
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" timestamp="1543978678359">
         <mark key="'" line="452" column="17" />
-        <mark key="[" line="450" column="0" />
-        <mark key="]" line="452" column="17" />
-        <mark key="." line="452" column="17" />
-        <mark key="^" line="452" column="17" />
+        <mark key="[" line="733" column="0" />
+        <mark key="]" line="734" column="36" />
+        <mark key="." line="734" column="36" />
+        <mark key="^" line="734" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1543372785236">
         <mark key="[" line="0" column="0" />
@@ -445,7 +445,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>exits the calibration process</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -454,25 +454,25 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5zdWJzdGF0ZSA9PSBDQUxJQl9TVUJTVEFURV9TVEFSVF9DT01NQU5EOgogICAgICAgICAgICAgICAgc2VsZi5vbl9zdWJzdGF0ZV9zdGFydF9jb21tYW5kKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNoZWNrIHRoYXQgZWFjaCBmaWxlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgdG8gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNoZWNrIGFsbCB0aGUgcGlrc2kgYmFzZSBvcmllbnRhdGlvbnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgc3VidHJhY3Rpb24gaXMgc2ltaWxhciB0byBhZGRpdGlvbgoK</text>
+        <text encoding="base64">ICAgICAgICAjIGNoZWNrIHRoYXQgZWFjaCBmaWxlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA6cGFyYW0gdjogCiAgICAgICAgOnBhcmFtIGFyZ3M6IAo=</text>
+        <text encoding="base64">ICAgICMgc3VidHJhY3Rpb24gaXMgc2ltaWxhciB0byBhZGRpdGlvbgoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
