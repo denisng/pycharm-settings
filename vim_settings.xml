@@ -235,12 +235,12 @@
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" timestamp="1543964655069">
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" timestamp="1543968984605">
         <mark key="'" line="204" column="0" />
-        <mark key="[" line="354" column="12" />
-        <mark key="]" line="354" column="13" />
-        <mark key="." line="354" column="13" />
-        <mark key="^" line="354" column="13" />
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="368" column="46" />
+        <mark key="." line="368" column="46" />
+        <mark key="^" line="368" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1543372785236">
         <mark key="[" line="0" column="0" />
@@ -445,7 +445,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>values</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -454,25 +454,25 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5zdWJzdGF0ZSA9PSBDQUxJQl9TVUJTVEFURV9TVEFSVF9DT01NQU5EOgogICAgICAgICAgICAgICAgc2VsZi5vbl9zdWJzdGF0ZV9zdGFydF9jb21tYW5kKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNoZWNrIHRoYXQgZWFjaCBmaWxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgc3VidHJhY3Rpb24gaXMgc2ltaWxhciB0byBhZGRpdGlvbgoK</text>
+        <text encoding="base64">ICAgICAgICAjIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgc3VidHJhY3Rpb24gaXMgc2ltaWxhciB0byBhZGRpdGlvbgoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA6cGFyYW0gdjogCiAgICAgICAgOnBhcmFtIGFyZ3M6IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICA6cGFyYW0gdjogCiAgICAgICAgOnBhcmFtIGFyZ3M6IAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
