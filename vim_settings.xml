@@ -176,9 +176,6 @@
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/index.rst" timestamp="1543343213958">
         <mark key="[" line="10" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1543434062752">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506662067930">
         <mark key="'" line="17" column="42" />
         <mark key="[" line="26" column="35" />
@@ -238,12 +235,12 @@
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" timestamp="1543962891557">
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" timestamp="1543964655069">
         <mark key="'" line="204" column="0" />
-        <mark key="[" line="84" column="2" />
-        <mark key="]" line="84" column="60" />
-        <mark key="^" line="84" column="60" />
-        <mark key="." line="84" column="60" />
+        <mark key="[" line="354" column="12" />
+        <mark key="]" line="354" column="13" />
+        <mark key="." line="354" column="13" />
+        <mark key="^" line="354" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1543372785236">
         <mark key="[" line="0" column="0" />
@@ -448,7 +445,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>this is some manner of value mapping</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -457,22 +454,22 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5zdWJzdGF0ZSA9PSBDQUxJQl9TVUJTVEFURV9TVEFSVF9DT01NQU5EOgogICAgICAgICAgICAgICAgc2VsZi5vbl9zdWJzdGF0ZV9zdGFydF9jb21tYW5kKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgc3VidHJhY3Rpb24gaXMgc2ltaWxhciB0byBhZGRpdGlvbgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgc3VidHJhY3Rpb24gaXMgc2ltaWxhciB0byBhZGRpdGlvbgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA6cGFyYW0gdjogCiAgICAgICAgOnBhcmFtIGFyZ3M6IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICA6cGFyYW0gdjogCiAgICAgICAgOnBhcmFtIGFyZ3M6IAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -481,7 +478,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNpbmNlIHNxdyArIHNxeCArIHNxeSArIHNxeiA9MS9pbnZzKmludnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
