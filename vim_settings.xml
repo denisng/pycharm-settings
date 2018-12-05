@@ -235,8 +235,8 @@
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" timestamp="1543978678359">
-        <mark key="'" line="452" column="17" />
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" timestamp="1544049275901">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="733" column="0" />
         <mark key="]" line="734" column="36" />
         <mark key="." line="734" column="36" />
@@ -339,8 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="492" column="9" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
-      <jump line="496" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="498" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="504" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="525" column="9" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
@@ -439,6 +437,8 @@
       <jump line="204" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="202" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="452" column="17" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="814" column="10" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -448,7 +448,7 @@
         <text>exits the calibration process</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>bm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5zdWJzdGF0ZSA9PSBDQUxJQl9TVUJTVEFURV9TVEFSVF9DT01NQU5EOgogICAgICAgICAgICAgICAgc2VsZi5vbl9zdWJzdGF0ZV9zdGFydF9jb21tYW5kKCkK</text>
@@ -485,18 +485,16 @@
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>bm</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>bm</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>,</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>piksi_reader</entry>
-        <entry>self.piksi_reader</entry>
         <entry>calibration_process(</entry>
         <entry>piksi_group_reader</entry>
         <entry>sbp_piksi_reader</entry>
@@ -515,6 +513,8 @@
         <entry encoding="base64">IFwvIA==</entry>
         <entry>+</entry>
         <entry>,</entry>
+        <entry>bosch</entry>
+        <entry>bm</entry>
       </history-search>
       <history-cmd>
         <entry>s/, /,\r/g</entry>
