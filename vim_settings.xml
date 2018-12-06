@@ -173,6 +173,13 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" timestamp="1544133392151">
+        <mark key="'" line="13" column="1" />
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/index.rst" timestamp="1543343213958">
         <mark key="[" line="10" column="22" />
       </file>
@@ -339,7 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="498" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="504" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="525" column="9" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="527" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
@@ -439,13 +445,14 @@
       <jump line="452" column="17" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="814" column="10" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
+      <jump line="13" column="1" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>exits the calibration process</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="/" type="4">
         <text>bm</text>
@@ -454,28 +461,28 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5zdWJzdGF0ZSA9PSBDQUxJQl9TVUJTVEFURV9TVEFSVF9DT01NQU5EOgogICAgICAgICAgICAgICAgc2VsZi5vbl9zdWJzdGF0ZV9zdGFydF9jb21tYW5kKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiMgcGlwZW52IHBpcGZpbGUubG9jawojIGJlY2F1c2UgZGV2ZWxvcG1lbnQgYW5kIGRlcGxveW1lbnQgcGxhdGZvcm1zIGFyZSBkaWZmZXJlbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdG8gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNoZWNrIGFsbCB0aGUgcGlrc2kgYmFzZSBvcmllbnRhdGlvbnMK</text>
+        <text encoding="base64">ICAgICMgdG8gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNoZWNrIHRoYXQgZWFjaCBmaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNoZWNrIGFsbCB0aGUgcGlrc2kgYmFzZSBvcmllbnRhdGlvbnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNoZWNrIHRoYXQgZWFjaCBmaWxlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgc3VidHJhY3Rpb24gaXMgc2ltaWxhciB0byBhZGRpdGlvbgoK</text>
+        <text encoding="base64">ICAgICAgICAjIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgc3VidHJhY3Rpb24gaXMgc2ltaWxhciB0byBhZGRpdGlvbgoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
