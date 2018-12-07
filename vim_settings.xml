@@ -224,12 +224,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544142244928">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544145484452">
         <mark key="'" line="76" column="25" />
-        <mark key="[" line="78" column="26" />
-        <mark key="]" line="79" column="44" />
-        <mark key="." line="79" column="44" />
-        <mark key="^" line="79" column="44" />
+        <mark key="[" line="83" column="30" />
+        <mark key="]" line="83" column="33" />
+        <mark key="." line="83" column="33" />
+        <mark key="^" line="83" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -472,7 +472,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>from logging</text>
+        <text>{''}</text>
       </register>
       <register name="/" type="4">
         <text>bm</text>
