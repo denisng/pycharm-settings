@@ -187,7 +187,7 @@
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/index.rst" timestamp="1543343213958">
         <mark key="[" line="10" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1544138346463">
+      <file name="/Python Console" timestamp="1544139440021">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506662067930">
@@ -223,6 +223,13 @@
         <mark key="]" line="46" column="12" />
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544141542574">
+        <mark key="'" line="76" column="25" />
+        <mark key="[" line="76" column="27" />
+        <mark key="]" line="79" column="16" />
+        <mark key="." line="79" column="16" />
+        <mark key="^" line="79" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -353,14 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="25" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
-      <jump line="330" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
-      <jump line="373" column="48" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
-      <jump line="377" column="22" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
-      <jump line="441" column="48" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
-      <jump line="501" column="26" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
-      <jump line="60" column="6" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/perform_calib.py" />
-      <jump line="39" column="38" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
       <jump line="116" column="10" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
       <jump line="155" column="8" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
       <jump line="182" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
@@ -453,13 +452,21 @@
       <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
       <jump line="31" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="31" column="3" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="44" column="3" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="73" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="76" column="25" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>`{}` is not a valid voltage</text>
+        <text>raise NotImplementedError()</text>
       </register>
       <register name="/" type="4">
         <text>bm</text>
@@ -468,31 +475,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5zdWJzdGF0ZSA9PSBDQUxJQl9TVUJTVEFURV9TVEFSVF9DT01NQU5EOgogICAgICAgICAgICAgICAgc2VsZi5vbl9zdWJzdGF0ZV9zdGFydF9jb21tYW5kKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG51bWJlcnMuTnVtYmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5cy5leAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggc2VyaWFsLlNlcmlhbChjb25mWydwaWtzaV9jb21fcG9ydCddLAogICAgICAgICAgICAgICAgICAgICAgIEJBVURfUkFURSwKICAgICAgICAgICAgICAgICAgICAgICB0aW1lb3V0PTIpIGFzIHVhcnQxOgogICAgICAgIHVhcnQxLmZsdXNoKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNlcmlhbAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmZyb20gc2JwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBsb2dnZXI6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjb25mOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB2b2x0YWdlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
