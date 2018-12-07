@@ -136,12 +136,12 @@
         <mark key="." line="19" column="74" />
         <mark key="^" line="19" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" timestamp="1544136447725">
-        <mark key="'" line="32" column="36" />
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="36" column="14" />
-        <mark key="." line="36" column="14" />
-        <mark key="^" line="36" column="14" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" timestamp="1544142862368">
+        <mark key="'" line="33" column="36" />
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/nmap/invocation.py" timestamp="1541468665848">
         <mark key="'" line="27" column="23" />
@@ -466,7 +466,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>raise NotImplementedError()</text>
+        <text>provisioning</text>
       </register>
       <register name="/" type="4">
         <text>bm</text>
