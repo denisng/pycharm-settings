@@ -227,12 +227,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544147232703">
-        <mark key="'" line="59" column="20" />
-        <mark key="[" line="67" column="26" />
-        <mark key="]" line="67" column="26" />
-        <mark key="^" line="67" column="26" />
-        <mark key="." line="67" column="26" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544148802647">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="98" column="29" />
+        <mark key="]" line="102" column="22" />
+        <mark key="^" line="102" column="22" />
+        <mark key="." line="102" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -372,10 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
       <jump line="97" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/GitHub/imu-cal-machine/crl_math.py" />
@@ -472,13 +468,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="2" column="47" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="59" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="74" column="61" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="15" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>write_response_callback()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>PySerialDriver</text>
@@ -487,31 +487,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5zdWJzdGF0ZSA9PSBDQUxJQl9TVUJTVEFURV9TVEFSVF9DT01NQU5EOgogICAgICAgICAgICAgICAgc2VsZi5vbl9zdWJzdGF0ZV9zdGFydF9jb21tYW5kKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5cy5leGl0KDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhbmRsZXIuc3RvcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBzeXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzdGFydCBoYW5kbGluZyBjYWxsYmFja3MKICAgICAgICAgICAgaGFuZGxlci5zdGFydCgpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETyByZW1vdmUgYWZ0ZXIgdGVzdGluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzYnAuY2xpZW50LmhhbmRsZXIgaW1wb3J0IEhhbmRsZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleWJvYXJkSW50ZXJydXB0Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDAuMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIFRydWU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGUodm9sdGFnZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhbmRsZXIoTXNnU2V0dGluZ3NXcml0ZShzZXR0aW5nPXNldHRpbmdzKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSBtc2cuZm9ybWF0KHZvbHRhZ2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldHRpbmdzID0gJycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSAnZXhwZWN0ZWQgYSBudW1iZXIgZm9yIGB2b2x0YWdlYCwgZ290IHt9ICh7fSknCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
