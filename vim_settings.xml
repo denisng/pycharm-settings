@@ -197,7 +197,7 @@
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/index.rst" timestamp="1543343213958">
         <mark key="[" line="10" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1544224935116">
+      <file name="/Python Console" timestamp="1544483019025">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506662067930">
@@ -241,11 +241,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544480872281">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544482647351">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="179" column="32" />
+        <mark key="]" line="179" column="53" />
+        <mark key="." line="179" column="32" />
+        <mark key="^" line="171" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -491,7 +492,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRvIHJlcG9ydCB0ZW1wZXJhdHVyZSBhdCB0aW1lIG9m</text>
+        <text>cu.usbserial-AH061OVQ</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
