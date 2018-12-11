@@ -258,12 +258,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544566824755">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="33" column="24" />
-        <mark key="]" line="33" column="29" />
-        <mark key="^" line="33" column="29" />
-        <mark key="." line="33" column="29" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544569312130">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="97" column="27" />
+        <mark key="]" line="97" column="27" />
+        <mark key="^" line="97" column="27" />
+        <mark key="." line="97" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -509,7 +509,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>processed</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxXD4=</text>
