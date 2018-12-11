@@ -26,12 +26,12 @@
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/__init__.py" timestamp="1541200793824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" timestamp="1544486993740">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="6" />
-        <mark key="." line="31" column="6" />
-        <mark key="^" line="31" column="6" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" timestamp="1544491499868">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="100" column="30" />
+        <mark key="]" line="100" column="29" />
+        <mark key="." line="100" column="29" />
+        <mark key="^" line="100" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/command_line.py" timestamp="1543369482401">
         <mark key="'" line="8" column="41" />
@@ -390,16 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="193" column="15" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="194" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="195" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="196" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="197" column="18" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="198" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="200" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="201" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="202" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
       <jump line="203" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
       <jump line="204" column="33" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
       <jump line="205" column="21" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
@@ -471,15 +461,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
-      <jump line="56" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
@@ -490,55 +477,68 @@
       <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="80" column="45" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="42" column="57" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text encoding="base64">XDwxXD4=</text>
       </register>
       <register name="0" type="4">
         <text>MsgImuRaw</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">IiIiCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">R1lST19SQU5HRV8xMjUgPSA0Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">R1lST19SQU5HRV8yNTAgPSAzCg==</text>
+        <text encoding="base64">ICAgICAgICByYW5nZV92YWx1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">R1lST19SQU5HRV81MDAgPSAyCg==</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">R1lST19SQU5HRV8xMDAwID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R1lST19SQU5HRV8yMDAwID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search encoding="base64">XDwxXD4=</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern encoding="base64">XDwxXD4=</last-pattern>
       <last-replace>)s</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -546,7 +546,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sbp_piksi_reader</entry>
         <entry>self.screen</entry>
         <entry>hc.Hand</entry>
         <entry>self.screen.</entry>
@@ -566,6 +565,7 @@
         <entry>bm</entry>
         <entry>PySerialDriver</entry>
         <entry>)</entry>
+        <entry encoding="base64">XDwxXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>126,153s/^/#/</entry>
