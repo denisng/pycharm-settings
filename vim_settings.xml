@@ -26,12 +26,12 @@
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/__init__.py" timestamp="1541200793824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" timestamp="1544486381237">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="9" column="17" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" timestamp="1544486993740">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="6" />
+        <mark key="^" line="31" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/command_line.py" timestamp="1543369482401">
         <mark key="'" line="8" column="41" />
@@ -390,14 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="26" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="182" column="23" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="184" column="21" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="186" column="23" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="187" column="23" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="188" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="189" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="191" column="22" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
       <jump line="192" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
       <jump line="193" column="15" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
       <jump line="194" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
@@ -477,7 +469,6 @@
       <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="32" column="74" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
-      <jump line="39" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="56" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
@@ -489,14 +480,23 @@
       <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="49" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="38" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="5" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'expected 3-tuple, got {} instead'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -505,31 +505,31 @@
         <text>MsgImuRaw</text>
       </register>
       <register name="1" type="2">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IiIiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">R1lST19SQU5HRV8xMjUgPSA0Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3MgPSBUcnVlCgo=</text>
+        <text encoding="base64">R1lST19SQU5HRV8yNTAgPSAzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhLCBiLCBjID0gZ3lyb19yZWFkaW5nCg==</text>
+        <text encoding="base64">R1lST19SQU5HRV81MDAgPSAyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4K</text>
+        <text encoding="base64">R1lST19SQU5HRV8xMDAwID0gMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
+        <text encoding="base64">R1lST19SQU5HRV8yMDAwID0gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -586,8 +586,8 @@
         <entry>s/)/)s/g</entry>
         <entry>53,63d</entry>
         <entry>.w</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
