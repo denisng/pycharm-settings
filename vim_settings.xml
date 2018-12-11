@@ -20,18 +20,18 @@
         <mark key="." line="130" column="50" />
         <mark key="^" line="130" column="50" />
       </file>
-      <file name="/a.dummy" timestamp="1544156447022">
+      <file name="/a.dummy" timestamp="1544493801971">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/__init__.py" timestamp="1541200793824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" timestamp="1544492517430">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" timestamp="1544493575737">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="82" column="10" />
-        <mark key="]" line="82" column="11" />
-        <mark key="." line="82" column="11" />
-        <mark key="^" line="82" column="11" />
+        <mark key="[" line="97" column="4" />
+        <mark key="]" line="97" column="9" />
+        <mark key="." line="97" column="53" />
+        <mark key="^" line="97" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/command_line.py" timestamp="1543369482401">
         <mark key="'" line="8" column="41" />
@@ -153,12 +153,12 @@
         <mark key="." line="19" column="74" />
         <mark key="^" line="19" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" timestamp="1544143904024">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="37" column="11" />
-        <mark key="." line="37" column="11" />
-        <mark key="^" line="37" column="11" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" timestamp="1544493739301">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="36" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/nmap/invocation.py" timestamp="1541468665848">
         <mark key="'" line="27" column="23" />
@@ -187,6 +187,13 @@
         <mark key="]" line="34" column="7" />
         <mark key="." line="34" column="7" />
         <mark key="^" line="34" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" timestamp="1544494424806">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="80" column="17" />
+        <mark key="]" line="81" column="21" />
+        <mark key="^" line="81" column="21" />
+        <mark key="." line="81" column="21" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/.gitignore" timestamp="1502443391491">
         <mark key="[" line="15" column="0" />
@@ -248,12 +255,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544482647351">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544493696230">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="179" column="32" />
-        <mark key="]" line="179" column="53" />
-        <mark key="." line="179" column="32" />
-        <mark key="^" line="171" column="29" />
+        <mark key="[" line="168" column="32" />
+        <mark key="]" line="170" column="55" />
+        <mark key="^" line="170" column="55" />
+        <mark key="." line="170" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -393,12 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="207" column="15" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="208" column="15" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="209" column="19" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="210" column="19" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="211" column="22" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
       <jump line="212" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
       <jump line="213" column="15" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
       <jump line="214" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
@@ -493,13 +494,19 @@
       <jump line="98" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" />
+      <jump line="98" column="2" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
+      <jump line="97" column="74" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
+      <jump line="99" column="42" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>(as integers).</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxXD4=</text>
@@ -508,31 +515,35 @@
         <text>MsgImuRaw</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zIGEgbGlzdCBvZiAzLXR1cGxlcyB3aGVyZSB0aGUgdmFsdWVzIGFyZSBmbG9hdHMKICAgICAgICBleHByZXNzaW5nIHRoZSByb3RhdGlvbmFsIHZlbG9jaXR5IG9mIGl0J3MgY29ycmVzcG9uZGluZyBheGlzIGluCiAgICAgICAgcmFkaWFucy9zZWMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlbnVtIGltcG9ydCBFbnVtLCB1bmlxdWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9vbGNoYWluIGV4cGVjdCBgYCh4LCB5LCB6KWBgIG9yZGVyaW5nLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnRlZF9yZWFkaW5ncyA9IFtdCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXQgd2hhdCBwb3NpdGlvbiBvZiB0aGUgdHVwbGUsIG90aGVyIGZ1bmN0aW9ucyBpbiB0aGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWx0aG91Z2ggdGhlIGZ1bmN0aW9uIGlzIGFnbm9zdGljIGFzIHRvIHdoaWNoIGF4aXMgaXMgc3RvcmVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAuLiBOT1RFOjoK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>, where ``n`` is the number
+        of measurement samples obtained.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="7" type="4">
+        <text>Although the the function does require each item in the
+            collection to be a 3-tuple, it is agnostic as to which axis
+            is stored in which position.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhLCBiLCBjID0gZ3lyb19yZWFkaW5nCg==</text>
+      <register name="8" type="4">
+        <text>Converts a collection of raw Bosch BMI160 gyroscope readings into
+    a collection of rotational velocity sets in radians/sec.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudW1weS5tdWx0aXBseShudW1weS5hcnJheShneXJvX3JlYWRpbmdzKSwgY29udmVyc2lvbl9mYWN0b3IpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
