@@ -274,6 +274,9 @@
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" timestamp="1544146418975">
         <mark key="'" line="2" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" timestamp="1544651689380">
+        <mark key="'" line="285" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/README.md" timestamp="1543369736028">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="10" column="56" />
@@ -403,13 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="32" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="86" column="26" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="112" column="21" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="96" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
@@ -503,6 +499,13 @@
       <jump line="172" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="179" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="183" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
+      <jump line="348" column="40" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" />
+      <jump line="410" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" />
+      <jump line="393" column="102" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" />
+      <jump line="323" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" />
+      <jump line="312" column="21" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" />
+      <jump line="282" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" />
+      <jump line="285" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -512,7 +515,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxXD4=</text>
+        <text>rerun_license</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9ybWF0PSclKGFzY3RpbWUpcyAlKGxldmVsbmFtZSlzOiAlKG1lc3NhZ2UpcycpCg==</text>
@@ -549,9 +552,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxXD4=</last-search>
+      <last-search>rerun_license</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxXD4=</last-pattern>
+      <last-pattern>rerun_license</last-pattern>
       <last-replace>)s</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -559,9 +562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.screen</entry>
-        <entry>hc.Hand</entry>
-        <entry>self.screen.</entry>
         <entry>CALIB_SUBSTATE</entry>
         <entry>CALIB_SUBSTATE_STARTUP_INFO</entry>
         <entry>CALIB_SUBSTATE_GATHER_DATA</entry>
@@ -579,6 +579,9 @@
         <entry>PySerialDriver</entry>
         <entry>)</entry>
         <entry encoding="base64">XDwxXD4=</entry>
+        <entry>smoothpose</entry>
+        <entry>load_smoothpose</entry>
+        <entry>rerun_license</entry>
       </history-search>
       <history-cmd>
         <entry>156,180s/,/, /g</entry>
