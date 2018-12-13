@@ -115,12 +115,12 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1544738310696">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="7" />
-        <mark key="^" line="6" column="7" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1544739668051">
+        <mark key="'" line="32" column="25" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/imu-cal-pid/lib/python2.7/site-packages/hebi/_internal/message_utils.py" timestamp="1540591475748">
         <mark key="'" line="0" column="0" />
@@ -514,7 +514,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>rerun_license</text>
@@ -523,31 +523,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9ybWF0PSclKGFzY3RpbWUpcyAlKGxldmVsbmFtZSlzOiAlKG1lc3NhZ2UpcycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxvZ2dlcjoKICAgICAgICAgICAgICAgICAgICBlbnRyeSA9ICd7fSwgYXR0ZW1wdCB7fSBvZiB7fSBzdWNjZWVkZWQnCiAgICAgICAgICAgICAgICAgICAgZW50cnkgPSBlbnRyeS5mb3JtYXQoZnVuYy5fX25hbWVfXywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdHRlbXB0cysxLCByZXRyaWVzKQoKICAgICAgICAgICAgICAgICMgc3VjY2VzcwogICAgICAgICAgICAgICAgIyBleGl0IHRoZSB3aGlsZSBsb29wIHRoYXQgaW1wbGVtZW50cyB0aGUgcmV0cmllcwogICAgICAgICAgICAgICAgIyBza2lwIHRoZSBlbHNlIHBvcnRpb24gb2YgdGhlIHdoaWxlIGxvb3AgdGhhdCByYWlzZXMKICAgICAgICAgICAgICAgICMgdGhlIHJldHJ5IGZhaWx1cmUgZXhjZXB0aW9uCiAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
