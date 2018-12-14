@@ -13,14 +13,14 @@
       <file name="/start_script.py" timestamp="1543300979442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" timestamp="1544826084966">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="173" column="29" />
-        <mark key="]" line="173" column="29" />
-        <mark key="." line="173" column="29" />
-        <mark key="^" line="173" column="13" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" timestamp="1544826730932">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="181" column="52" />
+        <mark key="]" line="182" column="53" />
+        <mark key="." line="182" column="53" />
+        <mark key="^" line="182" column="53" />
       </file>
-      <file name="/a.dummy" timestamp="1544584036375">
+      <file name="/a.dummy" timestamp="1544826620829">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/__init__.py" timestamp="1541200793824">
@@ -115,12 +115,12 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1544825621756">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="32" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1544826823735">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="19" column="60" />
+        <mark key="." line="19" column="60" />
+        <mark key="^" line="19" column="60" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/imu-cal-pid/lib/python2.7/site-packages/hebi/_internal/message_utils.py" timestamp="1540591475748">
         <mark key="'" line="0" column="0" />
@@ -260,12 +260,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544575716884">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1544826458107">
         <mark key="'" line="161" column="0" />
-        <mark key="[" line="104" column="61" />
-        <mark key="]" line="104" column="64" />
+        <mark key="[" line="118" column="48" />
+        <mark key="]" line="118" column="49" />
         <mark key="^" line="104" column="64" />
-        <mark key="." line="104" column="64" />
+        <mark key="." line="118" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -514,7 +514,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>successfully written</text>
       </register>
       <register name="/" type="4">
         <text>rerun_license</text>
@@ -523,31 +523,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9ybWF0PSclKGFzY3RpbWUpcyAlKGxldmVsbmFtZSlzOiAlKG1lc3NhZ2UpcycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBUSElTIFRJTUVPVVQgSEFQUEVOUyBPRlRFTiEhIQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlci5hZGRfY2FsbGJhY2socmVhZF9zZXR0aW5nX3Jlc3BvbnNlX2NhbGxiYWNrLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTQlBfTVNHX1NFVFRJTkdTX1JFQURfUkVTUCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBUSElTIFRJTUVPVVQgSEFQUEVOUyBPRlRFTiEhIQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0dGluZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZSBTZXR0aW5nV3JpdGVOb1Jlc3BvbnNlRXJyb3Ioc2VjdGlvbiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0dGluZywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGF0IGEgaGlnaGVyIGxldmVsIHByb2Nlc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZSBTZXR0aW5nV3JpdGVOb1Jlc3BvbnNlRXJyb3Ioc2VjdGlvbiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHdyaXRlIHJhaXNlIGFuIGV4Y2VwdGlvbiBhbmQgdGhyb3cgdGhlIHByb2JsZW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGF0IGEgaGlnaGVyIGxldmVsIHByb2Nlc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGFmdGVyIGV4aGF1c3RpbmcgdHdvIGF0dGVtcHRzIHRvIGNvbmZpcm0gYSBzZXR0aW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHdyaXRlIHJhaXNlIGFuIGV4Y2VwdGlvbiBhbmQgdGhyb3cgdGhlIHByb2JsZW0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ01TR19TRVRUSU5HX1JFQURfUkVTUCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGFmdGVyIGV4aGF1c3RpbmcgdHdvIGF0dGVtcHRzIHRvIGNvbmZpcm0gYSBzZXR0aW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
