@@ -115,12 +115,12 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1544823169575">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="41" column="7" />
-        <mark key="]" line="42" column="18" />
-        <mark key="." line="42" column="18" />
-        <mark key="^" line="42" column="18" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1544825263024">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/imu-cal-pid/lib/python2.7/site-packages/hebi/_internal/message_utils.py" timestamp="1540591475748">
         <mark key="'" line="0" column="0" />
@@ -408,9 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="31" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
@@ -495,7 +492,6 @@
       <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
       <jump line="26" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
@@ -508,13 +504,17 @@
       <jump line="2" column="52" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
+      <jump line="64" column="43" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
+      <jump line="24" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>This decorator does the following:</text>
+        <text encoding="base64">Ynkg</text>
       </register>
       <register name="/" type="4">
         <text>rerun_license</text>
@@ -523,32 +523,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9ybWF0PSclKGFzY3RpbWUpcyAlKGxldmVsbmFtZSlzOiAlKG1lc3NhZ2UpcycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtc2cgPSAnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDEuIFRoZSBkZWNvcmF0ZWQgZnVuY3Rpb24gd2lsbCBiZSByZXRyaWVkIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICogR2l2ZXMgdGhlIGRlY29yYXRlZCBmdW5jdGlvbiBhIHJldHJ5IG1lY2hhbmlzbS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS0tLS0tLQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmV0dXJucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIElmIHRoZSBkZWNvcmF0ZWQgZnVuY3Rpb24gcmFpc2VzIGFuIGV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>is able to accept
+        parameters</text>
       </register>
       <register name="7" type="4">
-        <text>,
-                                             reason=type(e)</text>
+        <text>the retry mechanism to be customized to some
+    extent.</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkRFQlVHLAogICAgICAgICAgICAgICAgICAgICAgICBmb3JtYXQ9JyUoZmlsZW5hbWUpczolKGxpbmVubylkOiUoZnVuY05hbWUpczonCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJShtZXNzYWdlKXMnKQoKICAgIHRlc3RfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQoKICAgIEByZXRyeSg1LCBsb2dnZXI9dGVzdF9sb2dnZXIpCiAgICBkZWYgZmFpbF9mb3VyX3RpbWVzKHRpbWVzKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -599,13 +600,13 @@
         <entry>52,89d</entry>
         <entry>s/)/)s/g</entry>
         <entry>53,63d</entry>
-        <entry>.w</entry>
         <entry>164,171y</entry>
         <entry>79,89y</entry>
         <entry>84,98y</entry>
         <entry>82,96y</entry>
         <entry>136,143y</entry>
         <entry>W</entry>
+        <entry>.w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
