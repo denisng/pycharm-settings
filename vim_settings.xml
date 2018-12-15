@@ -379,11 +379,11 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="62" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_file.py" timestamp="1544831823211">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="10" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="18" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_file.py" timestamp="1544843184678">
+        <mark key="[" line="31" column="68" />
+        <mark key="]" line="32" column="5" />
+        <mark key="^" line="32" column="5" />
+        <mark key="." line="32" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/.gitignore" timestamp="1541463614914">
         <mark key="'" line="71" column="17" />
@@ -526,7 +526,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>rerun_license</text>
