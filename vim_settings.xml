@@ -225,9 +225,9 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" timestamp="1545092402765">
-        <mark key="[" line="151" column="29" />
-        <mark key="]" line="152" column="57" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" timestamp="1545093179071">
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="57" />
         <mark key="." line="151" column="28" />
         <mark key="^" line="151" column="28" />
       </file>
@@ -537,8 +537,7 @@
         <text>rerun_license</text>
       </register>
       <register name="0" type="4">
-        <text>process_imu_report(data.decode(), self.sys_logger,
-                                                self.conf)</text>
+        <text>imu_data = IMUParams(json_data['calibration'])</text>
       </register>
       <register name="1" type="4">
         <text>process_imu_report(data.decode(), self.sys_logger,
