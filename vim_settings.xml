@@ -129,6 +129,10 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/register_board.py" timestamp="1545099475048">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="38" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512549441129">
         <mark key="'" line="19" column="2" />
         <mark key="[" line="19" column="2" />
@@ -225,9 +229,9 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" timestamp="1545093179071">
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="60" column="57" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" timestamp="1545099489328">
+        <mark key="[" line="76" column="8" />
+        <mark key="]" line="76" column="67" />
         <mark key="." line="151" column="28" />
         <mark key="^" line="151" column="28" />
       </file>
@@ -548,7 +552,7 @@
         <text>,</text>
       </register>
       <register name="0" type="4">
-        <text>0.15707963267948966</text>
+        <text>register_imu(conf, device_data.serial_number, str(imu_data))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
