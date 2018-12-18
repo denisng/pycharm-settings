@@ -417,11 +417,16 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="58" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" timestamp="1545094853620">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/factory_data_util.py" timestamp="1545096272723">
+        <mark key="[" line="61" column="15" />
+        <mark key="]" line="61" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" timestamp="1545096589668">
+        <mark key="'" line="36" column="34" />
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="41" column="11" />
+        <mark key="." line="41" column="11" />
+        <mark key="^" line="41" column="11" />
       </file>
       <file name="D:/Documents/GitHub/cherrypy-warehouse/requirements.txt" timestamp="1496724978130">
         <mark key="[" line="0" column="6" />
@@ -431,11 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="34" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="57" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
@@ -531,57 +531,60 @@
       <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="231" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="232" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
+      <jump line="17" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" />
+      <jump line="20" column="32" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" />
+      <jump line="21" column="32" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" />
+      <jump line="23" column="34" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" />
+      <jump line="24" column="34" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>rerun_license</text>
+        <text>,</text>
       </register>
       <register name="0" type="4">
-        <text>imu_data = IMUParams(json_data['calibration'])</text>
+        <text>[[1.0, 0.0, 0.0], [0.0, 1.0, 0.0], [0.0, 0.0, 1.0]]</text>
       </register>
-      <register name="1" type="4">
-        <text>process_imu_report(data.decode(), self.sys_logger,
-                                                self.conf)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT12YWwsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>Raised when the timeout expires without being able to confirm
-    if the write attempt succeeded.</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZW5kIHRoZSB3cml0ZSByZXF1ZXN0CiAgICAgICAgICAgIExPR0dFUi5kZWJ1Zygnc2VuZGluZyBNU0dfU0VUVElOR1NfV1JJVEUgcmVxdWVzdCcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0ID0gJy9kZXYvY3UudXNic2VyaWFsLUFIMDYxT1ZRJwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlID0gJ3tzZWN9XDB7c2V0fVwwe3ZhbH1cMCcKCg==</text>
+        <text encoding="base64">ZGVmIGd5cm9fYmlhc190b19jYWxfZGljdCh4X2diaWFzLCB5X2diaWFzLCB6X2diaWFzKToKICAgIHJldHVybiB7CiAgICAgICAgJ2FjY2VsX2JpYXMnOiBbXSwKICAgICAgICAnYWNjZWxfbWF0JzogW1tdXQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ClRFTVBMQVRFID0gJ3tzZWN9XDB7c2V0fVwwe3ZhbH1cMCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rerun_license</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>rerun_license</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-replace>)s</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
@@ -600,7 +603,6 @@
         <entry>\/</entry>
         <entry encoding="base64">IFwvIA==</entry>
         <entry>+</entry>
-        <entry>,</entry>
         <entry>bosch</entry>
         <entry>bm</entry>
         <entry>PySerialDriver</entry>
@@ -609,6 +611,7 @@
         <entry>smoothpose</entry>
         <entry>load_smoothpose</entry>
         <entry>rerun_license</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>79,82s/\// \/ /g</entry>
