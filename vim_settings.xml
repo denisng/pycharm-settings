@@ -354,12 +354,6 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1544143787993">
-        <mark key="[" line="88" column="44" />
-        <mark key="]" line="88" column="55" />
-        <mark key="^" line="88" column="55" />
-        <mark key="." line="88" column="55" />
-      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/dbPowerAndTempPlot.py" timestamp="1514746806979">
         <mark key="'" line="405" column="0" />
         <mark key="[" line="469" column="26" />
@@ -563,7 +557,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CgpjbGFzcyBTZXR0aW5nUmVhZE1heFJldHJpZXNFeGNlZWRlZEVycm9yKEV4Y2VwdGlvbik6CiAgICAiIiIKICAgICIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHJldHJpZXMsIHBvcnQsIHNlY3Rpb24sIHNldHRpbmcsIHRpbWVvdXQpOgogICAgICAgIG1zZyA9ICdyZWFkaW5nIHtzZWN0aW9ufTp7c2V0dGluZ30gZnJvbSB7cG9ydH0gZmFpbGVkIGFmdGVyICcgXAogICAgICAgICAgICAgICd7bn0gYXR0ZW1wdHMnCiAgICAgICAgbXNnID0gbXNnLmZvcm1hdChzZWN0aW9uPXNlY3Rpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICBzZXR0aW5nPXNldHRpbmcsCiAgICAgICAgICAgICAgICAgICAgICAgICBwb3J0PXBvcnQsCiAgICAgICAgICAgICAgICAgICAgICAgICBuPXJldHJpZXMpCgogICAgICAgIHN1cGVyKFNldHRpbmdSZWFkTWF4UmV0cmllc0V4Y2VlZGVkRXJyb3IsIHNlbGYpLl9faW5pdF9fKG1zZykK</text>
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5yZWdpc3Rlcl9ib2FyZCBpbXBvcnQgY2hlY2tfcmVnaXN0ZXJfYm9hcmQsIHJlZ2lzdGVyX2JvYXJkLCBjYWNoZV9kZXZpY2VfZnJvbV9kYgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UGlwZmlsZQo=</text>
