@@ -13,12 +13,12 @@
       <file name="/start_script.py" timestamp="1543300979442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" timestamp="1545173948650">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" timestamp="1545177289083">
         <mark key="'" line="278" column="0" />
-        <mark key="[" line="267" column="23" />
-        <mark key="]" line="268" column="57" />
-        <mark key="." line="268" column="57" />
-        <mark key="^" line="268" column="57" />
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="14" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="/a.dummy" timestamp="1545174184803">
         <mark key="[" line="0" column="0" />
@@ -99,9 +99,6 @@
         <mark key="." line="15" column="21" />
         <mark key="^" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_tools/piksi_tools/settings.py" timestamp="1541540981201">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/Flex_datareplication2.py" timestamp="1514578211730">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="3" column="0" />
@@ -109,11 +106,11 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1545173663217">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1545176214899">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="78" column="67" />
-        <mark key="]" line="79" column="59" />
-        <mark key="." line="79" column="59" />
+        <mark key="[" line="39" column="55" />
+        <mark key="]" line="39" column="55" />
+        <mark key="." line="39" column="55" />
         <mark key="^" line="79" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/range_sanity_test.py" timestamp="1545170467653">
@@ -168,12 +165,12 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" timestamp="1545174846819">
-        <mark key="'" line="57" column="1" />
-        <mark key="[" line="76" column="32" />
-        <mark key="]" line="76" column="36" />
-        <mark key="." line="76" column="36" />
-        <mark key="^" line="76" column="36" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" timestamp="1545178330112">
+        <mark key="'" line="51" column="57" />
+        <mark key="[" line="116" column="11" />
+        <mark key="]" line="116" column="14" />
+        <mark key="." line="116" column="14" />
+        <mark key="^" line="116" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/nmap/invocation.py" timestamp="1541468665848">
         <mark key="'" line="27" column="23" />
@@ -223,12 +220,11 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" timestamp="1544133392151">
-        <mark key="'" line="13" column="1" />
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="32" column="11" />
-        <mark key="^" line="32" column="11" />
-        <mark key="." line="32" column="11" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" timestamp="1545178553349">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/index.rst" timestamp="1543343213958">
         <mark key="[" line="10" column="22" />
@@ -268,12 +264,12 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" timestamp="1544225442489">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" timestamp="1545177437448">
         <mark key="'" line="224" column="62" />
-        <mark key="[" line="224" column="102" />
-        <mark key="]" line="224" column="102" />
-        <mark key="^" line="224" column="102" />
-        <mark key="." line="224" column="102" />
+        <mark key="[" line="175" column="26" />
+        <mark key="]" line="175" column="30" />
+        <mark key="^" line="175" column="30" />
+        <mark key="." line="175" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" timestamp="1542779524935">
         <mark key="'" line="71" column="0" />
@@ -289,24 +285,18 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1545162808816">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1545177718111">
         <mark key="'" line="160" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="103" column="64" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
         <mark key="]" line="49" column="7" />
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" timestamp="1544146418975">
-        <mark key="'" line="2" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" timestamp="1544651689380">
-        <mark key="'" line="285" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/README.md" timestamp="1543369736028">
         <mark key="[" line="8" column="19" />
@@ -334,7 +324,7 @@
         <mark key="." line="263" column="15" />
         <mark key="^" line="263" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543372785236">
+      <file name="/Dummy.txt" timestamp="1545177641079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllLTRFails.py" timestamp="1514746862038">
@@ -446,13 +436,12 @@
         <mark key="[" line="61" column="15" />
         <mark key="]" line="61" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" timestamp="1545171685395">
-        <mark key="s" line="16" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" timestamp="1545176728514">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
         <mark key="^" line="6" column="48" />
-        <mark key="." line="60" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/Documents/GitHub/cherrypy-warehouse/requirements.txt" timestamp="1496724978130">
         <mark key="[" line="0" column="6" />
@@ -462,11 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
-      <jump line="96" column="45" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="84" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="75" column="27" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
@@ -562,13 +546,18 @@
       <jump line="265" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="270" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="277" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
+      <jump line="70" column="48" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="7" column="68" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="51" column="57" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="32" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>result_container</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LCA=</text>
@@ -577,32 +566,31 @@
         <text encoding="base64">CgpjbGFzcyBTZXR0aW5nUmVhZE1heFJldHJpZXNFeGNlZWRlZEVycm9yKEV4Y2VwdGlvbik6CiAgICAiIiIKICAgICIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHJldHJpZXMsIHBvcnQsIHNlY3Rpb24sIHNldHRpbmcsIHRpbWVvdXQpOgogICAgICAgIG1zZyA9ICdyZWFkaW5nIHtzZWN0aW9ufTp7c2V0dGluZ30gZnJvbSB7cG9ydH0gZmFpbGVkIGFmdGVyICcgXAogICAgICAgICAgICAgICd7bn0gYXR0ZW1wdHMnCiAgICAgICAgbXNnID0gbXNnLmZvcm1hdChzZWN0aW9uPXNlY3Rpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICBzZXR0aW5nPXNldHRpbmcsCiAgICAgICAgICAgICAgICAgICAgICAgICBwb3J0PXBvcnQsCiAgICAgICAgICAgICAgICAgICAgICAgICBuPXJldHJpZXMpCgogICAgICAgIHN1cGVyKFNldHRpbmdSZWFkTWF4UmV0cmllc0V4Y2VlZGVkRXJyb3IsIHNlbGYpLl9faW5pdF9fKG1zZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UGlwZmlsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoJ2NhbGN1bGF0aW5nIGd5cm8gYmlhcyBmb3IgcGlrc2kge30nLmZvcm1hdChwaWtzaV9zZXJpYWwpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoZ3lyb19iaWFzKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>(SettingWriteMaxRetriesExceededError,
-            SettingReadMaxRetriesExceededError)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoZ3lyb19yZWFkaW5ncykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoZ3lyb19yYW5nZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0X2NvbnRhaW5lci5sb2dBc3NlcnQoJ2d5cm9fYmlhcycsIHBhc3NpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKHR5cGUocGlrc2lfc2VyaWFsKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIHJ1bnMgaWYgbm8gZXhjZXB0aW9ucyBhcmUgZW5jb3VudGVyZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gSEFORExFIEVYQ0VQVElPTlMgQ09SUkVDVExZISEhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgR3lyb0JpYXNPbmx5SU1VUGFyYW1zKCpneXJvX2JpYXMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRoaXMgcnVucyBpZiBubyBleGNlcHRpb25zIGFyZSBlbmNvdW50ZXJlZAogICAgICAgIExPR0dFUi5kZWJ1Zygnd3JpdGluZyBJTVUgQ2FsLiBkYXRhIHRvIGxvY2FsIGNhY2hlJykKICAgICAgICByZWdpc3Rlcl9pbXUoY29uZiwgcGlrc2lfc2VyaWFsLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
