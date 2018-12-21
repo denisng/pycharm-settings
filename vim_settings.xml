@@ -298,6 +298,9 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" timestamp="1545431501015">
+        <mark key="'" line="111" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/README.md" timestamp="1543369736028">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="10" column="56" />
@@ -445,8 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="75" column="27" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="171" column="58" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="172" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
@@ -545,6 +546,8 @@
       <jump line="51" column="57" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
       <jump line="32" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
+      <jump line="16" column="6" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
+      <jump line="111" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -554,7 +557,7 @@
         <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>monitor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5yZWdpc3Rlcl9ib2FyZCBpbXBvcnQgY2hlY2tfcmVnaXN0ZXJfYm9hcmQsIHJlZ2lzdGVyX2JvYXJkLCBjYWNoZV9kZXZpY2VfZnJvbV9kYgo=</text>
@@ -591,9 +594,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">LCA=</last-search>
+      <last-search>monitor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">LCA=</last-pattern>
+      <last-pattern>monitor</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -601,8 +604,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CALIB_SUBSTATE_STARTUP_INFO</entry>
-        <entry>CALIB_SUBSTATE_GATHER_DATA</entry>
         <entry>*</entry>
         <entry>quat</entry>
         <entry>def quat</entry>
@@ -621,6 +622,8 @@
         <entry>rerun_license</entry>
         <entry>,</entry>
         <entry encoding="base64">LCA=</entry>
+        <entry>End2EndTestMonitor</entry>
+        <entry>monitor</entry>
       </history-search>
       <history-cmd>
         <entry>s/,/, /g</entry>
