@@ -13,12 +13,12 @@
       <file name="/start_script.py" timestamp="1543300979442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" timestamp="1545177289083">
-        <mark key="'" line="278" column="0" />
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
-        <mark key="^" line="27" column="14" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" timestamp="1546453377568">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="26" column="14" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1545174184803">
         <mark key="[" line="0" column="0" />
@@ -563,31 +563,31 @@
         <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5yZWdpc3Rlcl9ib2FyZCBpbXBvcnQgY2hlY2tfcmVnaXN0ZXJfYm9hcmQsIHJlZ2lzdGVyX2JvYXJkLCBjYWNoZV9kZXZpY2VfZnJvbV9kYgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UGlwZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgIHJhaXNlX29uX2ZhaWx1cmU9U2V0dGluZ1dyaXRlTWF4UmV0cmllc0V4Y2VlZGVkRXJyb3IpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoJ2NhbGN1bGF0aW5nIGd5cm8gYmlhcyBmb3IgcGlrc2kge30nLmZvcm1hdChwaWtzaV9zZXJpYWwpKQo=</text>
+        <text encoding="base64">QHJldHJ5KDUsIGxvZ2dlcj1MT0dHRVIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoZ3lyb19iaWFzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoZ3lyb19yZWFkaW5ncykK</text>
+        <text encoding="base64">IyBmb3Igbm93IQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoZ3lyb19yYW5nZXMpCg==</text>
+        <text encoding="base64">IyBtYWtlIHVwIGEgUGlrc2kgc2V0dGluZywgYnV0IHRoaXMgY2FuIGp1c3QgYmUgaGFuZGxlZCBieSBhIDMtdHVwbGUuLi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKHR5cGUocGlrc2lfc2VyaWFsKSkK</text>
+        <text encoding="base64">IyBJIHRob3VnaHQgYWJvdXQgaGF2aW5nIGFuIG9iamVjdCB0byByZXByZXNlbnQgdGhlIHRocmVlIGVsZW1lbnRzIHRoYXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIHJ1bnMgaWYgbm8gZXhjZXB0aW9ucyBhcmUgZW5jb3VudGVyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgR3lyb0JpYXNPbmx5SU1VUGFyYW1zKCpneXJvX2JpYXMpKQo=</text>
+        <text encoding="base64">IyBIZWxwZXIgT2JqZWN0cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoaXMgcnVucyBpZiBubyBleGNlcHRpb25zIGFyZSBlbmNvdW50ZXJlZAogICAgICAgIExPR0dFUi5kZWJ1Zygnd3JpdGluZyBJTVUgQ2FsLiBkYXRhIHRvIGxvY2FsIGNhY2hlJykKICAgICAgICByZWdpc3Rlcl9pbXUoY29uZiwgcGlrc2lfc2VyaWFsLAo=</text>
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMudGVzdHMudGVzdF9neXJvX2JpYXMucmV0cnkgaW1wb3J0IHJldHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
