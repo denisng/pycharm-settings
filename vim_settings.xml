@@ -20,7 +20,7 @@
         <mark key="^" line="26" column="14" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1545174184803">
+      <file name="/a.dummy" timestamp="1546468894529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/__init__.py" timestamp="1541200793824">
@@ -137,10 +137,11 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1546458118207">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1546469052094">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="93" column="73" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512549441129">
         <mark key="'" line="19" column="2" />
@@ -434,11 +435,11 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="58" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/factory_data_util.py" timestamp="1546467795235">
-        <mark key="[" line="109" column="19" />
-        <mark key="]" line="109" column="34" />
-        <mark key="." line="109" column="34" />
-        <mark key="^" line="109" column="34" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/factory_data_util.py" timestamp="1546468194096">
+        <mark key="[" line="96" column="26" />
+        <mark key="]" line="97" column="16" />
+        <mark key="." line="97" column="16" />
+        <mark key="^" line="97" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" timestamp="1546467774749">
         <mark key="'" line="10" column="0" />
@@ -561,53 +562,47 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tests.test_gyro_bias.imu_cal_data import (</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="4">
-        <text>{
-            'accel_bias': [[0.0, 0.0, 0.0]],
-            'accel_mat': [[1.0, 0.0, 0.0],
-                          [0.0, 1.0, 0.0],
-                          [0.0, 0.0, 1.0]],
-            'gyro_bias': [[x_bias, y_bias, z_bias]],
-            'gyro_g': [[0.0, 0.0, 0.0],
-                       [0.0, 0.0, 0.0],
-                       [0.0, 0.0, 0.0]],
-            'gyro_mat': [[1.0, 0.0, 0.0],
-                         [0.0, 1.0, 0.0],
-                         [0.0, 0.0, 1.0]]
-        }</text>
+        <text>IMUParams.gyro_bias_only(*gyro_bias)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxpYnJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmNyaXRpY2FsKElNVVBhcmFtcy5neXJvX2JpYXNfb25seSgqZ3lyb19iaWFzKS5neXJvX2JpYXMpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>and also as a
-    container for the data captured by the callback function.</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIExPR0dFUi5jcml0aWNhbChJTVVQYXJhbXMuZ3lyb19iaWFzX29ubHkoKmd5cm9fYmlhcykuZ3lyb19iaWFzKQogICAgICAgIGVsc2U6Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEd5cm9CaWFzT25seUlNVVBhcmFtcykK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>[[1.0, 0.0, 0.0],
+                         [0.0, 1.0, 0.0],
+                         [0.0, 0.0, 1.0]]</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIiIiIK</text>
+      <register name="6" type="4">
+        <text>[[0.0, 0.0, 0.0],
+                       [0.0, 0.0, 0.0],
+                       [0.0, 0.0, 0.0]]</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIiIiIK</text>
+      <register name="7" type="4">
+        <text>[[1.0, 0.0, 0.0],
+                          [0.0, 1.0, 0.0],
+                          [0.0, 0.0, 1.0]]</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIElNVV9HWVJPU0NPUEVfUkVBRElOR1MgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxpYnJhdGlvbgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIElNVV9HWVJPU0NPUEVfUkFOR0VTID0gW10K</text>
+      <register name="9" type="4">
+        <text>and also as a
+    container for the data captured by the callback function.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
