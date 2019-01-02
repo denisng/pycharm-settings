@@ -434,14 +434,16 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="58" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/factory_data_util.py" timestamp="1545096272723">
-        <mark key="[" line="61" column="15" />
-        <mark key="]" line="61" column="65" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/factory_data_util.py" timestamp="1546467795235">
+        <mark key="[" line="109" column="19" />
+        <mark key="]" line="109" column="34" />
+        <mark key="." line="109" column="34" />
+        <mark key="^" line="109" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" timestamp="1545176728514">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" timestamp="1546467774749">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="44" column="8" />
         <mark key="^" line="6" column="48" />
         <mark key="." line="11" column="0" />
       </file>
@@ -564,36 +566,48 @@
       <register name="/" type="4">
         <text>,</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgLi4gSElOVDo6CiAgICAgICAgICAgIFRoaXMgaXMgdGhlICptYWdpYyovKmR1bmRlciogZnVuY3Rpb24gdGhhdCBtYWtlcyBhIGNsYXNzCiAgICAgICAgICAgIGNhbGwtYWJsZSAoaS5lLiBtYWtlcyBpbnN0YW5jZXMgYmVoYXZlIGxpa2UgZnVuY3Rpb25zKS4K</text>
+      <register name="0" type="4">
+        <text>{
+            'accel_bias': [[0.0, 0.0, 0.0]],
+            'accel_mat': [[1.0, 0.0, 0.0],
+                          [0.0, 1.0, 0.0],
+                          [0.0, 0.0, 1.0]],
+            'gyro_bias': [[x_bias, y_bias, z_bias]],
+            'gyro_g': [[0.0, 0.0, 0.0],
+                       [0.0, 0.0, 0.0],
+                       [0.0, 0.0, 0.0]],
+            'gyro_mat': [[1.0, 0.0, 0.0],
+                         [0.0, 1.0, 0.0],
+                         [0.0, 0.0, 1.0]]
+        }</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxpYnJhdGlvbgo=</text>
+      </register>
+      <register name="2" type="4">
         <text>and also as a
     container for the data captured by the callback function.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAiIiIiIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIElNVV9HWVJPU0NPUEVfUkVBRElOR1MgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIiIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIElNVV9HWVJPU0NPUEVfUkFOR0VTID0gW10K</text>
+        <text encoding="base64">ICAgIElNVV9HWVJPU0NPUEVfUkVBRElOR1MgPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBJTVVfR1lST1NDT1BFX1JFQURJTkdTCg==</text>
+        <text encoding="base64">ICAgIElNVV9HWVJPU0NPUEVfUkFOR0VTID0gW10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
