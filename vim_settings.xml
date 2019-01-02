@@ -165,12 +165,12 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" timestamp="1545178330112">
-        <mark key="'" line="51" column="57" />
-        <mark key="[" line="116" column="11" />
-        <mark key="]" line="116" column="14" />
-        <mark key="." line="116" column="14" />
-        <mark key="^" line="116" column="14" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" timestamp="1546457188322">
+        <mark key="'" line="125" column="25" />
+        <mark key="[" line="61" column="65" />
+        <mark key="]" line="62" column="63" />
+        <mark key="^" line="62" column="63" />
+        <mark key="." line="62" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/nmap/invocation.py" timestamp="1541468665848">
         <mark key="'" line="27" column="23" />
@@ -285,11 +285,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1546455760297">
-        <mark key="'" line="17" column="13" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1546457165686">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="156" column="31" />
+        <mark key="]" line="156" column="38" />
+        <mark key="." line="156" column="38" />
+        <mark key="^" line="156" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -447,27 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" />
-      <jump line="312" column="21" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" />
-      <jump line="282" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" />
-      <jump line="285" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi_updater/update_server.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="14" column="25" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="45" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="2" column="52" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="64" column="43" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
-      <jump line="24" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" />
       <jump line="72" column="22" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
@@ -532,7 +512,6 @@
       <jump line="265" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="270" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="277" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
-      <jump line="70" column="48" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
       <jump line="7" column="68" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
       <jump line="51" column="57" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
       <jump line="32" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
@@ -540,20 +519,42 @@
       <jump line="16" column="6" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="111" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="124" column="62" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="147" column="63" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="152" column="65" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="153" column="63" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="154" column="63" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="155" column="65" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="156" column="49" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="16" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="19" column="1" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="18" column="23" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="55" column="52" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="64" column="25" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="123" column="25" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
+      <jump line="147" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="148" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>settings</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -562,31 +563,31 @@
         <text>conf['piksi_com_port']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0dGluZ3MgPSAK</text>
+        <text encoding="base64">ICAgICAgICBwaWtzaV9zZXJpYWwgPSByZWFkX3NldHRpbmcoY29uZlsncGlrc2lfY29tX3BvcnQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3N5c3RlbV9pbmZvJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NlcmlhbF9udW1iZXInKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB1c2luZyBsb25nZXIgNXMgdGltZW91dCBvbiBwdXJwb3NlCg==</text>
+        <text encoding="base64">ICAgIFNldHRpbmdXcml0ZU1heFJldHJpZXNFeGNlZWRlZEVycm9yKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB1c2luZyBsb25nZXIgNXMgdGltZW91dCBvbiBwdXJwb3NlCg==</text>
+        <text encoding="base64">ICAgIFNldHRpbmdSZWFkTWF4UmV0cmllc0V4Y2VlZGVkRXJyb3IsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdyaXRlX3NldHRpbmcoY29uZlsncGlrc2lfY29tX3BvcnQnXSwK</text>
+        <text encoding="base64">ICAgIHJlYWRfc2V0dGluZywK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KQogICAgd3JpdGVfc2V0dGluZyhjb25mWydwaWtzaV9jb21fcG9ydCddLAogICAgICAgICAgICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMudGVzdHMudGVzdF9neXJvX2JpYXMucGlrc2lfc2V0dGluZ3MgaW1wb3J0ICgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0dGluZ3MgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcmlhbF9wb3J0ID0gY29uZlsncGlrc2lfY29tX3BvcnQnXQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB1c2luZyBsb25nZXIgNXMgdGltZW91dCBvbiBwdXJwb3NlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcmlhbF9wb3J0ID0gY29uZlsncGlrc2lfJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB1c2luZyBsb25nZXIgNXMgdGltZW91dCBvbiBwdXJwb3NlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdyaXRlX3NldHRpbmcoY29uZlsncGlrc2lfY29tX3BvcnQnXSwKICAgICAgICAgICAgICAgICAgJ2ltdScsICdpbXVfcmF3X291dHB1dCcsVHJ1ZSwgNSkK</text>
+        <text encoding="base64">ICAgIHdyaXRlX3NldHRpbmcoY29uZlsncGlrc2lfY29tX3BvcnQnXSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
