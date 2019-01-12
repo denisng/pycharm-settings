@@ -152,6 +152,12 @@
         <mark key="." line="117" column="0" />
         <mark key="^" line="101" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1547263141562">
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="36" column="39" />
+        <mark key="." line="36" column="39" />
+        <mark key="^" line="36" column="39" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512549441129">
         <mark key="'" line="19" column="2" />
         <mark key="[" line="19" column="2" />
@@ -610,28 +616,28 @@
         <text encoding="base64">IyAgICAzLiArLy0gMjUwIGRlZ3JlZXMvc2VjCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGV2LXVwZGF0ZXItbnVjCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGBgYAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAqIGZpbGVTeXN0ZW0uIi8iLm9wdGlvbnMgPSBbICJub2F0aW1lIiAibm9kaXJhdGltZSIgImRpc2NhcmQiIF07Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICQgbmFubyAvbW50L2V0Yy9uaXhvcy9oYXJkd2FyZS1jb25maWd1cmF0aW9uLm5peAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGBgYGJhc2gK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGBgYAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAqIGZpbGVTeXN0ZW0uIi8iLm9wdGlvbnMgPSBbICJub2F0aW1lIiAibm9kaXJhdGltZSIgImRpc2NhcmQiIF07Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICQgbmFubyAvbW50L2V0Yy9uaXhvcy9oYXJkd2FyZS1jb25maWd1cmF0aW9uLm5peAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFjY29yZGluZyB0byBodHRwczovL25peG9zLndpa2kvd2lraS9OaXhvcy1nZW5lcmF0ZS1jb25maWcuLi4K</text>
+        <text encoding="base64">ICAgIGBgYGJhc2gK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
