@@ -146,12 +146,12 @@
         <mark key="." line="71" column="7" />
         <mark key="^" line="71" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1547594214413">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1547594715709">
         <mark key="'" line="65" column="46" />
-        <mark key="[" line="119" column="9" />
-        <mark key="]" line="119" column="16" />
-        <mark key="." line="119" column="16" />
-        <mark key="^" line="119" column="16" />
+        <mark key="[" line="72" column="47" />
+        <mark key="]" line="72" column="66" />
+        <mark key="." line="72" column="66" />
+        <mark key="^" line="72" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1547263141562">
         <mark key="[" line="35" column="32" />
@@ -318,12 +318,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1547594391443">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="235" column="30" />
-        <mark key="]" line="235" column="37" />
-        <mark key="." line="235" column="37" />
-        <mark key="^" line="235" column="37" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1547594466975">
+        <mark key="'" line="203" column="15" />
+        <mark key="[" line="266" column="9" />
+        <mark key="]" line="266" column="16" />
+        <mark key="." line="266" column="16" />
+        <mark key="^" line="266" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -502,10 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
-      <jump line="216" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
-      <jump line="226" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
-      <jump line="230" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="232" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="235" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="239" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
@@ -602,56 +598,60 @@
       <jump line="109" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
       <jump line="65" column="46" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
+      <jump line="111" column="15" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="164" column="15" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="203" column="15" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>piksi</text>
+        <text>exists</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>piksi_com_port</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICAzLiArLy0gMjUwIGRlZ3JlZXMvc2VjCg==</text>
+        <text encoding="base64">ICAgICAgICAnZmlybXdhcmVfY29tX3BvcnQnOiAnL2Rldi9jdS51c2JzZXJpYWwtQUgwNjFPVlEnLAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAnZmlybXdhcmVfY29tX3BvcnQnOiAnL2Rldi9jdS51c2JzZXJpYWwtQUgwNjFPVlcnLAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>'failed to read setting '
                                             'system_info:serial_number'</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBtZXNzYWdlIHRoYW4gJ2FjY2Vzc2VkIGJlZm9yZSBhc3NpZ25tZW50Jwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBiODcyOTkyNDU0M2JjZTM0MTVhZDk3YjVkOTViZjIxOTZhZjljN2VjCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0X2NvbnRhaW5lci5sb2dBc3NlcnQoJ2d5cm9fYmlhcycsIHBhc3NpbmcpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oJ2d5cm9fYmlhcyB0ZXN0IGZhaWxlZCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>piksi_com_port</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>piksi_com_port</last-pattern>
       <last-replace />
       <last-substitute>' '</last-substitute>
       <last-dir>1</last-dir>
@@ -659,7 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>quat</entry>
         <entry>def quat</entry>
         <entry encoding="base64">cXVhdCA9IA==</entry>
         <entry encoding="base64">XDxpbnZzXD4=</entry>
@@ -679,6 +678,7 @@
         <entry>monitor</entry>
         <entry>' '</entry>
         <entry>,</entry>
+        <entry>piksi_com_port</entry>
       </history-search>
       <history-cmd>
         <entry>s/)/)s/g</entry>
