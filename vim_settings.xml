@@ -146,11 +146,12 @@
         <mark key="." line="71" column="7" />
         <mark key="^" line="71" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1547591402823">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1547594214413">
+        <mark key="'" line="65" column="46" />
+        <mark key="[" line="119" column="9" />
+        <mark key="]" line="119" column="16" />
+        <mark key="." line="119" column="16" />
+        <mark key="^" line="119" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1547263141562">
         <mark key="[" line="35" column="32" />
@@ -317,12 +318,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1546466740941">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1547594391443">
         <mark key="'" line="63" column="0" />
-        <mark key="[" line="68" column="21" />
-        <mark key="]" line="68" column="21" />
-        <mark key="." line="68" column="21" />
-        <mark key="^" line="68" column="21" />
+        <mark key="[" line="235" column="30" />
+        <mark key="]" line="235" column="37" />
+        <mark key="." line="235" column="37" />
+        <mark key="^" line="235" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -501,7 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="211" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="216" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
       <jump line="226" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_settings.py" />
@@ -601,13 +601,14 @@
       <jump line="92" column="58" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
       <jump line="109" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
+      <jump line="65" column="46" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>piksi</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -616,31 +617,32 @@
         <text encoding="base64">IyAgICAzLiArLy0gMjUwIGRlZ3JlZXMvc2VjCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiODcyOTkyNDU0M2JjZTM0MTVhZDk3YjVkOTViZjIxOTZhZjljN2VjCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0X2NvbnRhaW5lci5sb2dBc3NlcnQoJ2d5cm9fYmlhcycsIHBhc3NpbmcpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>'failed to read setting '
+                                            'system_info:serial_number'</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBtZXNzYWdlIHRoYW4gJ2FjY2Vzc2VkIGJlZm9yZSBhc3NpZ25tZW50Jwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oJ2d5cm9fYmlhcyB0ZXN0IGZhaWxlZCcpCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBiODcyOTkyNDU0M2JjZTM0MTVhZDk3YjVkOTViZjIxOTZhZjljN2VjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHN0cihJTVVQYXJhbXMuZ3lyb19iaWFzX29ubHkoKmd5cm9fYmlhcykpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0X2NvbnRhaW5lci5sb2dBc3NlcnQoJ2d5cm9fYmlhcycsIHBhc3NpbmcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0ZXJfaW11KGNvbmYsIHBpa3NpX3NlcmlhbCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhc3NpZ25lZCBhbmQgdmFsaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oJ2d5cm9fYmlhcyB0ZXN0IGZhaWxlZCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
