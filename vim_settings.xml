@@ -258,10 +258,10 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" timestamp="1547599093073">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" timestamp="1547840744969">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/index.rst" timestamp="1543343213958">
         <mark key="[" line="10" column="22" />
@@ -307,12 +307,11 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" timestamp="1545177437448">
-        <mark key="'" line="224" column="62" />
-        <mark key="[" line="175" column="26" />
-        <mark key="]" line="175" column="30" />
-        <mark key="^" line="175" column="30" />
-        <mark key="." line="175" column="30" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" timestamp="1547840961868">
+        <mark key="'" line="220" column="62" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/src/imu_cal_pid/crl_emulation.py" timestamp="1542779524935">
         <mark key="'" line="71" column="0" />
@@ -630,31 +629,31 @@
         <text encoding="base64">ICAgICAgICAnZmlybXdhcmVfY29tX3BvcnQnOiAnL2Rldi9jdS51c2JzZXJpYWwtQUgwNjFPVlEnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1YzQ4NmNhMmRhZjQ1NjMzZmY0NjI4OTcxYmM5NjUwNTEyN2E3ZjRmCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkYzNhMzkyLi4uIHJlYWRhYmlsaXR5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBJREVzIGFuZCBFZGl0b3JzCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBkYzNhMzkyLi4uIHJlYWRhYmlsaXR5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAqIGBkZXZpY2VfZGJgIC0gcGF0aCB0byBjYXRjaCBvZiBkZXZpY2UgcHJvdmlzaW9uaW5nIGluZm8gKHVubG9jayBrZXksIE1BQyBhZGRyZXNzKSBpbmRleGVkIGJ5IG1hbnVmYWN0dXJlciBJRC4gVGhpcyBmaWxlIHNob3VsZCBiZSBjbGVhcmVkIGlmIHRoaXMgZGF0YSBuZWVkcyB0byBiZSByZWdlbmVyYXRlZC4gVGhpcyBmaWxlIHdpbGwgYmUgY3JlYXRlZCBpZiBpdCBkb2Vzbid0IGV4aXN0ICguLi9sb2dzL2RldmljZS5kYikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSb2IvZ3lybyBiaWFzICgjMTI4KQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMudGVzdF9zZXRzJywK</text>
+        <text encoding="base64">Pj4+Pj4+PiBmMzkyODU2Li4uIG1pbm9yIGFkanVzdG1lbnRzIHRvIHdvcmRpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">VGhlcmUgYXJlIG11bHRpcGxlIGxvZ2dpbmcgb3B0aW9ucyBhdmFpbGFibGUuIEluIG5vcm1hbCBvcGVyYXRpb24gdGVzdHMgd2lsbCBvdXB1dCBzdGF0dXMgYW5kIGRlYnVnIGluZm9ybWF0aW9uIHRvIHRoZWlyIHN5c3RlbSBsb2cgaW4gcmVhbHRpbWUsIGFuZCB3aWxsIGNyZWF0ZSBhIHRlbXBvcmFyeSBKU09OIGxvZyBvbmNlIHRoZSB0ZXN0IGlzIGRvbmUuIFRoaXMgSlNPTiBsb2cgaXMgZGVsZXRlZCBvbmNlIGl0J3MgcmVzdWx0cyB1cGxvYWRlZCB0byB0aGUgZGF0YWJhc2UuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
