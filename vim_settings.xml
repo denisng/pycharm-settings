@@ -169,6 +169,13 @@
         <mark key="^" line="33" column="66" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1548282609363">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512549441129">
         <mark key="'" line="19" column="2" />
         <mark key="[" line="19" column="2" />
@@ -544,11 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
-      <jump line="120" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
-      <jump line="192" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="185" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="191" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="196" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
@@ -644,6 +646,11 @@
       <jump line="148" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/initial_test_lists.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/initial_test_lists.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
+      <jump line="32" column="30" filename="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" />
+      <jump line="82" column="23" filename="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" />
+      <jump line="78" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" />
+      <jump line="79" column="24" filename="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" />
+      <jump line="4" column="12" filename="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -653,46 +660,46 @@
         <text>super-banzai</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PDw8</text>
+        <text>super-banzai</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnZmlybXdhcmVfY29tX3BvcnQnOiAnL2Rldi9jdS51c2JzZXJpYWwtQUgwNjFPVlEnLAo=</text>
+        <text encoding="base64">c3VwZXItYmFuemFpOiBleHBvcnQgUElLU0lfUkVMRUFTRV9WRVJTSU9OPXYyLjAuMApzdXBlci1iYW56YWk6IHByb3Zpc2lvbl9zdXBlci1iYW56YWkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
+        <text encoding="base64">cGFuaW5pOiBleHBvcnQgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PDw8</last-search>
+      <last-search>super-banzai</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PDw8</last-pattern>
+      <last-pattern>super-banzai</last-pattern>
       <last-replace />
       <last-substitute>' '</last-substitute>
       <last-dir>1</last-dir>
@@ -700,7 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">cXVhdCA9IA==</entry>
         <entry encoding="base64">XDxpbnZzXD4=</entry>
         <entry>\/</entry>
         <entry encoding="base64">IFwvIA==</entry>
@@ -720,6 +726,7 @@
         <entry>,</entry>
         <entry>piksi_com_port</entry>
         <entry encoding="base64">PDw8</entry>
+        <entry>super-banzai</entry>
       </history-search>
       <history-cmd>
         <entry>164,171y</entry>
