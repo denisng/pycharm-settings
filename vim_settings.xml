@@ -483,6 +483,12 @@
         <mark key="." line="28" column="11" />
         <mark key="^" line="28" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/panini/configuration.nix" timestamp="1548281916811">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/.gitignore" timestamp="1541463614914">
         <mark key="'" line="71" column="17" />
         <mark key="[" line="106" column="5" />
