@@ -114,6 +114,12 @@
         <mark key="^" line="65" column="11" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/lab-super-banzai/configuration.nix" timestamp="1548802216231">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="50" />
+        <mark key="^" line="30" column="50" />
+        <mark key="." line="30" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/host_board_tests.py" timestamp="1547852016333">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -679,7 +685,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dG8gc2V0dGluZyA=</text>
       </register>
       <register name="/" type="4">
         <text>super-banzai</text>
