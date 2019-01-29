@@ -17,6 +17,12 @@
         <mark key="^" line="26" column="14" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py-tool-nmap/runner.py" timestamp="1548728819320">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/conversion.py" timestamp="1544493575737">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="97" column="4" />
@@ -69,6 +75,12 @@
         <mark key="]" line="116" column="9" />
         <mark key="." line="116" column="9" />
         <mark key="^" line="116" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py-tool-nmap/const.py" timestamp="1548728884618">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/configuration/load.py" timestamp="1512536385266">
         <mark key="[" line="2" column="39" />
@@ -268,6 +280,9 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1548728432925">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/__init__.py" timestamp="1506662067930">
         <mark key="'" line="17" column="42" />
@@ -649,7 +664,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>necessicary</text>
+        <text>call()</text>
       </register>
       <register name="/" type="4">
         <text>super-banzai</text>
