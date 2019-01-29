@@ -281,6 +281,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/ssh-config/configs/lab.ssh" timestamp="1548724951428">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" timestamp="1545099489328">
         <mark key="[" line="76" column="8" />
         <mark key="]" line="76" column="67" />
@@ -530,7 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="191" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="196" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="197" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
@@ -630,13 +635,14 @@
       <jump line="79" column="24" filename="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" />
       <jump line="4" column="12" filename="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" />
       <jump line="82" column="43" filename="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" />
+      <jump line="8" column="16" filename="$USER_HOME$/Documents/GitHub/ssh-config/configs/lab.ssh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>panini</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>super-banzai</text>
