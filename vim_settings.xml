@@ -293,6 +293,13 @@
         <mark key="." line="151" column="28" />
         <mark key="^" line="151" column="28" />
       </file>
+      <file name="$USER_HOME$/.ssh/ssh-config/configs/lab.ssh" timestamp="1548725524628">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/initial_test_lists.py" timestamp="1547852189515">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="216" column="0" />
@@ -536,9 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
-      <jump line="196" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
-      <jump line="197" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="202" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="203" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="208" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
@@ -636,13 +640,16 @@
       <jump line="4" column="12" filename="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" />
       <jump line="82" column="43" filename="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" />
       <jump line="8" column="16" filename="$USER_HOME$/Documents/GitHub/ssh-config/configs/lab.ssh" />
+      <jump line="6" column="30" filename="$USER_HOME$/.ssh/ssh-config/configs/lab.ssh" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ssh/ssh-config/configs/lab.ssh" />
+      <jump line="7" column="17" filename="$USER_HOME$/.ssh/ssh-config/configs/lab.ssh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>necessicary</text>
       </register>
       <register name="/" type="4">
         <text>super-banzai</text>
