@@ -114,11 +114,11 @@
         <mark key="^" line="65" column="11" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/lab-super-banzai/configuration.nix" timestamp="1548802216231">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="30" column="50" />
-        <mark key="^" line="30" column="50" />
-        <mark key="." line="30" column="50" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/lab-super-banzai/configuration.nix" timestamp="1549480867985">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="23" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/host_board_tests.py" timestamp="1547852016333">
         <mark key="[" line="26" column="0" />
@@ -686,7 +686,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG8gc2V0dGluZyA=</text>
+        <text>Second interface on private network</text>
       </register>
       <register name="/" type="4">
         <text>data_file</text>
@@ -695,31 +695,31 @@
         <text encoding="base64">c3VwZXItYmFuemFpOiBleHBvcnQgUElLU0lfUkVMRUFTRV9WRVJTSU9OPXYyLjAuMApzdXBlci1iYW56YWk6IHByb3Zpc2lvbl9zdXBlci1iYW56YWkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIFRPRE86IHBvaW50IHRoaXMgb3B0aW9uIHRvIFVTQi9FdGhlcm5ldCBhZGFwdGVyCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBweV90b29sX25tYXAgaW1wb3J0IFhNTF8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFuaW5pOiBleHBvcnQgCg==</text>
+        <text encoding="base64">ZnJvbSBweV90b29sX25tYXAgaW1wb3J0IFhNTF8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
+        <text encoding="base64">cGFuaW5pOiBleHBvcnQgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
