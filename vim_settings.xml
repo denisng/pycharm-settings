@@ -172,12 +172,12 @@
         <mark key="." line="71" column="7" />
         <mark key="^" line="71" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1549502574049">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="66" column="37" />
-        <mark key="]" line="66" column="45" />
-        <mark key="." line="66" column="45" />
-        <mark key="^" line="66" column="45" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1549504417341">
+        <mark key="'" line="75" column="38" />
+        <mark key="[" line="71" column="19" />
+        <mark key="]" line="71" column="20" />
+        <mark key="." line="71" column="20" />
+        <mark key="^" line="71" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1548305980416">
         <mark key="'" line="82" column="43" />
@@ -592,8 +592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
       <jump line="120" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
       <jump line="92" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
@@ -692,6 +690,8 @@
       <jump line="84" column="5" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/post_burn_test_lists.py" />
       <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/post_burn_test_lists.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
+      <jump line="64" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
+      <jump line="65" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -707,31 +707,31 @@
         <text encoding="base64">ZGVmIHdhaXRfZm9yX2NvbShjb21fcG9ydCwgdGltZW91dCk6CiAgICBzdGFydF90aW1lID0gdGltZS50aW1lKCkKICAgIGVsYXBzZWRfdGltZSA9IDAKICAgIHdoaWxlIGVsYXBzZWRfdGltZSA8IHRpbWVvdXQ6CiAgICAgICAgcG9ydF9saXN0ID0gc2VyaWFsLnRvb2xzLmxpc3RfcG9ydHMuZ3JlcChjb21fcG9ydCkKICAgICAgICBmb3IgcG9ydCBpbiBwb3J0X2xpc3Q6CiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgdGltZS5zbGVlcCgxKQogICAgICAgIGVsYXBzZWRfdGltZSA9IHRpbWUudGltZSgpIC0gc3RhcnRfdGltZQogICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHRlbXBvcmFyeSB0aW1lb3V0IHRvIHdhaXQgZm9yIEV0aGVybmV0IHRvIGNvbWUgb25saW5lCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCB3YWl0X2Zvcl9jb20oY29uZlsnZmlybXdhcmVfY29tX3BvcnQnXSwgMjApOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCB3YWl0X2Zvcl9jb20oY29uZlsnZmlybXdhcmVfY29tX3BvcnQnXSwgMjApOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0tLS0tLS0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC0tLS0tLS0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlzIGV4Y2VlZGVkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJldHVybnMgYGBUcnVlYGAgaWYgdGhlIHBvcnQgaXMgZm91bmQuIGBgRmFsc2VgYCBpZiB0aGUgYGB0aW1lb3V0YGAK</text>
+        <text encoding="base64">ICAgIGlzIGV4Y2VlZGVkLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
