@@ -484,11 +484,10 @@
         <mark key="^" line="469" column="26" />
         <mark key="." line="469" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/post_burn_test_lists.py" timestamp="1549491694682">
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="55" column="22" />
-        <mark key="." line="55" column="22" />
-        <mark key="^" line="56" column="45" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/post_burn_test_lists.py" timestamp="1549499005131">
+        <mark key="[" line="104" column="5" />
+        <mark key="]" line="104" column="5" />
+        <mark key="." line="104" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1549490464754">
         <mark key="'" line="84" column="50" />
@@ -691,7 +690,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>gyro</text>
@@ -700,31 +699,31 @@
         <text encoding="base64">c3VwZXItYmFuemFpOiBleHBvcnQgUElLU0lfUkVMRUFTRV9WRVJTSU9OPXYyLjAuMApzdXBlci1iYW56YWk6IHByb3Zpc2lvbl9zdXBlci1iYW56YWkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAibG9nX21zZyI6ICJjYWxjdWxhdGluZyBneXJvIGJpYXMiLAogICAgICAgICJmdW5jdGlvbiI6IGNoZWNrX2d5cm9fYmlhcywKICAgICAgICAicmV0cnlfbnVtIjogMywKICAgICAgICAicmV0cnlfZm4iOiAicG93ZXJfY3ljbGVfcmV0cnlfbm9fanRhZyIsCiAgICAgICAgImFsbG93ZWRfdGVzdF9maXh0dXJlIjogWyJsYXJzb25fbWZnX3Rlc3QiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAic2FuZHdoaWNoX21mZ190ZXN0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImhvc3QiXSwKICAgICAgICAiZmlyc3Rfdm9sdGFnZV9vbmx5IjogVHJ1ZQogICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIFRPRE86IHBvaW50IHRoaXMgb3B0aW9uIHRvIFVTQi9FdGhlcm5ldCBhZGFwdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIFRPRE86IHBvaW50IHRoaXMgb3B0aW9uIHRvIFVTQi9FdGhlcm5ldCBhZGFwdGVyCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBweV90b29sX25tYXAgaW1wb3J0IFhNTF8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFuaW5pOiBleHBvcnQgCg==</text>
+        <text encoding="base64">ZnJvbSBweV90b29sX25tYXAgaW1wb3J0IFhNTF8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
+        <text encoding="base64">cGFuaW5pOiBleHBvcnQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -763,7 +762,6 @@
         <entry>gyro</entry>
       </history-search>
       <history-cmd>
-        <entry>164,171y</entry>
         <entry>79,89y</entry>
         <entry>84,98y</entry>
         <entry>82,96y</entry>
@@ -782,6 +780,7 @@
         <entry>W</entry>
         <entry>qw</entry>
         <entry>q</entry>
+        <entry>53,62d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
