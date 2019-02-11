@@ -172,11 +172,11 @@
         <mark key="." line="71" column="7" />
         <mark key="^" line="71" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1549504417341">
-        <mark key="'" line="75" column="38" />
-        <mark key="[" line="71" column="19" />
-        <mark key="]" line="71" column="20" />
-        <mark key="." line="71" column="20" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1549926882417">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
         <mark key="^" line="71" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1548305980416">
@@ -377,12 +377,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1549926417667">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="25" column="1" />
-        <mark key="." line="25" column="1" />
-        <mark key="^" line="25" column="1" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1549927218446">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="4" column="55" />
+        <mark key="^" line="4" column="55" />
+        <mark key="." line="4" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -590,11 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_const.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="167" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
@@ -690,13 +685,18 @@
       <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
       <jump line="64" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
       <jump line="65" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
+      <jump line="124" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
+      <jump line="4" column="55" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>``0``, ``1``, ``2``, ``3`` and ``4``.</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>gyro</text>
@@ -705,31 +705,31 @@
         <text encoding="base64">ZGVmIHdhaXRfZm9yX2NvbShjb21fcG9ydCwgdGltZW91dCk6CiAgICBzdGFydF90aW1lID0gdGltZS50aW1lKCkKICAgIGVsYXBzZWRfdGltZSA9IDAKICAgIHdoaWxlIGVsYXBzZWRfdGltZSA8IHRpbWVvdXQ6CiAgICAgICAgcG9ydF9saXN0ID0gc2VyaWFsLnRvb2xzLmxpc3RfcG9ydHMuZ3JlcChjb21fcG9ydCkKICAgICAgICBmb3IgcG9ydCBpbiBwb3J0X2xpc3Q6CiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgdGltZS5zbGVlcCgxKQogICAgICAgIGVsYXBzZWRfdGltZSA9IHRpbWUudGltZSgpIC0gc3RhcnRfdGltZQogICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
+        <text encoding="base64">ZnJvbSBzYnAuY2xpZW50LmRyaXZlcnMubmV0d29ya19kcml2ZXJzIGltcG9ydCBUQ1BEcml2ZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMudGVzdHMudGVzdF9neXJvX2JpYXMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGF0aCB0byB0aGUgQ09NIHBvcnQgY29ubmVjdGVkIHRvIFVBUlQxIG9uIHRoZSBQaWtzaSBEVVQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBmaXJtd2FyZV9jb21fcG9ydAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMudGVzdHMudGVzdF9neXJvX2JpYXMnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KCgpkZWYgcmVydW5fYmlzdChjb25mKToKICAgIGR1bW15X3ZvbHRhZ2UgPSAwCiAgICBkdW1teV9sb2dnZXIgPSB0ZXN0X2xvZ2dlci5UZXN0TG9nZ2VyKCkKICAgIHBvd2VyX2N5Y2xlX2JvYXJkKGNvbmYsIGR1bW15X2xvZ2dlcikKICAgIGNoZWNrX2Jpc3QoZHVtbXlfdm9sdGFnZSwgY29uZiwgZHVtbXlfbG9nZ2VyKQogICAgcmV0dXJuIFRydWUKCgpkZWYgcmVpbml0X3VzYihjb25mKToKICAgIGR1bW15X2xvZ2dlciA9IHRlc3RfbG9nZ2VyLlRlc3RMb2dnZXIoKQogICAgcG93ZXJfY3ljbGVfYm9hcmQoY29uZiwgZHVtbXlfbG9nZ2VyKQogICAgdWJvb3QgPSB1Ym9vdF9jb250cm9sLlVCb290Q29udHJvbChjb25mWydwaWtzaV9jb21fcG9ydCddKQogICAgdWJvb3Quc3RvcF9ib290KCkKICAgIHVib290LnVzYl9zdGFydCgpCgoKZGVmIGdldF9wd3JfY3RybChjb25mKToKICAgIGlmIGNvbmYuZ2V0KCduZXRib290ZXJfY3RybF91cmwnKToKICAgICAgICByZXR1cm4gcG93ZXJfY29udHJvbF9uZXRib290Lk5ldEJvb3RQb3dlckNvbnRyb2xsZXIoCiAgICAgICAgICAgIGNvbmZbJ25ldGJvb3Rlcl9jdHJsX3VybCddKQogICAgaWYgY29uZi5nZXQoJ3dlYnBvd2VyX2N0cmxfdXJsJyk6CiAgICAgICAgcmV0dXJuIHBvd2VyX2NvbnRyb2xfd2ViLldlYlBvd2VyQ29udHJvbGxlcigKICAgICAgICAgICAgY29uZlsnd2VicG93ZXJfY3RybF91cmwnXSkKICAgIGlmIGNvbmYuZ2V0KCd0ZGtfbGFtYmRhX2FkZHInKToKICAgICAgICByZXR1cm4gcG93ZXJfY29udHJvbF92aXNhLlRka1Bvd2VyQ29udHJvbGxlcigKICAgICAgICAgICAgY29uZlsndGRrX2xhbWJkYV9hZGRyJ10sIGNvbmZbJ3B5X3Zpc2FfcmVzb3VyY2VfbWFuYWdlciddKQogICAgaWYgY29uZi5nZXQoJ2UzNjEwNWFfYWRkcicpOgogICAgICAgIHJldHVybiBwb3dlcl9jb250cm9sX3Zpc2EuVGRrUG93ZXJDb250cm9sbGVyKAogICAgICAgICAgICBjb25mWydlMzYxMDVhX2FkZHInXSwgY29uZlsncHlfdmlzYV9yZXNvdXJjZV9tYW5hZ2VyJ10sIFRydWUpCiAgICBpZiBjb25mLmdldCgnZHVtbXlfcG93ZXInKToKICAgICAgICByZXR1cm4gRHVtbXlQb3dlcigpCiAgICByZXR1cm4gTm9uZQoKCmRlZiB3YWl0X2Zvcl9jb20oY29tX3BvcnQsIHRpbWVvdXQpOgogICAgIiIiUG9sbHMgdGhlIGxpc3Qgb2Yga25vd24gc2VyaWFsIHBvcnRzIGV2ZXJ5IDFzIGxvb2tpbmcgZm9yIHRoZQogICAgc3BlY2lmaWVkIGBgY29tX3BvcnRgYC4KCiAgICBQYXJhbWV0ZXJzCiAgICAtLS0tLS0tLS0tCiAgICBjb21fcG9ydCA6IHN0cgogICAgICAgIFBhdGggdG8gdGhlIGRlc2lyZWQgQ09NIHBvcnQuIFlvdSB0eXBpY2FsbHkgcGFzcyBpdCBhIHZhbHVlIGZyb20KICAgICAgICB0aGUgY29uZmlndXJhdGlvbiBkaWN0aW9uYXJ5LgogICAgdGltZW91dCA6IGludAogICAgICAgIFRpbWVvdXQgaW4gc2Vjb25kcy4KCiAgICBSZXR1cm5zCiAgICAtLS0tLS0tCiAgICBib29sCiAgICAgICAgYGBUcnVlYGAgaWYgYGBjb21fcG9ydGBgIHdhcyBmb3VuZC4gYGBGYWxzZWBgIGlmIHRpbWVvdXQgd2FzCiAgICAgICAgZXhjZWVkZWQuCiAgICAiIiIKICAgIHN0YXJ0X3RpbWUgPSB0aW1lLnRpbWUoKQogICAgZWxhcHNlZF90aW1lID0gMAogICAgd2hpbGUgZWxhcHNlZF90aW1lIDwgdGltZW91dDoKICAgICAgICBwb3J0X2xpc3QgPSBzZXJpYWwudG9vbHMubGlzdF9wb3J0cy5ncmVwKGNvbV9wb3J0KQogICAgICAgIGZvciBwb3J0IGluIHBvcnRfbGlzdDoKICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICB0aW1lLnNsZWVwKDEpCiAgICAgICAgZWxhcHNlZF90aW1lID0gdGltZS50aW1lKCkgLSBzdGFydF90aW1lCiAgICByZXR1cm4gRmFsc2UKPj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
