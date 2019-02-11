@@ -377,11 +377,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1547843423654">
-        <mark key="'" line="153" column="0" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1549926417667">
+        <mark key="'" line="152" column="0" />
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+        <mark key="^" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -695,7 +696,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>``0``, ``1``, ``2``, ``3`` and ``4``.</text>
       </register>
       <register name="/" type="4">
         <text>gyro</text>
