@@ -172,12 +172,12 @@
         <mark key="." line="71" column="7" />
         <mark key="^" line="71" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1549929824055">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1549931911929">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="72" column="44" />
+        <mark key="[" line="96" column="71" />
+        <mark key="]" line="96" column="71" />
+        <mark key="." line="96" column="71" />
+        <mark key="^" line="96" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1548305980416">
         <mark key="'" line="82" column="43" />
@@ -377,12 +377,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1549930523872">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1549931802330">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="190" column="44" />
-        <mark key="]" line="190" column="44" />
-        <mark key="^" line="190" column="44" />
-        <mark key="." line="190" column="44" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="^" line="128" column="62" />
+        <mark key="." line="227" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -696,7 +696,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>TIMEOUT</text>
+        <text>VERBOSE</text>
       </register>
       <register name="/" type="4">
         <text>handler</text>
@@ -708,25 +708,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VkVSQk9TRSA9IEZhbHNlCg==</text>
+        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgIyB0aGlzIGlzIGZvciB0ZXN0aW5nIHRoZSAqdGVzdCogaW5kZXBlbmRlbnRseSBvZiB0aGUgZnVsbCB0ZXN0CiAgICAjIHJ1bm5lciBmcmFtZXdvcmsKICAgIGxvZ2dpbmcuYmFzaWNDb25maWcobGV2ZWw9bG9nZ2luZy5JTkZPLAogICAgICAgICAgICAgICAgICAgICAgICBmb3JtYXQ9JyUobmFtZSlzOiAlKGFzY3RpbWUpcyAlKGxldmVsbmFtZSlzOiAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJShtZXNzYWdlKXMnKQoKICAgIGNvbmZpZ3VyYXRpb24gPSB7CiAgICAgICAgJ2Zpcm13YXJlX2NvbV9wb3J0JzogJy9kZXYvY3UudXNic2VyaWFsLUFIMDYxT1ZRJywKICAgICAgICAnaW11X3JhdGVfaHonOiAxMDAsCiAgICAgICAgJ2ltdV9neXJvX3JhbmdlJzogMTAwMCwKICAgICAgICAnaW11X2NhcHR1cmVfdGltZV9zJzogMTAsCiAgICAgICAgJ2RldmljZV9kYic6ICd0bXAvY2FjaGUuZGInCiAgICB9CgogICAgZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMudGVzdF9sb2dnZXIgaW1wb3J0IFRlc3RMb2dnZXIKICAgIHJlc3VsdF9zdG9yZSA9IFRlc3RMb2dnZXIoKQoKICAgIGNoZWNrX2d5cm9fYmlhcyg1LCBjb25maWd1cmF0aW9uLCByZXN1bHRfc3RvcmUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VElNRU9VVCA9IDUK</text>
+        <text encoding="base64">CgojIGZvciBtYW51YWwgdGVzdGluZwppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkRFQlVHKQoKICAgIGNvbmZpZ3VyYXRpb24gPSB7CiAgICAgICAgJ2Zpcm13YXJlX2NvbV9wb3J0JzogJy9kZXYvY3UudXNic2VyaWFsLUFIMDYxT1ZRJywKICAgIH0KCiAgICBjYXB0dXJlX2d5cm9fZGF0YShjb25maWd1cmF0aW9uKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QkFVRF9SQVRFID0gMTE1MjAwCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QkFVRF9SQVRFID0gMTE1MjAwCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">VkVSQk9TRSA9IEZhbHNlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">VElNRU9VVCA9IDUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHNldCByZWFzb25hYmxlIGRlZmF1bHRzIGZvciBkcml2ZXIgY29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">QkFVRF9SQVRFID0gMTE1MjAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGFjY2VwdCBwYXJhbWV0ZXJzIGZvciBkcml2ZXIgY29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">QkFVRF9SQVRFID0gMTE1MjAwCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
