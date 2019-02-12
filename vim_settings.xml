@@ -172,12 +172,12 @@
         <mark key="." line="71" column="7" />
         <mark key="^" line="71" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1549926882417">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" timestamp="1549929824055">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="71" column="20" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="72" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1548305980416">
         <mark key="'" line="82" column="43" />
@@ -377,12 +377,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1549927843567">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="226" column="9" />
-        <mark key="]" line="226" column="32" />
-        <mark key="^" line="226" column="32" />
-        <mark key="." line="226" column="32" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1549930523872">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="190" column="44" />
+        <mark key="]" line="190" column="44" />
+        <mark key="^" line="190" column="44" />
+        <mark key="." line="190" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -590,7 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="170" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="173" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
       <jump line="180" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
@@ -601,7 +600,6 @@
       <jump line="189" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="194" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="209" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="205" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="210" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="215" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
@@ -690,68 +688,64 @@
       <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="127" column="50" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="136" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="204" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>PySerialDriver(conf['firmware_com_port'], BAUD_RATE)</text>
+        <text>TIMEOUT</text>
       </register>
       <register name="/" type="4">
-        <text>gyro</text>
+        <text>handler</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGR1bW15X2xvZ2dlciA9IFRlc3RMb2dnZXIoKQogICAgZml4dHVyZSA9IGNvbmNyZXRlX2ZpeHR1cmVzLmdldF9maXh0dXJlKGNvbmYsIGR1bW15X2xvZ2dlcikK</text>
+        <text encoding="base64">ICAgIHNicF9oYW5kbGVyIDogc2JwLmNsaWVudC5IYW5kbGVyCiAgICAgICAgQW4gaW5pdGlhbGl6ZWQgU0JQIEhhbmRsZXIgY29ubmVjdGVkIHRvIHRoZSBEVVQuCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>It is expected to contain the
-        following key-value pairs:
-
-        firmware_com_port
-            Path to the COM port connected to UART1 on the Piksi DUT.</text>
+      <register name="2" type="2">
+        <text encoding="base64">VkVSQk9TRSA9IEZhbHNlCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>It is expected to contain the
-        following key-value pairs:</text>
+      <register name="3" type="2">
+        <text encoding="base64">VElNRU9VVCA9IDUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzYnAuY2xpZW50LmRyaXZlcnMubmV0d29ya19kcml2ZXJzIGltcG9ydCBUQ1BEcml2ZXIK</text>
+        <text encoding="base64">QkFVRF9SQVRFID0gMTE1MjAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QkFVRF9SQVRFID0gMTE1MjAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGF0aCB0byB0aGUgQ09NIHBvcnQgY29ubmVjdGVkIHRvIFVBUlQxIG9uIHRoZSBQaWtzaSBEVVQuCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJtd2FyZV9jb21fcG9ydAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHNldCByZWFzb25hYmxlIGRlZmF1bHRzIGZvciBkcml2ZXIgY29uZmlndXJhdGlvbgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGFjY2VwdCBwYXJhbWV0ZXJzIGZvciBkcml2ZXIgY29uZmlndXJhdGlvbgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2VkIHNvbWUgdGVzdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>gyro</last-search>
+      <last-search>handler</last-search>
       <last-offset />
-      <last-pattern>gyro</last-pattern>
-      <last-replace />
-      <last-substitute>' '</last-substitute>
+      <last-pattern>handler</last-pattern>
+      <last-replace>sbp_handler</last-replace>
+      <last-substitute>handler</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>+</entry>
         <entry>bosch</entry>
         <entry>bm</entry>
         <entry>PySerialDriver</entry>
@@ -771,10 +765,9 @@
         <entry>conf</entry>
         <entry>data_file</entry>
         <entry>gyro</entry>
+        <entry>handler</entry>
       </history-search>
       <history-cmd>
-        <entry>82,96y</entry>
-        <entry>136,143y</entry>
         <entry>60,76y</entry>
         <entry>.,.+2w</entry>
         <entry>s/,/\r/g</entry>
@@ -792,6 +785,8 @@
         <entry>96,105d</entry>
         <entry>106,115y</entry>
         <entry>.w</entry>
+        <entry encoding="base64">MTYwLDE3Mzw=</entry>
+        <entry>200,224s/handler/sbp_handler/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
