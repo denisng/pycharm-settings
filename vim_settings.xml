@@ -525,12 +525,12 @@
         <mark key="." line="147" column="19" />
         <mark key="^" line="147" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1550099022096">
-        <mark key="'" line="153" column="57" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="149" column="16" />
-        <mark key="^" line="149" column="16" />
-        <mark key="." line="149" column="16" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1550099957704">
+        <mark key="'" line="154" column="57" />
+        <mark key="[" line="182" column="56" />
+        <mark key="]" line="183" column="44" />
+        <mark key="." line="183" column="44" />
+        <mark key="^" line="183" column="44" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -730,7 +730,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>is this flag important?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
@@ -739,31 +739,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnZlcmJvc2UgPSB2ZXJib3NlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlX2xvZ2dlci5kZWJ1ZygnYGltdV9jYWxgIHdhcyBzZXQgaW4gY29uZicpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjb25zb2xlX2xvZyBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGVfbG9nZ2VyLmRlYnVnKGNvbmZbJ2ltdV9jYWwnXSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlX2xvZ2dlci5kZWJ1ZygnYGltdV9jYWxgIHdhcyBzZXQgaW4gY29uZicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbGFzaF9vZmZzZXQK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGVfbG9nZ2VyLmRlYnVnKGNvbmZbJ2ltdV9jYWwnXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1fb2Zmc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbGFzaF9vZmZzZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICBzaXplCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICBtZW1fb2Zmc2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
