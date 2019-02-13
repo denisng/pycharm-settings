@@ -378,6 +378,12 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/uboot_control.py" timestamp="1550096165259">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="155" column="42" />
+        <mark key="^" line="155" column="42" />
+        <mark key="." line="155" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" timestamp="1547843171127">
         <mark key="[" line="211" column="132" />
         <mark key="]" line="211" column="5" />
@@ -729,28 +735,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGVfbG9nZ2VyLmluZm8oJ3RoaXMgaXMgYSB0ZXN0IG9mIHRoZSBlbWVyZ2VuY3kgYnJvYWRjYXN0IHN5c3RlbScpCg==</text>
+        <text encoding="base64">ICAgICAgICBmbGFzaF9vZmZzZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAibG9nX21zZyI6ICJjYWxjdWxhdGluZyBneXJvIGJpYXMiLAogICAgICAgICJmdW5jdGlvbiI6IGNoZWNrX2d5cm9fYmlhcywKICAgICAgICAicmV0cnlfbnVtIjogMywKICAgICAgICAicmV0cnlfZm4iOiAicG93ZXJfY3ljbGVfcmV0cnlfbm9fanRhZyIsCiAgICAgICAgImFsbG93ZWRfdGVzdF9maXh0dXJlIjogWyJsYXJzb25fbWZnX3Rlc3QiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZXZhbF9qdGFnIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImV2YWxfYmFzZSJdLAogICAgICAgICJmaXJzdF92b2x0YWdlX29ubHkiOiBUcnVlCiAgICB9LAogICAgewogICAgICAgICJsb2dfbXNnIjogImxvY2F0aW5nIGltdSBjYWwgaW5mbyIsCiAgICAgICAgImZ1bmN0aW9uIjogbG9hZF9pbXVfY2FsLAogICAgICAgICJyZXRyeV9udW0iOiAxLAogICAgICAgICJyZXRyeV9mbiI6IE5vbmUsCiAgICAgICAgImFsbG93ZWRfdGVzdF9maXh0dXJlIjogWyJsYXJzb25fbWZnX3Rlc3QiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZXZhbF9qdGFnIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImV2YWxfYmFzZSJdLAogICAgICAgICJmaXJzdF92b2x0YWdlX29ubHkiOiBUcnVlCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBzaXplCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBtZW1fb2Zmc2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyLmRlYnVnKCdmcmVzaF9ib290PVRydWUnKQoK</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGVfbG9nZ2VyLmluZm8oJ3RoaXMgaXMgYSB0ZXN0IG9mIHRoZSBlbWVyZ2VuY3kgYnJvYWRjYXN0IHN5c3RlbScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAibG9nX21zZyI6ICJjYWxjdWxhdGluZyBneXJvIGJpYXMiLAogICAgICAgICJmdW5jdGlvbiI6IGNoZWNrX2d5cm9fYmlhcywKICAgICAgICAicmV0cnlfbnVtIjogMywKICAgICAgICAicmV0cnlfZm4iOiAicG93ZXJfY3ljbGVfcmV0cnlfbm9fanRhZyIsCiAgICAgICAgImFsbG93ZWRfdGVzdF9maXh0dXJlIjogWyJsYXJzb25fbWZnX3Rlc3QiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZXZhbF9qdGFnIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImV2YWxfYmFzZSJdLAogICAgICAgICJmaXJzdF92b2x0YWdlX29ubHkiOiBUcnVlCiAgICB9LAogICAgewogICAgICAgICJsb2dfbXNnIjogImxvY2F0aW5nIGltdSBjYWwgaW5mbyIsCiAgICAgICAgImZ1bmN0aW9uIjogbG9hZF9pbXVfY2FsLAogICAgICAgICJyZXRyeV9udW0iOiAxLAogICAgICAgICJyZXRyeV9mbiI6IE5vbmUsCiAgICAgICAgImFsbG93ZWRfdGVzdF9maXh0dXJlIjogWyJsYXJzb25fbWZnX3Rlc3QiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZXZhbF9qdGFnIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImV2YWxfYmFzZSJdLAogICAgICAgICJmaXJzdF92b2x0YWdlX29ubHkiOiBUcnVlCiAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
