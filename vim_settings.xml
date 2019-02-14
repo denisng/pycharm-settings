@@ -150,8 +150,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1550098413580">
+      <file name="/Python Console" timestamp="1550106917126">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" timestamp="1545099489328">
         <mark key="[" line="76" column="8" />
@@ -236,19 +239,19 @@
         <mark key="^" line="402" column="38" />
         <mark key="." line="405" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/post_burn_test_lists.py" timestamp="1550105895470">
-        <mark key="'" line="148" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="30" column="29" />
-        <mark key="." line="147" column="19" />
-        <mark key="^" line="147" column="19" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/post_burn_test_lists.py" timestamp="1550108082689">
+        <mark key="'" line="128" column="4" />
+        <mark key="[" line="50" column="20" />
+        <mark key="]" line="50" column="21" />
+        <mark key="^" line="51" column="41" />
+        <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1550104999202">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1550108188081">
         <mark key="'" line="150" column="1" />
-        <mark key="[" line="201" column="42" />
-        <mark key="]" line="201" column="48" />
-        <mark key="^" line="201" column="48" />
-        <mark key="." line="201" column="48" />
+        <mark key="[" line="145" column="41" />
+        <mark key="]" line="145" column="44" />
+        <mark key="^" line="145" column="44" />
+        <mark key="." line="145" column="44" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -589,6 +592,10 @@
         <mark key="^" line="469" column="26" />
         <mark key="." line="469" column="26" />
       </file>
+      <file name="/post_burn_test_lists.py" timestamp="1550107375181">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="58" />
+      </file>
       <file name="D:/Documents/Python/Projects/ip-table-banger/src/__init__.py" timestamp="1524363947612">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="60" column="0" />
@@ -609,11 +616,11 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="58" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_imu_calibration.py" timestamp="1550105924744">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="53" />
-        <mark key="." line="14" column="53" />
-        <mark key="^" line="14" column="53" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_imu_calibration.py" timestamp="1550108144326">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="11" column="58" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" timestamp="1546467774749">
         <mark key="'" line="10" column="0" />
@@ -736,40 +743,40 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Verifying IMU Calibration data is available</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHN5c19sb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcigndGVzdF9jb250cm9sbGVyJykKICAgIHN5c19sb2dnZXIuaW5mbygnTG9hZGluZyBJTVUgQ2FsaWJyYXRpb24nKQoKICAgIGltdV9jYWwgPSBnZXRfaW11X2NhbChjb25mWydtZmdfaWQnXSwgY29uZlsnZGV2aWNlX2RiJ10pCgogICAgaWYgY29uZi5nZXQoJ3JlcXVpcmVfaW11X2NhbGlicmF0aW9uJyk6CiAgICAgICAgaWYgbm90IGxvZ2dlci5sb2dBc3NlcnQoImltdV9jYWxpYnJhdGlvbl9mb3VuZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW11X2NhbCBpcyBub3QgTm9uZSwgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndm9sdGFnZSc6IHZvbHRhZ2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCgogICAgIyB0aGlzIGlzIGFuIElNVVBhcmFtcyBpbnN0YW5jZSB3aXRoIHRoZSBJTVUgY2FsaWJyYXRpb24gZGF0YSBmb3IKICAgICMgdGhlIGNvcnJlc3BvbmRpbmcgRFVUCiAgICBjb25mWydpbXVfY2FsJ10gPSBpbXVfY2FsCg==</text>
+      <register name="0" type="4">
+        <text>conf['mfg_id'], conf['device_db']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN5c19sb2dnZXIgPSAK</text>
+        <text encoding="base64">CmltcG9ydCBsb2dnaW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN5cwo=</text>
+        <text encoding="base64">ICAgIExvZ3MgUEFTUy9GQUlMIGludG8gdGVzdCByZWNvcmRzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZhaWxzIHRlc3QgaWYgcmVxdWlyZWQgYnV0IG5vdCBhdmFpbGFibGUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0tLS0tLS0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJldHVybnMK</text>
+        <text encoding="base64">ICAgIHN5c19sb2dnZXIuaW5mbygnQ2hlY2tpbmcgZm9yIElNVSBDYWxpYnJhdGlvbiBkYXRhJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN5c19sb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcigndGVzdF9jb250cm9sbGVyJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgdGhpcyAqdGVzdCogbWF5IAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25mWydpbXVfY2FsJ10gPSBpbXVfY2FsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmYK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogdGhpcyBpcyAqKk5PVCoqIHByb3BhZ2F0aW5nIGluIGZyb20gYW5vdGhlciBzdGVwISEhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
