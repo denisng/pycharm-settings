@@ -246,12 +246,12 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1550108188081">
-        <mark key="'" line="150" column="1" />
-        <mark key="[" line="145" column="41" />
-        <mark key="]" line="145" column="44" />
-        <mark key="^" line="145" column="44" />
-        <mark key="." line="145" column="44" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1550110839313">
+        <mark key="'" line="151" column="1" />
+        <mark key="[" line="92" column="37" />
+        <mark key="]" line="92" column="41" />
+        <mark key="." line="92" column="41" />
+        <mark key="^" line="92" column="41" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -578,12 +578,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1550023681281">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1550110628885">
         <mark key="'" line="29" column="69" />
-        <mark key="[" line="262" column="31" />
-        <mark key="]" line="263" column="11" />
-        <mark key="." line="263" column="11" />
-        <mark key="^" line="263" column="11" />
+        <mark key="[" line="74" column="15" />
+        <mark key="]" line="74" column="15" />
+        <mark key="." line="74" column="15" />
+        <mark key="^" line="74" column="15" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/dbPowerAndTempPlot.py" timestamp="1514746806979">
         <mark key="'" line="405" column="0" />
@@ -743,7 +743,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>flow out</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
@@ -752,31 +752,31 @@
         <text>conf['mfg_id'], conf['device_db']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmltcG9ydCBsb2dnaW5nCg==</text>
+        <text encoding="base64">ICAgICMgaWYgdGhpcyBzb21laG93IGdldHMgYSBgYE5vbmVgYCBpbnN0ZWFkIG9mIGEgc3RyaW5nLCB0aGUgcmV0dXJuZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExvZ3MgUEFTUy9GQUlMIGludG8gdGVzdCByZWNvcmRzLgo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHN0cihkYXRhKSBhcyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEZhaWxzIHRlc3QgaWYgcmVxdWlyZWQgYnV0IG5vdCBhdmFpbGFibGUuCg==</text>
+        <text encoding="base64">CmltcG9ydCBsb2dnaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExvZ3MgUEFTUy9GQUlMIGludG8gdGVzdCByZWNvcmRzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN5c19sb2dnZXIuaW5mbygnQ2hlY2tpbmcgZm9yIElNVSBDYWxpYnJhdGlvbiBkYXRhJykK</text>
+        <text encoding="base64">ICAgIEZhaWxzIHRlc3QgaWYgcmVxdWlyZWQgYnV0IG5vdCBhdmFpbGFibGUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN5c19sb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcigndGVzdF9jb250cm9sbGVyJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgdGhpcyAqdGVzdCogbWF5IAoK</text>
+        <text encoding="base64">ICAgIHN5c19sb2dnZXIuaW5mbygnQ2hlY2tpbmcgZm9yIElNVSBDYWxpYnJhdGlvbiBkYXRhJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mWydpbXVfY2FsJ10gPSBpbXVfY2FsCg==</text>
+        <text encoding="base64">ICAgIHN5c19sb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcigndGVzdF9jb250cm9sbGVyJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogdGhpcyBpcyAqKk5PVCoqIHByb3BhZ2F0aW5nIGluIGZyb20gYW5vdGhlciBzdGVwISEhCg==</text>
+        <text encoding="base64">ICAgICMgdGhpcyAqdGVzdCogbWF5IAoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
