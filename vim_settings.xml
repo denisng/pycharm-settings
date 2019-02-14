@@ -246,12 +246,12 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1550110839313">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1550111822734">
         <mark key="'" line="151" column="1" />
-        <mark key="[" line="92" column="37" />
-        <mark key="]" line="92" column="41" />
-        <mark key="." line="92" column="41" />
-        <mark key="^" line="92" column="41" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="239" column="57" />
+        <mark key="." line="239" column="57" />
+        <mark key="^" line="239" column="57" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -743,7 +743,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>flow out</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
