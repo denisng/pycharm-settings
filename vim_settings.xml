@@ -246,12 +246,11 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1550189024331">
-        <mark key="'" line="149" column="1" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="^" line="146" column="24" />
-        <mark key="." line="152" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1550189622610">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="^" line="95" column="61" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -752,31 +751,31 @@
         <text>conf['mfg_id'], conf['device_db']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvcnJ1cHRlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mWydpbXVfY2FsJ10gPSBpbXVfY2FsCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGxhdGVyIHJldmlldyB0byBkZXRlcm1pbmUgdGhlIHBvaW50IGF0IHdoaWNoIHRoZSBkYXRhIGJlY2FtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9yZGVyIHRvIHVwZGF0ZSB0aGUgdmFsdWVzIHN0b3JlZCBpbiBmYWN0b3J5IGRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAjIGluIHRoZSBldmVudCBvZiBmYWlsdXJlLCBhbGwgdGhlICouZGF0IGZpbGVzIGFyZSBzdG9yZWQgZm9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIElNVVBhcmFtcyBvYmplY3QgYmVpbmcgYXNzb2NpYXRlZCB3aXRoIGBgY29uZlsnaW11X2NhbCddYGAgaW4K</text>
+        <text encoding="base64">ICAgICMgaW5mb3JtYXRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoZSBmYWN0b3J5IGRhdGEgZW5jb2Rpbmcgc3RlcCBmdXJ0aGVyIGRvd24gZGVwZW5kcyBvbiBhbgo=</text>
+        <text encoding="base64">ICAgICMgdGhlIHdyaXRlIG9wZXJhdGlvbnMgKCouZGF0IC0+IFJBTSAtPiBmbGFzaCkgZGlkIG5vdCBjb3JydXB0IHRoZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltdV9jYWwgPSBnZXRfaW11X2NhbChjb25mWydtZmdfaWQnXSwgY29uZlsnZGV2aWNlX2RiJ10pCg==</text>
+        <text encoding="base64">ICAgICMgY2hlY2tzIHRoZSBDUkMgb2YgdGhlIG5ld2x5IHVwZGF0ZWQgZmFjdG9yeSBkYXRhIHRvIGVuc3VyZSB0aGF0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcGF0aCBvZiBsZWFzdCByZXNpc3RhbmNlIHRvIHVwZGF0ZSBpbXUgY2FsaWJyYXRpb24gZGF0YQo=</text>
+        <text encoding="base64">ICAgICMgeWV0IGFub3RoZXIgKi5kYXQgZmlsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgaWYgdGhpcyBzb21laG93IGdldHMgYSBgYE5vbmVgYCBpbnN0ZWFkIG9mIGEgc3RyaW5nLCB0aGUgcmV0dXJuZWQK</text>
+        <text encoding="base64">ICAgICMgcmVhZHMgdGhlIG5ld2x5IHJldHJpZXZlZCBmYWN0b3J5IGRhdGEgZnJvbSBSQU0gYW5kIGR1bXBzIGl0IGludG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHN0cihkYXRhKSBhcyAK</text>
+        <text encoding="base64">ICAgICAgICAjIGZhaWxzIHRoZSB0ZXN0IGlmIHRoZSBmbGFzaCAtPiBSQU0gcmVhZCBmYWlsZWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
