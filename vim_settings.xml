@@ -417,10 +417,10 @@
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1549921318461">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1550197713725">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="18" />
+        <mark key="." line="28" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1543351254104">
         <mark key="[" line="19" column="70" />
@@ -778,7 +778,7 @@
         <text encoding="base64">ICAgICAgICAjIGZhaWxzIHRoZSB0ZXN0IGlmIHRoZSBmbGFzaCAtPiBSQU0gcmVhZCBmYWlsZWQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -821,7 +821,6 @@
         <entry>186,195y</entry>
         <entry>W</entry>
         <entry>qw</entry>
-        <entry>q</entry>
         <entry>53,62d</entry>
         <entry>96,105d</entry>
         <entry>106,115y</entry>
@@ -834,6 +833,7 @@
         <entry>17,27y</entry>
         <entry>17,31y</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
