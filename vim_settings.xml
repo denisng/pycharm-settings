@@ -246,12 +246,12 @@
         <mark key="^" line="51" column="41" />
         <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1550111822734">
-        <mark key="'" line="151" column="1" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="239" column="57" />
-        <mark key="." line="239" column="57" />
-        <mark key="^" line="239" column="57" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1550189024331">
+        <mark key="'" line="149" column="1" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="^" line="146" column="24" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -616,11 +616,11 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="58" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_imu_calibration.py" timestamp="1550108144326">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="11" column="58" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_imu_calibration.py" timestamp="1550188764971">
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="24" column="44" />
+        <mark key="^" line="24" column="44" />
+        <mark key="." line="24" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_data.py" timestamp="1546467774749">
         <mark key="'" line="10" column="0" />
@@ -743,7 +743,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>imu_cal:</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
@@ -752,31 +752,31 @@
         <text>conf['mfg_id'], conf['device_db']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgaWYgdGhpcyBzb21laG93IGdldHMgYSBgYE5vbmVgYCBpbnN0ZWFkIG9mIGEgc3RyaW5nLCB0aGUgcmV0dXJuZWQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHN0cihkYXRhKSBhcyAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CmltcG9ydCBsb2dnaW5nCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIExvZ3MgUEFTUy9GQUlMIGludG8gdGVzdCByZWNvcmRzLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEZhaWxzIHRlc3QgaWYgcmVxdWlyZWQgYnV0IG5vdCBhdmFpbGFibGUuCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25mWydpbXVfY2FsJ10gPSBpbXVfY2FsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIG9yZGVyIHRvIHVwZGF0ZSB0aGUgdmFsdWVzIHN0b3JlZCBpbiBmYWN0b3J5IGRhdGEK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIElNVVBhcmFtcyBvYmplY3QgYmVpbmcgYXNzb2NpYXRlZCB3aXRoIGBgY29uZlsnaW11X2NhbCddYGAgaW4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIHRoZSBmYWN0b3J5IGRhdGEgZW5jb2Rpbmcgc3RlcCBmdXJ0aGVyIGRvd24gZGVwZW5kcyBvbiBhbgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGltdV9jYWwgPSBnZXRfaW11X2NhbChjb25mWydtZmdfaWQnXSwgY29uZlsnZGV2aWNlX2RiJ10pCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN5c19sb2dnZXIuaW5mbygnQ2hlY2tpbmcgZm9yIElNVSBDYWxpYnJhdGlvbiBkYXRhJykK</text>
+        <text encoding="base64">ICAgICMgcGF0aCBvZiBsZWFzdCByZXNpc3RhbmNlIHRvIHVwZGF0ZSBpbXUgY2FsaWJyYXRpb24gZGF0YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN5c19sb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcigndGVzdF9jb250cm9sbGVyJykK</text>
+        <text encoding="base64">ICAgICMgaWYgdGhpcyBzb21laG93IGdldHMgYSBgYE5vbmVgYCBpbnN0ZWFkIG9mIGEgc3RyaW5nLCB0aGUgcmV0dXJuZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgdGhpcyAqdGVzdCogbWF5IAoK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHN0cihkYXRhKSBhcyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
