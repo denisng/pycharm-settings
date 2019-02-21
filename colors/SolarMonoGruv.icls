@@ -4,7 +4,7 @@
     <property name="created">2016-09-08T20:40:02</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2016.2.3.0.0</property>
-    <property name="modified">2018-12-11T11:50:32</property>
+    <property name="modified">2019-02-20T19:06:28</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -780,9 +780,7 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="BACKGROUND" value="98971a" />
-      </value>
+      <value />
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
