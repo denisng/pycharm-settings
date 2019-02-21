@@ -342,12 +342,12 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1550715380187">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1550716741097">
         <mark key="'" line="238" column="37" />
-        <mark key="[" line="290" column="69" />
-        <mark key="]" line="290" column="69" />
-        <mark key="." line="290" column="69" />
-        <mark key="^" line="290" column="69" />
+        <mark key="[" line="303" column="8" />
+        <mark key="]" line="304" column="42" />
+        <mark key="." line="304" column="42" />
+        <mark key="^" line="304" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1545176214899">
         <mark key="'" line="25" column="0" />
@@ -739,7 +739,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>root-cause-digilent</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
@@ -747,32 +747,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbnNvbGVfY21kID0gW2NvbmZbJ3hpbGlueF9zZGtfeHNkYl9leGVjdXRhYmxlJ10sICctaW50ZXJhY3RpdmUnXQogICAgICAgIHNlbGYuYmluX2RpciA9IGNvbmZbJ2JpbmFyeV9kaXInXQogICAgICAgIHNlbGYuc3lzX2xvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdkaWdpbGVudCcpCgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Error running XSDB for controlling '
+                                  'Digilent JTAG</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFtjb25mWyd4aWxpbnhfc2RrX3hzZGJfZXhlY3V0YWJsZSddLCAnLWludGVyYWN0aXZlJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFtjb25mWyd4aWxpbnhfc2RrX3hzZGJfZXhlY3V0YWJsZSddLCAnLWludGVyYWN0aXZlJ10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY29uc29sZV9jbWQgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYuY29uc29sZV9jbWQgPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
