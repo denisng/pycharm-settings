@@ -106,6 +106,12 @@
         <mark key="." line="109" column="64" />
         <mark key="^" line="109" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/dng-nuc/configuration.nix" timestamp="1551138765860">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/settings.py" timestamp="1512538038097">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="21" column="39" />
@@ -732,7 +738,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>input.split('\n'</text>
+        <text>lab-super-banzai</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
