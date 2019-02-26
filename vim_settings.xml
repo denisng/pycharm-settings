@@ -348,6 +348,12 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551145457061">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1545176214899">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="39" column="55" />
@@ -738,7 +744,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>lab-super-banzai</text>
+        <text>jtag_connecter</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
@@ -747,31 +753,31 @@
         <text>'xilinx_sdk_xsdb_executable'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAneGlsaW54X3Nka194c2RiX2V4ZWN1dGFibGUnOiAvYmluL3hzZGIK</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IGlucHV0Cg==</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZWYgb3BlbihzZWxmKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYuc3VicHJvY2VzcyA9IHN1YnByb2Nlc3MuUG9wZW4oCiAgICAgICAgICAgICAgICBzZWxmLmNvbnNvbGVfY21kLAogICAgICAgICAgICAgICAgc3RkaW49c3VicHJvY2Vzcy5QSVBFLAogICAgICAgICAgICAgICAgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSwKICAgICAgICAgICAgICAgIHN0ZGVycj1zdWJwcm9jZXNzLlNURE9VVCkKCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgZXhjID0gdHJhY2ViYWNrLmZvcm1hdF9leGMoKQogICAgICAgICAgICBsb2dfbXVsdGlfbGluZXMoc2VsZi5zeXNfbG9nZ2VyLmRlYnVnLCBleGMpCiAgICAgICAgICAgIHNlbGYuc3lzX2xvZ2dlci5lcnJvcignY291bGQgbm90IG9wZW4gWFNEQicpCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAneGlsaW54X3Nka194c2RiX2V4ZWN1dGFibGUnOiAvYmluL3hzZGIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZSA9ICd4c2RiID4+PiAnICsgbGluZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZSA9IHJlLnN1YihyJ3hzZGIlJywgJycsIGxpbmUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGlucHV0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
