@@ -336,11 +336,11 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551220312651">
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="0" />
-        <mark key="." line="276" column="0" />
-        <mark key="^" line="275" column="7" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551221968670">
+        <mark key="[" line="275" column="10" />
+        <mark key="]" line="275" column="49" />
+        <mark key="." line="275" column="49" />
+        <mark key="^" line="275" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1545176214899">
         <mark key="'" line="25" column="0" />
