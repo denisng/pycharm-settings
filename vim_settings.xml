@@ -343,12 +343,12 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551226471223">
-        <mark key="'" line="162" column="0" />
-        <mark key="[" line="148" column="38" />
-        <mark key="]" line="148" column="39" />
-        <mark key="." line="148" column="39" />
-        <mark key="^" line="148" column="39" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551230499716">
+        <mark key="'" line="178" column="0" />
+        <mark key="[" line="188" column="14" />
+        <mark key="]" line="188" column="23" />
+        <mark key="." line="188" column="23" />
+        <mark key="^" line="188" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1545176214899">
         <mark key="'" line="25" column="0" />
@@ -399,11 +399,11 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1550024662544">
-        <mark key="[" line="24" column="71" />
-        <mark key="]" line="24" column="71" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1551230645948">
+        <mark key="[" line="105" column="26" />
+        <mark key="]" line="105" column="26" />
         <mark key="^" line="24" column="71" />
-        <mark key="." line="24" column="71" />
+        <mark key="." line="105" column="26" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/audit_logging.py" timestamp="1512549441129">
         <mark key="'" line="19" column="2" />
@@ -734,7 +734,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
@@ -743,31 +743,31 @@
         <text encoding="base64">ICAgIGFybV9qdGFnX2Nvbm5lY3RlZCA9IGRpZ2lsZW50LmNoZWNrX2p0YWdfY29ubmVjdGVkKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGp0YWdfY29ubmVjdGVkID0gVHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvYy5zdGRpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZ2lsZW50X2Nvbm5lY3RlZCA9IFRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF8sIGFybV9qdGFnX2Nvbm5lY3RlZCA9IGRpZ2lsZW50LmNoZWNrX2h3KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnQVJNIENvcnRleC1BOScgaW4gc3Rkb3V0Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF8sIGFybV9qdGFnX2Nvbm5lY3RlZCA9IGRpZ2lsZW50LmNoZWNrX2h3KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zeXNfbG9nZ2VyLmVycm9yKCdYU0RCIGVycm9yJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zeXNfbG9nZ2VyLmVycm9yKCdYU0RCIGVycm9yJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zeXNfbG9nZ2VyLmVycm9yKCdYU0RCIGVycm9yJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lb3V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlnaWxlbnRfY29ubmVjdGVkID0gRmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAganRhZ19jb25uZWN0ZWQgPSBGYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
