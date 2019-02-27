@@ -144,6 +144,12 @@
         <mark key="." line="11" column="7" />
         <mark key="^" line="12" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_hw.py" timestamp="1551226368727">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+      </file>
       <file name="D:/Documents/GitHub/py-prj-core/.gitignore" timestamp="1502443391491">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="9" />
@@ -273,6 +279,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551226399970">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="44" column="54" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" timestamp="1514746889796">
         <mark key="'" line="362" column="28" />
         <mark key="[" line="379" column="0" />
@@ -331,12 +343,12 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551224070600">
-        <mark key="'" line="280" column="0" />
-        <mark key="[" line="82" column="14" />
-        <mark key="]" line="82" column="23" />
-        <mark key="." line="82" column="23" />
-        <mark key="^" line="82" column="23" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551226471223">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="148" column="38" />
+        <mark key="]" line="148" column="39" />
+        <mark key="." line="148" column="39" />
+        <mark key="^" line="148" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1545176214899">
         <mark key="'" line="25" column="0" />
@@ -616,15 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="73" column="47" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="211" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="29" column="69" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="114" column="15" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
-      <jump line="84" column="5" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/post_burn_test_lists.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/post_burn_test_lists.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
-      <jump line="64" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
       <jump line="65" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
       <jump line="124" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
@@ -716,6 +719,15 @@
       <jump line="260" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
       <jump line="269" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
       <jump line="280" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
+      <jump line="140" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
+      <jump line="143" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -727,35 +739,35 @@
       <register name="/" type="4">
         <text>logging</text>
       </register>
-      <register name="0" type="4">
-        <text>'xilinx_sdk_xsdb_executable'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFybV9qdGFnX2Nvbm5lY3RlZCA9IGRpZ2lsZW50LmNoZWNrX2p0YWdfY29ubmVjdGVkKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvYy5zdGRpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgIF8sIGFybV9qdGFnX2Nvbm5lY3RlZCA9IGRpZ2lsZW50LmNoZWNrX2h3KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zCg==</text>
+        <text encoding="base64">ICAgIF8sIGFybV9qdGFnX2Nvbm5lY3RlZCA9IGRpZ2lsZW50LmNoZWNrX2h3KCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JpcHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lb3V0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
