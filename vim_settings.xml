@@ -337,6 +337,12 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551309497079">
+        <mark key="[" line="201" column="32" />
+        <mark key="]" line="201" column="54" />
+        <mark key="^" line="201" column="54" />
+        <mark key="." line="201" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/retry.py" timestamp="1545176214899">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="39" column="55" />
@@ -726,7 +732,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>Sourcing TCL file...</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
@@ -735,31 +741,31 @@
         <text encoding="base64">ICAgICAgICBwcm9jLnN0ZGluLndyaXRlKCdyc3RcbicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9jLnN0ZGluLndyaXRlKCdwdXRzICJIb2xkaW5nIHByb2Nlc3NvciBpbiByZXNldC4uLiJcbicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9jLnN0ZGluLndyaXRlKCdwdXRzICJIb2xkaW5nIHByb2Nlc3NvciBpbiByZXNldCInKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoYXQgcHV0cyB1LWJvb3Qgb24gVUFSVDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGp0YWdfY29ubmVjdGVkID0gVHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZ2lsZW50X2Nvbm5lY3RlZCA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICAjIHRoYXQgcHV0cyB1LWJvb3Qgb24gVUFSVDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnQVJNIENvcnRleC1BOScgaW4gc3Rkb3V0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGp0YWdfY29ubmVjdGVkID0gVHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zeXNfbG9nZ2VyLmVycm9yKCdYU0RCIGVycm9yJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZ2lsZW50X2Nvbm5lY3RlZCA9IFRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zeXNfbG9nZ2VyLmVycm9yKCdYU0RCIGVycm9yJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnQVJNIENvcnRleC1BOScgaW4gc3Rkb3V0Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
