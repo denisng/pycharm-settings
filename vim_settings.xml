@@ -210,9 +210,11 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/wdt_test/src/helloworld.c" timestamp="1551321249590">
-        <mark key="[" line="74" column="4" />
-        <mark key="]" line="74" column="26" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/wdt_test/src/helloworld.c" timestamp="1551322417701">
+        <mark key="[" line="83" column="1" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/runner.py" timestamp="1548730446096">
         <mark key="'" line="21" column="24" />
@@ -744,7 +746,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
