@@ -210,11 +210,11 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/wdt_test/src/helloworld.c" timestamp="1551322417701">
-        <mark key="[" line="83" column="1" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/wdt_test/src/helloworld.c" timestamp="1551324708030">
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="75" column="29" />
+        <mark key="^" line="73" column="64" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/runner.py" timestamp="1548730446096">
         <mark key="'" line="21" column="24" />
@@ -288,10 +288,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551314294878">
-        <mark key="]" line="13" column="41" />
-        <mark key="." line="13" column="41" />
-        <mark key="^" line="13" column="41" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551324642332">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="29" />
+        <mark key="^" line="33" column="29" />
+        <mark key="." line="33" column="29" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" timestamp="1514746889796">
         <mark key="'" line="362" column="28" />
@@ -746,40 +747,40 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>... but...</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
       </register>
       <register name="0" type="4">
-        <text>XGpioPs_SetDirectionPin</text>
+        <text>XGpioPs_SetOutputEnablePin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIE9GRgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jLnN0ZGluLndyaXRlKCdwdXRzICJIb2xkaW5nIHByb2Nlc3NvciBpbiByZXNldC4uLiJcbicpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIEkgZG9uJ3QgdGhpbmsgdGhlIE1JQzIwOTAgRkVUIHB1bGxzIGRvd24gd2hlbiB0aGUgc3dpdGNoIGlzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jLnN0ZGluLndyaXRlKCdwdXRzICJIb2xkaW5nIHByb2Nlc3NvciBpbiByZXNldCInKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRoZSBiYXJlLW1ldGFsIGNvZGUgY291bnRlcnMK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIGNvbm5lY3QgdG8gbmV0IEVORVQwX1JTVAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoYXQgcHV0cyB1LWJvb3Qgb24gVUFSVDAK</text>
+        <text encoding="base64">ICAgIC8qIHRoaXMgaXMgcGluIFBTX01JTzBfNTAwIG9uIHRoZSBzY2hlbWF0aWMgd2hpY2ggaGFwcGVucyB0bwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGp0YWdfY29ubmVjdGVkID0gVHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZ2lsZW50X2Nvbm5lY3RlZCA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICBwcm9jLnN0ZGluLndyaXRlKCdwdXRzICJIb2xkaW5nIHByb2Nlc3NvciBpbiByZXNldC4uLiJcbicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
