@@ -210,6 +210,10 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/wdt_test/src/helloworld.c" timestamp="1551321249590">
+        <mark key="[" line="74" column="4" />
+        <mark key="]" line="74" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/runner.py" timestamp="1548730446096">
         <mark key="'" line="21" column="24" />
         <mark key="[" line="0" column="17" />
@@ -745,8 +749,8 @@
       <register name="/" type="4">
         <text>#</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jLnN0ZGluLndyaXRlKCdyc3RcbicpCg==</text>
+      <register name="0" type="4">
+        <text>XGpioPs_SetDirectionPin</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
