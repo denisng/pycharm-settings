@@ -288,12 +288,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551421241331">
-        <mark key="'" line="70" column="15" />
-        <mark key="[" line="94" column="17" />
-        <mark key="]" line="95" column="44" />
-        <mark key="." line="95" column="44" />
-        <mark key="^" line="95" column="44" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551479743156">
+        <mark key="'" line="74" column="15" />
+        <mark key="[" line="94" column="13" />
+        <mark key="]" line="95" column="52" />
+        <mark key="." line="95" column="52" />
+        <mark key="^" line="95" column="52" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" timestamp="1514746889796">
         <mark key="'" line="362" column="28" />
@@ -353,11 +353,11 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551421343327">
-        <mark key="[" line="42" column="50" />
-        <mark key="]" line="42" column="65" />
-        <mark key="." line="42" column="65" />
-        <mark key="^" line="42" column="65" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551480122709">
+        <mark key="[" line="57" column="50" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="57" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551309497079">
         <mark key="[" line="201" column="32" />
@@ -589,12 +589,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1550110628885">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1551479786284">
         <mark key="'" line="29" column="69" />
-        <mark key="[" line="74" column="15" />
-        <mark key="]" line="74" column="15" />
-        <mark key="." line="74" column="15" />
-        <mark key="^" line="74" column="15" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="71" column="68" />
+        <mark key="." line="71" column="68" />
+        <mark key="^" line="71" column="68" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/dbPowerAndTempPlot.py" timestamp="1514746806979">
         <mark key="'" line="405" column="0" />
@@ -754,40 +754,40 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>rework. the test logic is wrong</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
       </register>
-      <register name="0" type="4">
-        <text>usleep(200 * 1000)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybCA9IHN3aXRjaF8zNDk4MGEuU3dpdGNoMzQ5MjNhQ29udHJvbGxlcigKICAgICAgICAgICAgc2VsZi5jb25mWyczNDk4MGFfYWRkciddLCBzZWxmLmNvbmZbJ3B5X3Zpc2FfcmVzb3VyY2VfbWFuYWdlciddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybCA9IHN3aXRjaF8zNDk4MGEuU3dpdGNoMzQ5MjNhQ29udHJvbGxlcigKICAgICAgICAgICAgc2VsZi5jb25mWycnXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgY2hlY2sgdGhlIERVVAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgd2FpdGluZyAzcyBndWFyYW50ZWVzIHRoYXQgdGltZW91dCBwZXJpb2QgaGFzIGV4cGlyZWQgYmVmb3JlIHlvdQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgY2hlY2sgdGhlIERVVAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgd2FpdGluZyAzcyBndWFyYW50ZWVzIHRoYXQgdGltZW91dCBwZXJpb2QgaGFzIGV4cGlyZWQgYmVmb3JlIHlvdQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBhc3NlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGxldHMgdXMgY2F0Y2ggV0RUIGNoaXBzIHRoYXQgdmlvbGF0ZSB0aGUgc3BlYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
