@@ -353,11 +353,10 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551480122709">
-        <mark key="[" line="57" column="50" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="57" column="11" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551492782748">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551309497079">
         <mark key="[" line="201" column="32" />
@@ -763,28 +762,28 @@
         <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybCA9IHN3aXRjaF8zNDk4MGEuU3dpdGNoMzQ5MjNhQ29udHJvbGxlcigKICAgICAgICAgICAgc2VsZi5jb25mWyczNDk4MGFfYWRkciddLCBzZWxmLmNvbmZbJ3B5X3Zpc2FfcmVzb3VyY2VfbWFuYWdlciddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybCA9IHN3aXRjaF8zNDk4MGEuU3dpdGNoMzQ5MjNhQ29udHJvbGxlcigKICAgICAgICAgICAgc2VsZi5jb25mWycnXQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybCA9IHN3aXRjaF8zNDk4MGEuU3dpdGNoMzQ5MjNhQ29udHJvbGxlcigKICAgICAgICAgICAgc2VsZi5jb25mWycnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgY2hlY2sgdGhlIERVVAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgd2FpdGluZyAzcyBndWFyYW50ZWVzIHRoYXQgdGltZW91dCBwZXJpb2QgaGFzIGV4cGlyZWQgYmVmb3JlIHlvdQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgY2hlY2sgdGhlIERVVAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgd2FpdGluZyAzcyBndWFyYW50ZWVzIHRoYXQgdGltZW91dCBwZXJpb2QgaGFzIGV4cGlyZWQgYmVmb3JlIHlvdQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
