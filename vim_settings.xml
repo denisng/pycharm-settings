@@ -361,12 +361,11 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551499841612">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="85" column="8" />
-        <mark key="]" line="85" column="12" />
-        <mark key="." line="85" column="12" />
-        <mark key="^" line="85" column="12" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551729705912">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="83" column="40" />
+        <mark key="." line="83" column="40" />
+        <mark key="^" line="83" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551309497079">
         <mark key="[" line="201" column="32" />
@@ -759,7 +758,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
@@ -768,32 +767,31 @@
         <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybCA9IHN3aXRjaF8zNDk4MGEuU3dpdGNoMzQ5MjNhQ29udHJvbGxlcigKICAgICAgICAgICAgc2VsZi5jb25mWyczNDk4MGFfYWRkciddLAogICAgICAgICAgICBzZWxmLmNvbmZbJ3B5X3Zpc2FfcmVzb3VyY2VfbWFuYWdlciddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcobG9nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TE9HR0UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>is_digital_io_bit_set(
-            RST_CTRL, ENET0_RST_PULL_EN_BIT) else 0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybC53cml0ZV9kaWdpdGFsX2lvKFJTVF9DVFJMLCBvdXRwdXQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoZW50cnkuZm9ybWF0KGJ5dGU9b3V0cHV0LCBjaD1SU1RfQ1RSTCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVzaXJlZAo=</text>
+        <text encoding="base64">ICAgICAgICBlbnRyeSA9ICd3cml0aW5nIHtieXRlOiNifSB0byBtdWx0aXBsZXhlciBjaGFubmVsIHtjaDpkfScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWwK</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBrZWVwIHwgZGVzaXJlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzaXJlZF9zdGF0ZSA9IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
