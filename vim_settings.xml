@@ -168,7 +168,7 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1551498612566">
+      <file name="/Python Console" timestamp="1551736415882">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/switch_34980a.py" timestamp="1551494325671">
@@ -299,12 +299,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551735088271">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551736458956">
         <mark key="'" line="4" column="62" />
-        <mark key="[" line="4" column="62" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="3" />
+        <mark key="[" line="29" column="40" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+        <mark key="^" line="30" column="14" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" timestamp="1514746889796">
         <mark key="'" line="362" column="28" />
@@ -762,7 +762,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
@@ -771,31 +771,31 @@
         <text encoding="base64">ICAgIHdpdGggc2VyaWFsLlNlcmlhbChjb25mWydwaWtzaV9jb21fcG9ydCddLCBiYXVkX3JhdGUsIHRpbWVvdXQ9MSkgYXMgc2VyOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpZ2lsZW50LmRpZ2lsZW50X3J1bl9lbGYod2R0X2VsZikK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBsaW5lOgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXN0X3N0YXJ0ZWQgPSBsaW5lID4gMAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybC53cml0ZV9kaWdpdGFsX2lvKFJTVF9DVFJMX0NIQU5ORUwsIHZhbCkK</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHw9IFJFU0VUX1NJR05BTF9NU0sK</text>
+        <text encoding="base64">ICAgIGRpZ2lsZW50LmRpZ2lsZW50X3J1bl9lbGYod2R0X2VsZikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzZXRfcGluOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHw9IEVORVQwX1JTVF9QVUxMX0VOX01TSwo=</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybC53cml0ZV9kaWdpdGFsX2lvKFJTVF9DVFJMX0NIQU5ORUwsIHZhbCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgd2R0X3JzdF9lbjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHw9IFJFU0VUX1NJR05BTF9NU0sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzZXRfcGluOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
