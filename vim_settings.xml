@@ -299,12 +299,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551731001097">
-        <mark key="'" line="74" column="15" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="90" column="19" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551735088271">
+        <mark key="'" line="4" column="62" />
+        <mark key="[" line="4" column="62" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/PlotAllORTUnits_RandomAudit.py" timestamp="1514746889796">
         <mark key="'" line="362" column="28" />
@@ -656,7 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/register_board.py" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/register_board.py" />
       <jump line="111" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/register_board.py" />
       <jump line="26" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
@@ -756,46 +755,47 @@
       <jump line="85" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
       <jump line="87" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
+      <jump line="4" column="62" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>set_resets(False, False)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgY3VycmVudCA9IHN3aXRjaF9jdHJsLnJlYWRfZGlnaXRhbF9pbyhSU1RfQ1RSTF9DSEFOTkVMKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggc2VyaWFsLlNlcmlhbChjb25mWydwaWtzaV9jb21fcG9ydCddLCBiYXVkX3JhdGUsIHRpbWVvdXQ9MSkgYXMgc2VyOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybC53cml0ZV9kaWdpdGFsX2lvKFJTVF9DVFJMX0NIQU5ORUwsIHZhbCkK</text>
+        <text encoding="base64">ICAgIGRpZ2lsZW50LmRpZ2lsZW50X3J1bl9lbGYod2R0X2VsZikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHw9IFJFU0VUX1NJR05BTF9NU0sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzZXRfcGluOgo=</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybC53cml0ZV9kaWdpdGFsX2lvKFJTVF9DVFJMX0NIQU5ORUwsIHZhbCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHw9IEVORVQwX1JTVF9QVUxMX0VOX01TSwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHw9IFJFU0VUX1NJR05BTF9NU0sK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgd2R0X3JzdF9lbjoK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzZXRfcGluOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHw9IEVORVQwX1JTVF9QVUxMX0VOX01TSwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb25mWydweV92aXNhX3Jlc291cmNlX21hbmFnZXInXSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgd2R0X3JzdF9lbjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb25mWyczNDk4MGFfYWRkciddLAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgPSAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
