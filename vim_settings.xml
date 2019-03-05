@@ -41,6 +41,11 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551827529894">
+        <mark key="[" line="97" column="49" />
+        <mark key="]" line="97" column="49" />
+        <mark key="." line="97" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551309497079">
         <mark key="[" line="201" column="32" />
         <mark key="]" line="201" column="54" />
@@ -76,8 +81,12 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/larson_test_lists.py" timestamp="1551314531965">
-        <mark key="'" line="43" column="8" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/larson_test_lists.py" timestamp="1551826514842">
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="5" column="75" />
+        <mark key="]" line="6" column="62" />
+        <mark key="." line="6" column="62" />
+        <mark key="^" line="6" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1551317103047">
         <mark key="[" line="28" column="17" />
@@ -193,10 +202,11 @@
         <mark key="." line="211" column="5" />
         <mark key="^" line="211" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" timestamp="1551742005073">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" timestamp="1551826889315">
+        <mark key="'" line="0" column="42" />
+        <mark key="[" line="62" column="65" />
+        <mark key="]" line="62" column="80" />
+        <mark key="." line="62" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -256,10 +266,10 @@
         <mark key="^" line="25" column="47" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_loopback.py" timestamp="1551741902481">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_loopback.py" timestamp="1551827126148">
+        <mark key="[" line="34" column="55" />
+        <mark key="]" line="34" column="71" />
+        <mark key="." line="34" column="71" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/meta.json" timestamp="1506660260745">
         <mark key="[" line="1" column="19" />
@@ -285,10 +295,10 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" timestamp="1551744151247">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" timestamp="1551827142481">
+        <mark key="[" line="35" column="55" />
+        <mark key="]" line="35" column="75" />
+        <mark key="." line="35" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_logger.py" timestamp="1551737316929">
         <mark key="'" line="188" column="72" />
@@ -312,10 +322,10 @@
         <mark key="." line="97" column="16" />
         <mark key="^" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf.py" timestamp="1551744056165">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf.py" timestamp="1551827021060">
+        <mark key="[" line="129" column="30" />
+        <mark key="]" line="129" column="39" />
+        <mark key="." line="129" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_imu_calibration.py" timestamp="1550188764971">
         <mark key="[" line="24" column="6" />
@@ -331,17 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
-      <jump line="226" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
-      <jump line="265" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calculate.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_test.py" />
-      <jump line="275" column="7" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
-      <jump line="238" column="37" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
-      <jump line="307" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
       <jump line="282" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
       <jump line="288" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
       <jump line="290" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
@@ -396,7 +395,6 @@
       <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
       <jump line="92" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
       <jump line="60" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
@@ -431,16 +429,28 @@
       <jump line="468" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="467" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="460" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="19" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
+      <jump line="26" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
+      <jump line="14" column="22" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
+      <jump line="20" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
+      <jump line="27" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
+      <jump line="34" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
+      <jump line="41" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
+      <jump line="48" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
+      <jump line="55" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
+      <jump line="61" column="51" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
+      <jump line="62" column="51" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
+      <jump line="0" column="42" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>program</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>multi_lines</text>
+        <text>switch_34980a</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyLmRlYnVnKCdmaW5pc2hlZCBsb2FkaW5nIHByb2R1Y3Rpb24gc29mdHdhcmUnKQo=</text>
@@ -478,9 +488,9 @@
       </register>
     </registers>
     <search>
-      <last-search>multi_lines</last-search>
+      <last-search>switch_34980a</last-search>
       <last-offset />
-      <last-pattern>multi_lines</last-pattern>
+      <last-pattern>switch_34980a</last-pattern>
       <last-replace />
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
@@ -488,8 +498,6 @@
     </search>
     <history>
       <history-search>
-        <entry>)</entry>
-        <entry encoding="base64">XDwxXD4=</entry>
         <entry>smoothpose</entry>
         <entry>load_smoothpose</entry>
         <entry>rerun_license</entry>
@@ -508,6 +516,8 @@
         <entry>#</entry>
         <entry>piksi_com_port</entry>
         <entry>multi_lines</entry>
+        <entry>switch_ctrl</entry>
+        <entry>switch_34980a</entry>
       </history-search>
       <history-cmd>
         <entry>46,49y</entry>
