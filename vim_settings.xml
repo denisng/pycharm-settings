@@ -147,6 +147,12 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1551753918362">
+        <mark key="[" line="182" column="32" />
+        <mark key="]" line="182" column="32" />
+        <mark key="." line="182" column="32" />
+        <mark key="^" line="182" column="32" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="48" />
@@ -437,7 +443,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>34950a</text>
+        <text>flash</text>
       </register>
       <register name="/" type="4">
         <text>multi_lines</text>
@@ -445,32 +451,33 @@
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgQ2hlY2tSZXNldHMoQWJzdHJhY3RUZXN0KToK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmaXhpbmcgV0RUIHRlc3RzIHRvIHdvcmsgd2l0aCB1LWJvb3QgSlRBRyBkaXNhYmxlCg==</text>
+      <register name="1" type="4">
+        <text>, so we think
+        # everything is hunky-dory</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyLmRlYnVnKCcnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBmaXhpbmcgV0RUIHRlc3RzIHRvIHdvcmsgd2l0aCB1LWJvb3QgSlRBRyBkaXNhYmxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KToK</text>
+        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd2b2x0YWdlJzogdm9sdGFnZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgbG9nZ2VyLmxvZ0Fzc2VydCgidXNiX3N1cHBseV9lbl9pbyIsIHVzYl9zdXBwbHlfZW5faW8sIHsK</text>
+        <text encoding="base64">ICAgICAgICB9KToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoXzM0OTgwYS5ESUdfSU5fQ0gsIHN3aXRjaF8zNDk4MGEuRElHX0lOX1VTQl9TVVBQTFlfRU4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd2b2x0YWdlJzogdm9sdGFnZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1c2Jfc3VwcGx5X2VuX2lvID0gc3dpdGNoX2N0cmwuaXNfZGlnaXRhbF9pb19iaXRfc2V0KAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgbG9nZ2VyLmxvZ0Fzc2VydCgidXNiX3N1cHBseV9lbl9pbyIsIHVzYl9zdXBwbHlfZW5faW8sIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZlsnMzQ5ODBhX2FkZHInXSwgY29uZlsncHlfdmlzYV9yZXNvdXJjZV9tYW5hZ2VyJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoXzM0OTgwYS5ESUdfSU5fQ0gsIHN3aXRjaF8zNDk4MGEuRElHX0lOX1VTQl9TVVBQTFlfRU4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
