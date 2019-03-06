@@ -96,7 +96,7 @@
         <mark key="^" line="70" column="61" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1551317103047">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1551909301767">
         <mark key="[" line="28" column="17" />
         <mark key="]" line="28" column="18" />
         <mark key="." line="28" column="18" />
@@ -164,10 +164,10 @@
       <file name="/Python Console" timestamp="1551839989102">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/switch_34980a.py" timestamp="1551843229358">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/switch_34980a.py" timestamp="1551909528135">
         <mark key="'" line="37" column="23" />
-        <mark key="[" line="89" column="21" />
-        <mark key="]" line="89" column="48" />
+        <mark key="[" line="41" column="6" />
+        <mark key="]" line="41" column="27" />
         <mark key="^" line="89" column="48" />
         <mark key="." line="89" column="48" />
       </file>
@@ -317,7 +317,7 @@
         <mark key="^" line="193" column="37" />
         <mark key="." line="193" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551901738412">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551908550315">
         <mark key="'" line="85" column="30" />
         <mark key="[" line="132" column="21" />
         <mark key="]" line="132" column="21" />
@@ -466,8 +466,8 @@
       <register name="/" type="4">
         <text>BAUD_RATE</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybCA9IHN3aXRjaF8zNDk4MGEuU3dpdGNoMzQ5MjNhQ29udHJvbGxlcigKICAgICAgICAgICAgc2VsZi5jb25mWyczNDk4MGFfYWRkciddLAogICAgICAgICAgICBzZWxmLmNvbmZbJ3B5X3Zpc2FfcmVzb3VyY2VfbWFuYWdlciddKQo=</text>
+      <register name="0" type="4">
+        <text>Switch34923aController</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIAo=</text>
