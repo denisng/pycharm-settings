@@ -317,12 +317,12 @@
         <mark key="^" line="193" column="37" />
         <mark key="." line="193" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551846110343">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="101" column="25" />
-        <mark key="]" line="101" column="61" />
-        <mark key="^" line="101" column="61" />
-        <mark key="." line="101" column="61" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551901738412">
+        <mark key="'" line="85" column="30" />
+        <mark key="[" line="132" column="21" />
+        <mark key="]" line="132" column="21" />
+        <mark key="." line="132" column="21" />
+        <mark key="^" line="132" column="17" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/default_configuration.py" timestamp="1512535692582">
         <mark key="[" line="6" column="35" />
@@ -355,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
@@ -455,13 +454,14 @@
       <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
+      <jump line="85" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>BAUD_RATE</text>
@@ -470,31 +470,31 @@
         <text encoding="base64">ICAgICAgICBzd2l0Y2hfY3RybCA9IHN3aXRjaF8zNDk4MGEuU3dpdGNoMzQ5MjNhQ29udHJvbGxlcigKICAgICAgICAgICAgc2VsZi5jb25mWyczNDk4MGFfYWRkciddLAogICAgICAgICAgICBzZWxmLmNvbmZbJ3B5X3Zpc2FfcmVzb3VyY2VfbWFuYWdlciddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5hYmxlX3dkdD1GYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsYXJzb25fY3RybC5kaWdpdGFsX291dHB1dHMoZW5hYmxlX3Jlc2V0PUZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgd3JpdGVzIGFyZSBhdCA1SHogc28gYXZlcmFnZSBmYWlsdXJlIHdvdWxkIGJlIGhhbGYgd2F5IGJldHdlZW4gd3JpdGVzCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRocmVhZGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5hYmxlX3dkdD1GYWxzZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYXJzb25fY3RybC5kaWdpdGFsX291dHB1dHMoZW5hYmxlX3Jlc2V0PUZhbHNlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZV9yZXNldD1GYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFyc29uX2N0cmwuZGlnaXRhbF9vdXRwdXRzKGVuYWJsZV93ZHQ9RmFsc2UsCg==</text>
+        <text encoding="base64">aW1wb3J0IHRocmVhZGluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
