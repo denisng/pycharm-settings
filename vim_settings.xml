@@ -41,11 +41,12 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551838780202">
-        <mark key="[" line="105" column="32" />
-        <mark key="]" line="105" column="33" />
-        <mark key="." line="105" column="33" />
-        <mark key="^" line="97" column="39" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551839978254">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="98" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1551309497079">
         <mark key="[" line="201" column="32" />
@@ -160,7 +161,7 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1551736415882">
+      <file name="/Python Console" timestamp="1551839989102">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/switch_34980a.py" timestamp="1551494325671">
@@ -352,10 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
-      <jump line="370" column="1" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
-      <jump line="257" column="54" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
-      <jump line="260" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
       <jump line="269" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
       <jump line="280" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
       <jump line="130" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
@@ -452,46 +449,50 @@
       <jump line="94" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
       <jump line="96" column="31" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
+      <jump line="109" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>output</text>
       </register>
       <register name="/" type="4">
         <text>BAUD_RATE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBydW5fdGVzdF9zZXQoc2VsZiwgdGVzdF9zZXQsIGxvZ2dlcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRyeSA9ICd3cml0aW5nIGNoYW5uZWw6IHtjaH0sIGRhdGE6IHtkYXRhOiNifScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihGdW5jdGlvbmFsUGlrc2ksIHNlbGYpLnJ1bl90ZXN0X3NldCh0ZXN0X3NldCwgbG9nZ2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbnRyeSA9ICd3cml0aW5nIHtkYXRhOiNifSB0byBjaGFubmVsIHtjaH0nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFyc29uX2N0cmwuZGlzYWJsZV93ZHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbnRyeSA9ICd3cml0aW5nIHtkYXRhOiNifSB0byBjaGFubmVsIHtjaH0nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBiZWNhdXNlIG9mIHRoZSBoYXJkd2FyZSBqdW1wZXIK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihGdW5jdGlvbmFsUGlrc2ksIHNlbGYpLnJ1bl90ZXN0X3NldCh0ZXN0X3NldCwgbG9nZ2VyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBvbiBFdmFsWFhYWCBmaXh0dXJlcyB3ZSB0YWtlIFdEVCBkaXNhYmxlIGZvciBncmFudGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFyc29uX2N0cmwuZGlzYWJsZV93ZHQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIGxhcnNvbl9jb250cm9sbGVyLkxhcnNvbkNvbnRyb2woc2VsZi5jb25mKSBhcyBsYXJzb25fY3RybDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBiZWNhdXNlIG9mIHRoZSBoYXJkd2FyZSBqdW1wZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBydW5fdGVzdF9zZXQoc2VsZiwgdGVzdF9zZXQsIGxvZ2dlcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBvbiBFdmFsWFhYWCBmaXh0dXJlcyB3ZSB0YWtlIFdEVCBkaXNhYmxlIGZvciBncmFudGVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIGxhcnNvbl9jb250cm9sbGVyLkxhcnNvbkNvbnRyb2woc2VsZi5jb25mKSBhcyBsYXJzb25fY3RybDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gY3VycmVudCAmIH5FTkVUMF9SU1RfUFVMTF9FTl9NU0sK</text>
+        <text encoding="base64">ICAgIGRlZiBydW5fdGVzdF9zZXQoc2VsZiwgdGVzdF9zZXQsIGxvZ2dlcik6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gY3VycmVudCB8IEVORVQwX1JTVF9QVUxMX0VOX01TSwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
