@@ -175,6 +175,12 @@
         <mark key="." line="151" column="28" />
         <mark key="^" line="151" column="28" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1551914019604">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="71" />
+        <mark key="." line="0" column="71" />
+        <mark key="^" line="0" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_serial.py" timestamp="1544844249222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="32" />
