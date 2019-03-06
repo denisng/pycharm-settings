@@ -90,12 +90,6 @@
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1551843398134">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="70" column="61" />
-        <mark key="." line="71" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1551909301767">
         <mark key="[" line="28" column="17" />
         <mark key="]" line="28" column="18" />
@@ -161,15 +155,8 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1551839989102">
+      <file name="/Python Console" timestamp="1551910276986">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/switch_34980a.py" timestamp="1551909528135">
-        <mark key="'" line="37" column="23" />
-        <mark key="[" line="41" column="6" />
-        <mark key="]" line="41" column="27" />
-        <mark key="^" line="89" column="48" />
-        <mark key="." line="89" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_const.py" timestamp="1547843606221">
         <mark key="[" line="9" column="0" />
