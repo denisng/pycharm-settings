@@ -265,7 +265,8 @@
         <mark key="." line="74" column="43" />
         <mark key="^" line="74" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1551921565992">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1551924713540">
+        <mark key="'" line="244" column="23" />
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
@@ -356,7 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="328" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="319" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="310" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
@@ -456,6 +456,7 @@
       <jump line="96" column="75" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/uboot_control.py" />
       <jump line="107" column="75" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/uboot_control.py" />
       <jump line="119" column="27" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/uboot_control.py" />
+      <jump line="244" column="23" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -465,7 +466,7 @@
         <text>''</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>erasing old</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9jLnN0ZGluLndyaXRlKCdwdXRzICItPj4gZmFpbHMgYXQgdGhlIG5leHQgc3RlcCA8PC0iXG4nKQo=</text>
@@ -502,9 +503,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">LCA=</last-search>
+      <last-search>erasing old</last-search>
       <last-offset />
-      <last-pattern encoding="base64">LCA=</last-pattern>
+      <last-pattern>erasing old</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -512,7 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rerun_license</entry>
         <entry>End2EndTestMonitor</entry>
         <entry>monitor</entry>
         <entry>' '</entry>
@@ -532,6 +532,7 @@
         <entry>baud_rate</entry>
         <entry>BAUD_RATE</entry>
         <entry encoding="base64">LCA=</entry>
+        <entry>erasing old</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
