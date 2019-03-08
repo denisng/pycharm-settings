@@ -90,11 +90,11 @@
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1552082449804">
-        <mark key="[" line="201" column="53" />
-        <mark key="]" line="202" column="72" />
-        <mark key="." line="202" column="72" />
-        <mark key="^" line="202" column="72" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1552083846766">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="195" column="86" />
+        <mark key="." line="192" column="0" />
+        <mark key="^" line="210" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1551909301767">
         <mark key="[" line="28" column="17" />
@@ -161,7 +161,7 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1552021995417">
+      <file name="/Python Console" timestamp="1552083716634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_const.py" timestamp="1547843606221">
@@ -466,34 +466,34 @@
         <text>erasing old</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdkZWJ1ZyBlbmFibGVkOiB7fScuZm9ybWF0KGFfbG9nZ2VyLmlzRW5hYmxlZEZvcihsb2dnaW5nLkRFQlVHKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBoYW5kbGVyIGluIGFfbG9nZ2VyLmhhbmRsZXJzOgogICAgICAgICAgICAgICAgICAgIGhfdHlwZSA9IHR5cGUoaGFuZGxlcikKICAgICAgICAgICAgICAgICAgICBoX2xldmVsID0gaGFuZGxlci5sZXZlbAogICAgICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdoYW5kbGVyIHt9LCBsZXZlbDoge30nLmZvcm1hdChoX3R5cGUsIGhfbGV2ZWwpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5ueSA9IGxvZ2dpbmcuaGFuZGxlcnMuU3lzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdoYW5kbGVyczoge30nLmZvcm1hdChhX2xvZ2dlci5oYW5kbGVycykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdsb2cgbGV2ZWw6IHt9Jy5mb3JtYXQoYV9sb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmdW5ueSA9IGxvZ2dpbmcuaGFuZGxlcnMuU3lzCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdsb2cgbGV2ZWw6IHt9Jy5mb3JtYXQoYV9sb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmRlYnVnKCdiZWZvcmUgdGhlIHRlc3QgcnVucyBhdCBmaXh0dXJlIGxldmVsJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdsb2cgbGV2ZWw6IHt9Jy5mb3JtYXQoYV9sb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCd0ZXN0IHJldHVybiB2YWx1ZToge30nLmZvcm1hdCh0ZXN0X3JldHVybikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmRlYnVnKCdiZWZvcmUgdGhlIHRlc3QgcnVucyBhdCBmaXh0dXJlIGxldmVsJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5zeXNfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCd0ZXN0IHJldHVybiB2YWx1ZToge30nLmZvcm1hdCh0ZXN0X3JldHVybikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi5zeXNfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
