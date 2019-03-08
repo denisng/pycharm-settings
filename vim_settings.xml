@@ -257,12 +257,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1552020888078">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1552078740643">
         <mark key="'" line="29" column="69" />
-        <mark key="[" line="74" column="56" />
-        <mark key="]" line="74" column="56" />
-        <mark key="." line="74" column="56" />
-        <mark key="^" line="74" column="56" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552023121195">
         <mark key="'" line="231" column="0" />
@@ -470,31 +469,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmRlYnVnKCdkZWJ1ZyBtZXNzYWdlJykKICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmluZm8oJ2luZm8gbWVzc2FnZScpCiAgICAgICAgICAgICAgICBhX2xvZ2dlci53YXJuaW5nKCd3YXJuaW5nIG1lc3NhZ2UnKQogICAgICAgICAgICAgICAgYV9sb2dnZXIuZXJyb3IoJ2Vycm9yIG1lc3NhZ2UnKQogICAgICAgICAgICAgICAgYV9sb2dnZXIuY3JpdGljYWwoJ2NyaXRpY2FsIG1lc3NhZ2UnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdsb2cgbGV2ZWw6IHt9Jy5mb3JtYXQoYV9sb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmdW5ueSA9IGxvZ2dpbmcuaGFuZGxlcnMuU3lzCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdsb2cgbGV2ZWw6IHt9Jy5mb3JtYXQoYV9sb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmRlYnVnKCdiZWZvcmUgdGhlIHRlc3QgcnVucyBhdCBmaXh0dXJlIGxldmVsJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdsb2cgbGV2ZWw6IHt9Jy5mb3JtYXQoYV9sb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCd0ZXN0IHJldHVybiB2YWx1ZToge30nLmZvcm1hdCh0ZXN0X3JldHVybikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmRlYnVnKCdiZWZvcmUgdGhlIHRlc3QgcnVucyBhdCBmaXh0dXJlIGxldmVsJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5zeXNfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCd0ZXN0IHJldHVybiB2YWx1ZToge30nLmZvcm1hdCh0ZXN0X3JldHVybikpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi5zeXNfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
