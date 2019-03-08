@@ -91,9 +91,6 @@
         <mark key="^" line="6" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1552083846766">
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="195" column="86" />
-        <mark key="." line="192" column="0" />
         <mark key="^" line="210" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1551909301767">
@@ -263,12 +260,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552023121195">
-        <mark key="'" line="231" column="0" />
-        <mark key="[" line="229" column="19" />
-        <mark key="]" line="229" column="26" />
-        <mark key="." line="229" column="26" />
-        <mark key="^" line="229" column="26" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552086785726">
+        <mark key="[" line="248" column="19" />
+        <mark key="]" line="248" column="23" />
+        <mark key="^" line="248" column="23" />
+        <mark key="." line="248" column="23" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -354,10 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="51" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
-      <jump line="62" column="51" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
-      <jump line="0" column="42" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" />
-      <jump line="93" column="31" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
       <jump line="94" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
       <jump line="96" column="31" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
@@ -432,17 +424,14 @@
       <jump line="132" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="137" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="147" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="157" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="160" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="162" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="164" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="166" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
-      <jump line="171" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="179" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="185" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="189" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
-      <jump line="198" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="208" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="212" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="227" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
@@ -454,65 +443,69 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="186" column="67" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="171" column="26" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="180" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="198" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="232" column="33" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="153" column="34" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="102" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>erasing old</text>
+        <text>console_log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBoYW5kbGVyIGluIGFfbG9nZ2VyLmhhbmRsZXJzOgogICAgICAgICAgICAgICAgICAgIGhfdHlwZSA9IHR5cGUoaGFuZGxlcikKICAgICAgICAgICAgICAgICAgICBoX2xldmVsID0gaGFuZGxlci5sZXZlbAogICAgICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdoYW5kbGVyIHt9LCBsZXZlbDoge30nLmZvcm1hdChoX3R5cGUsIGhfbGV2ZWwpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyLndhcm5pbmcoJ1VwZGF0ZUZhY3RvcnlEYXRhIC4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLicKICAgICAgICAgICAgICAgICAgICAgICAgICcuLi4uLi4uLi4uLi4uLiBbIEZpbmlzaGVkIF0nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdoYW5kbGVyczoge30nLmZvcm1hdChhX2xvZ2dlci5oYW5kbGVycykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKGNvbnNvbGVfbG9nKS5pbmZvKHN0cihkYXRhKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5ueSA9IGxvZ2dpbmcuaGFuZGxlcnMuU3lzCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlX2xvZyA9ICd0ZXN0X2NvbnRyb2xsZXInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdsb2cgbGV2ZWw6IHt9Jy5mb3JtYXQoYV9sb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdoYW5kbGVyczoge30nLmZvcm1hdChhX2xvZ2dlci5oYW5kbGVycykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdsb2cgbGV2ZWw6IHt9Jy5mb3JtYXQoYV9sb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmdW5ueSA9IGxvZ2dpbmcuaGFuZGxlcnMuU3lzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmRlYnVnKCdiZWZvcmUgdGhlIHRlc3QgcnVucyBhdCBmaXh0dXJlIGxldmVsJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdsb2cgbGV2ZWw6IHt9Jy5mb3JtYXQoYV9sb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCd0ZXN0IHJldHVybiB2YWx1ZToge30nLmZvcm1hdCh0ZXN0X3JldHVybikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdsb2cgbGV2ZWw6IHt9Jy5mb3JtYXQoYV9sb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5zeXNfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmRlYnVnKCdiZWZvcmUgdGhlIHRlc3QgcnVucyBhdCBmaXh0dXJlIGxldmVsJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCd0ZXN0IHJldHVybiB2YWx1ZToge30nLmZvcm1hdCh0ZXN0X3JldHVybikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi5zeXNfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>erasing old</last-search>
+      <last-search>console_log</last-search>
       <last-offset />
-      <last-pattern>erasing old</last-pattern>
-      <last-replace>,</last-replace>
-      <last-substitute encoding="base64">LCA=</last-substitute>
+      <last-pattern>console_log</last-pattern>
+      <last-replace>debug</last-replace>
+      <last-substitute>warning</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>End2EndTestMonitor</entry>
-        <entry>monitor</entry>
-        <entry>' '</entry>
         <entry>,</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>super-banzai</entry>
@@ -530,14 +523,11 @@
         <entry>BAUD_RATE</entry>
         <entry encoding="base64">LCA=</entry>
         <entry>erasing old</entry>
+        <entry>\.warning\(</entry>
+        <entry>warning</entry>
+        <entry>console_log</entry>
       </history-search>
       <history-cmd>
-        <entry>qw</entry>
-        <entry>53,62d</entry>
-        <entry>96,105d</entry>
-        <entry>106,115y</entry>
-        <entry>.w</entry>
-        <entry encoding="base64">MTYwLDE3Mzw=</entry>
         <entry>200,224s/handler/sbp_handler/</entry>
         <entry>77,86d</entry>
         <entry>118,146y</entry>
@@ -551,6 +541,12 @@
         <entry>124,139d</entry>
         <entry>s/, /,\r/g</entry>
         <entry>s/, /,/g</entry>
+        <entry>171,237s/\.warning\(/.debug(/</entry>
+        <entry>171,237s/\.warning\(/.debug\(/</entry>
+        <entry>171,237s/\.warning\(/\.debug\(/</entry>
+        <entry>171,237s/warning/debug/</entry>
+        <entry>n</entry>
+        <entry>s/warning/debug/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
