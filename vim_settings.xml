@@ -260,11 +260,12 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552086785726">
-        <mark key="[" line="248" column="19" />
-        <mark key="]" line="248" column="23" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552087977150">
+        <mark key="'" line="104" column="46" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="12" />
         <mark key="^" line="248" column="23" />
-        <mark key="." line="248" column="23" />
+        <mark key="." line="223" column="12" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -350,12 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
-      <jump line="96" column="31" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
-      <jump line="109" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
       <jump line="95" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
       <jump line="85" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" />
@@ -450,6 +445,12 @@
       <jump line="232" column="33" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="153" column="34" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="102" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="169" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="238" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="280" column="21" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="1" column="7" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
+      <jump line="104" column="46" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -459,46 +460,46 @@
         <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>console_log</text>
+        <text>logging</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyLndhcm5pbmcoJ1VwZGF0ZUZhY3RvcnlEYXRhIC4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLicKICAgICAgICAgICAgICAgICAgICAgICAgICcuLi4uLi4uLi4uLi4uLiBbIEZpbmlzaGVkIF0nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKGNvbnNvbGVfbG9nKS5pbmZvKHN0cihkYXRhKSkK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlX2xvZyA9ICd0ZXN0X2NvbnRyb2xsZXInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdoYW5kbGVyczoge30nLmZvcm1hdChhX2xvZ2dlci5oYW5kbGVycykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgZXhjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5ueSA9IGxvZ2dpbmcuaGFuZGxlcnMuU3lzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5leGNlcHRpb24oZXhjKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdsb2cgbGV2ZWw6IHt9Jy5mb3JtYXQoYV9sb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4YzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCdsb2cgbGV2ZWw6IHt9Jy5mb3JtYXQoYV9sb2dnZXIuZ2V0RWZmZWN0aXZlTGV2ZWwoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyLmRlYnVnKCcoUkFNIC0+IGZsYXNoKScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmRlYnVnKCdiZWZvcmUgdGhlIHRlc3QgcnVucyBhdCBmaXh0dXJlIGxldmVsJykK</text>
+        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyLmRlYnVnKCcoVVNCIC0gPiBSQU0pJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFfbG9nZ2VyLmNyaXRpY2FsKCd0ZXN0IHJldHVybiB2YWx1ZToge30nLmZvcm1hdCh0ZXN0X3JldHVybikpCg==</text>
+        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyLmRlYnVnKCcoUkFNIC0+IGZsYXNoKScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5zeXNfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2ZpeHR1cmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyLmRlYnVnKCcoVVNCIC0+IFJBTSknKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console_log</last-search>
+      <last-search>logging</last-search>
       <last-offset />
-      <last-pattern>console_log</last-pattern>
+      <last-pattern>logging</last-pattern>
       <last-replace>debug</last-replace>
       <last-substitute>warning</last-substitute>
       <last-dir>1</last-dir>
@@ -513,7 +514,6 @@
         <entry>data_file</entry>
         <entry>gyro</entry>
         <entry>handler</entry>
-        <entry>logging</entry>
         <entry>#</entry>
         <entry>piksi_com_port</entry>
         <entry>multi_lines</entry>
@@ -526,6 +526,7 @@
         <entry>\.warning\(</entry>
         <entry>warning</entry>
         <entry>console_log</entry>
+        <entry>logging</entry>
       </history-search>
       <history-cmd>
         <entry>200,224s/handler/sbp_handler/</entry>
