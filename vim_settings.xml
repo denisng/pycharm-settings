@@ -84,6 +84,12 @@
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1552009810277">
+        <mark key="[" line="196" column="24" />
+        <mark key="]" line="196" column="15" />
+        <mark key="^" line="196" column="15" />
+        <mark key="." line="196" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1551909301767">
         <mark key="[" line="28" column="17" />
         <mark key="]" line="28" column="18" />
@@ -245,12 +251,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1551926622901">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1552008336315">
         <mark key="'" line="29" column="69" />
-        <mark key="[" line="74" column="37" />
-        <mark key="]" line="74" column="43" />
-        <mark key="." line="74" column="43" />
-        <mark key="^" line="74" column="43" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="160" column="46" />
+        <mark key="." line="160" column="46" />
+        <mark key="^" line="160" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552003825093">
         <mark key="'" line="231" column="0" />
@@ -458,31 +464,31 @@
         <text>UpdateFactoryData ......................................... [ Finished ]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygncGFja2luZyB0aGUgc3RydWN0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygncGFja2luZyB0aGUgc3RydWN0JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1ZygnKFJBTSAtPiBmaWxlKScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1ZygnKGZsYXNoIC0+IFJBTSknKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1ZygnKFJBTSAtPiBmaWxlKScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1ZygnKFJBTSAtPiBmaWxlKScpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1ZygnKGZsYXNoIC0+IFJBTSknKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1ZygnKFJBTSAtPiBmbGFzaCknKQo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1ZygnKFJBTSAtPiBmaWxlKScpCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1ZygnKGZsYXNoIC0+IFJBTSknKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1ZygnKFJBTSAtPiBmbGFzaCknKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1ZygnKGZpbGUgLT4gUkFNKScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1ZygnKFJBTSAtPiBmaWxlKScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
