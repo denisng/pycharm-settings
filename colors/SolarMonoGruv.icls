@@ -4,7 +4,7 @@
     <property name="created">2016-09-08T20:40:02</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2016.2.3.0.0</property>
-    <property name="modified">2019-02-20T19:06:28</property>
+    <property name="modified">2019-03-11T15:09:22</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -213,6 +213,11 @@
         <option name="FOREGROUND" value="75715e" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="282828" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c7c7ff" />
@@ -235,7 +240,7 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="68e868" />
+        <option name="FOREGROUND" value="98971a" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -250,7 +255,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6767" />
+        <option name="FOREGROUND" value="cc241d" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -264,9 +269,14 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="fabd2f" />
+      </value>
+    </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="754200" />
+        <option name="FOREGROUND" value="d79921" />
       </value>
     </option>
     <option name="CSS.COMMENT">
