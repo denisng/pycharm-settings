@@ -60,6 +60,12 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/script_runner.py" timestamp="1552352977036">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="21" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551844022391">
         <mark key="'" line="67" column="37" />
         <mark key="[" line="89" column="0" />
@@ -202,7 +208,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1552330447073">
+      <file name="/Python Console" timestamp="1552352589998">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_const.py" timestamp="1547843606221">
@@ -330,11 +336,10 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552351943360">
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="8" />
-        <mark key="^" line="46" column="28" />
-        <mark key="." line="38" column="8" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552353003818">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -526,37 +531,37 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>tcl_</text>
+        <text>exception</text>
       </register>
       <register name="/" type="4">
         <text>run_generate_factory_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5X2RhdGFfZmlsZV9yZWFkID0gY29uZlsnbG9nX2RpciddICsgXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnL2ZhY3RvcnlfZGF0YV9yZWFkLmRhdCcKICAgICAgICBmYWN0b3J5X2RhdGFfZmlsZV93cml0ZSA9IGNvbmZbJ2xvZ19kaXInXSArIFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcvZmFjdG9yeV9kYXRhX3dyaXRlLmRhdCcKICAgICAgICBmYWN0b3J5X2RhdGFfZmlsZV9tZW0gPSBjb25mWydsb2dfZGlyJ10gKyBcCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJy9mYWN0b3J5X2RhdGFfbWVtLmRhdCcKICAgICAgICBmYWN0b3J5X2RhdGFfZmlsZV9yZWFkMiA9IGNvbmZbJ2xvZ19kaXInXSArIFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcvZmFjdG9yeV9kYXRhX3JlYWQyLmRhdCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zY3JpcHRfb3VwdXQgPSAocG9wZW4ucmV0dXJuY29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhjKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIG91dHB1dCBvZiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChwb3Blbi5yZXR1cm5jb2RlLCBvdXRwdXQsIGVycm9yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0aW9uID0gZXhjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0aW9uID0gZXhjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgT1NFcnJvcjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0LCBlcnJvciA9IHBvcGVuLmNvbW11bmljYXRlKHRjbF9zY3JpcHQpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ob3MpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
