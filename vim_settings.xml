@@ -122,7 +122,7 @@
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1551909301767">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1552424578591">
         <mark key="[" line="28" column="17" />
         <mark key="]" line="28" column="18" />
         <mark key="." line="28" column="18" />
@@ -276,18 +276,6 @@
         <mark key="." line="211" column="5" />
         <mark key="^" line="211" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/sys_logger.py" timestamp="1552105228920">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_pwr_rail.py" timestamp="1551826889315">
-        <mark key="'" line="0" column="42" />
-        <mark key="[" line="62" column="65" />
-        <mark key="]" line="62" column="80" />
-        <mark key="." line="62" column="80" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
         <mark key="]" line="49" column="7" />
@@ -347,10 +335,12 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552417256490">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552424228564">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="105" column="39" />
+        <mark key="]" line="105" column="40" />
+        <mark key="." line="105" column="40" />
+        <mark key="^" line="105" column="40" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -436,15 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
-      <jump line="240" column="99" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
-      <jump line="280" column="99" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
-      <jump line="303" column="99" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
-      <jump line="326" column="61" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" />
-      <jump line="22" column="76" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/uboot_control.py" />
-      <jump line="26" column="61" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/uboot_control.py" />
-      <jump line="30" column="75" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/uboot_control.py" />
-      <jump line="45" column="75" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/uboot_control.py" />
       <jump line="61" column="75" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/uboot_control.py" />
       <jump line="77" column="75" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/uboot_control.py" />
       <jump line="86" column="75" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/uboot_control.py" />
@@ -536,13 +517,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/utility.py" />
       <jump line="21" column="22" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/stop_jtag_disable.tcl" />
       <jump line="22" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/stop_jtag_disable.tcl" />
+      <jump line="133" column="45" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="105" column="42" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>connected</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
