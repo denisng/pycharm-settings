@@ -335,12 +335,12 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552424228564">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="105" column="39" />
-        <mark key="]" line="105" column="40" />
-        <mark key="." line="105" column="40" />
-        <mark key="^" line="105" column="40" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552424862337">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="115" column="63" />
+        <mark key="]" line="116" column="11" />
+        <mark key="." line="116" column="11" />
+        <mark key="^" line="116" column="11" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -532,7 +532,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>connected</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
