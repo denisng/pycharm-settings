@@ -221,7 +221,7 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1552352589998">
+      <file name="/Python Console" timestamp="1552440159129">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_const.py" timestamp="1547843606221">
@@ -350,12 +350,12 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552438312110">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552440064328">
         <mark key="'" line="121" column="0" />
-        <mark key="[" line="139" column="11" />
-        <mark key="]" line="139" column="57" />
-        <mark key="." line="139" column="57" />
-        <mark key="^" line="139" column="57" />
+        <mark key="[" line="139" column="58" />
+        <mark key="]" line="147" column="37" />
+        <mark key="." line="147" column="37" />
+        <mark key="^" line="147" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552427355971">
         <mark key="[" line="280" column="0" />
@@ -561,31 +561,31 @@
         <text encoding="base64">ICAgIHN0ZG91dCA9IHN0ZG91dC5yZXBsYWNlKCd4c2RiJSAnLCAnJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZW1vdmUgYW5ub3lpbmcgImRpZ2lsZW50XyIgcHJlZml4IGZyb20gYWxsIERpZ2lsZW50Q29udHJvbGxlciBtZXRob2RzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcmlwdCA9IHNjcmlwdCAlIDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNldF9odyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaG9sZF9yZXNldDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0ID0gc2NyaXB0ICUgaG9sZF9yZXNldAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KCiAgICBkZWYgcnVuX3NjcmlwdChzZWxmLCBzY3JpcHQpOgoKICAgICAgICBjbWQgPSBzZWxmLmNvbnNvbGVfY21kICsgW3NjcmlwdF0KICAgICAgICBwcm9jID0gc3VicHJvY2Vzcy5Qb3BlbigKICAgICAgICAgICAgY21kLAogICAgICAgICAgICBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLAogICAgICAgICAgICBzdGRlcnI9c3VicHJvY2Vzcy5TVERPVVQsCiAgICAgICAgICAgIHN0ZGluPXN1YnByb2Nlc3MuUElQRSkKICAgICAgICBwcm9jLnN0ZGluLndyaXRlKCdleGl0XG4nKQogICAgICAgICMgVE9ETzogdmFsaWRhdGUgb3V0cHV0IGFuZCBhZGQgcG9sbGluZyB0aW1lb3V0CiAgICAgICAgc3Rkb3V0LCBfID0gcHJvYy5jb21tdW5pY2F0ZSgpCiAgICAgICAgbG9nX211bHRpX2xpbmVzKHNlbGYuc3lzX2xvZ2dlci5kZWJ1Zywgc3Rkb3V0KQo+Pj4+Pj4+IHJlbW92ZSBhbm5veWluZyAiZGlnaWxlbnRfIiBwcmVmaXggZnJvbSBhbGwgRGlnaWxlbnRDb250cm9sbGVyIG1ldGhvZHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZW1vdmUgYW5ub3lpbmcgImRpZ2lsZW50XyIgcHJlZml4IGZyb20gYWxsIERpZ2lsZW50Q29udHJvbGxlciBtZXRob2RzCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lb3V0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB1cGxvYWRfZmlsZShzZWxmLCBvZmZzZXQsIHVwbG9hZF9maWxlKToK</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
