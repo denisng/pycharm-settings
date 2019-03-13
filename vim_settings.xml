@@ -357,11 +357,12 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552501042019">
-        <mark key="'" line="197" column="12" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552508269639">
+        <mark key="'" line="181" column="12" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="^" line="61" column="36" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552427355971">
         <mark key="[" line="280" column="0" />
@@ -564,34 +565,47 @@
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0ZG91dCA9IHN0ZG91dC5yZXBsYWNlKCd4c2RiJSAnLCAnJykK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHJlcGxhY2Ugc2NyaXB0X3J1bm5lcgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UFM3X0lOSVQgPSAncHM3X2luaXQudGNsJwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>runner = XsdbScriptRunner(self.xsdb_path,
+                                  self.artifact_path,
+                                  script,
+                                  result)
+        runner.start()
+        runner.join(timeout)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VUJPT1RfSU1HID0gJ2Jvb3QvdS1ib290LmltZycK</text>
+        <text encoding="base64">ICAgICAgICBydW5uZXIuam9pbih0aW1lb3V0ICsgNSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Qk9PVF9CSU4gPSAnYm9vdC9zcGwvYm9vdC5iaW4nCg==</text>
+        <text encoding="base64">ICAgICAgICBydW5uZXIuc3RhcnQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW5uZXIuam9pbih0aW1lb3V0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW5uZXIuc3RhcnQoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBydW5fYm9vdChzZWxmLAogICAgICAgICAgICAgICAgIGJpbj1GYWxzZSwgYmluX3BhdGg9Qk9PVF9CSU4sCiAgICAgICAgICAgICAgICAgaW1nPUZhbHNlLCBpbWdfcGF0aD1VQk9PVF9JTUcpOgogICAgICAgICIiIiIiIgogICAgICAgIExPR0dFUi5kZWJ1ZygnbGVhZGluZyBzcGVjaWFsIFUtQm9vdCcpCg==</text>
+      <register name="8" type="4">
+        <text>runner = XsdbScriptRunner(self.xsdb_path,
+                                  self.artifact_path,
+                                  script,
+                                  result)
+        runner.start()
+        runner.join(timeout)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmICcnCg==</text>
+      <register name="9" type="4">
+        <text>runner = XsdbScriptRunner(self.xsdb_path,
+                                  self.artifact_path,
+                                  script,
+                                  result)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
