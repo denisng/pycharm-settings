@@ -191,12 +191,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/utility.py" timestamp="1552358068654">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/utility.py" timestamp="1552516078950">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_hw.py" timestamp="1551226368727">
         <mark key="[" line="10" column="6" />
@@ -357,12 +357,12 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552512449912">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552516213598">
         <mark key="'" line="66" column="12" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="12" />
-        <mark key="." line="66" column="12" />
-        <mark key="^" line="64" column="11" />
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="85" column="30" />
+        <mark key="." line="14" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552427355971">
         <mark key="[" line="280" column="0" />
@@ -559,7 +559,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'unexpected outp'</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -568,31 +568,31 @@
         <text encoding="base64">ICAgICAgICAjIGNvbGxhcHNlIG11bHRpcGxlICJ3YWl0IiBsaW5lcwogICAgICAgIG91dCA9IHJlLnN1YihyJyh3YWl0XG4pKycsICd3YWl0IDxyZXBlYXRlZD5cbicsIG91dCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gcmUuc3UK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbihleGMpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmNyaXRpY2FsKCdleGNlcHRpb24gZW5jb3VudGVyZWQgd2hpbGUgcnVubmluZyBYU0RCJykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpcyBub3RoaW5nIGVsc2UgdG8gbG9nCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBvbmUgb2YgdGhlIGV4cGVjdGVkIGV4Y2VwdGlvbnMgd2FzIGVuY291bnRlcmVkLCB0aGVyZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBleGM6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoc3RkZXJyKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciBsaW5lIGluIHN0ZGVycjoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnLS0tLS0tLScpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygnLS0tLS0gWFNEQiBTVERFUlIgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygnUmV0dXJuIENvZGU6IHt9Jy5mb3JtYXQocmV0dXJuY29kZSkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN0ZGVyciA9IHN0ci5yZXBsYWNlKHN0ZGVyciwgJ3hzZGIlICcsICcnKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYywgb3V0LCBlcnIsIGV4YyA9IHJlc3VsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
