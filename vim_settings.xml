@@ -357,12 +357,11 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552443471878">
-        <mark key="'" line="153" column="56" />
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="20" column="23" />
-        <mark key="." line="20" column="23" />
-        <mark key="^" line="20" column="23" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552501042019">
+        <mark key="'" line="197" column="12" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552427355971">
         <mark key="[" line="280" column="0" />
@@ -453,7 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="132" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="137" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="147" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
@@ -553,6 +551,7 @@
       <jump line="121" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="153" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="8" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_boot.tcl" />
+      <jump line="202" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -568,19 +567,19 @@
         <text encoding="base64">ICAgIHN0ZG91dCA9IHN0ZG91dC5yZXBsYWNlKCd4c2RiJSAnLCAnJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcmlwdCA9IHNjcmlwdCAlIDAK</text>
+        <text encoding="base64">UFM3X0lOSVQgPSAncHM3X2luaXQudGNsJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaG9sZF9yZXNldDoK</text>
+        <text encoding="base64">VUJPT1RfSU1HID0gJ2Jvb3QvdS1ib290LmltZycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0ID0gc2NyaXB0ICUgaG9sZF9yZXNldAo=</text>
+        <text encoding="base64">Qk9PVF9CSU4gPSAnYm9vdC9zcGwvYm9vdC5iaW4nCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -589,10 +588,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lb3V0Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBydW5fYm9vdChzZWxmLAogICAgICAgICAgICAgICAgIGJpbj1GYWxzZSwgYmluX3BhdGg9Qk9PVF9CSU4sCiAgICAgICAgICAgICAgICAgaW1nPUZhbHNlLCBpbWdfcGF0aD1VQk9PVF9JTUcpOgogICAgICAgICIiIiIiIgogICAgICAgIExPR0dFUi5kZWJ1ZygnbGVhZGluZyBzcGVjaWFsIFUtQm9vdCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
