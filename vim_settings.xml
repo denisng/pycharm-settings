@@ -357,12 +357,12 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552517386523">
-        <mark key="'" line="66" column="12" />
-        <mark key="[" line="94" column="40" />
-        <mark key="]" line="94" column="40" />
-        <mark key="^" line="94" column="40" />
-        <mark key="." line="94" column="40" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552525036611">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="133" column="11" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552427355971">
         <mark key="[" line="280" column="0" />
@@ -515,7 +515,6 @@
       <jump line="105" column="42" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="126" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="128" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="149" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
@@ -553,46 +552,47 @@
       <jump line="76" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="66" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IChieSBydW5uaW5nIGEgVGNsIHNjcmlwdCku</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbGxhcHNlIG11bHRpcGxlICJ3YWl0IiBsaW5lcwogICAgICAgIG91dCA9IHJlLnN1YihyJyh3YWl0XG4pKycsICd3YWl0IDxyZXBlYXRlZD5cbicsIG91dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbihleGMpCiAgICAgICAgICAgIGVudHJ5ID0gJ2ZhaWxlZCB0byBleGVjdXRlIHt9JwogICAgICAgICAgICBMT0dHRVIuZXJyb3IoZW50cnkuZm9ybWF0KCcgJy5qb2luKGNtZCkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tdW5pY2F0aW5nIHByb3Blcmx5IHdpdGggWFNEQiAoYnkgcnVubmluZyBhIFRjbCBzY3JpcHQpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dfeHNkYihyYywgb3V0LCBlcnIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoc3RkZXJyKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBsaW5lIGluIHN0ZGVycjoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAnLS0tLS0tLScpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygnLS0tLS0gWFNEQiBTVERFUlIgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbihleGMpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmNyaXRpY2FsKCdleGNlcHRpb24gZW5jb3VudGVyZWQgd2hpbGUgcnVubmluZyBYU0RCJykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBleGM6Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygnUmV0dXJuIENvZGU6IHt9Jy5mb3JtYXQocmV0dXJuY29kZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZGVyciA9IHN0ci5yZXBsYWNlKHN0ZGVyciwgJ3hzZGIlICcsICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICByYywgb3V0LCBlcnIsIGV4YyA9IHJlc3VsdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -631,9 +631,6 @@
         <entry>out</entry>
       </history-search>
       <history-cmd>
-        <entry>283,295d</entry>
-        <entry encoding="base64">JzwsJz5zLyMvLw==</entry>
-        <entry>q</entry>
         <entry>124,139d</entry>
         <entry>s/, /,\r/g</entry>
         <entry>s/, /,/g</entry>
@@ -650,6 +647,9 @@
         <entry>20,38d</entry>
         <entry>W</entry>
         <entry>s/out/output/g</entry>
+        <entry>127,138d</entry>
+        <entry encoding="base64">MTEyLDEyMz4=</entry>
+        <entry>113,124s/out/output/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
