@@ -73,9 +73,9 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="84" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1552674695892">
-        <mark key="[" line="128" column="9" />
-        <mark key="]" line="128" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1552675894549">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="27" />
         <mark key="." line="128" column="10" />
         <mark key="^" line="128" column="10" />
       </file>
@@ -351,12 +351,12 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552527581685">
-        <mark key="'" line="170" column="12" />
-        <mark key="[" line="91" column="53" />
-        <mark key="]" line="92" column="23" />
-        <mark key="." line="92" column="23" />
-        <mark key="^" line="92" column="23" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552676146102">
+        <mark key="'" line="208" column="17" />
+        <mark key="[" line="208" column="54" />
+        <mark key="]" line="208" column="16" />
+        <mark key="." line="208" column="124" />
+        <mark key="^" line="208" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552427355971">
         <mark key="[" line="280" column="0" />
@@ -447,8 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
-      <jump line="171" column="26" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="180" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="198" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="232" column="33" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
@@ -547,19 +545,21 @@
       <jump line="66" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="112" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="165" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="209" column="42" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="211" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>out</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbihleGMpCiAgICAgICAgICAgIGVudHJ5ID0gJ2ZhaWxlZCB0byBleGVjdXRlIHt9JwogICAgICAgICAgICBMT0dHRVIuZXJyb3IoZW50cnkuZm9ybWF0KCcgJy5qb2luKGNtZCkpKQo=</text>
+        <text encoding="base64">RlBHQV9PRkZTRVQgPSAweDQwMDAwMApGSUxFX1NFVF9PRkZTRVQgPSAweDQwMDAwMApGQUNUT1JZX09GRlNFVCA9IDB4MTAwMDAwMApGQUlMU0FGRV9PRkZTRVQgPSAweDQwMDAwMDAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -593,17 +593,16 @@
       </register>
     </registers>
     <search>
-      <last-search>out</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>out</last-pattern>
-      <last-replace>output</last-replace>
-      <last-substitute>out</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>conf</entry>
         <entry>data_file</entry>
         <entry>gyro</entry>
         <entry>handler</entry>
@@ -623,9 +622,9 @@
         <entry>\.info</entry>
         <entry>run_generate_factory_data</entry>
         <entry>out</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>171,237s/\.warning\(/.debug(/</entry>
         <entry>171,237s/\.warning\(/.debug\(/</entry>
         <entry>171,237s/\.warning\(/\.debug\(/</entry>
         <entry>171,237s/warning/debug/</entry>
@@ -644,6 +643,7 @@
         <entry>176,186d</entry>
         <entry encoding="base64">MTY2LDE3Nj4=</entry>
         <entry>166,176s/out/output/g</entry>
+        <entry>s/&quot;/'/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
