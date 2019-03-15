@@ -351,10 +351,10 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552684202960">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552684921482">
         <mark key="'" line="235" column="0" />
-        <mark key="[" line="251" column="52" />
-        <mark key="]" line="251" column="63" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="23" />
         <mark key="." line="251" column="63" />
         <mark key="^" line="251" column="63" />
       </file>
@@ -558,8 +558,8 @@
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbihleGMpCiAgICAgICAgICAgIGVudHJ5ID0gJ2ZhaWxlZCB0byBleGVjdXRlIHt9JwogICAgICAgICAgICBMT0dHRVIuZXJyb3IoZW50cnkuZm9ybWF0KCcgJy5qb2luKGNtZCkpKQogICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
+      <register name="0" type="4">
+        <text>0x100000</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
