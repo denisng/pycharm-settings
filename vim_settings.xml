@@ -351,12 +351,12 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552699865729">
-        <mark key="'" line="235" column="0" />
-        <mark key="[" line="249" column="54" />
-        <mark key="]" line="250" column="13" />
-        <mark key="^" line="250" column="13" />
-        <mark key="." line="250" column="13" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552700900434">
+        <mark key="'" line="270" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="144" column="24" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="134" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552427355971">
         <mark key="[" line="280" column="0" />
@@ -558,35 +558,35 @@
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>0x100000</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICAgICAgZXhjZXB0IE9TRXJyb3IgYXMgZXhjOgogICAgICAgICAgICBMT0dHRVIuZXhjZXB0aW9uKGV4YykKICAgICAgICAgICAgZW50cnkgPSAnZmFpbGVkIHRvIGV4ZWN1dGUge30nCiAgICAgICAgICAgIExPR0dFUi5lcnJvcihlbnRyeS5mb3JtYXQoJyAnLmpvaW4oY21kKSkpCiAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5lcnJvcignZmFpbGVkIHRvIGxvYWQgYW5kIHJ1biB1LWJvb3QnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5kZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnRkFJTFVSRScgaW4gb3V0cHV0Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5lcnJvcignZmFpbGVkIHRvIGxvYWQgYW5kIHJ1biB1LWJvb3QnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdlIGV4cGxvaXQgdGhpcyB0byAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnRkFJTFVSRScgaW4gb3V0cHV0Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
