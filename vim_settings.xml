@@ -351,12 +351,12 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552702908622">
-        <mark key="'" line="342" column="0" />
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="353" column="24" />
-        <mark key="." line="342" column="0" />
-        <mark key="^" line="330" column="61" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552704115990">
+        <mark key="'" line="261" column="23" />
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="357" column="52" />
+        <mark key="." line="357" column="52" />
+        <mark key="^" line="357" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552427355971">
         <mark key="[" line="280" column="0" />
@@ -447,7 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="117" column="28" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="178" column="27" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
       <jump line="187" column="27" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" />
@@ -547,46 +546,47 @@
       <jump line="235" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="263" column="31" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="342" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="261" column="23" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3VzdG9tIA==</text>
+        <text>IMG</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yIGFzIGV4YzoKICAgICAgICAgICAgZW50cnkgPSAnZW5jb3VudGVyZWQgZXJyb3Igd2hpbGUgcnVubmluZyBUY2wgc2NyaXB0IHt9JwogICAgICAgICAgICBlbnRyeSA9IGVudHJ5LmZvcm1hdChvcy5wYXRoLmJhc2VuYW1lKHNjcmlwdF9wYXRoKSkKICAgICAgICAgICAgTE9HR0VSLmVycm9yKGVudHJ5KQogICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgZXhjZXB0IE9TRXJyb3IgYXMgZXhjOgogICAgICAgICAgICBMT0dHRVIuZXhjZXB0aW9uKGV4YykKICAgICAgICAgICAgZW50cnkgPSAnZmFpbGVkIHRvIGV4ZWN1dGUge30nCiAgICAgICAgICAgIExPR0dFUi5lcnJvcihlbnRyeS5mb3JtYXQoJyAnLmpvaW4oY21kKSkpCiAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGF0aCB0byB0aGUgSU1HIGZpbGUuIElmIGdpdmVuIGEgcmVsYXRpdmUgcGF0aCwgaXQgd2lsbCBiZQogICAgICAgICAgICByZWxhdGl2ZSB0byB0aGUgYXJ0aWZhY3QgZGlyZWN0b3J5IChgYGJpbmFyeV9kaXJgYCkgZ2l2ZW4gaW4KICAgICAgICAgICAgdGhlIGNvbmZpZ3VyYXRpb24gZmlsZS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwczdfCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5kZQo=</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwczdfCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5kZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5lcnJvcignZmFpbGVkIHRvIGxvYWQgYW5kIHJ1biB1LWJvb3QnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnRkFJTFVSRScgaW4gb3V0cHV0Ogo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBOb25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -625,7 +625,6 @@
         <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>171,237s/\.warning\(/\.debug\(/</entry>
         <entry>171,237s/warning/debug/</entry>
         <entry>n</entry>
         <entry>s/warning/debug/</entry>
@@ -644,6 +643,7 @@
         <entry>166,176s/out/output/g</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>302,313y</entry>
+        <entry>.w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
