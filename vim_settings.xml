@@ -121,6 +121,12 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/file_to_ram.tcl" timestamp="1552950483298">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="60" column="3" />
+        <mark key="^" line="60" column="3" />
+        <mark key="." line="60" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/larson_test_lists.py" timestamp="1551826514842">
         <mark key="'" line="44" column="8" />
         <mark key="[" line="5" column="75" />
@@ -351,12 +357,12 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552945450380">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552951505476">
         <mark key="'" line="261" column="23" />
-        <mark key="[" line="414" column="12" />
-        <mark key="]" line="415" column="52" />
-        <mark key="." line="415" column="52" />
-        <mark key="^" line="415" column="52" />
+        <mark key="[" line="503" column="45" />
+        <mark key="]" line="504" column="10" />
+        <mark key="." line="504" column="10" />
+        <mark key="^" line="504" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552427355971">
         <mark key="[" line="280" column="0" />
@@ -563,14 +569,19 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29uZmlndXJlcyB0aGUgUEZHQSB1c2luZyBmaWxlIGBgZnBnYV9wYXRoYGAg</text>
+        <text>File</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>if 'SUCCESS' in output:
-                LOGGER.debug('DUT should be running ELF')
+        <text>try:
+            output = subprocess.check_output(cmd)
+            log_xsdb(output)
+
+            if 'SUCCESS' in output:
+                LOGGER.debug('FPGA should be configured and DUT should '
+                             'be running ELF')
                 return True
             elif 'ERROR' in output:
                 entry = 'encountered error while running Tcl script {}'
@@ -581,34 +592,49 @@
                 entry = 'unexpected output from Tcl script {}'
                 entry = entry.format(os.path.basename(script_path))
                 LOGGER.critical(entry)
-                return False</text>
+                return False
+
+        except subprocess.CalledProcessError as exc:
+            entry = 'encountered error while running Tcl script {}'
+            entry = entry.format(os.path.basename(script_path))
+            LOGGER.error(entry)
+            return False
+
+        except OSError as exc:
+            LOGGER.exception(exc)
+            entry = 'failed to execute {}'
+            LOGGER.error(entry.format(' '.join(cmd)))
+            return False</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>FPGA should be configured and DUT should '
+                             'be running ELF</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aWYgJ1NVQ0NFU1MnIGluIG91dHB1dDoKICAgICAgICAgICAgICAgIA==</text>
+        <text>try:
+            output = subprocess.check_output(cmd)
+            log_xsdb(output)</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRyeS5mb3JtYXQoZWxmX3BhdGgsIGZwZ2FfcGF0aCkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgJ1NVQ0NFU1MnIGluIG91dHB1dDoKICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbnRyeS5mb3JtYXQoZWxmX3BhdGgsIGZwZ2FfcGF0aCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
