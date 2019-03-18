@@ -351,12 +351,12 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552938463745">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552942709122">
         <mark key="'" line="261" column="23" />
-        <mark key="[" line="397" column="0" />
-        <mark key="]" line="397" column="0" />
-        <mark key="." line="397" column="0" />
-        <mark key="^" line="397" column="7" />
+        <mark key="[" line="398" column="38" />
+        <mark key="]" line="398" column="68" />
+        <mark key="." line="398" column="68" />
+        <mark key="^" line="398" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552427355971">
         <mark key="[" line="280" column="0" />
@@ -434,10 +434,9 @@
         <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf_with_tcl_and_fpga.tcl" timestamp="1552938818320">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="3" />
+        <mark key="]" line="100" column="3" />
+        <mark key="^" line="100" column="3" />
+        <mark key="." line="100" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_imu_calibration.py" timestamp="1550188764971">
         <mark key="[" line="24" column="6" />
