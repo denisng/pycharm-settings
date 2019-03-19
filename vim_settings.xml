@@ -357,12 +357,12 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552951505476">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552953082209">
         <mark key="'" line="261" column="23" />
-        <mark key="[" line="503" column="45" />
-        <mark key="]" line="504" column="10" />
-        <mark key="." line="504" column="10" />
-        <mark key="^" line="504" column="10" />
+        <mark key="[" line="476" column="12" />
+        <mark key="]" line="477" column="52" />
+        <mark key="." line="477" column="52" />
+        <mark key="^" line="477" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552427355971">
         <mark key="[" line="280" column="0" />
@@ -569,7 +569,7 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>File</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -580,8 +580,7 @@
             log_xsdb(output)
 
             if 'SUCCESS' in output:
-                LOGGER.debug('FPGA should be configured and DUT should '
-                             'be running ELF')
+                LOGGER.debug('successfully read RAM data to local file')
                 return True
             elif 'ERROR' in output:
                 entry = 'encountered error while running Tcl script {}'
@@ -606,35 +605,35 @@
             LOGGER.error(entry.format(' '.join(cmd)))
             return False</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>FPGA should be configured and DUT should '
                              'be running ELF</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>try:
             output = subprocess.check_output(cmd)
             log_xsdb(output)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgJ1NVQ0NFU1MnIGluIG91dHB1dDoKICAgICAgICAgICAgICAgIA==</text>
-      </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRyeS5mb3JtYXQoZWxmX3BhdGgsIGZwZ2FfcGF0aCkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgJ1NVQ0NFU1MnIGluIG91dHB1dDoKICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbnRyeS5mb3JtYXQoZWxmX3BhdGgsIGZwZ2FfcGF0aCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
