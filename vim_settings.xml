@@ -203,12 +203,12 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/utility.py" timestamp="1553034353286">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/utility.py" timestamp="1553038838288">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="29" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_hw.py" timestamp="1551226368727">
         <mark key="[" line="10" column="6" />
@@ -360,12 +360,11 @@
         <mark key="^" line="357" column="57" />
         <mark key="." line="357" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553034805123">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553038590669">
         <mark key="'" line="69" column="32" />
-        <mark key="[" line="551" column="48" />
-        <mark key="]" line="552" column="69" />
-        <mark key="^" line="70" column="44" />
-        <mark key="." line="551" column="48" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -373,12 +372,12 @@
         <mark key="^" line="25" column="47" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_loopback.py" timestamp="1553028250379">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_loopback.py" timestamp="1553038040667">
         <mark key="'" line="19" column="12" />
-        <mark key="[" line="30" column="47" />
-        <mark key="]" line="30" column="60" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
         <mark key="^" line="20" column="46" />
-        <mark key="." line="30" column="60" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/meta.json" timestamp="1506660260745">
         <mark key="[" line="1" column="19" />
@@ -579,7 +578,7 @@
                                              stderr=subprocess.STDOUT</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>script_output</text>
       </register>
       <register name="/" type="4">
         <text>check_output</text>
@@ -588,31 +587,31 @@
         <text>'piksi_provision_tools.drivers.xsdb.tcl'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZG91dCA9IHN0ci5yZXBsYWNlKHNjcmlwdF9vdXRwdXQsICd4c2RiJSAnLCAnJykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZWxpbWluYXRlIHRoZSAneHNkYiUgJyBwcm9tcHRzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBsaW5lIGluIHN0ZG91dDoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgRklYTUU6IHRoZXJlIGlzIGEgcmVjdXJzaW9uIGVycm9yIHNvbWV3aGVyZSBoZXJlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZml4bWU6IHQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzLl9pbnN0YW5jZQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN0ZG91dCA9IHN0ci5yZXBsYWNlKHNjcmlwdF9vdXRwdXQsICd4c2RiJSAnLCAnJykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgZWxpbWluYXRlIHRoZSAneHNkYiUgJyBwcm9tcHRzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZvciBsaW5lIGluIHN0ZG91dDoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgRklYTUU6IHRoZXJlIGlzIGEgcmVjdXJzaW9uIGVycm9yIHNvbWV3aGVyZSBoZXJlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgZml4bWU6IHQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzLl9pbnN0YW5jZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xzLl9pbnN0YW5jZSA9IGNscygqYXJncywgKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
