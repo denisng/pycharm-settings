@@ -130,6 +130,12 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1553029159082">
+        <mark key="[" line="21" column="66" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/dng-nuc/configuration.nix" timestamp="1551138765860">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="20" />
@@ -641,7 +647,6 @@
         <entry encoding="base64">LiwkPg==</entry>
         <entry>s/out/err/g</entry>
         <entry>20,38d</entry>
-        <entry>W</entry>
         <entry>s/out/output/g</entry>
         <entry>127,138d</entry>
         <entry encoding="base64">MTEyLDEyMz4=</entry>
@@ -653,6 +658,7 @@
         <entry>302,313y</entry>
         <entry>.w</entry>
         <entry>21,32y</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
