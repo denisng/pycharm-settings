@@ -130,11 +130,11 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1553032805784">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="7" column="44" />
-        <mark key="^" line="7" column="44" />
-        <mark key="." line="7" column="44" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1553035768922">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="39" />
+        <mark key="." line="17" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/dng-nuc/configuration.nix" timestamp="1551138765860">
         <mark key="[" line="3" column="14" />
@@ -574,13 +574,13 @@
                                              stderr=subprocess.STDOUT</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'piksi_provision_tools.drivers.xsdb.tcl'</text>
       </register>
       <register name="/" type="4">
         <text>check_output</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY21kID0gbWFwKGxhbWJkYSB4OiBzdHIoeCksIGNtZCkK</text>
+      <register name="0" type="4">
+        <text>'piksi_provision_tools.drivers.xsdb.tcl'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
