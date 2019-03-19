@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_bist.py" timestamp="1552958310143">
-        <mark key="'" line="28" column="12" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="29" column="35" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1552104478811">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="93" column="0" />
@@ -132,10 +125,10 @@
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1553027561126">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1553027693575">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/dng-nuc/configuration.nix" timestamp="1551138765860">
         <mark key="[" line="3" column="14" />
@@ -155,12 +148,12 @@
         <mark key="^" line="64" column="39" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/devices/piksi.py" timestamp="1552957451471">
-        <mark key="'" line="22" column="12" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="3" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/devices/piksi.py" timestamp="1553028119283">
+        <mark key="'" line="18" column="12" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1543351254104">
         <mark key="[" line="19" column="70" />
@@ -252,12 +245,12 @@
         <mark key="." line="11" column="59" />
         <mark key="^" line="11" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" timestamp="1552957055924">
-        <mark key="'" line="32" column="12" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" timestamp="1553028080687">
+        <mark key="'" line="30" column="12" />
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="36" />
         <mark key="^" line="4" column="58" />
+        <mark key="." line="32" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_serial.py" timestamp="1544844249222">
         <mark key="[" line="0" column="0" />
@@ -349,12 +342,11 @@
         <mark key="." line="73" column="21" />
         <mark key="^" line="73" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1552958158713">
-        <mark key="'" line="393" column="12" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="364" column="54" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1553027998557">
+        <mark key="[" line="357" column="45" />
+        <mark key="]" line="357" column="57" />
+        <mark key="^" line="357" column="57" />
+        <mark key="." line="357" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552958775138">
         <mark key="'" line="250" column="23" />
@@ -369,12 +361,12 @@
         <mark key="^" line="25" column="47" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_loopback.py" timestamp="1552957970888">
-        <mark key="'" line="29" column="12" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="30" column="46" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_loopback.py" timestamp="1553028250379">
+        <mark key="'" line="19" column="12" />
+        <mark key="[" line="30" column="47" />
+        <mark key="]" line="30" column="60" />
+        <mark key="^" line="20" column="46" />
+        <mark key="." line="30" column="60" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/src/py_prj/meta.json" timestamp="1506660260745">
         <mark key="[" line="1" column="19" />
@@ -458,10 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
-      <jump line="167" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
-      <jump line="190" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
-      <jump line="266" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="287" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="350" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="8" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
@@ -495,8 +483,6 @@
       <jump line="101" column="26" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="23" column="19" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" />
       <jump line="4" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" />
-      <jump line="30" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" />
-      <jump line="32" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" />
       <jump line="4" column="58" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/devices/piksi.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/devices/piksi.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/devices/piksi.py" />
@@ -557,7 +543,13 @@
       <jump line="117" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="15" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="18" column="42" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
-      <jump line="69" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="68" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="71" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="72" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="32" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" />
+      <jump line="30" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -570,49 +562,49 @@
         <text encoding="base64">ICAgICAgICBkaWdpbGVudCA9IFhzZGJEaWdpbGVudChjb25mWyd4aWxpbnhfc2RrX3hzZGJfZXhlY3V0YWJsZSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbmZbJ2JpbmFyeV9kaXInXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>digilent</text>
+        <text>digilent_controller</text>
       </register>
       <register name="/" type="4">
-        <text>larson_controller</text>
+        <text>digilent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkaWdpbGVudCA9IFhzZGJEaWdpbGVudChjb25mWyd4aWxpbnhfc2RrX3hzZGJfZXhlY3V0YWJsZSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbmZbJ2JpbmFyeV9kaXInXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy54c2RiIGltcG9ydCBYc2RiRGlnaWxlbnQK</text>
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy54c2RiIGltcG9ydCBEaWdpbGVudENvbnRyb2xsZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB3aXAK</text>
+        <text encoding="base64">Pj4+Pj4+PiB3aXA6IHRlc3RfYmlzdC5weSBmb3Jnb3QgdG8gcmVtb3ZlIGFuIG9ic29sZXRlIGltcG9ydAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwd3JfY3RybC5zZXRfb24oRmFsc2UsIFRydWUpCg==</text>
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMudXRpbHMgaW1wb3J0IERVVFN0YXRlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAocG93ZXJfb25fd2FpdCkK</text>
+        <text encoding="base64">Pj4+Pj4+PiB3aXA6IHRlc3RfbG9vcGJhY2sucHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMT09QQkFDS19GUEdBKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqdGFnX3BvbGxfYXR0ZW1wdHMgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMT09QQkFDS19UQ0wsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>larson_controller</last-search>
+      <last-search>digilent</last-search>
       <last-offset />
-      <last-pattern>larson_controller</last-pattern>
+      <last-pattern>digilent</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -620,7 +612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>#</entry>
         <entry>piksi_com_port</entry>
         <entry>multi_lines</entry>
         <entry>switch_ctrl</entry>
@@ -638,8 +629,9 @@
         <entry>out</entry>
         <entry>&quot;</entry>
         <entry>UBOOT_IMG_OFFSET</entry>
-        <entry>digilent</entry>
         <entry>larson_controller</entry>
+        <entry>DigilentController</entry>
+        <entry>digilent</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
