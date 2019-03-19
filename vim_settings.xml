@@ -73,11 +73,11 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="84" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1552938442750">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="203" column="59" />
-        <mark key="^" line="128" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1552954257063">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/script_runner.py" timestamp="1552351684848">
         <mark key="'" line="29" column="11" />
@@ -92,11 +92,11 @@
         <mark key="^" line="30" column="23" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/__init__.py" timestamp="1552346954927">
-        <mark key="[" line="1" column="65" />
-        <mark key="]" line="1" column="65" />
-        <mark key="^" line="1" column="65" />
-        <mark key="." line="1" column="65" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/__init__.py" timestamp="1552954119635">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="67" />
+        <mark key="^" line="3" column="67" />
+        <mark key="." line="3" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/host_board_tests.py" timestamp="1547852016333">
         <mark key="[" line="26" column="0" />
@@ -133,6 +133,12 @@
         <mark key="]" line="6" column="62" />
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1552954834229">
+        <mark key="[" line="120" column="26" />
+        <mark key="]" line="120" column="26" />
+        <mark key="^" line="94" column="39" />
+        <mark key="." line="120" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1552424578591">
         <mark key="[" line="28" column="17" />
@@ -228,7 +234,7 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1552681949384">
+      <file name="/Python Console" timestamp="1552953762310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_const.py" timestamp="1547843606221">
@@ -357,11 +363,17 @@
         <mark key="." line="74" column="44" />
         <mark key="^" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552953082209">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1552955413996">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1552955036428">
         <mark key="'" line="261" column="23" />
-        <mark key="[" line="476" column="12" />
-        <mark key="]" line="477" column="52" />
-        <mark key="." line="477" column="52" />
+        <mark key="[" line="191" column="46" />
+        <mark key="]" line="191" column="46" />
+        <mark key="." line="191" column="46" />
         <mark key="^" line="477" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552427355971">
@@ -421,12 +433,12 @@
         <mark key="^" line="193" column="37" />
         <mark key="." line="193" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1551908550315">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1552955094522">
         <mark key="'" line="85" column="30" />
-        <mark key="[" line="132" column="21" />
-        <mark key="]" line="132" column="21" />
-        <mark key="." line="132" column="21" />
-        <mark key="^" line="132" column="17" />
+        <mark key="[" line="92" column="8" />
+        <mark key="]" line="92" column="8" />
+        <mark key="^" line="92" column="73" />
+        <mark key="." line="92" column="8" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/default_configuration.py" timestamp="1512535692582">
         <mark key="[" line="6" column="35" />
@@ -569,71 +581,41 @@
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>digilent_controller</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>try:
-            output = subprocess.check_output(cmd)
-            log_xsdb(output)
-
-            if 'SUCCESS' in output:
-                LOGGER.debug('successfully read RAM data to local file')
-                return True
-            elif 'ERROR' in output:
-                entry = 'encountered error while running Tcl script {}'
-                entry = entry.format(os.path.basename(script_path))
-                LOGGER.error(entry)
-                return False
-            else:
-                entry = 'unexpected output from Tcl script {}'
-                entry = entry.format(os.path.basename(script_path))
-                LOGGER.critical(entry)
-                return False
-
-        except subprocess.CalledProcessError as exc:
-            entry = 'encountered error while running Tcl script {}'
-            entry = entry.format(os.path.basename(script_path))
-            LOGGER.error(entry)
-            return False
-
-        except OSError as exc:
-            LOGGER.exception(exc)
-            entry = 'failed to execute {}'
-            LOGGER.error(entry.format(' '.join(cmd)))
-            return False</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkaWdpbGVudCA9IFhzZGJEaWdpbGVudChjb25mWyd4aWxpbnhfc2RrX3hzZGJfZXhlY3V0YWJsZSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbmZbJ2JpbmFyeV9kaXInXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWdpbGVudCA9IERpZ2lsZW50Q29udHJvbGxlcihzZWxmLmNvbmYpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZ2lsZW50ID0gRGlnaWxlbnRDb250cm9sbGVyKGNvbmYpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>FPGA should be configured and DUT should '
-                             'be running ELF</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5kaWdpbGVudF9jb250cm9sbGVyIGltcG9ydCBEaWdpbGVudENvbnRyb2xsZXIK</text>
       </register>
-      <register name="4" type="4">
-        <text>try:
-            output = subprocess.check_output(cmd)
-            log_xsdb(output)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy54c2RiIGltcG9ydCBYc2RiRGlnaWxlbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERpZ2lsZW50Q29udHJvbGxlcgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgJ1NVQ0NFU1MnIGluIG91dHB1dDoKICAgICAgICAgICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5kaWdpbGVudF9jb250cm9sbGVyIGltcG9ydCBcCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRyeS5mb3JtYXQoZWxmX3BhdGgsIGZwZ2FfcGF0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>FPGA should be configured and DUT should '
+                             'be running ELF</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
