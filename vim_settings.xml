@@ -132,12 +132,10 @@
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1552958282224">
-        <mark key="'" line="117" column="14" />
-        <mark key="[" line="120" column="26" />
-        <mark key="]" line="120" column="26" />
-        <mark key="^" line="94" column="39" />
-        <mark key="." line="120" column="26" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1553027561126">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/dng-nuc/configuration.nix" timestamp="1551138765860">
         <mark key="[" line="3" column="14" />
@@ -460,9 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="31" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="342" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="261" column="23" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="130" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="167" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="190" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
@@ -560,6 +555,9 @@
       <jump line="93" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="95" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="117" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="15" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="18" column="42" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="69" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -575,46 +573,46 @@
         <text>digilent</text>
       </register>
       <register name="/" type="4">
-        <text>digilent</text>
+        <text>larson_controller</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkaWdpbGVudCA9IFhzZGJEaWdpbGVudChjb25mWyd4aWxpbnhfc2RrX3hzZGJfZXhlY3V0YWJsZSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbmZbJ2JpbmFyeV9kaXInXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy54c2RiIGltcG9ydCBYc2RiRGlnaWxlbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5kaWdpbGVudF9jb250cm9sbGVyIGltcG9ydCBEaWdpbGVudENvbnRyb2xsZXIK</text>
+        <text encoding="base64">Pj4+Pj4+PiB3aXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWdpbGVudCA9IERpZ2lsZW50Q29udHJvbGxlcihjb25mKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaWdpbGVudCA9IERpZ2lsZW50Q29udHJvbGxlcihjb25mKQo=</text>
+        <text encoding="base64">ICAgICAgICBwd3JfY3RybC5zZXRfb24oRmFsc2UsIFRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5kaWdpbGVudF9jb250cm9sbGVyIGltcG9ydCBEaWdpbGVudENvbnRyb2xsZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaWdpbGVudCA9IERpZ2lsZW50Q29udHJvbGxlcihjb25mKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAocG93ZXJfb25fd2FpdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5kaWdpbGVudF9jb250cm9sbGVyIGltcG9ydCBEaWdpbGVudENvbnRyb2xsZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5kaWdpbGVudF9jb250cm9sbGVyIGltcG9ydCBEaWdpbGVudENvbnRyb2xsZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9vcGJhY2tfdGNsID0gJ3BzN19pbml0LnRjbCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqdGFnX3BvbGxfYXR0ZW1wdHMgKz0gMQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>digilent</last-search>
+      <last-search>larson_controller</last-search>
       <last-offset />
-      <last-pattern>digilent</last-pattern>
+      <last-pattern>larson_controller</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -622,7 +620,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handler</entry>
         <entry>#</entry>
         <entry>piksi_com_port</entry>
         <entry>multi_lines</entry>
@@ -642,6 +639,7 @@
         <entry>&quot;</entry>
         <entry>UBOOT_IMG_OFFSET</entry>
         <entry>digilent</entry>
+        <entry>larson_controller</entry>
       </history-search>
       <history-cmd>
         <entry>n</entry>
