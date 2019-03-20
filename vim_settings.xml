@@ -249,6 +249,11 @@
         <mark key="." line="151" column="28" />
         <mark key="^" line="151" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/check_connection.tcl" timestamp="1553045540096">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1552355666777">
         <mark key="'" line="10" column="17" />
         <mark key="[" line="12" column="0" />
@@ -359,12 +364,12 @@
         <mark key="^" line="357" column="57" />
         <mark key="." line="357" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553041988061">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553045676339">
         <mark key="'" line="560" column="41" />
-        <mark key="[" line="580" column="0" />
-        <mark key="]" line="580" column="47" />
-        <mark key="." line="580" column="0" />
-        <mark key="^" line="463" column="20" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -390,11 +395,6 @@
         <mark key="]" line="8" column="3" />
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/ram_to_file.tcl" timestamp="1552946063518">
-        <mark key="]" line="45" column="3" />
-        <mark key="^" line="45" column="3" />
-        <mark key="." line="45" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_file.py" timestamp="1544844196049">
         <mark key="[" line="28" column="11" />
@@ -441,11 +441,6 @@
         <mark key="]" line="113" column="51" />
         <mark key="." line="113" column="51" />
         <mark key="^" line="7" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf_with_tcl_and_fpga.tcl" timestamp="1552938818320">
-        <mark key="]" line="100" column="3" />
-        <mark key="^" line="100" column="3" />
-        <mark key="." line="100" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_imu_calibration.py" timestamp="1550188764971">
         <mark key="[" line="24" column="6" />
@@ -580,7 +575,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="-" type="4">
-        <text>LOGGER.error</text>
+        <text encoding="base64">IC8gSlRBRyBQcm9ncmFtbWVy</text>
       </register>
       <register name="/" type="4">
         <text>log_xsdb</text>
@@ -589,31 +584,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKGV4Yy5vdXRwdXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4aXQgMQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc2Nvbm5lY3QK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1dHMgJGNvblJlc3VsdAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1dHMgIihjb3VsZCBub3QgcmVzdW1lIGNvZGUgZXhlY3V0aW9uIG9uIERVVCdzIHByb2Nlc3NvcikiCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBOb25lCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGV4aXQgMQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRpc2Nvbm5lY3QK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1dHMgJGNvblJlc3VsdAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cHV0cyAiT0siCg==</text>
+        <text encoding="base64">ICAgIHB1dHMgIihjb3VsZCBub3QgcmVzdW1lIGNvZGUgZXhlY3V0aW9uIG9uIERVVCdzIHByb2Nlc3NvcikiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1dHMgIkVSUk9SIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgeyBbY2F0Y2ggY29uIGNvblJlc3VsdF0gfSB7Cg==</text>
+        <text encoding="base64">cHV0cyAiT0siCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
