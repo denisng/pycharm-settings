@@ -448,12 +448,12 @@
         <mark key="^" line="24" column="44" />
         <mark key="." line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" timestamp="1553051431736">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" timestamp="1553111594138">
         <mark key="'" line="0" column="2" />
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="5" column="58" />
-        <mark key="^" line="5" column="58" />
-        <mark key="." line="5" column="58" />
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="19" column="47" />
+        <mark key="^" line="19" column="47" />
+        <mark key="." line="19" column="47" />
       </file>
       <file name="D:/Documents/GitHub/cherrypy-warehouse/requirements.txt" timestamp="1496724978130">
         <mark key="[" line="0" column="6" />
@@ -582,7 +582,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Dev</text>
       </register>
       <register name="/" type="4">
         <text>log_xsdb</text>
