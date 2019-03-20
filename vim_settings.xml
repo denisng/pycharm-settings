@@ -448,12 +448,12 @@
         <mark key="^" line="24" column="44" />
         <mark key="." line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" timestamp="1553111594138">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="19" column="47" />
-        <mark key="^" line="19" column="47" />
-        <mark key="." line="19" column="47" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" timestamp="1553115833902">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="51" column="71" />
+        <mark key="]" line="52" column="23" />
+        <mark key="." line="52" column="23" />
+        <mark key="^" line="52" column="23" />
       </file>
       <file name="D:/Documents/GitHub/cherrypy-warehouse/requirements.txt" timestamp="1496724978130">
         <mark key="[" line="0" column="6" />
@@ -463,7 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="346" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="370" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="391" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
@@ -563,6 +562,7 @@
       <jump line="505" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="561" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="0" column="2" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -582,7 +582,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="-" type="4">
-        <text>Dev</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>log_xsdb</text>
@@ -594,28 +594,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZGlnaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4aXQgMQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpc2Nvbm5lY3QK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1dHMgJGNvblJlc3VsdAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1dHMgIihjb3VsZCBub3QgcmVzdW1lIGNvZGUgZXhlY3V0aW9uIG9uIERVVCdzIHByb2Nlc3NvcikiCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cHV0cyAiT0siCg==</text>
+        <text encoding="base64">ICAgICAgICBMbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
