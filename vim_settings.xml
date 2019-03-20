@@ -448,6 +448,13 @@
         <mark key="^" line="24" column="44" />
         <mark key="." line="24" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" timestamp="1553051431736">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="5" column="58" />
+        <mark key="^" line="5" column="58" />
+        <mark key="." line="5" column="58" />
+      </file>
       <file name="D:/Documents/GitHub/cherrypy-warehouse/requirements.txt" timestamp="1496724978130">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="5" />
@@ -456,7 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="344" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="346" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="370" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
@@ -556,6 +562,7 @@
       <jump line="443" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="505" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="561" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="0" column="2" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -575,13 +582,13 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8gSlRBRyBQcm9ncmFtbWVy</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>log_xsdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKGV4Yy5vdXRwdXQpCg==</text>
+        <text encoding="base64">IyBhdmFpbGFibGUgZGV2ZWxvcG1lbnQgc3lzdGVtKHMpCiIiIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
