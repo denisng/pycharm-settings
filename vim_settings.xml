@@ -129,6 +129,13 @@
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1553294988558">
+        <mark key="'" line="70" column="36" />
+        <mark key="[" line="159" column="32" />
+        <mark key="]" line="159" column="32" />
+        <mark key="^" line="159" column="32" />
+        <mark key="." line="159" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1553291944617">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -234,10 +241,11 @@
         <mark key="." line="151" column="28" />
         <mark key="^" line="151" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/check_connection.tcl" timestamp="1553045540096">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/check_connection.tcl" timestamp="1553294440163">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="16" column="51" />
+        <mark key="." line="16" column="51" />
+        <mark key="^" line="16" column="51" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1552355666777">
         <mark key="'" line="10" column="17" />
@@ -349,12 +357,12 @@
         <mark key="^" line="357" column="57" />
         <mark key="." line="357" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553045676339">
-        <mark key="'" line="560" column="41" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553294577540">
+        <mark key="'" line="121" column="34" />
+        <mark key="[" line="225" column="23" />
+        <mark key="]" line="225" column="26" />
+        <mark key="^" line="225" column="26" />
+        <mark key="." line="225" column="26" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -448,8 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" />
-      <jump line="68" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" />
       <jump line="91" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" />
       <jump line="21" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" />
       <jump line="118" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
@@ -548,6 +554,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
       <jump line="90" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
+      <jump line="70" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="121" column="34" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -567,10 +575,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>voltage</text>
       </register>
       <register name="/" type="4">
-        <text>log_xsdb</text>
+        <text>no JTAG connection to DUT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBhdmFpbGFibGUgZGV2ZWxvcG1lbnQgc3lzdGVtKHMpCiIiIgo=</text>
@@ -607,9 +615,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log_xsdb</last-search>
+      <last-search>no JTAG connection to DUT</last-search>
       <last-offset />
-      <last-pattern>log_xsdb</last-pattern>
+      <last-pattern>no JTAG connection to DUT</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -617,7 +625,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BAUD_RATE</entry>
         <entry encoding="base64">LCA=</entry>
         <entry>erasing old</entry>
         <entry>\.warning\(</entry>
@@ -632,11 +639,12 @@
         <entry>larson_controller</entry>
         <entry>DigilentController</entry>
         <entry>digilent</entry>
-        <entry>conf</entry>
         <entry>try</entry>
         <entry>try:</entry>
         <entry>check_output</entry>
         <entry>log_xsdb</entry>
+        <entry>conf</entry>
+        <entry>no JTAG connection to DUT</entry>
       </history-search>
       <history-cmd>
         <entry>s/warning/debug/</entry>
