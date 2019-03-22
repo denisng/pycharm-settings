@@ -153,10 +153,10 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/devices/piksi.py" timestamp="1553292009117">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/devices/piksi.py" timestamp="1553296538280">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1543351254104">
         <mark key="[" line="19" column="70" />
@@ -584,31 +584,31 @@
         <text encoding="base64">IyBhdmFpbGFibGUgZGV2ZWxvcG1lbnQgc3lzdGVtKHMpCiIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmaXggdHlwbyBpbiBzZXJpYWwuU2VyaWFsKCkgaW5zdGFudGlhdGlvbiwgJ2JhdWRyYXRlJyBub3QgJ2JhdWRfcmF0ZScK</text>
+        <text encoding="base64">Pj4+Pj4+PiBuZXcgZGlnaWxlbnQgZHJpdmVyCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlcmlhbC5TZXJpYWwoY29uZlsncGlrc2lfY29tX3BvcnQnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAlIGNvbmZbJ3Bpa3NpX2NvbV9wb3J0J10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1Zygnc2Nhbm5pbmcgJXMgZm9yIFZpdmFkbyBETkEnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3dkID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBETkFfRlBHQSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAgSU5TVEFMTF9SRVFVSVJFUyA9IFtpLnN0cmlwKCkgZm9yIGkgaW4gZi5yZWFkbGluZXMoKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBETkFfVENMLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyB3aXRoIG9wZW4oY3dkICsgJy9yZXF1aXJlbWVudHMudHh0JykgYXMgZjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlnaWxlbnQucnVuX2VsZl93aXRoX3RjbF9hbmRfZnBnYShETkFfRUxGLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBnZXR0aW5nIHNldHVwLnB5IHRvIGluY2x1ZGUgdGhlICoudGNsIHNjcmlwdHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlnaWxlbnQgPSBEaWdpbGVudENvbnRyb2xsZXIoY29uZikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
