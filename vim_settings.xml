@@ -367,12 +367,12 @@
         <mark key="^" line="357" column="57" />
         <mark key="." line="357" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553545720679">
-        <mark key="'" line="120" column="34" />
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="24" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="22" column="24" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553548271277">
+        <mark key="'" line="289" column="34" />
+        <mark key="[" line="292" column="34" />
+        <mark key="]" line="292" column="34" />
+        <mark key="^" line="292" column="34" />
+        <mark key="." line="292" column="34" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -466,9 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" />
-      <jump line="21" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" />
-      <jump line="118" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="120" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="121" column="47" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="122" column="15" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
@@ -566,6 +563,9 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
       <jump line="70" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="121" column="34" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="198" column="33" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="289" column="34" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -585,10 +585,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="-" type="4">
-        <text>abstract_devices.JtagDebugger</text>
+        <text encoding="base64">IGVsc2UgMA==</text>
       </register>
       <register name="/" type="4">
-        <text>no JTAG connection to DUT</text>
+        <text>1 if</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBhdmFpbGFibGUgZGV2ZWxvcG1lbnQgc3lzdGVtKHMpCiIiIgo=</text>
@@ -597,37 +597,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgIHJldHVybiBjbHMuX2luc3RhbmNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycyBpbXBvcnQgYWJzdHJhY3RfZGV2aWNlcwo=</text>
+        <text encoding="base64">ICAgICMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgICAgICBjbHMuX2luc3RhbmNlID0gY2xzKCphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgpjbGFzcyBKdGFnRGVidWdnZXIob2JqZWN0KToKCiAgICBkZWYgc3RvcF9qdGFnX2Rpc2FibGUoc2VsZiwgdGltZW91dD0wKToKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCgogICAgZGVmIHNvZnRfcmVzZXQoc2VsZik6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgo=</text>
+        <text encoding="base64">ICAgICMgICAgIGlmIG5vdCBpc2luc3RhbmNlKGNscy5faW5zdGFuY2UsIGNscyk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZGVmIF9fbmV3X18oY2xzLCAqYXJncywgKiprd2FyZ3MpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgpjbGFzcyBEdW1teUp0YWdEZWJ1Z2dlcihhYnN0cmFjdF9kZXZpY2VzLkp0YWdEZWJ1Z2dlcik6CgogICAgZGVmIHN0b3BfanRhZ19kaXNhYmxlKHNlbGYsIHRpbWVvdXQ9MCk6CiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBkZWYgc29mdF9yZXNldChzZWxmKToKICAgICAgICByZXR1cm4gRmFsc2UsIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICMgRklYTUU6IHRoZXJlIGlzIGEgcmVjdXJzaW9uIGVycm9yIHNvbWV3aGVyZSBpbiBoZXJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBuZXcgZGlnaWxlbnQgZHJpdmVyCg==</text>
+        <text encoding="base64">ICAgICMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICMgX2luc3RhbmNlID0gTm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>no JTAG connection to DUT</last-search>
+      <last-search>1 if</last-search>
       <last-offset />
-      <last-pattern>no JTAG connection to DUT</last-pattern>
+      <last-pattern>1 if</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -635,7 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">LCA=</entry>
         <entry>erasing old</entry>
         <entry>\.warning\(</entry>
         <entry>console_log</entry>
@@ -655,6 +654,7 @@
         <entry>log_xsdb</entry>
         <entry>conf</entry>
         <entry>no JTAG connection to DUT</entry>
+        <entry>1 if</entry>
       </history-search>
       <history-cmd>
         <entry>s/warning/debug/</entry>
