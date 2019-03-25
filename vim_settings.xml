@@ -194,6 +194,11 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/abstract_devices.py" timestamp="1553545951129">
+        <mark key="[" line="44" column="33" />
+        <mark key="]" line="44" column="33" />
+        <mark key="." line="44" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/utility.py" timestamp="1553041727834">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="40" />
@@ -322,6 +327,11 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/dummy_devices.py" timestamp="1553545957488">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+      </file>
       <file name="/Dummy.txt" timestamp="1552348851761">
         <mark key="[" line="0" column="0" />
       </file>
@@ -357,12 +367,12 @@
         <mark key="^" line="357" column="57" />
         <mark key="." line="357" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553294577540">
-        <mark key="'" line="121" column="34" />
-        <mark key="[" line="225" column="23" />
-        <mark key="]" line="225" column="26" />
-        <mark key="^" line="225" column="26" />
-        <mark key="." line="225" column="26" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553545720679">
+        <mark key="'" line="120" column="34" />
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="24" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -575,7 +585,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="-" type="4">
-        <text>voltage</text>
+        <text>abstract_devices.JtagDebugger</text>
       </register>
       <register name="/" type="4">
         <text>no JTAG connection to DUT</text>
@@ -584,31 +594,31 @@
         <text encoding="base64">IyBhdmFpbGFibGUgZGV2ZWxvcG1lbnQgc3lzdGVtKHMpCiIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBuZXcgZGlnaWxlbnQgZHJpdmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAlIGNvbmZbJ3Bpa3NpX2NvbV9wb3J0J10pCg==</text>
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycyBpbXBvcnQgYWJzdHJhY3RfZGV2aWNlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzX2xvZ2dlci5kZWJ1Zygnc2Nhbm5pbmcgJXMgZm9yIFZpdmFkbyBETkEnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBETkFfRlBHQSkK</text>
+        <text encoding="base64">CgpjbGFzcyBKdGFnRGVidWdnZXIob2JqZWN0KToKCiAgICBkZWYgc3RvcF9qdGFnX2Rpc2FibGUoc2VsZiwgdGltZW91dD0wKToKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCgogICAgZGVmIHNvZnRfcmVzZXQoc2VsZik6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBETkFfVENMLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlnaWxlbnQucnVuX2VsZl93aXRoX3RjbF9hbmRfZnBnYShETkFfRUxGLAo=</text>
+        <text encoding="base64">CgpjbGFzcyBEdW1teUp0YWdEZWJ1Z2dlcihhYnN0cmFjdF9kZXZpY2VzLkp0YWdEZWJ1Z2dlcik6CgogICAgZGVmIHN0b3BfanRhZ19kaXNhYmxlKHNlbGYsIHRpbWVvdXQ9MCk6CiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBkZWYgc29mdF9yZXNldChzZWxmKToKICAgICAgICByZXR1cm4gRmFsc2UsIEZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlnaWxlbnQgPSBEaWdpbGVudENvbnRyb2xsZXIoY29uZikK</text>
+        <text encoding="base64">Pj4+Pj4+PiBuZXcgZGlnaWxlbnQgZHJpdmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
