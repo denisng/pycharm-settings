@@ -367,11 +367,12 @@
         <mark key="^" line="357" column="57" />
         <mark key="." line="357" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553549447690">
-        <mark key="'" line="289" column="34" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553551339281">
+        <mark key="'" line="286" column="34" />
+        <mark key="[" line="284" column="36" />
+        <mark key="]" line="284" column="37" />
+        <mark key="." line="284" column="37" />
+        <mark key="^" line="284" column="37" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -584,7 +585,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>pass through and override the</text>
       </register>
       <register name="/" type="4">
         <text>LOGGER</text>
@@ -593,31 +594,31 @@
         <text encoding="base64">IyBhdmFpbGFibGUgZGV2ZWxvcG1lbnQgc3lzdGVtKHMpCiIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICogQWJzb2x1dGUgcGF0aHMgd2lsbCBiYXNpY2FsbHkgcGFzcyB0aHJvdWdoIHVuYWx0ZXJlZC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3hzZGIudGVzdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgY29uY2F0ZW5hdGVkIGJ5IG9zLnBhdGguam9pbigpLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICogUmVsYXRpdmUgcGF0aHMgd2lsbCBoYXZlIHRoZSBwcmVkZWZpbmVkIGFic29sdXRlIHBvcnRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnX2xvZ2dlciA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgIFRoaXMgbGV0cyB1cyBhY2NlcHQgYm90aCBhYnNvbHV0ZSBhbmQgcmVsYXRpdmUgcGF0aHMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgIGluc3RlYWQgb2YgYSByZWxhdGl2ZSwgYGBiYGAgdHJ1bXBzIGBgYWBgLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgIElmIHlvdSBgYG9zLnBhdGguam9pbihhLCBiKWBgIGFuZCBgYGJgYCBpcyBhbiBhYnNvbHV0ZSBwYXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgIHJldHVybiBjbHMuX2luc3RhbmNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMK</text>
+        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3hzZGIudGVzdCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
