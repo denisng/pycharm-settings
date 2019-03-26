@@ -199,12 +199,12 @@
         <mark key="]" line="44" column="33" />
         <mark key="." line="44" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/utility.py" timestamp="1553558586920">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="50" column="56" />
-        <mark key="]" line="51" column="54" />
-        <mark key="." line="51" column="54" />
-        <mark key="^" line="51" column="54" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/utility.py" timestamp="1553559188340">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_hw.py" timestamp="1551226368727">
         <mark key="[" line="10" column="6" />
@@ -367,12 +367,12 @@
         <mark key="^" line="357" column="57" />
         <mark key="." line="357" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553558538203">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1553559671754">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="61" column="66" />
-        <mark key="]" line="62" column="40" />
-        <mark key="." line="62" column="40" />
-        <mark key="^" line="62" column="40" />
+        <mark key="[" line="130" column="15" />
+        <mark key="]" line="130" column="39" />
+        <mark key="^" line="130" column="39" />
+        <mark key="." line="130" column="39" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -466,7 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="27" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/concrete_fixtures.py" />
       <jump line="18" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/concrete_fixtures.py" />
       <jump line="50" column="63" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/concrete_fixtures.py" />
       <jump line="62" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/concrete_fixtures.py" />
@@ -566,6 +565,7 @@
       <jump line="45" column="52" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/utility.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -585,57 +585,56 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>LOGGER</text>
+        <text>output</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKGVudHJ5LmZvcm1hdCh0eXBlKGtleXdvcmQpKSkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dfeHNkYihvdXRwdXQsIGxvZ2dpbmcuREVCVUcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKGVudHJ5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50cnkgPSBlbnRyeS5mb3JtYXQob3MucGF0aC5iYXNlbmFtZShzY3JpcHRfcGF0aCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50cnkgPSAndW5leHBlY3RlZCBvdXRwdXQgZnJvbSBUY2wgc2NyaXB0IHt9Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igb3V0Y29tZSBpbiBvdXRjb21lczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjZSBhbiBlbXB0eSBzdHJpbmcuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCdvcGVyYXRpb24gdG8gc3RvcCBKVEFHIGRpc2FibGUgdGltZWQgb3V0JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29tZXRoaW5nIG9uIHN1Y2Nlc3MsIHNvIGEgc3VjY2Vzc2Z1bCBydW4gc2hvdWxkIG5ldmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmICdGQUlMVVJFJyBpbiBvdXRwdXQ6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG8gYGBGYWxzZWBgLiBUaGUgVGNsIHNjcmlwdHMgaGF2ZSBiZWVuIGRlc2lnbmVkIHRvIG91dHB1dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSWYgYW4gZXhjZXB0aW9uIHdhcyByYWlzZWQsIHJldHVybnMgYW4gb2JqZWN0IHRoYXQgZXZhbHVhdGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCdKVEFHIGRpc2FibGUgc3VjY2Vzc2Z1bGx5IHN0b3BwZWQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LOGGER</last-search>
+      <last-search>output</last-search>
       <last-offset />
-      <last-pattern>LOGGER</last-pattern>
-      <last-replace>self.debug_logger</last-replace>
-      <last-substitute>LOGGER</last-substitute>
+      <last-pattern>output</last-pattern>
+      <last-replace>script_output</last-replace>
+      <last-substitute>output</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\.warning\(</entry>
         <entry>console_log</entry>
         <entry>logging</entry>
         <entry>warning</entry>
@@ -655,9 +654,9 @@
         <entry>no JTAG connection to DUT</entry>
         <entry>1 if</entry>
         <entry>LOGGER</entry>
+        <entry>output</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">LiwkPg==</entry>
         <entry>s/out/err/g</entry>
         <entry>20,38d</entry>
         <entry>s/out/output/g</entry>
@@ -676,6 +675,7 @@
         <entry>%s/LOGGER/self.debug_logger/</entry>
         <entry encoding="base64">MzMsMzc+</entry>
         <entry>91,96y</entry>
+        <entry>s/output/script_output/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
