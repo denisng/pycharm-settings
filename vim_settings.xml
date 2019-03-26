@@ -451,12 +451,12 @@
         <mark key="^" line="24" column="44" />
         <mark key="." line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" timestamp="1553550268931">
-        <mark key="'" line="114" column="12" />
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="4" />
-        <mark key="^" line="115" column="36" />
-        <mark key="." line="26" column="4" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" timestamp="1553564237661">
+        <mark key="'" line="33" column="7" />
+        <mark key="[" line="105" column="11" />
+        <mark key="]" line="105" column="14" />
+        <mark key="." line="105" column="14" />
+        <mark key="^" line="105" column="14" />
       </file>
       <file name="D:/Documents/GitHub/cherrypy-warehouse/requirements.txt" timestamp="1496724978130">
         <mark key="[" line="0" column="6" />
@@ -528,7 +528,6 @@
       <jump line="198" column="33" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="289" column="34" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="26" column="51" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
-      <jump line="33" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
       <jump line="35" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
       <jump line="106" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
@@ -566,10 +565,11 @@
       <jump line="303" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="349" column="79" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="300" column="37" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="33" column="7" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBkaWdpbGVudCA9IFhzZGJEaWdpbGVudChjb25mWyd4aWxpbnhfc2RrX3hzZGJfZXhlY3V0YWJsZSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbmZbJ2JpbmFyeV9kaXInXSkK</text>
+      <register name="a" type="4">
+        <text>logger.logAssert('', result)</text>
       </register>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
@@ -581,61 +581,62 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
+      <register name="*" type="4">
+        <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>output</text>
+        <text>result_\d</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dfeHNkYihvdXRwdXQsIGxvZ2dpbmcuREVCVUcpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZGlnaWxlbnQuc3RvcF9qdGFnX2Rpc2FibGUoKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZXhjOgogICAgICAgICAgICBlbnRyeSA9ICdlbmNvdW50ZXJlZCBlcnJvciB3aGlsZSBydW5uaW5nIFRjbCBzY3JpcHQge30nCiAgICAgICAgICAgIGVudHJ5ID0gZW50cnkuZm9ybWF0KG9zLnBhdGguYmFzZW5hbWUoc2NyaXB0X3BhdGgpKQogICAgICAgICAgICBMT0dHRVIuZXJyb3IoZW50cnkpCiAgICAgICAgICAgIGxvZ194c2RiKGV4Yy5vdXRwdXQsIGxvZ2dpbmcuRVJST1IpCiAgICAgICAgICAgIHJldHVybiBGYWxzZQoKICAgICAgICBleGNlcHQgT1NFcnJvciBhcyBleGM6CiAgICAgICAgICAgIExPR0dFUi5leGNlcHRpb24oZXhjKQogICAgICAgICAgICBlbnRyeSA9ICdmYWlsZWQgdG8gZXhlY3V0ZSB7fScKICAgICAgICAgICAgTE9HR0VSLmVycm9yKGVudHJ5LmZvcm1hdCgnICcuam9pbihjbWQpKSkKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWJ1Z19sb2dnZXIuZXJyb3IoJ2V4cGVjdGVkIHNvZnRfcmVzZXQoKSB0byBzdWNjZWVkJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGJsb3dzIGF3YXkgdGhlIFJBTSwgc28gd2UgYm9vdCBpbnRvIHRoZSBwcm9kdWN0aW9uCiAgICAgICAgICAgICMgYm9vdGxvYWRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWJ1Z19sb2dnZXIuZXJyb3IoJ2V4cGVjdGVkIGZpbGVfdG9fcmFtKCkgdG8gc3VjY2VlZCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5jcml0aWNhbChlbnRyeSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByZWFkaW5nIGEgZmlsZSB0aGF0IHNob3VsZCBleGlzdCBvbiB0aGUgZGV2ZWxvcG1lbnQgc3lzdGVtCiAgICAgICAgICAgICMgYW5kIHdyaXRpbmcgaXQgaW50byBhIHJlZ2lvbiBvZiBSQU0gdGhhdCBzaG91bGQgbm90IGJlCiAgICAgICAgICAgICMgc2lnbmlmaWNhbnQK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudHJ5ID0gZW50cnkuZm9ybWF0KG9zLnBhdGguYmFzZW5hbWUoc2NyaXB0X3BhdGgpKQo=</text>
+      <register name="6" type="4">
+        <text>digilent.file_to_ram(BL_IMG_OFFSET,
+                                    os.path.join(conf['log_dir'],
+                                                 FACTORY_DATA_FILE))</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudHJ5ID0gJ3VuZXhwZWN0ZWQgb3V0cHV0IGZyb20gVGNsIHNjcmlwdCB7fScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByZWFkaW5nIG9uZSB3b3JkIGZyb20gYW4gdW5pbXBvcnRhbnQgcmVnaW9uIG9mIFJBTQogICAgICAgICAgICAjIGFuZCBzdG9yaW5nIGl0IC4uLmluIHRoZSB2b2lkLi4uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWJ1Z19sb2dnZXIuZXJyb3IoJ2V4cGVjdGVkIHJhbV90b19maWxlKCkgdG8gc3VjY2VlZCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWJ1Z19sb2dnZXIuZXJyb3IoJ2V4cGVjdGVkICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3J1bl9lbGZfd2l0aF90Y2xfYW5kX2ZwZ2EoKSAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0byBzdWNjZWVkJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>output</last-search>
+      <last-search>result_\d</last-search>
       <last-offset />
-      <last-pattern>output</last-pattern>
-      <last-replace>script_output</last-replace>
-      <last-substitute>output</last-substitute>
+      <last-pattern>result_\d</last-pattern>
+      <last-replace>result</last-replace>
+      <last-substitute>result_\d</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console_log</entry>
         <entry>logging</entry>
         <entry>warning</entry>
         <entry>\.info</entry>
@@ -655,9 +656,9 @@
         <entry>1 if</entry>
         <entry>LOGGER</entry>
         <entry>output</entry>
+        <entry>result_\d</entry>
       </history-search>
       <history-cmd>
-        <entry>s/out/err/g</entry>
         <entry>20,38d</entry>
         <entry>s/out/output/g</entry>
         <entry>127,138d</entry>
@@ -676,6 +677,7 @@
         <entry encoding="base64">MzMsMzc+</entry>
         <entry>91,96y</entry>
         <entry>s/output/script_output/g</entry>
+        <entry>%s/result_\d/result/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
