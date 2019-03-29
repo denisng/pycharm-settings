@@ -122,6 +122,13 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" timestamp="1553900357834">
+        <mark key="'" line="34" column="36" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="49" column="36" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/larson_test_lists.py" timestamp="1551826514842">
         <mark key="'" line="44" column="8" />
         <mark key="[" line="5" column="75" />
@@ -219,7 +226,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1553814912256">
+      <file name="/Python Console" timestamp="1553900876833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ssh-config/configs/lab.ssh" timestamp="1548724951428">
@@ -349,8 +356,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1553118633942">
-        <mark key="'" line="30" column="69" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1553901296072">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="120" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1553027998557">
         <mark key="[" line="357" column="45" />
@@ -457,38 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="556" column="26" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="557" column="34" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="562" column="22" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="563" column="27" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="568" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="569" column="27" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="67" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="82" column="18" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="83" column="26" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="84" column="37" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="88" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="89" column="22" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="90" column="27" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="96" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="97" column="27" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="108" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="116" column="18" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="117" column="26" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="209" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="305" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="363" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="427" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="487" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="450" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="488" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="541" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="112" column="68" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="158" column="68" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="215" column="68" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="312" column="68" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="371" column="68" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="436" column="68" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="497" column="68" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="552" column="68" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="69" column="32" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
@@ -557,6 +536,38 @@
       <jump line="349" column="79" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="300" column="37" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="33" column="7" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
+      <jump line="65" column="48" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
+      <jump line="34" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
+      <jump line="43" column="37" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="8" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -576,42 +587,40 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>xception</text>
       </register>
       <register name="/" type="4">
         <text>result_\d</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZGlnaWxlbnQuc3RvcF9qdGFnX2Rpc2FibGUoKToK</text>
+        <text encoding="base64">ICAgICAgICBfb25fY29uZmlnX2Vycm9yKGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWJ1Z19sb2dnZXIuZXJyb3IoJ2V4cGVjdGVkIHNvZnRfcmVzZXQoKSB0byBzdWNjZWVkJykK</text>
+        <text encoding="base64">ICAgIGRlZiBfb25fY29uZmlnX2Vycm9yKGV4Y2VwdGlvbik6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGJsb3dzIGF3YXkgdGhlIFJBTSwgc28gd2UgYm9vdCBpbnRvIHRoZSBwcm9kdWN0aW9uCiAgICAgICAgICAgICMgYm9vdGxvYWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnaW52YWxpZCBsb2dnaW5nIGNvbmZpZ3VyYXRpb24gc2V0dGluZycpCiAgICAgICAgcHJpbnQoZXhjZXB0aW9uKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWJ1Z19sb2dnZXIuZXJyb3IoJ2V4cGVjdGVkIGZpbGVfdG9fcmFtKCkgdG8gc3VjY2VlZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBfb25fY29uZmlnX2Vycm9yKGUpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZWFkaW5nIGEgZmlsZSB0aGF0IHNob3VsZCBleGlzdCBvbiB0aGUgZGV2ZWxvcG1lbnQgc3lzdGVtCiAgICAgICAgICAgICMgYW5kIHdyaXRpbmcgaXQgaW50byBhIHJlZ2lvbiBvZiBSQU0gdGhhdCBzaG91bGQgbm90IGJlCiAgICAgICAgICAgICMgc2lnbmlmaWNhbnQK</text>
+      <register name="5" type="4">
+        <text encoding="base64">YXMgZToKICAgICAgICBfb25fY29uZmlnX2Vycm9yKGUpCiAgICBleGNlcHQg</text>
       </register>
       <register name="6" type="4">
-        <text>digilent.file_to_ram(BL_IMG_OFFSET,
-                                    os.path.join(conf['log_dir'],
-                                                 FACTORY_DATA_FILE))</text>
+        <text encoding="base64">YXMgZToKICAgICAgICBfb25fY29uZmlnX2Vycm9yKGUpCiAgICBleGNlcHQg</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZWFkaW5nIG9uZSB3b3JkIGZyb20gYW4gdW5pbXBvcnRhbnQgcmVnaW9uIG9mIFJBTQogICAgICAgICAgICAjIGFuZCBzdG9yaW5nIGl0IC4uLmluIHRoZSB2b2lkLi4uCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">YXMgZToKICAgICAgICBfb25fY29uZmlnX2Vycm9yKGUpCiAgICBleGNlcCA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWJ1Z19sb2dnZXIuZXJyb3IoJ2V4cGVjdGVkIHJhbV90b19maWxlKCkgdG8gc3VjY2VlZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnSW52YWxpZCBsb2dnaW5nIGNvbmZpZ3VyYXRpb24gc2V0dGluZycpCiAgICAgICAgcHJpbnQoZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWJ1Z19sb2dnZXIuZXJyb3IoJ2V4cGVjdGVkICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3J1bl9lbGZfd2l0aF90Y2xfYW5kX2ZwZ2EoKSAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0byBzdWNjZWVkJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnSW52YWxpZCBsb2dnaW5nIGNvbmZpZ3VyYXRpb24gc2V0dGluZycpCiAgICAgICAgcHJpbnQoZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
