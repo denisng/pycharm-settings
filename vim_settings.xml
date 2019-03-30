@@ -122,12 +122,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" timestamp="1553903193028">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" timestamp="1553910149849">
         <mark key="'" line="32" column="6" />
-        <mark key="[" line="64" column="36" />
-        <mark key="]" line="66" column="46" />
-        <mark key="^" line="66" column="46" />
-        <mark key="." line="66" column="46" />
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="66" column="32" />
+        <mark key="^" line="66" column="32" />
+        <mark key="." line="66" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/larson_test_lists.py" timestamp="1551826514842">
         <mark key="'" line="44" column="8" />
@@ -587,7 +587,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>format</text>
       </register>
       <register name="/" type="4">
         <text>result_\d</text>
