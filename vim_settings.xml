@@ -122,12 +122,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" timestamp="1553910149849">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" timestamp="1553912453705">
         <mark key="'" line="32" column="6" />
-        <mark key="[" line="66" column="30" />
-        <mark key="]" line="66" column="32" />
-        <mark key="^" line="66" column="32" />
-        <mark key="." line="66" column="32" />
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="65" column="32" />
+        <mark key="^" line="65" column="32" />
+        <mark key="." line="65" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/larson_test_lists.py" timestamp="1551826514842">
         <mark key="'" line="44" column="8" />
@@ -587,7 +587,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>format</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>result_\d</text>
@@ -595,32 +595,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfb25fY29uZmlnX2Vycm9yKGUpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>does the opposite of
+    the normal</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfb25fY29uZmlnX2Vycm9yKGV4Y2VwdGlvbik6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuYW1lPSIiKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaW52YWxpZCBsb2dnaW5nIGNvbmZpZ3VyYXRpb24gc2V0dGluZycpCiAgICAgICAgcHJpbnQoZXhjZXB0aW9uKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBfb25fY29uZmlnX2Vycm9yKGV4Y2VwdGlvbik6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnaW52YWxpZCBsb2dnaW5nIGNvbmZpZ3VyYXRpb24gc2V0dGluZycpCiAgICAgICAgcHJpbnQoZXhjZXB0aW9uKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBfb25fY29uZmlnX2Vycm9yKGUpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">YXMgZToKICAgICAgICBfb25fY29uZmlnX2Vycm9yKGUpCiAgICBleGNlcHQg</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">YXMgZToKICAgICAgICBfb25fY29uZmlnX2Vycm9yKGUpCiAgICBleGNlcHQg</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">YXMgZToKICAgICAgICBfb25fY29uZmlnX2Vycm9yKGUpCiAgICBleGNlcCA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnSW52YWxpZCBsb2dnaW5nIGNvbmZpZ3VyYXRpb24gc2V0dGluZycpCiAgICAgICAgcHJpbnQoZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
