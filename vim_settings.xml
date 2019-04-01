@@ -289,11 +289,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" timestamp="1547843171127">
-        <mark key="[" line="211" column="132" />
-        <mark key="]" line="211" column="5" />
-        <mark key="." line="211" column="5" />
-        <mark key="^" line="211" column="5" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" timestamp="1554157571221">
+        <mark key="'" line="240" column="77" />
+        <mark key="[" line="240" column="33" />
+        <mark key="]" line="240" column="33" />
+        <mark key="^" line="233" column="0" />
+        <mark key="." line="240" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -333,6 +334,13 @@
       <file name="/Dummy.txt" timestamp="1552348851761">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" timestamp="1554158867679">
+        <mark key="'" line="111" column="12" />
+        <mark key="[" line="116" column="30" />
+        <mark key="]" line="116" column="31" />
+        <mark key="^" line="116" column="31" />
+        <mark key="." line="116" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/_build/rst/imu_cal_pid.crl_emulation.rst" timestamp="1543372501027">
         <mark key="[" line="10" column="74" />
         <mark key="]" line="10" column="5" />
@@ -352,12 +360,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1553915630886">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1554156134220">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="55" column="32" />
+        <mark key="[" line="125" column="52" />
+        <mark key="]" line="126" column="28" />
+        <mark key="." line="126" column="28" />
+        <mark key="^" line="126" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1553027998557">
         <mark key="[" line="357" column="45" />
@@ -464,12 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="552" column="68" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="69" column="32" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="28" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="74" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="92" column="45" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="113" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="161" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="219" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="236" column="45" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
@@ -564,6 +566,12 @@
       <jump line="114" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="32" column="6" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="234" column="77" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
+      <jump line="97" column="50" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
+      <jump line="99" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
+      <jump line="107" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
+      <jump line="108" column="19" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
+      <jump line="111" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -583,40 +591,40 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>RejectionFilter</text>
+        <text encoding="base64">IHRv</text>
       </register>
       <register name="/" type="4">
         <text>result_\d</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBfb25fY29uZmlnX2Vycm9yKGUpCg==</text>
+      <register name="0" type="4">
+        <text>[logging configuration dictionary](https://docs.python.org/2/library/logging.config.html#logging.config.dictConfig)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9zLnBhdGgK</text>
+        <text encoding="base64">ICAgIFtIYW5kbGVyXSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuc3lzX2xvZ2dlciBpbXBvcnQgTGV2ZWxDYXBIYW5kbGVyCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdF9sb2dnZXIuYWRkSGFuZGxlcihzeXNsb2dfaGFuZGxlcikK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdF9sb2dnZXIuYWRkSGFuZGxlcihzdHJlYW1faGFuZGxlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgImhhbmRsZXJzIiA6IFsic3lzbG9nX2hhbmRsZXIiLCAicHl2aXNhX2hhbmRsZXIiLCAiZGVidWdfZmlsZV9oYW5kbGVyIl0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdF9sb2dnZXIuc2V0TGV2ZWwobG9nZ2luZy5JTkZPKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgImxldmVsIiA6ICJERUJVRyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdF9sb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcigncmVzdWx0cycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJyb290IiA6IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZGF0YWJhc2UgYW5kIG90aGVyIHJlZ2lvbnMgd2UgYXJlIG5vdCByZWFkeSB0byB0b3VjaAo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZG9uJ3QgY2hhbmdlIHRoZSBzZXR0aW5ncyBmb3IgdGhpcywgaXQgaGFzIGltcGxpY2F0aW9ucyBmb3IgdGhlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -655,7 +663,6 @@
         <entry>result_\d</entry>
       </history-search>
       <history-cmd>
-        <entry>20,38d</entry>
         <entry>s/out/output/g</entry>
         <entry>127,138d</entry>
         <entry encoding="base64">MTEyLDEyMz4=</entry>
@@ -674,6 +681,7 @@
         <entry>91,96y</entry>
         <entry>s/output/script_output/g</entry>
         <entry>%s/result_\d/result/</entry>
+        <entry encoding="base64">MjM4LDMwNjw=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
