@@ -334,12 +334,12 @@
       <file name="/Dummy.txt" timestamp="1552348851761">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" timestamp="1554158867679">
-        <mark key="'" line="111" column="12" />
-        <mark key="[" line="116" column="30" />
-        <mark key="]" line="116" column="31" />
-        <mark key="^" line="116" column="31" />
-        <mark key="." line="116" column="31" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" timestamp="1554160917367">
+        <mark key="'" line="97" column="56" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="^" line="98" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/_build/rst/imu_cal_pid.crl_emulation.rst" timestamp="1543372501027">
         <mark key="[" line="10" column="74" />
@@ -360,12 +360,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1554156134220">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="125" column="52" />
-        <mark key="]" line="126" column="28" />
-        <mark key="." line="126" column="28" />
-        <mark key="^" line="126" column="28" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1554161429183">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="43" column="13" />
+        <mark key="." line="43" column="13" />
+        <mark key="^" line="49" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1553027998557">
         <mark key="[" line="357" column="45" />
@@ -472,9 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="219" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="236" column="45" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="317" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="377" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="443" column="41" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
@@ -567,11 +564,14 @@
       <jump line="32" column="6" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="234" column="77" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
-      <jump line="97" column="50" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
       <jump line="99" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
       <jump line="107" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
       <jump line="108" column="19" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
-      <jump line="111" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
+      <jump line="111" column="21" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
+      <jump line="113" column="64" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
+      <jump line="115" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
+      <jump line="118" column="2" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
+      <jump line="97" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -591,7 +591,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRv</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>result_\d</text>
@@ -600,31 +600,32 @@
         <text>[logging configuration dictionary](https://docs.python.org/2/library/logging.config.html#logging.config.dictConfig)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFtIYW5kbGVyXSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">W2xvZ2dpbmddKGh0dHBzOi8vZG9jcy5weXRob24ub3JnLzIvbGlicmFyeS9sb2dnaW5nLmh0bWwjKSBjb252ZW50aW9uczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">VGhlIGZvbGxvd2luZyBhcmUgdGhlIHJlY29tbWVuZGVkIFB5dGhvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgImhhbmRsZXJzIiA6IFsic3lzbG9nX2hhbmRsZXIiLCAicHl2aXNhX2hhbmRsZXIiLCAiZGVidWdfZmlsZV9oYW5kbGVyIl0K</text>
+        <text encoding="base64">ICAqIFlvdSBnZXQgYWNjZXNzIHRvIHRoZSBgdGVzdF9jb250cm9sbGVyYCBsb2dnZXIgdmlhCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgImxldmVsIiA6ICJERUJVRyIsCg==</text>
+      <register name="6" type="4">
+        <text>that collects messages
+    written to `/dev/log` (i.e. syslog)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICJyb290IiA6IHsK</text>
+        <text encoding="base64">ICAgICogRE8gc2VuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICogRE8gTk9UIHVzZSBzeXNsb2cgZm9yIHZlcmJvc2UgdGhpbmcgc3VjaCBhcyBkZWJ1Zy1sZXZlbCBtZXNzYWdlcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAqIFJlY29tbWVuZGF0aW9uczoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
