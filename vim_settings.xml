@@ -105,6 +105,11 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/pkgs/pyyaml/default.nix" timestamp="1554170398049">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/requirements.txt" timestamp="1554162626269">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="18" />
@@ -237,7 +242,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1554148714821">
+      <file name="/Python Console" timestamp="1554170262051">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ssh-config/configs/lab.ssh" timestamp="1548724951428">
