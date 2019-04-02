@@ -24,7 +24,12 @@
       <file name="/a.dummy" timestamp="1552357701637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/register_board.py" timestamp="1554245497959" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/register_board.py" timestamp="1554247214112">
+        <mark key="[" line="118" column="18" />
+        <mark key="]" line="118" column="23" />
+        <mark key="^" line="118" column="23" />
+        <mark key="." line="118" column="23" />
+      </file>
       <file name="D:/Documents/GitHub/py-prj-core/requirements.txt" timestamp="1502440811501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -152,11 +157,11 @@
         <mark key="." line="159" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1554237477510">
-        <mark key="'" line="19" column="53" />
-        <mark key="[" line="19" column="47" />
-        <mark key="]" line="19" column="50" />
-        <mark key="^" line="19" column="50" />
-        <mark key="." line="19" column="50" />
+        <mark key="'" line="5" column="53" />
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+        <mark key="." line="5" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/dng-nuc/configuration.nix" timestamp="1551138765860">
         <mark key="[" line="3" column="14" />
@@ -400,12 +405,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1554237760483">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1554247410938">
         <mark key="'" line="262" column="0" />
-        <mark key="[" line="51" column="23" />
-        <mark key="]" line="51" column="26" />
-        <mark key="^" line="51" column="26" />
-        <mark key="." line="51" column="26" />
+        <mark key="[" line="183" column="14" />
+        <mark key="]" line="183" column="29" />
+        <mark key="^" line="183" column="29" />
+        <mark key="." line="183" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1553027998557">
         <mark key="[" line="357" column="45" />
@@ -637,7 +642,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>yaml</text>
+        <text>hw_rev</text>
       </register>
       <register name="/" type="4">
         <text>piksi_provision_tools</text>
