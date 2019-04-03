@@ -146,11 +146,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" timestamp="1554323395512">
-        <mark key="[" line="71" column="6" />
-        <mark key="]" line="71" column="21" />
-        <mark key="^" line="71" column="21" />
-        <mark key="." line="71" column="21" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" timestamp="1554330164416">
+        <mark key="[" line="75" column="24" />
+        <mark key="]" line="75" column="48" />
+        <mark key="^" line="75" column="48" />
+        <mark key="." line="75" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/larson_test_lists.py" timestamp="1551826514842">
         <mark key="'" line="44" column="8" />
@@ -420,12 +420,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/logging.json" timestamp="1554236892208">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/logging.json" timestamp="1554330228625">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="82" column="3" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="73" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="10" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1554250398024">
         <mark key="[" line="209" column="0" />
@@ -669,40 +669,40 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>NonPrinting</text>
+        <text>logging.Formatter</text>
       </register>
       <register name="/" type="4">
         <text>scan a valid id</text>
       </register>
-      <register name="0" type="4">
-        <text>settings['formatters']['stdout_formatter']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgIigpIjogInBpa3NpX3Byb3Zpc2lvbl90b29scy5zeXNfbG9nZ2VyLkNvbnRyb2xDaGFyYWN0ZXJGb3JtYXR0ZXIiLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYubG9naW4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbG9naW5fYnV0dG9uX2NtZCgpOgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBDT05UUk9MX0NIQVJTX1JFLnN1YignJywgcykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGVmIHJlbW92ZV9jb250cm9sX2NoYXJzKHMpOgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmWydzb2Z0d2FyZV92ZXJzaW9uJ10gPSBzb2Z0d2FyZV92ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lID0gcmVtb3ZlX2NvbnRyb2xfY2hhcnMobGluZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfc29mdHdhcmVfdmVyc2lvbihzZWxmLCBzb2Z0d2FyZV92ZXJzaW9uKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmWydoYXJkd2FyZV92ZXJzaW9uJ10gPSBoYXJkd2FyZV92ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYubG9naW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfaGFyZHdhcmVfdmVyc2lvbihzZWxmLCBoYXJkd2FyZV92ZXJzaW9uKToK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgbG9naW5fYnV0dG9uX2NtZCgpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
