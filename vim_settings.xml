@@ -105,12 +105,12 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" timestamp="1554253724968">
-        <mark key="'" line="310" column="28" />
-        <mark key="[" line="215" column="12" />
-        <mark key="]" line="215" column="27" />
-        <mark key="." line="215" column="27" />
-        <mark key="^" line="215" column="27" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" timestamp="1554255307617">
+        <mark key="'" line="108" column="37" />
+        <mark key="[" line="230" column="54" />
+        <mark key="]" line="230" column="71" />
+        <mark key="." line="230" column="71" />
+        <mark key="^" line="230" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/dna.py" timestamp="1551311795624">
         <mark key="[" line="18" column="79" />
@@ -232,7 +232,12 @@
         <mark key="]" line="44" column="33" />
         <mark key="." line="44" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/mfg_id.py" timestamp="1554249492641" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/mfg_id.py" timestamp="1554255355390">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/utility.py" timestamp="1553562629527">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="10" column="61" />
@@ -539,7 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="142" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="135" column="55" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="137" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
@@ -639,6 +643,7 @@
       <jump line="218" column="42" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="147" column="22" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="310" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
+      <jump line="108" column="37" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -658,10 +663,10 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>hardware_version</text>
+        <text>0000000000000000</text>
       </register>
       <register name="/" type="4">
-        <text>event</text>
+        <text>scan a valid id</text>
       </register>
       <register name="0" type="4">
         <text>settings['formatters']['stdout_formatter']</text>
@@ -670,37 +675,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmWydzb2Z0d2FyZV92ZXJzaW9uJ10gPSBzb2Z0d2FyZV92ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYubG9naW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfc29mdHdhcmVfdmVyc2lvbihzZWxmLCBzb2Z0d2FyZV92ZXJzaW9uKToK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgbG9naW5fYnV0dG9uX2NtZCgpOgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmWydoYXJkd2FyZV92ZXJzaW9uJ10gPSBoYXJkd2FyZV92ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmWydzb2Z0d2FyZV92ZXJzaW9uJ10gPSBzb2Z0d2FyZV92ZXJzaW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfaGFyZHdhcmVfdmVyc2lvbihzZWxmLCBoYXJkd2FyZV92ZXJzaW9uKToK</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRfc29mdHdhcmVfdmVyc2lvbihzZWxmLCBzb2Z0d2FyZV92ZXJzaW9uKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfc29mdHdhcmVfdmVyc2lvbihzZWxmLCBzb2Z0d2FyZV92ZXJzaW9uKToKICAgICAgICBzZWxmWydzb2Z0d2FyZV92ZXJzaW9uJ10gPSBzb2Z0d2FyZV92ZXJzaW9uCgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmWydoYXJkd2FyZV92ZXJzaW9uJ10gPSBoYXJkd2FyZV92ZXJzaW9uCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZXRfaGFyZHdhcmVfdmVyc2lvbihzZWxmLCBoYXJkd2FyZV92ZXJzaW9uKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>event</last-search>
+      <last-search>scan a valid id</last-search>
       <last-offset />
-      <last-pattern>event</last-pattern>
+      <last-pattern>scan a valid id</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -708,8 +713,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UBOOT_IMG_OFFSET</entry>
-        <entry>larson_controller</entry>
         <entry>DigilentController</entry>
         <entry>digilent</entry>
         <entry>try</entry>
@@ -728,6 +731,8 @@
         <entry>piksi_provision_tools</entry>
         <entry>hw_rev</entry>
         <entry>event</entry>
+        <entry>login_cmd</entry>
+        <entry>scan a valid id</entry>
       </history-search>
       <history-cmd>
         <entry>176,186d</entry>
