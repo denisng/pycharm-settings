@@ -146,6 +146,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" timestamp="1554323395512">
+        <mark key="[" line="71" column="6" />
+        <mark key="]" line="71" column="21" />
+        <mark key="^" line="71" column="21" />
+        <mark key="." line="71" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/larson_test_lists.py" timestamp="1551826514842">
         <mark key="'" line="44" column="8" />
         <mark key="[" line="5" column="75" />
@@ -263,7 +269,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1554170262051">
+      <file name="/Python Console" timestamp="1554323004277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ssh-config/configs/lab.ssh" timestamp="1548724951428">
@@ -663,7 +669,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>0000000000000000</text>
+        <text>NonPrinting</text>
       </register>
       <register name="/" type="4">
         <text>scan a valid id</text>
