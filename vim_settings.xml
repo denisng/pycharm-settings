@@ -105,8 +105,8 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" timestamp="1554249307807">
-        <mark key="'" line="218" column="42" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" timestamp="1554253724968">
+        <mark key="'" line="310" column="28" />
         <mark key="[" line="215" column="12" />
         <mark key="]" line="215" column="27" />
         <mark key="." line="215" column="27" />
@@ -539,8 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="67" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="150" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="142" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="135" column="55" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
@@ -639,6 +637,8 @@
       <jump line="217" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="215" column="27" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="218" column="42" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
+      <jump line="147" column="22" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
+      <jump line="310" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -661,7 +661,7 @@
         <text>hardware_version</text>
       </register>
       <register name="/" type="4">
-        <text>hw_rev</text>
+        <text>event</text>
       </register>
       <register name="0" type="4">
         <text>settings['formatters']['stdout_formatter']</text>
@@ -698,9 +698,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hw_rev</last-search>
+      <last-search>event</last-search>
       <last-offset />
-      <last-pattern>hw_rev</last-pattern>
+      <last-pattern>event</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -708,7 +708,6 @@
     </search>
     <history>
       <history-search>
-        <entry>out</entry>
         <entry>UBOOT_IMG_OFFSET</entry>
         <entry>larson_controller</entry>
         <entry>DigilentController</entry>
@@ -728,6 +727,7 @@
         <entry>sbp</entry>
         <entry>piksi_provision_tools</entry>
         <entry>hw_rev</entry>
+        <entry>event</entry>
       </history-search>
       <history-cmd>
         <entry>176,186d</entry>
