@@ -427,11 +427,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1554250398024">
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
-        <mark key="^" line="182" column="54" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1554338829941">
+        <mark key="[" line="240" column="63" />
+        <mark key="]" line="240" column="64" />
+        <mark key="." line="240" column="64" />
+        <mark key="^" line="240" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1553027998557">
         <mark key="[" line="357" column="45" />
@@ -669,7 +669,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>logging.ERROR</text>
+        <text>YAML</text>
       </register>
       <register name="/" type="4">
         <text>scan a valid id</text>
