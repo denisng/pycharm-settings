@@ -445,12 +445,12 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1554335621106">
-        <mark key="'" line="307" column="37" />
-        <mark key="[" line="74" column="57" />
-        <mark key="]" line="75" column="30" />
-        <mark key="^" line="75" column="30" />
-        <mark key="." line="75" column="30" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1554336898426">
+        <mark key="'" line="308" column="37" />
+        <mark key="[" line="204" column="55" />
+        <mark key="]" line="204" column="65" />
+        <mark key="." line="204" column="65" />
+        <mark key="^" line="204" column="65" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -503,12 +503,12 @@
         <mark key="^" line="193" column="37" />
         <mark key="." line="193" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1552957613758">
-        <mark key="'" line="33" column="8" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="34" column="51" />
-        <mark key="^" line="92" column="73" />
-        <mark key="." line="92" column="8" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1554336994831">
+        <mark key="'" line="94" column="79" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/default_configuration.py" timestamp="1512535692582">
         <mark key="[" line="6" column="35" />
@@ -550,7 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="135" column="55" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="137" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
       <jump line="141" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
@@ -650,6 +649,7 @@
       <jump line="147" column="22" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="310" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="108" column="37" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
+      <jump line="95" column="79" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -669,7 +669,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>logging.ERROR</text>
       </register>
       <register name="/" type="4">
         <text>scan a valid id</text>
@@ -681,28 +681,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDT05UUk9MX0NIQVJTX1JFLnN1YignJywgcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHJlbW92ZV9jb250cm9sX2NoYXJzKHMpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lID0gcmVtb3ZlX2NvbnRyb2xfY2hhcnMobGluZSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBDT05UUk9MX0NIQVJTX1JFLnN1YignJywgcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHJlbW92ZV9jb250cm9sX2NoYXJzKHMpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lID0gcmVtb3ZlX2NvbnRyb2xfY2hhcnMobGluZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYubG9naW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbG9naW5fYnV0dG9uX2NtZCgpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
