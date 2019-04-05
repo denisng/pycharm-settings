@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_bist.py" timestamp="1553037074227">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1552104478811">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="93" column="0" />
@@ -124,11 +119,6 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/pkgs/pyyaml/default.nix" timestamp="1554170398049">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/requirements.txt" timestamp="1554236201717">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="0" />
@@ -140,11 +130,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/file_to_ram.tcl" timestamp="1553042786828">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" timestamp="1554330164416">
         <mark key="[" line="75" column="24" />
@@ -184,11 +169,6 @@
         <mark key="]" line="21" column="39" />
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/devices/piksi.py" timestamp="1553296538280">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1543351254104">
         <mark key="[" line="19" column="70" />
@@ -239,11 +219,6 @@
         <mark key="]" line="1" column="31" />
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/abstract_devices.py" timestamp="1553545951129">
-        <mark key="[" line="44" column="33" />
-        <mark key="]" line="44" column="33" />
-        <mark key="." line="44" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/mfg_id.py" timestamp="1554255355390">
         <mark key="[" line="2" column="14" />
@@ -331,6 +306,12 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/serialnumber/requirements.txt" timestamp="1554490915955">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/utils.py" timestamp="1550023405066">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="22" column="11" />
@@ -393,11 +374,6 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/dummy_devices.py" timestamp="1553545957488">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1554165099580">
         <mark key="[" line="0" column="0" />
