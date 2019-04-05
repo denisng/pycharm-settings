@@ -79,6 +79,11 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/pkgs/pyyaml/default.nix" timestamp="1554170398049">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/const.py" timestamp="1552955813508">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="3" column="0" />
@@ -290,11 +295,21 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554504687235">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_register.py" timestamp="1554249762810">
         <mark key="[" line="69" column="29" />
         <mark key="]" line="69" column="38" />
         <mark key="." line="69" column="38" />
         <mark key="^" line="69" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_bist.py" timestamp="1553037074227">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1552104478811">
         <mark key="'" line="45" column="0" />
@@ -342,6 +357,11 @@
         <mark key="." line="230" column="71" />
         <mark key="^" line="230" column="71" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/file_to_ram.tcl" timestamp="1553042786828">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1553294988558">
         <mark key="'" line="70" column="36" />
         <mark key="[" line="159" column="32" />
@@ -361,6 +381,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/devices/piksi.py" timestamp="1553296538280">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1543351254104">
         <mark key="[" line="19" column="70" />
@@ -392,6 +417,11 @@
         <mark key="]" line="1" column="31" />
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/abstract_devices.py" timestamp="1553545951129">
+        <mark key="[" line="44" column="33" />
+        <mark key="]" line="44" column="33" />
+        <mark key="." line="44" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/__init__.py" timestamp="1554165482986">
         <mark key="[" line="3" column="0" />
@@ -470,6 +500,11 @@
         <mark key="]" line="82" column="38" />
         <mark key="." line="82" column="38" />
         <mark key="^" line="83" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/dummy_devices.py" timestamp="1553545957488">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1554165099580">
         <mark key="[" line="0" column="0" />
@@ -678,38 +713,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzd2lmdF9zZXJpYWxpemF0aW9uCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzZXJpYWxudW1iZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IFwK</text>
+        <text encoding="base64">ZnJvbSBzZXJpYWxudW1iZXIK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">IFwK</text>
       </register>
-      <register name="8" type="4">
-        <text>P_BASE_PART + P_REVISION + P_WORK_WEEK + P_YEAR + \
-                  P_LOCATION + P_SEQUENCE_NUMBER</text>
-      </register>
-      <register name="9" type="4">
-        <text>'{base}' \
-                  '{revision}' \
-                  '{work_week}' \
-                  '{year}' \
-                  '{location}' \
-                  '{sequence}'.format(base=P_BASE_PART,
-                                      revision=P_REVISION,
-                                      work_week=P_WORK_WEEK,
-                                      year=P_YEAR, location=P_LOCATION,
-                                      sequence=P_SEQUENCE_NUMBER)</text>
+      <register name="9" type="2">
+        <text encoding="base64">IFwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
