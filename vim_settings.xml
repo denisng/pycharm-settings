@@ -21,7 +21,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1552357701637">
+      <file name="/a.dummy" timestamp="1554431037083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/register_board.py" timestamp="1554249878749">
@@ -214,6 +214,13 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/serialnumber/.gitignore" timestamp="1554429465589">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="106" column="5" />
+        <mark key="]" line="106" column="5" />
+        <mark key="^" line="106" column="5" />
+        <mark key="." line="106" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/__init__.py" timestamp="1554166047940">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="1" column="48" />
@@ -342,6 +349,13 @@
         <mark key="]" line="240" column="33" />
         <mark key="^" line="233" column="0" />
         <mark key="." line="240" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/base.py" timestamp="1554429084126">
+        <mark key="'" line="4" column="25" />
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -516,6 +530,13 @@
         <mark key="." line="6" column="47" />
         <mark key="^" line="6" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/patterns.py" timestamp="1554431339367">
+        <mark key="'" line="25" column="16" />
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+        <mark key="^" line="32" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf.py" timestamp="1552958036661">
         <mark key="'" line="111" column="8" />
         <mark key="[" line="113" column="51" />
@@ -550,17 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="55" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="141" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="149" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="303" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="349" column="79" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="300" column="37" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
-      <jump line="33" column="7" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_xsdb.py" />
-      <jump line="65" column="48" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
@@ -650,6 +660,17 @@
       <jump line="310" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="108" column="37" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="95" column="79" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" />
+      <jump line="4" column="25" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/base.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/GitHub/serialnumber/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/serialnumber/.gitignore" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/patterns.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/patterns.py" />
+      <jump line="19" column="27" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/patterns.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/patterns.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/patterns.py" />
+      <jump line="22" column="20" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/patterns.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/patterns.py" />
+      <jump line="25" column="16" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/patterns.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -669,57 +690,66 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>lab-super-banzai</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>scan a valid id</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIigpIjogInBpa3NpX3Byb3Zpc2lvbl90b29scy5zeXNfbG9nZ2VyLkNvbnRyb2xDaGFyYWN0ZXJGb3JtYXR0ZXIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHInKD9QPG5hbWU+e25hbWV9KScgXAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgVHlwZUVycm9yLCBBdHRyaWJ1dGVFcnJvciwgSW1wb3J0RXJyb3IpIGFzIGU6CiAgICAgICAgcHJpbnQoZSkKICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoJ2ZhaWxlZCB0byBjb25maWd1cmUgbG9nZ2VycycpCg==</text>
+        <text encoding="base64">IFwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">IFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgIHBhc3MK</text>
+      <register name="3" type="4">
+        <text>P_BASE_PART + P_REVISION + P_WORK_WEEK + P_YEAR + \
+                  P_LOCATION + P_SEQUENCE_NUMBER</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      <register name="4" type="4">
+        <text>'{base}' \
+                  '{revision}' \
+                  '{work_week}' \
+                  '{year}' \
+                  '{location}' \
+                  '{sequence}'.format(base=P_BASE_PART,
+                                      revision=P_REVISION,
+                                      work_week=P_WORK_WEEK,
+                                      year=P_YEAR, location=P_LOCATION,
+                                      sequence=P_SEQUENCE_NUMBER)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmaXhpbmcgc21hbGwgbG9nZ2luZyByZWNvcmQgZXJyb3IK</text>
+        <text encoding="base64">ICAgIGZyb20gX19mdXR1cmVfXyBpbXBvcnQgcHJpbnRfZnVuY3Rpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGBgc2VsZi50ZXN0YGAgY29udGFpbnMgdGhlIGNsYXNzLCBub3QgYW4gaW5zdGFuY2Ugb2YgdGhlIGNsYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxQSEFOVU1FUklDID0gcidbYS16QS1aMC05XScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scan a valid id</last-search>
+      <last-search>name</last-search>
       <last-offset />
-      <last-pattern>scan a valid id</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>name</last-pattern>
+      <last-replace>minor_rev</last-replace>
+      <last-substitute>name</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DigilentController</entry>
         <entry>digilent</entry>
         <entry>try</entry>
         <entry>try:</entry>
@@ -739,11 +769,9 @@
         <entry>event</entry>
         <entry>login_cmd</entry>
         <entry>scan a valid id</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">MTY2LDE3Nj4=</entry>
-        <entry>166,176s/out/output/g</entry>
-        <entry>s/&quot;/'/g</entry>
         <entry>302,313y</entry>
         <entry>.w</entry>
         <entry>21,32y</entry>
@@ -760,6 +788,9 @@
         <entry>70,72s/&quot;/'/g</entry>
         <entry>q</entry>
         <entry encoding="base64">NTIsNTg8</entry>
+        <entry>s/name/base_part_number/g</entry>
+        <entry>s/name/major_rev/g</entry>
+        <entry>s/name/minor_rev/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

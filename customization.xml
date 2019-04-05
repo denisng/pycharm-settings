@@ -1,13 +1,41 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Diff.ShowDiff" is_action="true" action_type="1" position="5">
+    <group value="ChangesView.Revert" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
       <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Compare.Selected" is_action="true" action_type="1" position="6">
+    <group value="CheckinProject" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Add" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Diff.ShowDiff" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Compare.Selected" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
