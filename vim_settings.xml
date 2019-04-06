@@ -163,11 +163,12 @@
       <file name="/Python Console" timestamp="1554323004277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_serial_number.py" timestamp="1554502331912">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="39" />
-        <mark key="^" line="5" column="39" />
-        <mark key="." line="5" column="39" />
+      <file name="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_serial_number.py" timestamp="1554509121107">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="26" column="53" />
+        <mark key="]" line="26" column="53" />
+        <mark key="." line="26" column="53" />
+        <mark key="^" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" timestamp="1554249848807">
         <mark key="[" line="30" column="10" />
@@ -225,12 +226,12 @@
         <mark key="^" line="98" column="0" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/patterns.py" timestamp="1554505685411">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="39" column="41" />
-        <mark key="]" line="39" column="48" />
-        <mark key="." line="39" column="48" />
-        <mark key="^" line="39" column="48" />
+      <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/patterns.py" timestamp="1554508996201">
+        <mark key="'" line="22" column="35" />
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1553027998557">
         <mark key="[" line="357" column="45" />
@@ -303,12 +304,12 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554506773560">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="50" column="35" />
+      <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554509503826">
+        <mark key="'" line="43" column="12" />
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="55" column="7" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="55" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_register.py" timestamp="1554249762810">
         <mark key="[" line="69" column="29" />
@@ -567,14 +568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="8" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="68" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
@@ -667,6 +660,14 @@
       <jump line="11" column="9" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" />
       <jump line="19" column="16" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" />
+      <jump line="6" column="19" filename="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_serial_number.py" />
+      <jump line="6" column="11" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" />
+      <jump line="21" column="50" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" />
+      <jump line="43" column="12" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" />
+      <jump line="3" column="34" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/patterns.py" />
+      <jump line="7" column="5" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/patterns.py" />
+      <jump line="15" column="14" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/patterns.py" />
+      <jump line="22" column="35" filename="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/patterns.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -686,49 +687,49 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
-        <text>\.</text>
+        <text>location</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBvdmVycmlkZSBpbml0IHRvIGZvcm0gY29oZXJlbnQgbWVzc2FnZXMK</text>
+      <register name="0" type="4">
+        <text>'00729014818100088'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UkVWSVNJT04gPSAyClJFVklTSU9OX0RBVEUgPSBkYXRlKDIwMTcsIDUsIDE2KQoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiAoc2VsZik6Cg==</text>
+        <text encoding="base64">IiIiIiIiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiB2YWxpZGF0ZShzZWxmLCBzbik6CiAgICAgICAgIiIiIiIiCiAgICAgICAgbWF0Y2ggPSBSRV8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm51bWJlciA9ICcwMDcyOTAxNDgxODEwMDA4OCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\.</last-search>
+      <last-search>location</last-search>
       <last-offset />
-      <last-pattern>\.</last-pattern>
+      <last-pattern>location</last-pattern>
       <last-replace>._</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -736,7 +737,6 @@
     </search>
     <history>
       <history-search>
-        <entry>try</entry>
         <entry>try:</entry>
         <entry>check_output</entry>
         <entry>log_xsdb</entry>
@@ -756,6 +756,7 @@
         <entry>scan a valid id</entry>
         <entry>name</entry>
         <entry>\.</entry>
+        <entry>location</entry>
       </history-search>
       <history-cmd>
         <entry>.w</entry>
