@@ -62,9 +62,9 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/end2end_test_profile.json" timestamp="1554752735161">
-        <mark key="[" line="0" column="323" />
-        <mark key="]" line="0" column="323" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/end2end_test_profile.json" timestamp="1554761333285">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="36" />
         <mark key="." line="0" column="323" />
         <mark key="^" line="0" column="323" />
       </file>
@@ -705,7 +705,7 @@
         <text>location</text>
       </register>
       <register name="0" type="4">
-        <text>'00729014818100088</text>
+        <text>1575.42e6</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
