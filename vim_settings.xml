@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1552104478811">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="56" column="40" />
+      </file>
       <file name="/a.dummy" timestamp="1554499366770">
         <mark key="[" line="0" column="0" />
       </file>
@@ -17,6 +24,12 @@
         <mark key="]" line="8" column="50" />
         <mark key="^" line="3" column="49" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/Documents/GitHub/py-prj-core/requirements.txt" timestamp="1502440811501">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="D:/Documents/Python/Projects/ip-table-banger/ipbangsrv.py" timestamp="1524364709647">
         <mark key="[" line="58" column="45" />
@@ -49,11 +62,43 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/end2end_test_profile.json" timestamp="1554752735161">
+        <mark key="[" line="0" column="323" />
+        <mark key="]" line="0" column="323" />
+        <mark key="." line="0" column="323" />
+        <mark key="^" line="0" column="323" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/script_runner.py" timestamp="1552352977036">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="21" column="49" />
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551844022391">
+        <mark key="'" line="67" column="37" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="38" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="84" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_product_number.py" timestamp="1554512199084">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="15" column="48" />
+        <mark key="^" line="15" column="47" />
+        <mark key="." line="15" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1552954257063">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/script_runner.py" timestamp="1552351684848">
+        <mark key="'" line="29" column="11" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/lab-super-banzai/configuration.nix" timestamp="1549480867985">
         <mark key="[" line="31" column="0" />
@@ -66,6 +111,13 @@
         <mark key="]" line="3" column="67" />
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" timestamp="1554255307617">
+        <mark key="'" line="108" column="37" />
+        <mark key="[" line="230" column="54" />
+        <mark key="]" line="230" column="71" />
+        <mark key="." line="230" column="71" />
+        <mark key="^" line="230" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/dna.py" timestamp="1551311795624">
         <mark key="[" line="18" column="79" />
@@ -104,6 +156,20 @@
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1553294988558">
+        <mark key="'" line="70" column="36" />
+        <mark key="[" line="159" column="32" />
+        <mark key="]" line="159" column="32" />
+        <mark key="^" line="159" column="32" />
+        <mark key="." line="159" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1554409660618">
+        <mark key="'" line="5" column="53" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="50" />
+        <mark key="." line="5" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/dng-nuc/configuration.nix" timestamp="1551138765860">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="20" />
@@ -116,11 +182,35 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/serial_number.py" timestamp="1554502644804">
+        <mark key="'" line="11" column="10" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1543351254104">
+        <mark key="[" line="19" column="70" />
+        <mark key="]" line="19" column="74" />
+        <mark key="." line="19" column="74" />
+        <mark key="^" line="19" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calibration_file.py" timestamp="1544829135051">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="18" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" timestamp="1547843404867">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="0" column="79" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/data_scrub.py" timestamp="1546470839158">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/.gitignore" timestamp="1554429465589">
         <mark key="'" line="0" column="0" />
@@ -129,11 +219,24 @@
         <mark key="^" line="106" column="5" />
         <mark key="." line="106" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/__init__.py" timestamp="1554166047940">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="1" column="48" />
+        <mark key="^" line="1" column="48" />
+        <mark key="." line="1" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/py-tool-nmap/src/py_tool_nmap/const.py" timestamp="1548729923671">
         <mark key="[" line="5" column="56" />
         <mark key="]" line="6" column="48" />
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl.py" timestamp="1552347723456">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/mfg_id.py" timestamp="1554255355390">
         <mark key="[" line="2" column="14" />
@@ -160,6 +263,12 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/__init__.py" timestamp="1554165482986">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="59" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="60" />
+      </file>
       <file name="/Python Console" timestamp="1554323004277">
         <mark key="[" line="0" column="0" />
       </file>
@@ -170,11 +279,30 @@
         <mark key="." line="29" column="58" />
         <mark key="^" line="29" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/ssh-config/configs/lab.ssh" timestamp="1548724951428">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552103870607">
+        <mark key="'" line="166" column="8" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="227" column="27" />
+        <mark key="." line="118" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" timestamp="1554249848807">
         <mark key="[" line="30" column="10" />
         <mark key="]" line="30" column="15" />
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/check_connection.tcl" timestamp="1553294440163">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="16" column="51" />
+        <mark key="." line="16" column="51" />
+        <mark key="^" line="16" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" timestamp="1553028080687">
         <mark key="'" line="30" column="12" />
@@ -183,11 +311,31 @@
         <mark key="^" line="4" column="58" />
         <mark key="." line="32" column="36" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1554153146607">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_serial.py" timestamp="1544844249222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="32" />
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/stop_jtag_disable.tcl" timestamp="1552416539050">
+        <mark key="'" line="22" column="20" />
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="17" />
+        <mark key="^" line="22" column="17" />
+        <mark key="." line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/serialnumber/requirements.txt" timestamp="1554490915955">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/utils.py" timestamp="1550023405066">
         <mark key="[" line="21" column="26" />
@@ -201,6 +349,20 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" timestamp="1554157571221">
+        <mark key="'" line="240" column="77" />
+        <mark key="[" line="240" column="33" />
+        <mark key="]" line="240" column="33" />
+        <mark key="^" line="233" column="0" />
+        <mark key="." line="240" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/base.py" timestamp="1554429084126">
+        <mark key="'" line="4" column="25" />
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
         <mark key="]" line="49" column="7" />
@@ -213,11 +375,33 @@
         <mark key="^" line="97" column="41" />
         <mark key="." line="97" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/README.md" timestamp="1543369736028">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="56" />
+        <mark key="." line="10" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/data_sanity_test.py" timestamp="1546470799025">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/to_yaml.py" timestamp="1554168519567">
+        <mark key="'" line="0" column="36" />
+        <mark key="[" line="82" column="38" />
+        <mark key="]" line="82" column="38" />
+        <mark key="." line="82" column="38" />
+        <mark key="^" line="83" column="30" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554505466672">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" timestamp="1554160917367">
         <mark key="'" line="97" column="56" />
@@ -226,6 +410,24 @@
         <mark key="^" line="98" column="0" />
         <mark key="." line="128" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/_build/rst/imu_cal_pid.crl_emulation.rst" timestamp="1543372501027">
+        <mark key="[" line="10" column="74" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/factory_data_util.py" timestamp="1554249870600">
+        <mark key="[" line="281" column="32" />
+        <mark key="]" line="281" column="37" />
+        <mark key="." line="281" column="37" />
+        <mark key="^" line="281" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_constants.py" timestamp="1546471481602">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/patterns.py" timestamp="1554511895823">
         <mark key="'" line="22" column="35" />
         <mark key="[" line="31" column="15" />
@@ -233,11 +435,32 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/logging.py" timestamp="1552357689480">
+        <mark key="'" line="0" column="13" />
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/logging.json" timestamp="1554409327864">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1553027998557">
         <mark key="[" line="357" column="45" />
         <mark key="]" line="357" column="57" />
         <mark key="^" line="357" column="57" />
         <mark key="." line="357" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1554336898426">
+        <mark key="'" line="308" column="37" />
+        <mark key="[" line="204" column="55" />
+        <mark key="]" line="204" column="65" />
+        <mark key="." line="204" column="65" />
+        <mark key="^" line="204" column="65" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -263,6 +486,12 @@
         <mark key="]" line="8" column="3" />
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_file.py" timestamp="1544844196049">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+        <mark key="^" line="28" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/panini/configuration.nix" timestamp="1548281916811">
         <mark key="[" line="3" column="14" />
@@ -311,235 +540,6 @@
         <mark key="." line="73" column="17" />
         <mark key="^" line="73" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_register.py" timestamp="1554249762810">
-        <mark key="[" line="69" column="29" />
-        <mark key="]" line="69" column="38" />
-        <mark key="." line="69" column="38" />
-        <mark key="^" line="69" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1552104478811">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="56" column="40" />
-      </file>
-      <file name="D:/Documents/GitHub/py-prj-core/requirements.txt" timestamp="1502440811501">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551844022391">
-        <mark key="'" line="67" column="37" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="38" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="84" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_product_number.py" timestamp="1554512199084">
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="15" column="48" />
-        <mark key="^" line="15" column="47" />
-        <mark key="." line="15" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/digilent_controller.py" timestamp="1552954257063">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="25" />
-        <mark key="." line="22" column="25" />
-        <mark key="^" line="22" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/script_runner.py" timestamp="1552351684848">
-        <mark key="'" line="29" column="11" />
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="20" />
-        <mark key="." line="27" column="20" />
-        <mark key="^" line="27" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" timestamp="1554255307617">
-        <mark key="'" line="108" column="37" />
-        <mark key="[" line="230" column="54" />
-        <mark key="]" line="230" column="71" />
-        <mark key="." line="230" column="71" />
-        <mark key="^" line="230" column="71" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1553294988558">
-        <mark key="'" line="70" column="36" />
-        <mark key="[" line="159" column="32" />
-        <mark key="]" line="159" column="32" />
-        <mark key="^" line="159" column="32" />
-        <mark key="." line="159" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1554409660618">
-        <mark key="'" line="5" column="53" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="50" />
-        <mark key="." line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/serial_number.py" timestamp="1554502644804">
-        <mark key="'" line="11" column="10" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1543351254104">
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="19" column="74" />
-        <mark key="." line="19" column="74" />
-        <mark key="^" line="19" column="74" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/calibration_file.py" timestamp="1544829135051">
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="9" />
-        <mark key="^" line="18" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/data_scrub.py" timestamp="1546470839158">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/__init__.py" timestamp="1554166047940">
-        <mark key="'" line="4" column="12" />
-        <mark key="[" line="1" column="48" />
-        <mark key="]" line="1" column="48" />
-        <mark key="^" line="1" column="48" />
-        <mark key="." line="1" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl.py" timestamp="1552347723456">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/__init__.py" timestamp="1554165482986">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="59" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/ssh-config/configs/lab.ssh" timestamp="1548724951428">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/drivers/setup_piksi.py" timestamp="1552103870607">
-        <mark key="'" line="166" column="8" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="227" column="27" />
-        <mark key="." line="118" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/check_connection.tcl" timestamp="1553294440163">
-        <mark key="[" line="15" column="58" />
-        <mark key="]" line="16" column="51" />
-        <mark key="." line="16" column="51" />
-        <mark key="^" line="16" column="51" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1554153146607">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="18" column="10" />
-        <mark key="." line="18" column="10" />
-        <mark key="^" line="18" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/stop_jtag_disable.tcl" timestamp="1552416539050">
-        <mark key="'" line="22" column="20" />
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="17" />
-        <mark key="^" line="22" column="17" />
-        <mark key="." line="22" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/serialnumber/requirements.txt" timestamp="1554490915955">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" timestamp="1554157571221">
-        <mark key="'" line="240" column="77" />
-        <mark key="[" line="240" column="33" />
-        <mark key="]" line="240" column="33" />
-        <mark key="^" line="233" column="0" />
-        <mark key="." line="240" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/base.py" timestamp="1554429084126">
-        <mark key="'" line="4" column="25" />
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/README.md" timestamp="1543369736028">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="10" column="56" />
-        <mark key="^" line="10" column="56" />
-        <mark key="." line="10" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/data_sanity_test.py" timestamp="1546470799025">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/to_yaml.py" timestamp="1554168519567">
-        <mark key="'" line="0" column="36" />
-        <mark key="[" line="82" column="38" />
-        <mark key="]" line="82" column="38" />
-        <mark key="." line="82" column="38" />
-        <mark key="^" line="83" column="30" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1554505466672">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/_build/rst/imu_cal_pid.crl_emulation.rst" timestamp="1543372501027">
-        <mark key="[" line="10" column="74" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="43" />
-        <mark key="^" line="10" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/factory_data_util.py" timestamp="1554249870600">
-        <mark key="[" line="281" column="32" />
-        <mark key="]" line="281" column="37" />
-        <mark key="." line="281" column="37" />
-        <mark key="^" line="281" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_constants.py" timestamp="1546471481602">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/logging.py" timestamp="1552357689480">
-        <mark key="'" line="0" column="13" />
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/logging.json" timestamp="1554409327864">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-        <mark key="^" line="5" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1554336898426">
-        <mark key="'" line="308" column="37" />
-        <mark key="[" line="204" column="55" />
-        <mark key="]" line="204" column="65" />
-        <mark key="." line="204" column="65" />
-        <mark key="^" line="204" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/imu_cal_file.py" timestamp="1544844196049">
-        <mark key="[" line="28" column="11" />
-        <mark key="]" line="28" column="11" />
-        <mark key="." line="28" column="11" />
-        <mark key="^" line="28" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf.py" timestamp="1552958036661">
         <mark key="'" line="111" column="8" />
         <mark key="[" line="113" column="51" />
@@ -559,6 +559,12 @@
         <mark key="]" line="105" column="14" />
         <mark key="." line="105" column="14" />
         <mark key="^" line="105" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_register.py" timestamp="1554249762810">
+        <mark key="[" line="69" column="29" />
+        <mark key="]" line="69" column="38" />
+        <mark key="." line="69" column="38" />
+        <mark key="^" line="69" column="38" />
       </file>
       <file name="D:/Documents/GitHub/cherrypy-warehouse/requirements.txt" timestamp="1496724978130">
         <mark key="[" line="0" column="6" />
@@ -687,7 +693,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>location</text>
