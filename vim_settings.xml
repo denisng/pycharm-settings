@@ -702,7 +702,7 @@
         <text>values</text>
       </register>
       <register name="/" type="4">
-        <text>location</text>
+        <text>duration</text>
       </register>
       <register name="0" type="4">
         <text>1575.42e6</text>
@@ -744,9 +744,9 @@
       </register>
     </registers>
     <search>
-      <last-search>location</last-search>
+      <last-search>duration</last-search>
       <last-offset />
-      <last-pattern>location</last-pattern>
+      <last-pattern>duration</last-pattern>
       <last-replace>._</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -754,8 +754,6 @@
     </search>
     <history>
       <history-search>
-        <entry>try:</entry>
-        <entry>check_output</entry>
         <entry>log_xsdb</entry>
         <entry>conf</entry>
         <entry>no JTAG connection to DUT</entry>
@@ -774,6 +772,8 @@
         <entry>name</entry>
         <entry>\.</entry>
         <entry>location</entry>
+        <entry>playback_gain</entry>
+        <entry>duration</entry>
       </history-search>
       <history-cmd>
         <entry>.w</entry>
