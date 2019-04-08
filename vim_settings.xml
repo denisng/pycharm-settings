@@ -176,6 +176,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" timestamp="1554756800355">
+        <mark key="[" line="76" column="50" />
+        <mark key="]" line="79" column="40" />
+        <mark key="^" line="79" column="40" />
+        <mark key="." line="79" column="40" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/settings.py" timestamp="1512538038097">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="21" column="39" />
@@ -693,7 +699,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>location</text>
