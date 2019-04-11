@@ -10,12 +10,12 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1554944926734">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="80" column="11" />
-        <mark key="]" line="80" column="12" />
-        <mark key="." line="80" column="12" />
-        <mark key="^" line="80" column="12" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1554946919376">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="92" column="46" />
+        <mark key="]" line="92" column="46" />
+        <mark key="^" line="92" column="46" />
+        <mark key="." line="92" column="46" />
       </file>
       <file name="/a.dummy" timestamp="1554831912389">
         <mark key="[" line="0" column="0" />
@@ -281,7 +281,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1554940807536">
+      <file name="/Python Console" timestamp="1554946419947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_serial_number.py" timestamp="1554511747338">
@@ -705,7 +705,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>EnabledMessage(3))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXByZXNlbnRpbmdcPg==</text>
@@ -714,31 +714,31 @@
         <text encoding="base64">CiAgICBjID0gRW5hYmxlZE1lc3NhZ2UoMTIzNCkgPiBFbmFibGVkTWVzc2FnZSg1Njc4LCAxMCkKICAgIHByaW50KCcxMjM0ID4gNTY3OC8xMD8nLCBjKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3V0cHV0LmZvcm1hdChpZD1zZWxmLmlkLCBkaXZpc29yPXNlbGYuZGl2aXNvcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNscyhpbnQobWF0Y2guZ3JvdXAoJ2lkJykpLAo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSAne2lkfS97ZGl2aXNvcn0nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdcbicsIHJlcHIoRW5hYmxlZE1lc3NhZ2UoMTIzNCwgNTYpKSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzKGludChtYXRjaC5ncm91cCgnaWQnKSksIGludChtYXRjaC5ncm91cCgnZGl2aXNvcicpKSkK</text>
+        <text encoding="base64">ICAgIGwgPSBbRW5hYmxlZE1lc3NhZ2UoMyksIEVuYWJsZWRNZXNzYWdlKDIsMTEpLCBFbmFibGVkTWVzc2FnZSgxKV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KCdcbnVuc29ydGVkOicsIGwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KCcgIHNvcnRlZDonLCBsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGwgPSBzb3J0ZWQobCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
