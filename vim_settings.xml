@@ -10,6 +10,13 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1554940802591">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="18" column="57" />
+        <mark key="." line="18" column="57" />
+        <mark key="^" line="18" column="57" />
+      </file>
       <file name="/a.dummy" timestamp="1554831912389">
         <mark key="[" line="0" column="0" />
       </file>
@@ -274,7 +281,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1554832303469">
+      <file name="/Python Console" timestamp="1554940807536">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_serial_number.py" timestamp="1554511747338">
@@ -579,9 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="32" column="6" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/sys_logger.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="234" column="77" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/USER_GUIDE.md" />
       <jump line="99" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
       <jump line="107" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" />
@@ -679,6 +683,9 @@
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_serial_number.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_serial_number.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_serial_number.py" />
+      <jump line="1" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="18" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="7" column="7" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -698,62 +705,56 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>values</text>
+        <text>enabled message setting</text>
       </register>
       <register name="/" type="4">
-        <text>duration</text>
+        <text encoding="base64">XDxyZXByZXNlbnRpbmdcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>1575.42e6</text>
+        <text encoding="base64">KD9QPGlkPlxkKykoLyg/UDxkaXZpc29yPlxkKykpPw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZT1zZWxmLmJhc2VfcGFydF9udW1iZXIsCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">c2VsZi5iYXNlX3BhcnRfbnVtYmVyICsgc2VsZi5yZXZpc2lvbiArIFwKICAgICAgICAgICAgICAgc3RyKHNlbGYuYnVpbGRfd2VlaykgKyAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQoK</text>
-      </register>
-      <register name="5" type="4">
-        <text>'SerialNumber(' +
-        'Base Part: ' + self.base_part_number +
-        ', Revision: ' + self.revision +
-        ', Build Week: ' + self.build_week +
-        ', Build Year: ' + self.build_year +
-        ', '</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">UF8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">UF9NU0dfUkFURV9ESVYgPSByJycK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZjoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKGV4cGVjdGVkIGludCBmb3IgYGlkYCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UkVWSVNJT04gPSAyClJFVklTSU9OX0RBVEUgPSBkYXRlKDIwMTcsIDUsIDE2KQoKCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfaW5pdGlhbGl6ZShzZWxmLCBpZCwgZGl2aXNvcik6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>duration</last-search>
+      <last-search encoding="base64">XDxyZXByZXNlbnRpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern>duration</last-pattern>
+      <last-pattern encoding="base64">XDxyZXByZXNlbnRpbmdcPg==</last-pattern>
       <last-replace>._</last-replace>
       <last-substitute>\.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>log_xsdb</entry>
         <entry>conf</entry>
         <entry>no JTAG connection to DUT</entry>
         <entry>1 if</entry>
@@ -773,6 +774,7 @@
         <entry>location</entry>
         <entry>playback_gain</entry>
         <entry>duration</entry>
+        <entry encoding="base64">XDxyZXByZXNlbnRpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.w</entry>
