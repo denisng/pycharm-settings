@@ -10,12 +10,12 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1555034772195">
-        <mark key="'" line="96" column="4" />
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-        <mark key="^" line="18" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1555035714424">
+        <mark key="'" line="91" column="55" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="98" column="45" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1555009552841">
         <mark key="[" line="0" column="0" />
@@ -375,8 +375,11 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1555026804536">
-        <mark key="'" line="152" column="19" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" timestamp="1555036190349">
+        <mark key="[" line="155" column="40" />
+        <mark key="]" line="157" column="26" />
+        <mark key="^" line="157" column="26" />
+        <mark key="." line="157" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
@@ -589,10 +592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/__init__.py" />
-      <jump line="11" column="60" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="18" column="53" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" />
       <jump line="49" column="32" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
@@ -689,6 +688,10 @@
       <jump line="45" column="62" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="77" column="31" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="80" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="20" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="91" column="55" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="134" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="153" column="1" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -708,7 +711,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>_get_imu_msg_string</text>
@@ -717,28 +720,28 @@
         <text encoding="base64">ICAgIGQgPSBFbmFibGVkTWVzc2FnZXNEaWN0KCc3Miw3NCwxMTcsNjU1MzUsMScpCiAgICBwcmludChkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJywnLmpvaW4obWVzc2FnZXMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGB1YXJ0KG4pLmVuYWJsZWRfc2JwX21lc3NhZ2VzYGAK</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcyA9IFtzdHIoeCkgZm9yIHggaW4gc29ydGVkKG1lc3NhZ2VzKV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhlIHJhdyBvdXRwdXQgc3RyaW5nIGZyb20gcmVhZGluZwo=</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcyA9IHNldChtZXNzYWdlcyArIENhcHR1cmUuaW11X21lc3NhZ2VzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">KSAgICAgICAgbWVzc2FnZXMgPSBbaW50KHgpIGZvciB4IGluIG1lc3NhZ2VzLnNwbGl0KCcsJyldCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoZSBrZXlzIGluIGEgZGljdGlvbmFyeSBhcHBlYXIgdG8gYmUgbWFnaWNhbGx5IHNvcnRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0ZWRfa2V5cyA9IHNvcnRlZChzZWxmKQo=</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzaXggaW1wb3J0IGl0ZXJpdGVtcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
