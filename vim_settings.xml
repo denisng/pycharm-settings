@@ -418,11 +418,12 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" timestamp="1555103700894">
-        <mark key="[" line="62" column="34" />
-        <mark key="]" line="62" column="35" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" timestamp="1555112190480">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="35" />
         <mark key="^" line="62" column="32" />
-        <mark key="." line="62" column="34" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1554505466672">
         <mark key="[" line="0" column="0" />
@@ -598,10 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="53" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" />
-      <jump line="49" column="32" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="242" column="55" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="264" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
@@ -698,6 +695,10 @@
       <jump line="91" column="55" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="134" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="153" column="1" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
+      <jump line="86" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -723,7 +724,7 @@
         <text>_get_imu_msg_string</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGQgPSBFbmFibGVkTWVzc2FnZXNEaWN0KCc3Miw3NCwxMTcsNjU1MzUsMScpCiAgICBwcmludChkKQo=</text>
+        <text encoding="base64">Ly9UT0RPOiBkaXNhYmxlIEJNTTE1MCBtYWduZXRvbWV0ZXIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJywnLmpvaW4obWVzc2FnZXMpCg==</text>
