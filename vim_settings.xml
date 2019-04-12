@@ -10,11 +10,12 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1555032642800">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="44" column="34" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1555034772195">
+        <mark key="'" line="96" column="4" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
       </file>
       <file name="/a.dummy" timestamp="1555009552841">
         <mark key="[" line="0" column="0" />
@@ -588,12 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="36" filename="$APPLICATION_CONFIG_DIR$/scratches/to_yaml.py" />
-      <jump line="58" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/logging.config.yaml" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logging.config.yaml" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/__init__.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/__init__.py" />
-      <jump line="37" column="57" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="4" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/__init__.py" />
       <jump line="11" column="60" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
@@ -670,16 +665,12 @@
       <jump line="1" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="18" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="38" column="3" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="66" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="22" column="67" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="45" column="40" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="152" column="19" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="7" column="25" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="32" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
@@ -688,6 +679,16 @@
       <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="40" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="56" column="37" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="76" column="25" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="7" column="34" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="50" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="82" column="3" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="79" column="3" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="45" column="62" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="77" column="31" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="80" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -707,40 +708,40 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>_get_imu_msg_string</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBbc2VsZi5fdG9rZW5pemUoaywgc2VsZltrXSkgZm9yIGsgaW4gaXRlcml0ZW1zKHNlbGYpXQo=</text>
+        <text encoding="base64">ICAgIGQgPSBFbmFibGVkTWVzc2FnZXNEaWN0KCc3Miw3NCwxMTcsNjU1MzUsMScpCiAgICBwcmludChkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgpjbGFzcyBTQlBNZXNzYWdlQ29uZmlndXJhdGlvbihvYmplY3QpOgogICAgIiIiT2JqZWN0IHJlcHJlc2VudGluZyBhbiBlbmFibGVkIG1lc3NhZ2UgYW5kIGl0cyBjb3JyZXNwb25kaW5nCiAgICByYXRlIGRpdmlzb3IuIFR5cGljYWxseSB1c2VkIGluIGNvbmp1bmN0aW9uIHdpdGggUGlrc2kgc2V0dGluZwogICAgYGBlbmFibGVkX3NicF9tZXNzYWdlc2BgLiIiIgoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHBhcnNlX3N0cmluZyhjbHMsIHN0cmluZyk6CiAgICAgICAgIiIiUGFyc2UgdGhlIGdpdmVuIGBgc3RyaW5nYGAgYW5kIHJldHVybiBhbiBFbmFibGVkTWVzc2FnZQogICAgICAgIGluaXRpYWxpemVkIHdpdGggdGhlIGRlY29kZWQgYGBpZGBgIGFuZCBgYGRpdmlzb3JgYC4KICAgICAgICAiIiIKICAgICAgICBtYXRjaCA9IFBfRU5BQkxFRF9NRVNTQUdFLm1hdGNoKHN0cmluZykKCiAgICAgICAgaWYgbm90IG1hdGNoOgogICAgICAgICAgICBtc2cgPSAne30gaXMgbm8gYSB2YWxpZCBlbmFibGVkIFNCUCBtZXNzYWdlJwogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKG1zZy5mb3JtYXQoc3RyaW5nKSkKCiAgICAgICAgaWYgbWF0Y2guZ3JvdXAoJ2Rpdmlzb3InKToKICAgICAgICAgICAgcmV0dXJuIGNscyhpbnQobWF0Y2guZ3JvdXAoJ2lkJykpLAogICAgICAgICAgICAgICAgICAgICAgIGludChtYXRjaC5ncm91cCgnZGl2aXNvcicpKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gY2xzKGludChtYXRjaC5ncm91cCgnaWQnKSkpCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1zZ19pZCwgcmF0ZV9kaXZpc29yPU5vbmUpOgogICAgICAgICIiIkluaXRpYWxpemVzIGEgbmV3IEVuYWJsZWRNZXNzYWdlIHdpdGggdGhlIGdpdmVuIGBgaWRgYCBhbmQKICAgICAgICBgYGRpdmlzb3JgYC4KCiAgICAgICAgUGFyYW1ldGVycwogICAgICAgIC0tLS0tLS0tLS0KICAgICAgICBtc2dfaWQgOiBpbnQKICAgICAgICAgICAgSUQgb2YgdGhlIGVuYWJsZWQgbWVzc2FnZSB0eXBlLgogICAgICAgIHJhdGVfZGl2aXNvciA6IGludAogICAgICAgICAgICAob3B0aW9uYWwpIHJhdGUgZGl2aXNvci4KICAgICAgICAiIiIKICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShtc2dfaWQsIGludCk6CiAgICAgICAgICAgIG1zZyA9ICdleHBlY3RlZCBpbnQgZm9yIGBpZGAsIGdvdCB7fScKICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKG1zZy5mb3JtYXQodHlwZShtc2dfaWQpKSkKCiAgICAgICAgIyBUT0RPOiBjb21wYXJlIGFnYWluc3QgZW51bSBvZiB2YWxpZCBtZXNzYWdlIElEcz8KCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UocmF0ZV9kaXZpc29yLCAoaW50LCB0eXBlKE5vbmUpKSk6CiAgICAgICAgICAgIG1zZyA9ICdleHBlY3RlZCBpbnQgb3IgTm9uZVR5cGUgZm9yIGBkaXZpc29yYCwgZ290IHt9JwogICAgICAgICAgICByYWlzZSBUeXBlRXJyb3IobXNnLmZvcm1hdCh0eXBlKHJhdGVfZGl2aXNvcikpKQoKICAgICAgICBzZWxmLm1zZ19pZCA9IG1zZ19pZAogICAgICAgIHNlbGYucmF0ZV9kaXZpc29yID0gcmF0ZV9kaXZpc29yCgogICAgZGVmIF9fc3RyX18oc2VsZik6CiAgICAgICAgIyByZW5kZXJzIHRoZSBzdHJpbmcgZm9ybWF0IHJlcXVpcmVkIGJ5CiAgICAgICAgIyBwaWtzaV90b29scy5zZXR0aW5ncy5TZXR0aW5ncwogICAgICAgIGlmIHNlbGYucmF0ZV9kaXZpc29yOgogICAgICAgICAgICBvdXRwdXQgPSAne2lkfS97ZGl2aXNvcn0nCiAgICAgICAgICAgIHJldHVybiBvdXRwdXQuZm9ybWF0KGlkPXNlbGYubXNnX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaXZpc29yPXNlbGYucmF0ZV9kaXZpc29yKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzdHIoc2VsZi5tc2dfaWQpCgogICAgZGVmIF9fcmVwcl9fKHNlbGYpOgogICAgICAgIG91dHB1dCA9ICdFbmFibGVkTWVzc2FnZShpZDoge2lkfSwgZGl2aXNvcjoge2Rpdmlzb3J9KScKICAgICAgICByZXR1cm4gb3V0cHV0LmZvcm1hdChpZD1zZWxmLm1zZ19pZCwgZGl2aXNvcj1zZWxmLnJhdGVfZGl2aXNvcikKCiAgICBkZWYgX19jbXBfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgIyBjb21wYXJpc29uIG1hZ2ljCiAgICAgICAgIyBieSBpbXBsZW1lbnRpbmcgY29tcGFyaXNvbiB3ZSBhbHNvIGdldCBzb3J0aW5nIGZvciBmcmVlCiAgICAgICAgcmV0dXJuIHNlbGYubXNnX2lkIC0gb3RoZXIubXNnX2lkCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG0gPSBQX0VOQUJMRURfTUVTU0FHRS5tYXRjaCgnMTIzNCcpCiAgICBwcmludCgnMTIzNCcpCiAgICBwcmludCgnICAgICBpZDonLCBtLmdyb3VwKCdpZCcpKQogICAgcHJpbnQoJ2Rpdmlzb3I6JywgbS5ncm91cCgnZGl2aXNvcicpKQoKICAgIG0gPSBQX0VOQUJMRURfTUVTU0FHRS5tYXRjaCgnMTIzNC81NicpCiAgICBwcmludCgnXG4xMjM0LzU2JykKICAgIHByaW50KCcgICAgIGlkOicsIG0uZ3JvdXAoJ2lkJykpCiAgICBwcmludCgnZGl2aXNvcjonLCBtLmdyb3VwKCdkaXZpc29yJykpCgogICAgYyA9IFNCUE1lc3NhZ2VDb25maWd1cmF0aW9uKDEyMzQpIDwgU0JQTWVzc2FnZUNvbmZpZ3VyYXRpb24oNTY3OCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEwKQogICAgcHJpbnQoJ1xuMTIzNCA8IDU2NzgvMTA/JywgYykKCiAgICBjID0gU0JQTWVzc2FnZUNvbmZpZ3VyYXRpb24oMTIzNCkgPiBTQlBNZXNzYWdlQ29uZmlndXJhdGlvbig1Njc4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTApCiAgICBwcmludCgnMTIzNCA+IDU2NzgvMTA/JywgYykKCiAgICBjID0gU0JQTWVzc2FnZUNvbmZpZ3VyYXRpb24oMTIzNCkgPT0gU0JQTWVzc2FnZUNvbmZpZ3VyYXRpb24oMTIzNCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA1NikKICAgIHByaW50KCcxMjM0ID0gMTIzNC8xMD8nLCBjKQoKICAgIHByaW50KCdcbicsIHJlcHIoU0JQTWVzc2FnZUNvbmZpZ3VyYXRpb24oMTIzNCwgNTYpKSkKCiAgICBlbmFibGVkID0gW1NCUE1lc3NhZ2VDb25maWd1cmF0aW9uKDMpLAogICAgICAgICAgICAgICBTQlBNZXNzYWdlQ29uZmlndXJhdGlvbigyLCAxMSksCiAgICAgICAgICAgICAgIFNCUE1lc3NhZ2VDb25maWd1cmF0aW9uKDEpXQogICAgcHJpbnQoJ1xudW5zb3J0ZWQ6JykKICAgIGZvciBtc2cgaW4gZW5hYmxlZDoKICAgICAgICBwcmludCgnXHQnLCBtc2cpCgogICAgc29ydGVkID0gc29ydGVkKGVuYWJsZWQpCiAgICBwcmludCgnc29ydGVkOicpCiAgICBmb3IgbXNnIGluIHNvcnRlZDoKICAgICAgICBwcmludCgnXHQnLCBtc2cpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSAnLCAnLmpvaW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYGB1YXJ0KG4pLmVuYWJsZWRfc2JwX21lc3NhZ2VzYGAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBbc2VsZi5fdG9rZW5pemUoaywgc2VsZltrXSkgZm9yIGsgaW4gaXRlcml0ZW1zKHNlbGYpXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhlIHJhdyBvdXRwdXQgc3RyaW5nIGZyb20gcmVhZGluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBbc2VsZi5fdG9rZW5pemUoaywgc2VsZltrXSkgZm9yIGsgaW4gaXRlcml0ZW1zKHNlbGYpXQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoZSBrZXlzIGluIGEgZGljdGlvbmFyeSBhcHBlYXIgdG8gYmUgbWFnaWNhbGx5IHNvcnRlZAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIHRoZSBrZXlzIGluIGEgZGljdGlvbmFyeSBhcHBlYXIgdG8gYmUgbWFnaWNhbGx5IHNvcnRlZAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSAK</text>
+        <text encoding="base64">ICAgICAgICBzb3J0ZWRfa2V5cyA9IHNvcnRlZChzZWxmKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0ZWRfbWVzc2FnZV9pZHMgPSBzb3J0ZWQobGlzdChzZWxmKSkK</text>
+        <text encoding="base64">ZnJvbSBzaXggaW1wb3J0IGl0ZXJpdGVtcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmF0ZV9kaXZpc29yID0gaW50KHJhdGVfZGl2aXNvcikgaWYgcmF0ZV9kaXZpc29yCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -779,7 +780,6 @@
         <entry>_get_imu_msg_string</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry>%s/LOGGER/self.debug_logger/</entry>
         <entry encoding="base64">MzMsMzc+</entry>
         <entry>91,96y</entry>
@@ -798,6 +798,7 @@
         <entry>20,25s/\./._/</entry>
         <entry>31,38d</entry>
         <entry encoding="base64">MzAsMzc8</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
