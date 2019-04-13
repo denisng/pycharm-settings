@@ -529,12 +529,12 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="4" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_logger.py" timestamp="1551737316929">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_logger.py" timestamp="1555119873710">
         <mark key="'" line="188" column="72" />
-        <mark key="[" line="192" column="77" />
-        <mark key="]" line="193" column="37" />
-        <mark key="^" line="193" column="37" />
-        <mark key="." line="193" column="37" />
+        <mark key="[" line="210" column="58" />
+        <mark key="]" line="210" column="60" />
+        <mark key="^" line="210" column="60" />
+        <mark key="." line="210" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1554336994831">
         <mark key="'" line="94" column="79" />
@@ -716,7 +716,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>return</text>
