@@ -25,11 +25,12 @@
       <file name="/a.dummy" timestamp="1555009552841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/register_board.py" timestamp="1554249878749">
-        <mark key="[" line="136" column="55" />
-        <mark key="]" line="136" column="60" />
-        <mark key="^" line="136" column="60" />
-        <mark key="." line="136" column="60" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/register_board.py" timestamp="1555116002562">
+        <mark key="'" line="158" column="12" />
+        <mark key="[" line="160" column="17" />
+        <mark key="]" line="160" column="32" />
+        <mark key="^" line="160" column="32" />
+        <mark key="." line="160" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/exceptions.py" timestamp="1554506275264">
         <mark key="[" line="8" column="0" />
@@ -596,10 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
-      <jump line="7" column="62" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
-      <jump line="6" column="30" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
-      <jump line="228" column="24" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="9" column="34" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="100" column="4" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="104" column="12" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
@@ -696,6 +693,10 @@
       <jump line="86" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
       <jump line="102" column="27" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
       <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
+      <jump line="94" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/register_board.py" />
+      <jump line="117" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/register_board.py" />
+      <jump line="133" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/register_board.py" />
+      <jump line="158" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/register_board.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -715,10 +716,10 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
-        <text>_get_imu_msg_string</text>
+        <text>return</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy54c2RiLnRjbCcsCg==</text>
@@ -755,9 +756,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_get_imu_msg_string</last-search>
+      <last-search>return</last-search>
       <last-offset />
-      <last-pattern>_get_imu_msg_string</last-pattern>
+      <last-pattern>return</last-pattern>
       <last-replace>._</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -765,7 +766,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no JTAG connection to DUT</entry>
         <entry>1 if</entry>
         <entry>LOGGER</entry>
         <entry>output</entry>
@@ -785,6 +785,7 @@
         <entry>duration</entry>
         <entry encoding="base64">XDxyZXByZXNlbnRpbmdcPg==</entry>
         <entry>_get_imu_msg_string</entry>
+        <entry>return</entry>
       </history-search>
       <history-cmd>
         <entry>%s/LOGGER/self.debug_logger/</entry>
