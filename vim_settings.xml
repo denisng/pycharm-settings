@@ -4,10 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_bist.py" timestamp="1555102099272">
-        <mark key="[" line="81" column="57" />
-        <mark key="]" line="82" column="41" />
-        <mark key="^" line="82" column="41" />
-        <mark key="." line="82" column="41" />
+        <mark key="]" line="44" column="41" />
+        <mark key="^" line="44" column="41" />
+        <mark key="." line="44" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1552104478811">
         <mark key="'" line="45" column="0" />
@@ -176,12 +175,12 @@
         <mark key="^" line="159" column="32" />
         <mark key="." line="159" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1554409660618">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1555114840632">
         <mark key="'" line="5" column="53" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="50" />
-        <mark key="." line="5" column="14" />
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/dng-nuc/configuration.nix" timestamp="1551138765860">
         <mark key="[" line="3" column="14" />
@@ -287,7 +286,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1555031987400">
+      <file name="/Python Console" timestamp="1555113802059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_serial_number.py" timestamp="1554511747338">
@@ -418,12 +417,10 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" timestamp="1555112190480">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="35" />
-        <mark key="^" line="62" column="32" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" timestamp="1555114119729">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="35" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1554505466672">
         <mark key="[" line="0" column="0" />
@@ -599,8 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="55" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
-      <jump line="264" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="7" column="62" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="6" column="30" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
@@ -699,6 +694,8 @@
       <jump line="68" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
       <jump line="73" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
+      <jump line="102" column="27" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
+      <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -724,34 +721,34 @@
         <text>_get_imu_msg_string</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly9UT0RPOiBkaXNhYmxlIEJNTTE1MCBtYWduZXRvbWV0ZXIK</text>
+        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy54c2RiLnRjbCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJywnLmpvaW4obWVzc2FnZXMpCg==</text>
+        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5zYnAnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlcyA9IFtzdHIoeCkgZm9yIHggaW4gc29ydGVkKG1lc3NhZ2VzKV0K</text>
+        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy54c2RiLnRjbCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlcyA9IHNldChtZXNzYWdlcyArIENhcHR1cmUuaW11X21lc3NhZ2VzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJywnLmpvaW4obWVzc2FnZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KSAgICAgICAgbWVzc2FnZXMgPSBbaW50KHgpIGZvciB4IGluIG1lc3NhZ2VzLnNwbGl0KCcsJyldCg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcyA9IFtzdHIoeCkgZm9yIHggaW4gc29ydGVkKG1lc3NhZ2VzKV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcyA9IHNldChtZXNzYWdlcyArIENhcHR1cmUuaW11X21lc3NhZ2VzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tCg==</text>
+        <text encoding="base64">KSAgICAgICAgbWVzc2FnZXMgPSBbaW50KHgpIGZvciB4IGluIG1lc3NhZ2VzLnNwbGl0KCcsJyldCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
