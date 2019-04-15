@@ -15,12 +15,10 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1555035714424">
-        <mark key="'" line="91" column="55" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="98" column="45" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1555366552915">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1555009552841">
         <mark key="[" line="0" column="0" />
@@ -286,9 +284,6 @@
         <mark key="]" line="4" column="59" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="60" />
-      </file>
-      <file name="/Python Console" timestamp="1555113802059">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_serial_number.py" timestamp="1554511747338">
         <mark key="'" line="24" column="0" />
@@ -716,40 +711,40 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>return</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy54c2RiLnRjbCcsCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5zYnAnCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy54c2RiLnRjbCcsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJywnLmpvaW4obWVzc2FnZXMpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlcyA9IFtzdHIoeCkgZm9yIHggaW4gc29ydGVkKG1lc3NhZ2VzKV0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlcyA9IHNldChtZXNzYWdlcyArIENhcHR1cmUuaW11X21lc3NhZ2VzKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">KSAgICAgICAgbWVzc2FnZXMgPSBbaW50KHgpIGZvciB4IGluIG1lc3NhZ2VzLnNwbGl0KCcsJyldCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGQuYWRkX21lc3NhZ2UoMTIzNCkKICAgIGQuYWRkX21lc3NhZ2UoNTY3OCwgOSkKICAgIHByaW50KGQpCiAgICBwcmludChyZXByKGQpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmW21zZ19pZF0gPSByYXRlX2Rpdmlzb3IK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKG9wdGlvbmFsKSBicm9hZGNhc3QgcmF0ZSBkaXZpZGVyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
