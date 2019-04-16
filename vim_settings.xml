@@ -15,12 +15,12 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1555371615566">
-        <mark key="'" line="88" column="56" />
-        <mark key="[" line="115" column="36" />
-        <mark key="]" line="116" column="43" />
-        <mark key="." line="116" column="43" />
-        <mark key="^" line="116" column="43" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1555372692305">
+        <mark key="'" line="158" column="11" />
+        <mark key="[" line="166" column="30" />
+        <mark key="]" line="167" column="10" />
+        <mark key="." line="167" column="10" />
+        <mark key="^" line="167" column="10" />
       </file>
       <file name="/a.dummy" timestamp="1555009552841">
         <mark key="[" line="0" column="0" />
@@ -594,7 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/logging.json" />
       <jump line="244" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="308" column="85" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="216" column="15" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
@@ -694,6 +693,7 @@
       <jump line="88" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="84" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="151" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -713,7 +713,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW50cnkgPSA=</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>rate_divisor</text>
@@ -722,31 +722,31 @@
         <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShtc2dfaWQsIGludCk6CiAgICAgICAgICAgIGVudHJ5ID0gJ2V4cGVjdGVkIGludCBmb3IgbXNnX2lkLCBnb3Qge3R9ICh7dn0pJwogICAgICAgICAgICByYWlzZSBUeXBlRXJyb3IoZW50cnkuZm9ybWF0KHQ9dHlwZShtc2dfaWQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHY9bXNnX2lkKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2PW1zZ19pZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKGVudHJ5LmZvcm1hdCh0PXR5cGUobXNnX2lkKSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiBtc2dfaWQgbm90IGluIHNlbGYubWVzc2FnZXM6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50cnkgPSAnZXhwZWN0ZWQgaW50IGZvciBtc2dfaWQsIGdvdCB7dH0gKHt2fSknCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShtc2dfaWQsIGludCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kaXZpc29yc1ttc2dfaWRdID0gbXNnX2Rpdgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5tZXNzYWdlcy5hcHBlbmQobXNnX2lkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHZhbGlkYXRlIGFnYWluc3QgbGlzdCBvZiBtZXNzYWdlIElEcz8KCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShyYXRlX2Rpdmlzb3IsIChpbnQsIHR5cGUoTm9uZSkpKToKICAgICAgICAgICAgZW50cnkgPSAnZXhwZWN0ZWQgaW50IGZvciByYXRlX2Rpdmlzb3IsIGdvdCB7dH0gKHt2fSknCiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcihlbnRyeS5mb3JtYXQodD10eXBlKHJhdGVfZGl2aXNvciksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdj1yYXRlX2Rpdmlzb3IpKQoKICAgICAgICBpZiByYXRlX2Rpdmlzb3IgYW5kIHJhdGVfZGl2aXNvciA8IDE6CiAgICAgICAgICAgIGVudHJ5ID0gJ3t9IGlzIG5vdCBhIHZhbGlkIHJhdGUgZGl2aXNvcicKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihlbnRyeS5mb3JtYXQocmF0ZV9kaXZpc29yKSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2PW1zZ19pZCkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKGVudHJ5LmZvcm1hdCh0PXR5cGUobXNnX2lkKSwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShtc2dfaWQsIGludCk6CiAgICAgICAgICAgIGVudHJ5ID0gJ2V4cGVjdGVkIGludCBmb3IgbXNnX2lkLCBnb3Qge3R9ICh7dn0pJwogICAgICAgICAgICByYWlzZSBUeXBlRXJyb3IoZW50cnkuZm9ybWF0KHQ9dHlwZShtc2dfaWQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHY9bXNnX2lkKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50cnkgPSAnZXhwZWN0ZWQgaW50IGZvciBtc2dfaWQsIGdvdCB7dH0gKHt2fSknCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
