@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1555374115974">
-        <mark key="'" line="121" column="13" />
-        <mark key="[" line="51" column="17" />
-        <mark key="]" line="51" column="19" />
-        <mark key="." line="51" column="19" />
-        <mark key="^" line="51" column="19" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" timestamp="1555441906655">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="104" column="23" />
+        <mark key="]" line="105" column="10" />
+        <mark key="^" line="105" column="10" />
+        <mark key="." line="105" column="10" />
       </file>
       <file name="/a.dummy" timestamp="1555009552841">
         <mark key="[" line="0" column="0" />
@@ -606,16 +606,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="18" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="38" column="3" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="22" column="67" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="32" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="58" column="47" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="40" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="56" column="37" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
@@ -625,8 +616,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="79" column="3" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="45" column="62" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="77" column="31" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="80" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="20" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="91" column="55" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="134" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
@@ -643,25 +632,17 @@
       <jump line="57" column="32" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="9" column="43" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="36" column="32" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="59" column="58" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="66" column="51" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="63" column="45" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="74" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="70" column="33" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="86" column="7" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="82" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="94" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="84" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="151" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="95" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="90" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="112" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="119" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="127" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="133" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="137" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
@@ -693,7 +674,6 @@
       <jump line="99" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="107" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="121" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="47" column="65" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_comms.py" />
@@ -706,6 +686,26 @@
       <jump line="41" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_sd.py" />
       <jump line="12" column="69" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_sd.py" />
       <jump line="46" column="83" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_sd.py" />
+      <jump line="77" column="21" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="96" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="5" column="46" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="126" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -725,7 +725,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>power_control_visa_tdk_lambda</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>rate_divisor</text>
@@ -734,31 +734,31 @@
         <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShtc2dfaWQsIGludCk6CiAgICAgICAgICAgIGVudHJ5ID0gJ2V4cGVjdGVkIGludCBmb3IgbXNnX2lkLCBnb3Qge3R9ICh7dn0pJwogICAgICAgICAgICByYWlzZSBUeXBlRXJyb3IoZW50cnkuZm9ybWF0KHQ9dHlwZShtc2dfaWQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHY9bXNnX2lkKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjdXN0b20ucHJvdmlzaW9uLnBvd2VyX2N0cmxfYWRkciA9ICIxOTIuMTY4LjAuMTEiOwo=</text>
+        <text encoding="base64">CiAgICBkLnVwZGF0ZV9kaXZpc29yKDIsIE5vbmUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkID0gJywnLmpvaW4oZW5hYmxlZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkID0gW3N0cih4KSBmb3IgeCBpbiBlbmFibGVkXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkID0gc29ydGVkKHNldChlbmFibGVkKSkK</text>
+        <text encoding="base64">ICAgIGQudXBkYXRlX2Rpdmlzb3IoMjMwNCwgTm9uZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkICs9IFJFUVVJUkVEX01FU1NBR0VTCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkID0gW2ludCh4KSBmb3IgeCBpbiBlbmFibGVkLnNwbGl0KCcsJyldCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmFibGVkID0gJywnLmpvaW4oZW5hYmxlZCkK</text>
+        <text encoding="base64">ICAgIGQucmVtb3ZlX21lc3NhZ2UoMTIzNCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbmFibGVkID0gW3N0cih4KSBmb3IgeCBpbiBlbmFibGVkXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbmFibGVkID0gc29ydGVkKHNldChlbmFibGVkKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBtc2dfZGl2IGFuZCBtc2dfZGl2IDwgMToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
