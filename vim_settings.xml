@@ -112,11 +112,11 @@
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/dng-nuc/configuration.nix" timestamp="1555378512011">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/dng-nuc/configuration.nix" timestamp="1555379541828">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" timestamp="1554758164138">
         <mark key="]" line="58" column="11" />
@@ -725,7 +725,7 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>lab-super-banzai</text>
+        <text>power_control_visa_tdk_lambda</text>
       </register>
       <register name="/" type="4">
         <text>rate_divisor</text>
@@ -734,31 +734,31 @@
         <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShtc2dfaWQsIGludCk6CiAgICAgICAgICAgIGVudHJ5ID0gJ2V4cGVjdGVkIGludCBmb3IgbXNnX2lkLCBnb3Qge3R9ICh7dn0pJwogICAgICAgICAgICByYWlzZSBUeXBlRXJyb3IoZW50cnkuZm9ybWF0KHQ9dHlwZShtc2dfaWQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHY9bXNnX2lkKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkID0gJywnLmpvaW4oZW5hYmxlZCkK</text>
+        <text encoding="base64">ICBjdXN0b20ucHJvdmlzaW9uLnBvd2VyX2N0cmxfYWRkciA9ICIxOTIuMTY4LjAuMTEiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkID0gW3N0cih4KSBmb3IgeCBpbiBlbmFibGVkXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkID0gJywnLmpvaW4oZW5hYmxlZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkID0gc29ydGVkKHNldChlbmFibGVkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkID0gW3N0cih4KSBmb3IgeCBpbiBlbmFibGVkXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkICs9IFJFUVVJUkVEX01FU1NBR0VTCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkID0gc29ydGVkKHNldChlbmFibGVkKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkID0gW2ludCh4KSBmb3IgeCBpbiBlbmFibGVkLnNwbGl0KCcsJyldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkICs9IFJFUVVJUkVEX01FU1NBR0VTCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbmFibGVkID0gJywnLmpvaW4oZW5hYmxlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmFibGVkID0gW2ludCh4KSBmb3IgeCBpbiBlbmFibGVkLnNwbGl0KCcsJyldCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmFibGVkID0gW3N0cih4KSBmb3IgeCBpbiBlbmFibGVkXQo=</text>
+        <text encoding="base64">ICAgICAgICBlbmFibGVkID0gJywnLmpvaW4oZW5hYmxlZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbmFibGVkID0gc29ydGVkKHNldChlbmFibGVkKSkK</text>
+        <text encoding="base64">ICAgICAgICBlbmFibGVkID0gW3N0cih4KSBmb3IgeCBpbiBlbmFibGVkXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbmFibGVkICs9IE1FU1NBR0VTX1RPX0FERAo=</text>
+        <text encoding="base64">ICAgICAgICBlbmFibGVkID0gc29ydGVkKHNldChlbmFibGVkKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
