@@ -343,12 +343,12 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" timestamp="1555972997131">
-        <mark key="'" line="20" column="17" />
-        <mark key="[" line="35" column="21" />
-        <mark key="]" line="35" column="19" />
-        <mark key="^" line="35" column="19" />
-        <mark key="." line="35" column="19" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" timestamp="1555973209074">
+        <mark key="'" line="20" column="71" />
+        <mark key="[" line="43" column="45" />
+        <mark key="]" line="43" column="51" />
+        <mark key="^" line="43" column="51" />
+        <mark key="." line="43" column="51" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/requirements.txt" timestamp="1502440811501">
         <mark key="[" line="0" column="0" />
@@ -623,7 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="91" column="55" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="134" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/imu.c" />
@@ -723,6 +722,7 @@
       <jump line="24" column="26" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
       <jump line="25" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
+      <jump line="20" column="71" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -742,13 +742,13 @@
         <text>logger.logAssert('', result)</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>self.file_path</text>
       </register>
       <register name="/" type="4">
         <text>osmosdr_sink_0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5vc21vc2RyX3NpbmtfMC5zZXRfYW50ZW5uYSgnJywgMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBTb3VyY2UgKElRL1F1YWRyYXR1cmUgZmlsZSkK</text>
