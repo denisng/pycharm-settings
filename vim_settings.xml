@@ -118,11 +118,6 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" timestamp="1554758164138">
-        <mark key="]" line="58" column="11" />
-        <mark key="^" line="58" column="11" />
-        <mark key="." line="58" column="11" />
-      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/settings.py" timestamp="1512538038097">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="21" column="39" />
@@ -226,6 +221,11 @@
         <mark key="^" line="97" column="41" />
         <mark key="." line="97" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_boot.tcl" timestamp="1556143519353">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="64" column="1" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="5" />
@@ -277,6 +277,12 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/ram_to_file.tcl" timestamp="1556143510736">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/panini/configuration.nix" timestamp="1548281916811">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="19" />
@@ -324,16 +330,21 @@
         <mark key="." line="73" column="17" />
         <mark key="^" line="73" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf_with_tcl_and_fpga.tcl" timestamp="1556143535681">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="42" column="1" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_register.py" timestamp="1554249762810">
         <mark key="[" line="69" column="29" />
         <mark key="]" line="69" column="38" />
         <mark key="." line="69" column="38" />
         <mark key="^" line="69" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_bist.py" timestamp="1555102099272">
-        <mark key="]" line="44" column="41" />
-        <mark key="^" line="44" column="41" />
-        <mark key="." line="44" column="41" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/check_hw.tcl" timestamp="1556143438386">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1552104478811">
         <mark key="'" line="45" column="0" />
@@ -393,6 +404,12 @@
         <mark key="]" line="230" column="71" />
         <mark key="." line="230" column="71" />
         <mark key="^" line="230" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/file_to_ram.tcl" timestamp="1556143457538">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1555452535261">
         <mark key="[" line="4" column="148" />
@@ -473,11 +490,16 @@
         <mark key="^" line="227" column="27" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/check_connection.tcl" timestamp="1553294440163">
-        <mark key="[" line="15" column="58" />
-        <mark key="]" line="16" column="51" />
-        <mark key="." line="16" column="51" />
-        <mark key="^" line="16" column="51" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf.tcl" timestamp="1556143528131">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/check_connection.tcl" timestamp="1556143474920">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="43" column="7" />
+        <mark key="^" line="43" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1554153146607">
         <mark key="'" line="10" column="17" />
@@ -622,7 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="84" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="151" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
@@ -722,10 +743,26 @@
       <jump line="66" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
       <jump line="16" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/file_to_ram.tcl" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>logger.logAssert('', result)</text>
+        <text># JTAG speed reduction
+puts &quot;Reducing JTAG speed to 125kHz&quot;
+if { [catch {jtag targets 1} result] } {
+    puts &quot;ERROR&quot;
+    puts &quot;(unable to select Digilent HS-3 device)&quot;
+    puts $result
+    disconnect
+    exit
+}
+if { [catch {jtag frequency 125000} result] } {
+    puts &quot;ERROR&quot;
+    puts &quot;(unable to set JTAG clock to 125kHz)&quot;
+    puts $result
+    disconnect
+    exit
+}</text>
       </register>
       <register name="&quot;" type="2">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
@@ -738,56 +775,70 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>logger.logAssert('', result)</text>
+        <text># JTAG speed reduction
+puts &quot;Reducing JTAG speed to 125kHz&quot;
+if { [catch {jtag targets 1} result] } {
+    puts &quot;ERROR&quot;
+    puts &quot;(unable to select Digilent HS-3 device)&quot;
+    puts $result
+    disconnect
+    exit
+}
+if { [catch {jtag frequency 125000} result] } {
+    puts &quot;ERROR&quot;
+    puts &quot;(unable to set JTAG clock to 125kHz)&quot;
+    puts $result
+    disconnect
+    exit
+}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T3V0cHV0IGZyZXF1ZW5jeSBvZiB0aGUg</text>
+        <text encoding="base64">c3BlZWQg</text>
       </register>
       <register name="/" type="4">
         <text>sys</text>
       </register>
-      <register name="0" type="4">
-        <text># Sink block (HackRF)
-            # ---------------------------------------------------------
-            # 0dB gain
-            # default antenna
-            # bandwidth not specified (unrestricted?)
-            self.sink = osmosdr.sink(args='numchan=1')
-            self.sink.set_sample_rate(sampling_rate)
-            self.sink.set_center_freq(center_frequency, 0)
-            self.sink.set_freq_corr(0, 0)
-            self.sink.set_gain(0, 0)
-            self.sink.set_if_gain(20, 0)
-            self.sink.set_bb_gain(20, 0)
-            self.sink.set_antenna('', 0)
-            self.sink.set_bandwidth(0, 0)</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBKVEFHIHNwZWVkIHJlZHVjdGlvbgpwdXRzICJSZWR1Y2luZyBKVEFHIHNwZWVkIHRvIDEyNWtIeiIKaWYgeyBbY2F0Y2gge2p0YWcgdGFyZ2V0cyAxfSByZXN1bHRdIH0gewogICAgcHV0cyAiRVJST1IiCiAgICBwdXRzICIodW5hYmxlIHRvIHNlbGVjdCBEaWdpbGVudCBIUy0zIGRldmljZSkiCiAgICBwdXRzICRyZXN1bHQKICAgIGRpc2Nvbm5lY3QKICAgIGV4aXQKfQppZiB7IFtjYXRjaCB7anRhZyBmcmVxdWVuY3kgMTI1MDAwfSByZXN1bHRdIH0gewogICAgcHV0cyAiRVJST1IiCiAgICBwdXRzICIodW5hYmxlIHRvIHNldCBKVEFHIGNsb2NrIHRvIDEyNWtIeikiCiAgICBwdXRzICRyZXN1bHQKICAgIGRpc2Nvbm5lY3QKICAgIGV4aXQKfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text># JTAG speed reduction
+puts &quot;Reducing JTAG speed to 125kHz&quot;
+jtag targets 1
+jtag frequency 125000</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiIiIiCg==</text>
+      <register name="2" type="4">
+        <text># JTAG speed reduction
+puts &quot;Reducing JTAG speed to 125kHz&quot;
+jtag targets 1
+jtag frequency 125000</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZnJlcXVlbmN5ID0gdmFsdWUK</text>
+      <register name="3" type="4">
+        <text># JTAG speed reduction
+puts &quot;Reducing JTAG speed to 125kHz&quot;
+jtag targets 1
+jtag frequency 125000</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHV0cyAiUmVkdWNpbmcgSlRBRyBzcGVlZCB0byAxMjVrSHoiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZnJlcXVlbmN5ID0gMAo=</text>
+        <text encoding="base64">IyBKVEFHIHNwZWVkIHJlZHVjdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">anRhZyBmcmVxdWVuY3kgMTI1MDAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">anRhZyB0YXJnZXRzIDEK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0tLS0tLQo=</text>
+      <register name="8" type="4">
+        <text># JTAG speed reduction
+puts &quot;Reducing JTAG speed to 125kHz&quot;
+jtag targets 1
+jtag frequency 125000</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmV0dXJucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -826,8 +877,6 @@
         <entry>sys</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/result_\d/result/</entry>
-        <entry encoding="base64">MjM4LDMwNjw=</entry>
         <entry>33,35s/&quot;/'/g</entry>
         <entry>52,56s/&quot;/'/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
@@ -845,6 +894,8 @@
         <entry>95,102d</entry>
         <entry encoding="base64">JzwsJz5zL3JhdGVfZGl2aXNvci9tc2dfZGl2L2c=</entry>
         <entry>26,34s/osmosdr_sink_0/sink/g</entry>
+        <entry>30,46y</entry>
+        <entry>30,45y</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
