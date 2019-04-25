@@ -246,11 +246,12 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1553027998557">
-        <mark key="[" line="357" column="45" />
-        <mark key="]" line="357" column="57" />
-        <mark key="^" line="357" column="57" />
-        <mark key="." line="357" column="57" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1556152150966">
+        <mark key="'" line="230" column="71" />
+        <mark key="[" line="233" column="27" />
+        <mark key="]" line="233" column="65" />
+        <mark key="^" line="233" column="65" />
+        <mark key="." line="233" column="65" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -650,8 +651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="84" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="151" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="95" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="90" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
@@ -750,6 +749,8 @@
       <jump line="74" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
       <jump line="16" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/file_to_ram.tcl" />
+      <jump line="229" column="57" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
+      <jump line="230" column="71" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -799,7 +800,7 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3BlZWQg</text>
+        <text>copied in</text>
       </register>
       <register name="/" type="4">
         <text>sys</text>
