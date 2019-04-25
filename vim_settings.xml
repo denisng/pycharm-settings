@@ -290,12 +290,12 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" timestamp="1552958209035">
-        <mark key="'" line="21" column="8" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="4" column="58" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" timestamp="1556153328534">
+        <mark key="'" line="89" column="28" />
+        <mark key="[" line="97" column="14" />
+        <mark key="]" line="97" column="19" />
+        <mark key="." line="97" column="19" />
+        <mark key="^" line="97" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_logger.py" timestamp="1555119873710">
         <mark key="'" line="188" column="72" />
@@ -651,7 +651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="95" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="90" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="112" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
@@ -751,6 +750,7 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/file_to_ram.tcl" />
       <jump line="229" column="57" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="230" column="71" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
+      <jump line="89" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -800,7 +800,7 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>copied in</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sys</text>
