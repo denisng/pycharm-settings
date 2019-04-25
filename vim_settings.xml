@@ -184,12 +184,19 @@
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/initial_test_lists.py" timestamp="1556154370316">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" timestamp="1553028080687">
         <mark key="'" line="30" column="12" />
         <mark key="[" line="32" column="35" />
         <mark key="]" line="32" column="36" />
         <mark key="^" line="4" column="58" />
         <mark key="." line="32" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" timestamp="1556154478866">
+        <mark key="'" line="426" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_serial.py" timestamp="1544844249222">
         <mark key="[" line="0" column="0" />
@@ -535,6 +542,13 @@
         <mark key="^" line="233" column="0" />
         <mark key="." line="240" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/provision_test_list.py" timestamp="1556154375232">
+        <mark key="'" line="19" column="31" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="65" />
+        <mark key="^" line="16" column="9" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/serialno/base.py" timestamp="1554429084126">
         <mark key="'" line="4" column="25" />
         <mark key="[" line="4" column="33" />
@@ -651,29 +665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="90" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="133" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="141" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="144" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="185" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="184" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="181" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="178" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="172" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="169" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="165" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="163" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="159" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="152" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="135" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="142" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="145" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="148" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="155" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="153" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
@@ -751,6 +742,29 @@
       <jump line="229" column="57" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="230" column="71" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="89" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" />
+      <jump line="18" column="31" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/provision_test_list.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="55" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="93" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="98" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="106" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="197" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="199" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="201" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="213" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="219" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="229" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="248" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="267" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="288" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="289" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="295" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="296" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="313" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="346" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="425" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="427" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="426" column="63" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -803,19 +817,16 @@ if { [catch {jtag frequency 125000} result] } {
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sys</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBKVEFHIHNwZWVkIHJlZHVjdGlvbgpwdXRzICJSZWR1Y2luZyBKVEFHIHNwZWVkIHRvIDEyNWtIeiIKaWYgeyBbY2F0Y2gge2p0YWcgdGFyZ2V0cyAxfSByZXN1bHRdIH0gewogICAgcHV0cyAiRVJST1IiCiAgICBwdXRzICIodW5hYmxlIHRvIHNlbGVjdCBEaWdpbGVudCBIUy0zIGRldmljZSkiCiAgICBwdXRzICRyZXN1bHQKICAgIGRpc2Nvbm5lY3QKICAgIGV4aXQKfQppZiB7IFtjYXRjaCB7anRhZyBmcmVxdWVuY3kgMTI1MDAwfSByZXN1bHRdIH0gewogICAgcHV0cyAiRVJST1IiCiAgICBwdXRzICIodW5hYmxlIHRvIHNldCBKVEFHIGNsb2NrIHRvIDEyNWtIeikiCiAgICBwdXRzICRyZXN1bHQKICAgIGRpc2Nvbm5lY3QKICAgIGV4aXQKfQo=</text>
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMudGVzdHMudGVzdF91c2IgaW1wb3J0IFVTQkJpbmFyeVVwZGF0ZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogVVNCQmluYXJ5VXBkYXRlcyBoZXJlIHRvIGVuc3VyZSBjb3JyZWN0IGZpcm13YXJlIGlzIHVzZWQ/Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text># JTAG speed reduction
-puts &quot;Reducing JTAG speed to 125kHz&quot;
-jtag targets 1
-jtag frequency 125000</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
         <text># JTAG speed reduction
@@ -829,32 +840,32 @@ puts &quot;Reducing JTAG speed to 125kHz&quot;
 jtag targets 1
 jtag frequency 125000</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHV0cyAiUmVkdWNpbmcgSlRBRyBzcGVlZCB0byAxMjVrSHoiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBKVEFHIHNwZWVkIHJlZHVjdGlvbgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">anRhZyBmcmVxdWVuY3kgMTI1MDAwCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">anRhZyB0YXJnZXRzIDEK</text>
-      </register>
-      <register name="9" type="4">
+      <register name="5" type="4">
         <text># JTAG speed reduction
 puts &quot;Reducing JTAG speed to 125kHz&quot;
 jtag targets 1
 jtag frequency 125000</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHV0cyAiUmVkdWNpbmcgSlRBRyBzcGVlZCB0byAxMjVrSHoiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBKVEFHIHNwZWVkIHJlZHVjdGlvbgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">anRhZyBmcmVxdWVuY3kgMTI1MDAwCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">anRhZyB0YXJnZXRzIDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sys</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>sys</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>sink</last-replace>
       <last-substitute>osmosdr_sink_0</last-substitute>
       <last-dir>1</last-dir>
@@ -862,7 +873,6 @@ jtag frequency 125000</text>
     </search>
     <history>
       <history-search>
-        <entry>pyvisa</entry>
         <entry>sbp</entry>
         <entry>piksi_provision_tools</entry>
         <entry>hw_rev</entry>
@@ -882,9 +892,9 @@ jtag frequency 125000</text>
         <entry>pmt</entry>
         <entry>osmosdr_sink_0</entry>
         <entry>sys</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
-        <entry>33,35s/&quot;/'/g</entry>
         <entry>52,56s/&quot;/'/g</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>70,72s/&quot;/'/g</entry>
@@ -903,6 +913,7 @@ jtag frequency 125000</text>
         <entry>26,34s/osmosdr_sink_0/sink/g</entry>
         <entry>30,46y</entry>
         <entry>30,45y</entry>
+        <entry>39,44y</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
