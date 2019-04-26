@@ -10,7 +10,7 @@
         <mark key="^" line="105" column="10" />
         <mark key="." line="105" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1555009552841">
+      <file name="/a.dummy" timestamp="1556320509274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/register_board.py" timestamp="1555116002562">
@@ -367,8 +367,12 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1556240621798">
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1556319919211">
         <mark key="'" line="306" column="45" />
+        <mark key="[" line="28" column="97" />
+        <mark key="]" line="28" column="122" />
+        <mark key="^" line="28" column="122" />
+        <mark key="." line="28" column="122" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" timestamp="1556049931654">
         <mark key="'" line="16" column="16" />
@@ -421,12 +425,6 @@
         <mark key="]" line="230" column="71" />
         <mark key="." line="230" column="71" />
         <mark key="^" line="230" column="71" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/file_to_ram.tcl" timestamp="1556143457538">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1556313918491">
         <mark key="[" line="42" column="38" />
@@ -538,10 +536,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/lab-mini-banzai/configuration.nix" timestamp="1556316425550">
-        <mark key="[" line="20" column="88" />
-        <mark key="]" line="20" column="99" />
-        <mark key="." line="20" column="88" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/lab-mini-banzai/configuration.nix" timestamp="1556319457049">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_sd.py" timestamp="1555376728967">
         <mark key="[" line="12" column="0" />
@@ -828,7 +827,7 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>/dev/ttyUSB1</text>
+        <text>piksi_com_port</text>
       </register>
       <register name="/" type="4">
         <text>test_controller</text>
@@ -837,40 +836,40 @@ if { [catch {jtag frequency 125000} result] } {
         <text>-if00-port0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogVVNCQmluYXJ5VXBkYXRlcyBoZXJlIHRvIGVuc3VyZSBjb3JyZWN0IGZpcm13YXJlIGlzIHVzZWQ/Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAxYzc3ZTkyLi4uIGZpeGluZyB1YXJ0MCBwb3J0IGluIGNvbmZpZyBmaWxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="3" type="4">
-        <text># JTAG speed reduction
-puts &quot;Reducing JTAG speed to 125kHz&quot;
-jtag targets 1
-jtag frequency 125000</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjdXN0b20ucHJvdmlzaW9uLnVhcnQwID0gIi9kZXYvdHR5VVNCMSI7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text># JTAG speed reduction
-puts &quot;Reducing JTAG speed to 125kHz&quot;
-jtag targets 1
-jtag frequency 125000</text>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="5" type="4">
-        <text># JTAG speed reduction
-puts &quot;Reducing JTAG speed to 125kHz&quot;
-jtag targets 1
-jtag frequency 125000</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogVVNCQmluYXJ5VXBkYXRlcyBoZXJlIHRvIGVuc3VyZSBjb3JyZWN0IGZpcm13YXJlIGlzIHVzZWQ/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHV0cyAiUmVkdWNpbmcgSlRBRyBzcGVlZCB0byAxMjVrSHoiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBKVEFHIHNwZWVkIHJlZHVjdGlvbgo=</text>
+      <register name="7" type="4">
+        <text># JTAG speed reduction
+puts &quot;Reducing JTAG speed to 125kHz&quot;
+jtag targets 1
+jtag frequency 125000</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">anRhZyBmcmVxdWVuY3kgMTI1MDAwCg==</text>
+      <register name="8" type="4">
+        <text># JTAG speed reduction
+puts &quot;Reducing JTAG speed to 125kHz&quot;
+jtag targets 1
+jtag frequency 125000</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">anRhZyB0YXJnZXRzIDEK</text>
+      <register name="9" type="4">
+        <text># JTAG speed reduction
+puts &quot;Reducing JTAG speed to 125kHz&quot;
+jtag targets 1
+jtag frequency 125000</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
