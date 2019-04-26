@@ -362,6 +362,9 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1556240621798">
+        <mark key="'" line="306" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" timestamp="1556049931654">
         <mark key="'" line="16" column="16" />
         <mark key="[" line="98" column="15" />
@@ -666,15 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="155" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="148" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="152" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="155" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/capture.py" />
-      <jump line="89" column="10" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="107" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
       <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/sbp/settings.py" />
@@ -766,6 +760,15 @@
       <jump line="425" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
       <jump line="427" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
       <jump line="426" column="63" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
+      <jump line="276" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
+      <jump line="279" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
+      <jump line="285" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
+      <jump line="288" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
+      <jump line="294" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
+      <jump line="297" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
+      <jump line="303" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
+      <jump line="306" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -818,7 +821,7 @@ if { [catch {jtag frequency 125000} result] } {
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>gnuradio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMudGVzdHMudGVzdF91c2IgaW1wb3J0IFVTQkJpbmFyeVVwZGF0ZXMK</text>
@@ -864,9 +867,9 @@ jtag frequency 125000</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>gnuradio</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>gnuradio</last-pattern>
       <last-replace>sink</last-replace>
       <last-substitute>osmosdr_sink_0</last-substitute>
       <last-dir>1</last-dir>
@@ -874,7 +877,6 @@ jtag frequency 125000</text>
     </search>
     <history>
       <history-search>
-        <entry>sbp</entry>
         <entry>piksi_provision_tools</entry>
         <entry>hw_rev</entry>
         <entry>event</entry>
@@ -894,6 +896,7 @@ jtag frequency 125000</text>
         <entry>osmosdr_sink_0</entry>
         <entry>sys</entry>
         <entry>update</entry>
+        <entry>gnuradio</entry>
       </history-search>
       <history-cmd>
         <entry>52,56s/&quot;/'/g</entry>
