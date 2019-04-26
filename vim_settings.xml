@@ -124,6 +124,12 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/pkgs/piksi-provision-artifacts/src2nix.sh" timestamp="1556314362036">
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="41" column="31" />
+        <mark key="." line="41" column="31" />
+        <mark key="^" line="41" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/__init__.py" timestamp="1547843404867">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -216,7 +222,6 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/firmwares/loopback_test/bist_test/src/main.c" timestamp="1556232568961" />
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/usage.rst" timestamp="1543370918608">
         <mark key="[" line="48" column="59" />
         <mark key="]" line="49" column="7" />
@@ -423,11 +428,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1555452535261">
-        <mark key="[" line="4" column="148" />
-        <mark key="]" line="4" column="155" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1556313918491">
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="42" column="39" />
         <mark key="^" line="4" column="155" />
-        <mark key="." line="4" column="155" />
+        <mark key="." line="42" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1553294988558">
         <mark key="'" line="70" column="36" />
@@ -818,13 +823,13 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>UNPROTECTED</text>
       </register>
       <register name="/" type="4">
         <text>gnuradio</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMudGVzdHMudGVzdF91c2IgaW1wb3J0IFVTQkJpbmFyeVVwZGF0ZXMK</text>
+      <register name="0" type="4">
+        <text>check_ln</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgVE9ETzogVVNCQmluYXJ5VXBkYXRlcyBoZXJlIHRvIGVuc3VyZSBjb3JyZWN0IGZpcm13YXJlIGlzIHVzZWQ/Cg==</text>
