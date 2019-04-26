@@ -201,8 +201,8 @@
         <mark key="^" line="4" column="58" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" timestamp="1556154478866">
-        <mark key="'" line="426" column="63" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" timestamp="1556315512968">
+        <mark key="'" line="425" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/piksi_serial.py" timestamp="1544844249222">
         <mark key="[" line="0" column="0" />
@@ -762,7 +762,6 @@
       <jump line="296" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
       <jump line="313" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
       <jump line="346" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
-      <jump line="425" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
       <jump line="427" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
       <jump line="426" column="63" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
@@ -774,6 +773,7 @@
       <jump line="297" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="303" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="306" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
+      <jump line="425" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -826,7 +826,7 @@ if { [catch {jtag frequency 125000} result] } {
         <text>UNPROTECTED</text>
       </register>
       <register name="/" type="4">
-        <text>gnuradio</text>
+        <text>test_controller</text>
       </register>
       <register name="0" type="4">
         <text>check_ln</text>
@@ -872,9 +872,9 @@ jtag frequency 125000</text>
       </register>
     </registers>
     <search>
-      <last-search>gnuradio</last-search>
+      <last-search>test_controller</last-search>
       <last-offset />
-      <last-pattern>gnuradio</last-pattern>
+      <last-pattern>test_controller</last-pattern>
       <last-replace>sink</last-replace>
       <last-substitute>osmosdr_sink_0</last-substitute>
       <last-dir>1</last-dir>
@@ -882,7 +882,6 @@ jtag frequency 125000</text>
     </search>
     <history>
       <history-search>
-        <entry>piksi_provision_tools</entry>
         <entry>hw_rev</entry>
         <entry>event</entry>
         <entry>login_cmd</entry>
@@ -902,6 +901,7 @@ jtag frequency 125000</text>
         <entry>sys</entry>
         <entry>update</entry>
         <entry>gnuradio</entry>
+        <entry>test_controller</entry>
       </history-search>
       <history-cmd>
         <entry>52,56s/&quot;/'/g</entry>
