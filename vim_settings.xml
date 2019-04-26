@@ -63,9 +63,9 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/lab-super-banzai/configuration.nix" timestamp="1549480867985">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/lab-super-banzai/configuration.nix" timestamp="1556316422041">
+        <mark key="[" line="20" column="88" />
+        <mark key="]" line="20" column="98" />
         <mark key="^" line="30" column="23" />
         <mark key="." line="31" column="0" />
       </file>
@@ -538,6 +538,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/lab-mini-banzai/configuration.nix" timestamp="1556316425550">
+        <mark key="[" line="20" column="88" />
+        <mark key="]" line="20" column="99" />
+        <mark key="." line="20" column="88" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_sd.py" timestamp="1555376728967">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="1" />
@@ -589,7 +594,7 @@
         <mark key="]" line="45" column="35" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554505466672">
+      <file name="/Dummy.txt" timestamp="1556316500677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/_build/rst/imu_cal_pid.crl_emulation.rst" timestamp="1543372501027">
@@ -823,13 +828,13 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>UNPROTECTED</text>
+        <text>/dev/ttyUSB1</text>
       </register>
       <register name="/" type="4">
         <text>test_controller</text>
       </register>
       <register name="0" type="4">
-        <text>check_ln</text>
+        <text>-if00-port0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgVE9ETzogVVNCQmluYXJ5VXBkYXRlcyBoZXJlIHRvIGVuc3VyZSBjb3JyZWN0IGZpcm13YXJlIGlzIHVzZWQ/Cg==</text>
