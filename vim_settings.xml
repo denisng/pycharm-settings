@@ -75,12 +75,12 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/data/__init__.py" timestamp="1556322826906">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/data/__init__.py" timestamp="1556323428609">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="4" column="57" />
+        <mark key="^" line="4" column="57" />
+        <mark key="." line="4" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/dna.py" timestamp="1551311795624">
         <mark key="[" line="18" column="79" />
@@ -870,29 +870,29 @@ if { [catch {jtag frequency 125000} result] } {
         <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5oYWNrcmYuY29uc3QgaW1wb3J0IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKGVudHJ5LmZvcm1hdCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKGVudHJ5LmZvcm1hdCgpKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZW50cnkgPSAnc2V0dGluZyBvdXRwdXQgZnJlcXVlbmN5IHt9IEh6Jwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>preparing to play back file {path} at {fs} ' \
                     'samples-per-second</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">TElNX0ZSRVFfTE9XRVIgPSAxZTYK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">TElNX0ZSRVFfVVBQRVIgPSA2ZTkK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwbXQK</text>
+        <text encoding="base64">TElNX0ZSRVFfVVBQRVIgPSA2ZTkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBwbXQK</text>
