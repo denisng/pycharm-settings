@@ -388,12 +388,12 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1556577205992">
-        <mark key="'" line="306" column="45" />
-        <mark key="[" line="28" column="134" />
-        <mark key="]" line="28" column="119" />
-        <mark key="^" line="28" column="119" />
-        <mark key="." line="28" column="150" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1556578293300">
+        <mark key="'" line="308" column="45" />
+        <mark key="[" line="152" column="18" />
+        <mark key="]" line="152" column="18" />
+        <mark key="^" line="152" column="18" />
+        <mark key="." line="152" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" timestamp="1556049931654">
         <mark key="'" line="16" column="16" />
@@ -876,7 +876,7 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>CheckHackRF</text>
+        <text encoding="base64">cGtncy5weXRob24yN1BhY2thZ2VzLmdudXJhZGlvIHBrZ3MucHl0aG9uMjdQYWNrYWdlcy5nbnVyYWRpby1vc21vc2RyIA==</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
