@@ -181,11 +181,12 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" timestamp="1556332249702">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="43" column="8" />
-        <mark key="^" line="43" column="8" />
-        <mark key="." line="43" column="8" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" timestamp="1556576607804">
+        <mark key="'" line="40" column="3" />
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="42" column="8" />
+        <mark key="^" line="42" column="8" />
+        <mark key="." line="42" column="8" />
       </file>
       <file name="/Python Console" timestamp="1556048152703">
         <mark key="[" line="0" column="0" />
@@ -202,10 +203,6 @@
         <mark key="]" line="30" column="15" />
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/initial_test_lists.py" timestamp="1556154370316">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" timestamp="1553028080687">
         <mark key="'" line="30" column="12" />
@@ -354,11 +351,11 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" timestamp="1556574809337">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" timestamp="1556576799825">
         <mark key="'" line="54" column="33" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
         <mark key="^" line="51" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
@@ -391,12 +388,12 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1556319919211">
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1556577205992">
         <mark key="'" line="306" column="45" />
-        <mark key="[" line="28" column="97" />
-        <mark key="]" line="28" column="122" />
-        <mark key="^" line="28" column="122" />
-        <mark key="." line="28" column="122" />
+        <mark key="[" line="28" column="134" />
+        <mark key="]" line="28" column="119" />
+        <mark key="^" line="28" column="119" />
+        <mark key="." line="28" column="150" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" timestamp="1556049931654">
         <mark key="'" line="16" column="16" />
@@ -672,11 +669,12 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1556145244619">
-        <mark key="[" line="87" column="41" />
-        <mark key="]" line="88" column="37" />
-        <mark key="." line="88" column="37" />
-        <mark key="^" line="88" column="37" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1556576833073">
+        <mark key="'" line="337" column="4" />
+        <mark key="[" line="217" column="8" />
+        <mark key="]" line="217" column="28" />
+        <mark key="." line="217" column="28" />
+        <mark key="^" line="217" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1554336898426">
         <mark key="'" line="308" column="37" />
@@ -729,9 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="53" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
@@ -829,6 +824,9 @@
       <jump line="45" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="46" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="54" column="33" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
+      <jump line="40" column="3" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
+      <jump line="31" column="61" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
+      <jump line="336" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -878,7 +876,7 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>1575.443115e6</text>
+        <text>CheckHackRF</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
