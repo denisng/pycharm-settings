@@ -351,12 +351,12 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" timestamp="1556576799825">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" timestamp="1556584552733">
         <mark key="'" line="54" column="33" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="51" column="36" />
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="49" />
+        <mark key="." line="10" column="49" />
+        <mark key="^" line="10" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
@@ -388,11 +388,12 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1556581657908">
-        <mark key="'" line="151" column="0" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1556585269761">
+        <mark key="'" line="152" column="0" />
+        <mark key="[" line="150" column="38" />
+        <mark key="]" line="151" column="13" />
+        <mark key="." line="151" column="13" />
+        <mark key="^" line="151" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" timestamp="1556049931654">
         <mark key="'" line="16" column="16" />
@@ -401,11 +402,11 @@
         <mark key="^" line="99" column="11" />
         <mark key="." line="99" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" timestamp="1556322335118">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" timestamp="1556584975613">
         <mark key="'" line="104" column="0" />
-        <mark key="[" line="95" column="28" />
-        <mark key="]" line="96" column="56" />
-        <mark key="." line="96" column="56" />
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
         <mark key="^" line="96" column="56" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/requirements.txt" timestamp="1502440811501">
@@ -453,11 +454,11 @@
         <mark key="." line="230" column="71" />
         <mark key="^" line="230" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/__init__.py" timestamp="1556320975382">
-        <mark key="[" line="1" column="72" />
-        <mark key="]" line="2" column="80" />
-        <mark key="^" line="2" column="80" />
-        <mark key="." line="2" column="80" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/__init__.py" timestamp="1556584514655">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="80" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1556313918491">
         <mark key="[" line="42" column="38" />
@@ -472,12 +473,11 @@
         <mark key="^" line="159" column="32" />
         <mark key="." line="159" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1555114840632">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1556584493421">
         <mark key="'" line="5" column="53" />
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1543351254104">
         <mark key="[" line="19" column="70" />
@@ -629,12 +629,12 @@
       <file name="/Dummy.txt" timestamp="1556316500677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1556322643601">
-        <mark key="'" line="44" column="38" />
-        <mark key="[" line="107" column="29" />
-        <mark key="]" line="108" column="58" />
-        <mark key="." line="108" column="58" />
-        <mark key="^" line="108" column="58" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1556585106454">
+        <mark key="'" line="45" column="38" />
+        <mark key="[" line="2" column="70" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/_build/rst/imu_cal_pid.crl_emulation.rst" timestamp="1543372501027">
         <mark key="[" line="10" column="74" />
@@ -875,7 +875,7 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGtncy5weXRob24yN1BhY2thZ2VzLmdudXJhZGlvIHBrZ3MucHl0aG9uMjdQYWNrYWdlcy5nbnVyYWRpby1vc21vc2RyIA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -884,31 +884,31 @@ if { [catch {jtag frequency 125000} result] } {
         <text>1245.966187e6</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZ251cmFkaW8KICAgICAgZ251cmFkaW8tb3Ntb3Nkcgo=</text>
+        <text encoding="base64">IyBwdWxsaW5nIGludG8gbmFtZXNwYWNlCmZyb20gcGlrc2lfcHJvdmlzaW9uX3Rvb2xzLmRyaXZlcnMuaGFja3JmLnBsYXliYWNrIGltcG9ydCBIYWNrUkZQbGF5YmFjawpmcm9tIHBpa3NpX3Byb3Zpc2lvbl90b29scy5kcml2ZXJzLmhhY2tyZi5jb25zdGFudF93YXZlIGltcG9ydCBIYWNrUkZDb25zdGFudFdhdmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5oYWNrcmYnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgY3dfZ2VuZXJhdG9yLmZyZXF1ZW5jeSA9IDEyMjcuNjI0NTEyZTYKICAgICAgICBzZWxmLmN0cmxfbG9nZ2VyLmluZm8oJ0tleWluZyB7Oi4zZX0gSHogZm9yIDMwcycuZm9ybWF0KGN3X2dlbmVyYXRvci5mcmVxdWVuY3kpKQogICAgICAgIGN3X2dlbmVyYXRvci5lbmFibGUoKQogICAgICAgIHRpbWUuc2xlZXAoMzApCiAgICAgICAgY3dfZ2VuZXJhdG9yLmRpc2FibGUoKQoKICAgICAgICBjd19nZW5lcmF0b3IuZnJlcXVlbmN5ID0gMTYwMi4wMzM2OTFlNgogICAgICAgIHNlbGYuY3RybF9sb2dnZXIuaW5mbygnS2V5aW5nIHs6LjNlfSBIeiBmb3IgMzBzJy5mb3JtYXQoY3dfZ2VuZXJhdG9yLmZyZXF1ZW5jeSkpCiAgICAgICAgY3dfZ2VuZXJhdG9yLmVuYWJsZSgpCiAgICAgICAgdGltZS5zbGVlcCgzMCkKICAgICAgICBjd19nZW5lcmF0b3IuZGlzYWJsZSgpCgogICAgICAgIGN3X2dlbmVyYXRvci5mcmVxdWVuY3kgPSAxMjQ1Ljk2NjE4N2U2CiAgICAgICAgc2VsZi5jdHJsX2xvZ2dlci5pbmZvKCdLZXlpbmcgezouM2V9IEh6IGZvciAzMHMnLmZvcm1hdChjd19nZW5lcmF0b3IuZnJlcXVlbmN5KSkKICAgICAgICBjd19nZW5lcmF0b3IuZW5hYmxlKCkKICAgICAgICB0aW1lLnNsZWVwKDMwKQogICAgICAgIGN3X2dlbmVyYXRvci5kaXNhYmxlKCkK</text>
+        <text encoding="base64">ICAgICAgZ251cmFkaW8KICAgICAgZ251cmFkaW8tb3Ntb3Nkcgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgY3dfZ2VuZXJhdG9yLmZyZXF1ZW5jeSA9IDEyMjcuNjI0NTEyZTYKICAgICAgICBzZWxmLmN0cmxfbG9nZ2VyLmluZm8oJ0tleWluZyB7Oi4zZX0gSHogZm9yIDMwcycuZm9ybWF0KGN3X2dlbmVyYXRvci5mcmVxdWVuY3kpKQogICAgICAgIGN3X2dlbmVyYXRvci5lbmFibGUoKQogICAgICAgIHRpbWUuc2xlZXAoMzApCiAgICAgICAgY3dfZ2VuZXJhdG9yLmRpc2FibGUoKQoKICAgICAgICBjd19nZW5lcmF0b3IuZnJlcXVlbmN5ID0gMTYwMi4wMzM2OTFlNgogICAgICAgIHNlbGYuY3RybF9sb2dnZXIuaW5mbygnS2V5aW5nIHs6LjNlfSBIeiBmb3IgMzBzJy5mb3JtYXQoY3dfZ2VuZXJhdG9yLmZyZXF1ZW5jeSkpCiAgICAgICAgY3dfZ2VuZXJhdG9yLmVuYWJsZSgpCiAgICAgICAgdGltZS5zbGVlcCgzMCkKICAgICAgICBjd19nZW5lcmF0b3IuZGlzYWJsZSgpCgogICAgICAgIGN3X2dlbmVyYXRvci5mcmVxdWVuY3kgPSAxMjQ1Ljk2NjE4N2U2CiAgICAgICAgc2VsZi5jdHJsX2xvZ2dlci5pbmZvKCdLZXlpbmcgezouM2V9IEh6IGZvciAzMHMnLmZvcm1hdChjd19nZW5lcmF0b3IuZnJlcXVlbmN5KSkKICAgICAgICBjd19nZW5lcmF0b3IuZW5hYmxlKCkKICAgICAgICB0aW1lLnNsZWVwKDMwKQogICAgICAgIGN3X2dlbmVyYXRvci5kaXNhYmxlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN0cmxfbG9nZ2VyLmluZm8oJ0tleWluZyB7Oi4zZX0gSHogZm9yIDMwcycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRlYnVnX2xvZ2dlci5kZWJ1Zygnc2FtcGxpbmcgZnJlcXVlbmN5IHt9IHNhbXBsZXMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmN0cmxfbG9nZ2VyLmluZm8oJ0tleWluZyB7Oi4zZX0gSHogZm9yIDMwcycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
