@@ -388,12 +388,12 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1556585269761">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="150" column="38" />
-        <mark key="]" line="151" column="13" />
-        <mark key="." line="151" column="13" />
-        <mark key="^" line="151" column="13" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1556586002554">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="151" column="14" />
+        <mark key="]" line="152" column="21" />
+        <mark key="." line="152" column="21" />
+        <mark key="^" line="152" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" timestamp="1556049931654">
         <mark key="'" line="16" column="16" />
