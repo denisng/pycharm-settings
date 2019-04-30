@@ -346,12 +346,12 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" timestamp="1556584552733">
-        <mark key="'" line="54" column="33" />
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="49" />
-        <mark key="." line="10" column="49" />
-        <mark key="^" line="10" column="49" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" timestamp="1556657985539">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="59" column="25" />
+        <mark key="^" line="59" column="25" />
+        <mark key="." line="59" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
@@ -798,7 +798,6 @@
       <jump line="42" column="7" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="44" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="45" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="46" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
@@ -807,6 +806,7 @@
       <jump line="31" column="61" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="336" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="151" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -865,31 +865,31 @@ if { [catch {jtag frequency 125000} result] } {
         <text>1245.966187e6</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjISBuaXgtc2hlbGwgLWkgYmFzaCAtcCBnbnVyYWRpbwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjISAvdXNyL2Jpbi9lbnYgbml4LXNoZWxsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBwdWxsaW5nIGludG8gbmFtZXNwYWNlCmZyb20gcGlrc2lfcHJvdmlzaW9uX3Rvb2xzLmRyaXZlcnMuaGFja3JmLnBsYXliYWNrIGltcG9ydCBIYWNrUkZQbGF5YmFjawpmcm9tIHBpa3NpX3Byb3Zpc2lvbl90b29scy5kcml2ZXJzLmhhY2tyZi5jb25zdGFudF93YXZlIGltcG9ydCBIYWNrUkZDb25zdGFudFdhdmUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5oYWNrcmYnLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZ251cmFkaW8KICAgICAgZ251cmFkaW8tb3Ntb3Nkcgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHRfY29udGFpbmVyID0gc2VsZi5maXh0dXJlLmxvZ2dlcgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjISBuaXgtc2hlbGwgLWkgYmFzaCAtcCBnbnVyYWRpbwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjISAvdXNyL2Jpbi9lbnYgbml4LXNoZWxsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBwdWxsaW5nIGludG8gbmFtZXNwYWNlCmZyb20gcGlrc2lfcHJvdmlzaW9uX3Rvb2xzLmRyaXZlcnMuaGFja3JmLnBsYXliYWNrIGltcG9ydCBIYWNrUkZQbGF5YmFjawpmcm9tIHBpa3NpX3Byb3Zpc2lvbl90b29scy5kcml2ZXJzLmhhY2tyZi5jb25zdGFudF93YXZlIGltcG9ydCBIYWNrUkZDb25zdGFudFdhdmUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5oYWNrcmYnLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgY3dfZ2VuZXJhdG9yLmZyZXF1ZW5jeSA9IDEyMjcuNjI0NTEyZTYKICAgICAgICBzZWxmLmN0cmxfbG9nZ2VyLmluZm8oJ0tleWluZyB7Oi4zZX0gSHogZm9yIDMwcycuZm9ybWF0KGN3X2dlbmVyYXRvci5mcmVxdWVuY3kpKQogICAgICAgIGN3X2dlbmVyYXRvci5lbmFibGUoKQogICAgICAgIHRpbWUuc2xlZXAoMzApCiAgICAgICAgY3dfZ2VuZXJhdG9yLmRpc2FibGUoKQoKICAgICAgICBjd19nZW5lcmF0b3IuZnJlcXVlbmN5ID0gMTYwMi4wMzM2OTFlNgogICAgICAgIHNlbGYuY3RybF9sb2dnZXIuaW5mbygnS2V5aW5nIHs6LjNlfSBIeiBmb3IgMzBzJy5mb3JtYXQoY3dfZ2VuZXJhdG9yLmZyZXF1ZW5jeSkpCiAgICAgICAgY3dfZ2VuZXJhdG9yLmVuYWJsZSgpCiAgICAgICAgdGltZS5zbGVlcCgzMCkKICAgICAgICBjd19nZW5lcmF0b3IuZGlzYWJsZSgpCgogICAgICAgIGN3X2dlbmVyYXRvci5mcmVxdWVuY3kgPSAxMjQ1Ljk2NjE4N2U2CiAgICAgICAgc2VsZi5jdHJsX2xvZ2dlci5pbmZvKCdLZXlpbmcgezouM2V9IEh6IGZvciAzMHMnLmZvcm1hdChjd19nZW5lcmF0b3IuZnJlcXVlbmN5KSkKICAgICAgICBjd19nZW5lcmF0b3IuZW5hYmxlKCkKICAgICAgICB0aW1lLnNsZWVwKDMwKQogICAgICAgIGN3X2dlbmVyYXRvci5kaXNhYmxlKCkK</text>
+        <text encoding="base64">ICAgICAgZ251cmFkaW8KICAgICAgZ251cmFkaW8tb3Ntb3Nkcgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgY3dfZ2VuZXJhdG9yLmZyZXF1ZW5jeSA9IDEyMjcuNjI0NTEyZTYKICAgICAgICBzZWxmLmN0cmxfbG9nZ2VyLmluZm8oJ0tleWluZyB7Oi4zZX0gSHogZm9yIDMwcycuZm9ybWF0KGN3X2dlbmVyYXRvci5mcmVxdWVuY3kpKQogICAgICAgIGN3X2dlbmVyYXRvci5lbmFibGUoKQogICAgICAgIHRpbWUuc2xlZXAoMzApCiAgICAgICAgY3dfZ2VuZXJhdG9yLmRpc2FibGUoKQoKICAgICAgICBjd19nZW5lcmF0b3IuZnJlcXVlbmN5ID0gMTYwMi4wMzM2OTFlNgogICAgICAgIHNlbGYuY3RybF9sb2dnZXIuaW5mbygnS2V5aW5nIHs6LjNlfSBIeiBmb3IgMzBzJy5mb3JtYXQoY3dfZ2VuZXJhdG9yLmZyZXF1ZW5jeSkpCiAgICAgICAgY3dfZ2VuZXJhdG9yLmVuYWJsZSgpCiAgICAgICAgdGltZS5zbGVlcCgzMCkKICAgICAgICBjd19nZW5lcmF0b3IuZGlzYWJsZSgpCgogICAgICAgIGN3X2dlbmVyYXRvci5mcmVxdWVuY3kgPSAxMjQ1Ljk2NjE4N2U2CiAgICAgICAgc2VsZi5jdHJsX2xvZ2dlci5pbmZvKCdLZXlpbmcgezouM2V9IEh6IGZvciAzMHMnLmZvcm1hdChjd19nZW5lcmF0b3IuZnJlcXVlbmN5KSkKICAgICAgICBjd19nZW5lcmF0b3IuZW5hYmxlKCkKICAgICAgICB0aW1lLnNsZWVwKDMwKQogICAgICAgIGN3X2dlbmVyYXRvci5kaXNhYmxlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
