@@ -198,7 +198,8 @@
         <mark key="." line="29" column="58" />
         <mark key="^" line="29" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" timestamp="1554249848807">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" timestamp="1556660350503">
+        <mark key="'" line="156" column="17" />
         <mark key="[" line="30" column="10" />
         <mark key="]" line="30" column="15" />
         <mark key="." line="30" column="15" />
@@ -346,12 +347,12 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" timestamp="1556657985539">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="58" column="22" />
-        <mark key="]" line="59" column="25" />
-        <mark key="^" line="59" column="25" />
-        <mark key="." line="59" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" timestamp="1556661321148">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
@@ -387,12 +388,12 @@
         <mark key="^" line="99" column="11" />
         <mark key="." line="99" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" timestamp="1556659460711">
-        <mark key="'" line="65" column="73" />
-        <mark key="[" line="42" column="42" />
-        <mark key="]" line="43" column="11" />
-        <mark key="." line="43" column="11" />
-        <mark key="^" line="43" column="11" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" timestamp="1556662250859">
+        <mark key="'" line="3" column="21" />
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="68" column="37" />
+        <mark key="." line="68" column="37" />
+        <mark key="^" line="68" column="37" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/requirements.txt" timestamp="1502440811501">
         <mark key="[" line="0" column="0" />
@@ -476,8 +477,8 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="18" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/top_block.py" timestamp="1555975724404">
-        <mark key="'" line="29" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/top_block.py" timestamp="1556661869779">
+        <mark key="'" line="22" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/data_scrub.py" timestamp="1546470839158">
         <mark key="[" line="2" column="9" />
@@ -656,8 +657,8 @@
         <mark key="." line="26" column="41" />
         <mark key="^" line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1554336898426">
-        <mark key="'" line="308" column="37" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" timestamp="1556660523785">
+        <mark key="'" line="79" column="12" />
         <mark key="[" line="204" column="55" />
         <mark key="]" line="204" column="65" />
         <mark key="." line="204" column="65" />
@@ -707,20 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="59" column="1" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="22" column="32" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="16" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/file_to_ram.tcl" />
-      <jump line="229" column="57" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
-      <jump line="230" column="71" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" />
       <jump line="89" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_usb.py" />
       <jump line="18" column="31" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/provision_test_list.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
@@ -774,8 +761,6 @@
       <jump line="40" column="33" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
       <jump line="101" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
@@ -800,13 +785,29 @@
       <jump line="44" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="45" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="46" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
-      <jump line="54" column="33" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="40" column="3" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
       <jump line="31" column="61" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="336" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="151" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="65" column="73" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
+      <jump line="102" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
+      <jump line="3" column="21" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
+      <jump line="160" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" />
+      <jump line="156" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" />
+      <jump line="19" column="21" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="64" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="70" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="74" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="79" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/digilent.py" />
+      <jump line="56" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
+      <jump line="33" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
+      <jump line="29" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/top_block.py" />
+      <jump line="22" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/top_block.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -856,49 +857,49 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>A600MIER</text>
+        <text>only exists</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>eng_notation</text>
       </register>
       <register name="0" type="4">
         <text>1245.966187e6</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRlYnVnX2xvZ2dlci5kZWJ1Zyh0eXBlKHBiX2lxKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRlYnVnX2xvZ2dlci5kZWJ1ZyhwYl9mYykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfY29udGFpbmVyID0gc2VsZi5maXh0dXJlLmxvZ2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRlYnVnX2xvZ2dlci5kZWJ1ZyhwYl9mcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjISBuaXgtc2hlbGwgLWkgYmFzaCAtcCBnbnVyYWRpbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjISAvdXNyL2Jpbi9lbnYgbml4LXNoZWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoY2VudGVyX2ZyZXF1ZW5jeSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBwdWxsaW5nIGludG8gbmFtZXNwYWNlCmZyb20gcGlrc2lfcHJvdmlzaW9uX3Rvb2xzLmRyaXZlcnMuaGFja3JmLnBsYXliYWNrIGltcG9ydCBIYWNrUkZQbGF5YmFjawpmcm9tIHBpa3NpX3Byb3Zpc2lvbl90b29scy5kcml2ZXJzLmhhY2tyZi5jb25zdGFudF93YXZlIGltcG9ydCBIYWNrUkZDb25zdGFudFdhdmUK</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoc2FtcGxpbmdfcmF0ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5oYWNrcmYnLAo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoaXFfcGF0aCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZ251cmFkaW8KICAgICAgZ251cmFkaW8tb3Ntb3Nkcgo=</text>
+        <text encoding="base64">ZnJvbSBnbnVyYWRpbyBpbXBvcnQgYW5hbG9nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBtb2R1bGUgYGBwbXRgYCBjb21lcyBmcm9tIHBhY2thZ2UgZ251cmFkaW8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>eng_notation</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>eng_notation</last-pattern>
       <last-replace>e6,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -906,10 +907,6 @@ if { [catch {jtag frequency 125000} result] } {
     </search>
     <history>
       <history-search>
-        <entry>event</entry>
-        <entry>login_cmd</entry>
-        <entry>scan a valid id</entry>
-        <entry>name</entry>
         <entry>\.</entry>
         <entry>location</entry>
         <entry>playback_gain</entry>
@@ -926,6 +923,10 @@ if { [catch {jtag frequency 125000} result] } {
         <entry>test_controller</entry>
         <entry>pmt</entry>
         <entry>,</entry>
+        <entry>analog</entry>
+        <entry>logging.getLogger</entry>
+        <entry>LOGGER</entry>
+        <entry>eng_notation</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
