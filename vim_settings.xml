@@ -606,12 +606,12 @@
       <file name="/Dummy.txt" timestamp="1556316500677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1556677814258">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="89" column="25" />
-        <mark key="]" line="89" column="28" />
-        <mark key="." line="89" column="28" />
-        <mark key="^" line="89" column="28" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1556679187727">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="124" column="37" />
+        <mark key="]" line="125" column="29" />
+        <mark key="." line="125" column="29" />
+        <mark key="^" line="125" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/_build/rst/imu_cal_pid.crl_emulation.rst" timestamp="1543372501027">
         <mark key="[" line="10" column="74" />
@@ -858,7 +858,7 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>eng_notation</text>
@@ -867,31 +867,31 @@ if { [catch {jtag frequency 125000} result] } {
         <text encoding="base64">TE9HR0VSLmRlYnVnKCd0aGlzIGlzIGEgdGVzdCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICBkZWYgc2V0X2dhaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50cnkgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICBkZWYgc2V0X2dhaW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBnbnVyYWRpbyBpbXBvcnQgYmxvY2tzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBnbnVyYWRpbyBpbXBvcnQgYmxvY2tzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgogICAgTE9HR0VSLmVycm9yKCdnbnVyYWRpbyBub3QgYXZhaWxhYmxlIG9uIHRoaXMgc3lzdGVtJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgogICAgTE9HR0VSLmVycm9yKCdnbnVyYWRpbyBub3QgYXZhaWxhYmxlIG9uIHRoaXMgc3lzdGVtJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoJ3RoaXMgaXMgYSB0ZXN0JykK</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIud2FybmluZygndGhpcyBpcyBhIHRlc3QnKQo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoJ3RoaXMgaXMgYSB0ZXN0JykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
