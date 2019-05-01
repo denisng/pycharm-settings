@@ -388,11 +388,11 @@
         <mark key="^" line="99" column="11" />
         <mark key="." line="99" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" timestamp="1556662250859">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" timestamp="1556669359207">
         <mark key="'" line="3" column="21" />
-        <mark key="[" line="68" column="29" />
-        <mark key="]" line="68" column="37" />
-        <mark key="." line="68" column="37" />
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
         <mark key="^" line="68" column="37" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/requirements.txt" timestamp="1502440811501">
@@ -605,11 +605,11 @@
       <file name="/Dummy.txt" timestamp="1556316500677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1556585106454">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1556669351088">
         <mark key="'" line="45" column="38" />
-        <mark key="[" line="2" column="70" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
         <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/_build/rst/imu_cal_pid.crl_emulation.rst" timestamp="1543372501027">
@@ -857,7 +857,7 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>only exists</text>
+        <text>.playback</text>
       </register>
       <register name="/" type="4">
         <text>eng_notation</text>
