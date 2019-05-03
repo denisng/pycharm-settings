@@ -245,9 +245,11 @@
         <mark key="^" line="97" column="41" />
         <mark key="." line="97" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1556574102348">
-        <mark key="[" line="82" column="27" />
-        <mark key="]" line="82" column="39" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1556845063914">
+        <mark key="[" line="230" column="55" />
+        <mark key="]" line="230" column="59" />
+        <mark key="." line="230" column="59" />
+        <mark key="^" line="230" column="59" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
@@ -327,7 +329,6 @@
         <mark key="^" line="210" column="60" />
         <mark key="." line="210" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/utils.py" timestamp="1556673809991" />
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_resets.py" timestamp="1554336994831">
         <mark key="'" line="94" column="79" />
         <mark key="[" line="31" column="0" />
@@ -867,31 +868,31 @@ if { [catch {jtag frequency 125000} result] } {
         <text encoding="base64">TE9HR0VSLmRlYnVnKCd0aGlzIGlzIGEgdGVzdCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50cnkgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZG9lcyB0aGlzIGV2ZW4gd29yayBjb3JyZWN0bHk/Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICBkZWYgc2V0X2dhaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50cnkgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICBkZWYgc2V0X2dhaW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBnbnVyYWRpbyBpbXBvcnQgYmxvY2tzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBnbnVyYWRpbyBpbXBvcnQgYmxvY2tzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgogICAgTE9HR0VSLmVycm9yKCdnbnVyYWRpbyBub3QgYXZhaWxhYmxlIG9uIHRoaXMgc3lzdGVtJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgogICAgTE9HR0VSLmVycm9yKCdnbnVyYWRpbyBub3QgYXZhaWxhYmxlIG9uIHRoaXMgc3lzdGVtJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoJ3RoaXMgaXMgYSB0ZXN0JykK</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
