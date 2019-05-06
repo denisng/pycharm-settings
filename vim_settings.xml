@@ -125,6 +125,12 @@
         <mark key="." line="20" column="71" />
         <mark key="^" line="24" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" timestamp="1557177284582">
+        <mark key="'" line="101" column="12" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/settings.py" timestamp="1512538038097">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="21" column="39" />
@@ -607,12 +613,11 @@
       <file name="/Dummy.txt" timestamp="1556316500677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1556679187727">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1557176580029">
         <mark key="'" line="102" column="0" />
-        <mark key="[" line="124" column="37" />
-        <mark key="]" line="125" column="29" />
-        <mark key="." line="125" column="29" />
-        <mark key="^" line="125" column="29" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/_build/rst/imu_cal_pid.crl_emulation.rst" timestamp="1543372501027">
         <mark key="[" line="10" column="74" />
@@ -710,9 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
-      <jump line="288" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
-      <jump line="289" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
       <jump line="295" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
       <jump line="296" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
       <jump line="313" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
@@ -810,6 +812,9 @@
       <jump line="100" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="93" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
+      <jump line="101" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -868,31 +873,31 @@ if { [catch {jtag frequency 125000} result] } {
         <text encoding="base64">TE9HR0VSLmRlYnVnKCd0aGlzIGlzIGEgdGVzdCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZG9lcyB0aGlzIGV2ZW4gd29yayBjb3JyZWN0bHk/Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50cnkgPSAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICBkZWYgc2V0X2dhaW4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBnbnVyYWRpbyBpbXBvcnQgYmxvY2tzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnQgJ2dudSByYWRpbyBtb2R1bGVzIG5vdCBmb3VuZCcK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dHJ5Ogo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBkZWYgc2V0X2NlbnRlcl9mcmVxKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmZyZXF1ZW5jeSA9IHZhbHVlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZG9lcyB0aGlzIGV2ZW4gd29yayBjb3JyZWN0bHk/Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgogICAgTE9HR0VSLmVycm9yKCdnbnVyYWRpbyBub3QgYXZhaWxhYmxlIG9uIHRoaXMgc3lzdGVtJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50cnkgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICBkZWYgc2V0X2dhaW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
