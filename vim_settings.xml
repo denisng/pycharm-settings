@@ -125,11 +125,12 @@
         <mark key="." line="20" column="71" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" timestamp="1557177284582">
-        <mark key="'" line="101" column="12" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" timestamp="1557177763090">
+        <mark key="'" line="44" column="38" />
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="44" column="38" />
+        <mark key="." line="44" column="38" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/settings.py" timestamp="1512538038097">
         <mark key="[" line="20" column="59" />
@@ -251,11 +252,12 @@
         <mark key="^" line="97" column="41" />
         <mark key="." line="97" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1556845063914">
-        <mark key="[" line="230" column="55" />
-        <mark key="]" line="230" column="59" />
-        <mark key="." line="230" column="59" />
-        <mark key="^" line="230" column="59" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557178679230">
+        <mark key="'" line="259" column="30" />
+        <mark key="[" line="259" column="39" />
+        <mark key="]" line="259" column="52" />
+        <mark key="." line="259" column="52" />
+        <mark key="^" line="259" column="52" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
@@ -613,7 +615,7 @@
       <file name="/Dummy.txt" timestamp="1556316500677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1557176580029">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1557177827206">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
@@ -715,11 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
-      <jump line="296" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
-      <jump line="313" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
-      <jump line="346" column="13" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
-      <jump line="427" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
       <jump line="426" column="63" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="276" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
@@ -815,6 +812,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
       <jump line="101" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
+      <jump line="44" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
+      <jump line="45" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
+      <jump line="261" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="263" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="259" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -864,49 +866,49 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>self.</text>
       </register>
       <register name="/" type="4">
-        <text>eng_notation</text>
+        <text>set_center</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TE9HR0VSLmRlYnVnKCd0aGlzIGlzIGEgdGVzdCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXR0dXMuc2V0X2NlbnRlcl9mcmVxKGZyZXFfY2VudGVyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgJ2dudSByYWRpbyBtb2R1bGVzIG5vdCBmb3VuZCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
+        <text encoding="base64">CiAgICBkZWYgc2V0X2NlbnRlcl9mcmVxKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmZyZXF1ZW5jeSA9IHZhbHVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhaW4gPSBnYWluCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZWYgc2V0X2NlbnRlcl9mcmVxKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmZyZXF1ZW5jeSA9IHZhbHVlCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRfY2VudGVyX2ZyZXEoc2VsZiwgY2VudGVyX2ZyZXEpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZG9lcyB0aGlzIGV2ZW4gd29yayBjb3JyZWN0bHk/Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNlbnRlcl9mcmVxID0gY2VudGVyX2ZyZXEKICAgICAgICBzZWxmLnVoZF91c3JwX3NpbmtfMC5zZXRfY2VudGVyX2ZyZXEoY2VudGVyX2ZyZXEsIDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50cnkgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICBkZWYgc2V0X2dhaW4K</text>
+        <text encoding="base64">cHJpbnQgJ2dudSByYWRpbyBtb2R1bGVzIG5vdCBmb3VuZCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>eng_notation</last-search>
+      <last-search>set_center</last-search>
       <last-offset />
-      <last-pattern>eng_notation</last-pattern>
+      <last-pattern>set_center</last-pattern>
       <last-replace>e6,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -914,10 +916,6 @@ if { [catch {jtag frequency 125000} result] } {
     </search>
     <history>
       <history-search>
-        <entry>\.</entry>
-        <entry>location</entry>
-        <entry>playback_gain</entry>
-        <entry>duration</entry>
         <entry encoding="base64">XDxyZXByZXNlbnRpbmdcPg==</entry>
         <entry>_get_imu_msg_string</entry>
         <entry>return</entry>
@@ -934,6 +932,10 @@ if { [catch {jtag frequency 125000} result] } {
         <entry>logging.getLogger</entry>
         <entry>LOGGER</entry>
         <entry>eng_notation</entry>
+        <entry>self.gain</entry>
+        <entry>ettus.set_freq</entry>
+        <entry>set_freq</entry>
+        <entry>set_center</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
