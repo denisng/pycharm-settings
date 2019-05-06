@@ -251,12 +251,18 @@
         <mark key="^" line="97" column="41" />
         <mark key="." line="97" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557179439320">
-        <mark key="'" line="260" column="24" />
-        <mark key="[" line="259" column="39" />
-        <mark key="]" line="259" column="52" />
-        <mark key="." line="259" column="52" />
-        <mark key="^" line="259" column="52" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" timestamp="1557184784198">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="141" column="41" />
+        <mark key="^" line="141" column="41" />
+        <mark key="." line="141" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557184185490">
+        <mark key="'" line="261" column="24" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="242" column="40" />
+        <mark key="." line="242" column="40" />
+        <mark key="^" line="242" column="40" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
@@ -694,12 +700,12 @@
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_comms.py" timestamp="1555374403113">
         <mark key="'" line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf.py" timestamp="1552958036661">
-        <mark key="'" line="111" column="8" />
-        <mark key="[" line="113" column="51" />
-        <mark key="]" line="113" column="51" />
-        <mark key="." line="113" column="51" />
-        <mark key="^" line="7" column="58" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf.py" timestamp="1557184376354">
+        <mark key="'" line="22" column="9" />
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/const.py" timestamp="1556320608180">
         <mark key="'" line="1" column="0" />
@@ -729,7 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="285" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="288" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="294" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
@@ -829,6 +834,7 @@
       <jump line="258" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="259" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="260" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="21" column="9" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
