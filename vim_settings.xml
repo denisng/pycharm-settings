@@ -125,12 +125,11 @@
         <mark key="." line="20" column="71" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" timestamp="1557177763090">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" timestamp="1557179202144">
         <mark key="'" line="44" column="38" />
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="38" />
-        <mark key="." line="44" column="38" />
-        <mark key="^" line="54" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/settings.py" timestamp="1512538038097">
         <mark key="[" line="20" column="59" />
@@ -252,8 +251,8 @@
         <mark key="^" line="97" column="41" />
         <mark key="." line="97" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557178679230">
-        <mark key="'" line="259" column="30" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557179439320">
+        <mark key="'" line="260" column="24" />
         <mark key="[" line="259" column="39" />
         <mark key="]" line="259" column="52" />
         <mark key="." line="259" column="52" />
@@ -615,11 +614,12 @@
       <file name="/Dummy.txt" timestamp="1556316500677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1557177827206">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1557179220503">
         <mark key="'" line="102" column="0" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="60" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/_build/rst/imu_cal_pid.crl_emulation.rst" timestamp="1543372501027">
         <mark key="[" line="10" column="74" />
@@ -717,9 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="426" column="63" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
-      <jump line="276" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="279" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="285" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="288" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
@@ -816,7 +813,10 @@
       <jump line="45" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
       <jump line="261" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="263" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
-      <jump line="259" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="270" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="258" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="259" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="260" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -866,49 +866,49 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>self.</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>set_center</text>
+        <text>ettus\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TE9HR0VSLmRlYnVnKCd0aGlzIGlzIGEgdGVzdCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXR0dXMuc2V0X2NlbnRlcl9mcmVxKGZyZXFfY2VudGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNvdXJjZS5zZXRfZnJlcXVlbmN5KHZhbHVlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFuYWxvZ19zaWdfc291cmNlX3hfMC5zZXRfZnJlcXVlbmN5KDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgc2V0X2NlbnRlcl9mcmVxKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmZyZXF1ZW5jeSA9IHZhbHVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdhaW4gPSBnYWluCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFuYWxvZ19zaWdfc291cmNlX3hfMC5zZXRfZnJlcXVlbmN5KHNlbGYuZnJlcSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZyZXEgPSBmcmVxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXRfY2VudGVyX2ZyZXEoc2VsZiwgY2VudGVyX2ZyZXEpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXR0dXMuc2V0X2NlbnRlcl9mcmVxKGZyZXFfY2VudGVyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNlbnRlcl9mcmVxID0gY2VudGVyX2ZyZXEKICAgICAgICBzZWxmLnVoZF91c3JwX3NpbmtfMC5zZXRfY2VudGVyX2ZyZXEoY2VudGVyX2ZyZXEsIDApCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICBkZWYgc2V0X2NlbnRlcl9mcmVxKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmZyZXF1ZW5jeSA9IHZhbHVlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQgJ2dudSByYWRpbyBtb2R1bGVzIG5vdCBmb3VuZCcK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhaW4gPSBnYWluCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>set_center</last-search>
+      <last-search>ettus\.</last-search>
       <last-offset />
-      <last-pattern>set_center</last-pattern>
+      <last-pattern>ettus\.</last-pattern>
       <last-replace>e6,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -916,7 +916,6 @@ if { [catch {jtag frequency 125000} result] } {
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXByZXNlbnRpbmdcPg==</entry>
         <entry>_get_imu_msg_string</entry>
         <entry>return</entry>
         <entry>msg_id</entry>
@@ -936,6 +935,7 @@ if { [catch {jtag frequency 125000} result] } {
         <entry>ettus.set_freq</entry>
         <entry>set_freq</entry>
         <entry>set_center</entry>
+        <entry>ettus\.</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
