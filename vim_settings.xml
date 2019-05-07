@@ -10,7 +10,7 @@
         <mark key="^" line="105" column="10" />
         <mark key="." line="105" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1557181281088">
+      <file name="/a.dummy" timestamp="1557188029504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/register_board.py" timestamp="1555116002562">
@@ -472,12 +472,12 @@
         <mark key="^" line="4" column="155" />
         <mark key="." line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1557187894685">
-        <mark key="'" line="70" column="36" />
-        <mark key="[" line="91" column="33" />
-        <mark key="]" line="94" column="43" />
-        <mark key="^" line="94" column="43" />
-        <mark key="." line="94" column="43" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1557189887256">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1556676767342">
         <mark key="'" line="5" column="53" />
@@ -735,19 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
-      <jump line="288" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
-      <jump line="294" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
-      <jump line="297" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
-      <jump line="303" column="32" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
-      <jump line="306" column="45" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
-      <jump line="425" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui_main.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/const.py" />
-      <jump line="21" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="130" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="145" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="149" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
@@ -835,6 +822,19 @@
       <jump line="259" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="260" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="21" column="9" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf.py" />
+      <jump line="95" column="18" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="99" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="149" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="152" column="10" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="3" column="10" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -884,13 +884,13 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>source.frequency()</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>ettus\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMudGVzdHMuZGV2X2hhY2tyZl9jdyBpbXBvcnQgQ2hlY2tIYWNrUkZDb25zdGFudFdhdmUK</text>
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5ldHR1c19jb250cm9sbGVyIGltcG9ydCBFdHR1c1NpbmVDb250cm9sbGVyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -899,25 +899,25 @@ if { [catch {jtag frequency 125000} result] } {
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3dfZ2VuZXJhdG9yLmRpc2FibGUoKQo=</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X3Nkcl9zaW5lX2RyaXZlcihzZWxmKToKICAgICAgICBpZiAnc2RyX2RyaXZlcicgbm90IGluIHNlbGYuY29uZjoKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCdgc2RyX2RyaXZlcmAgbm90IGRlZmluZWQgaW4nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnIGNvbmZpZ3VyYXRpb24nKQoKICAgICAgICBkcml2ZXJfbW5lbW9uaWMgPSBzZWxmLmNvbmZbJ3Nkcl9kcml2ZXInXQoKICAgICAgICBpZiBkcml2ZXJfbW5lbW9uaWMgPT0gJ2V0dHVzJzoKICAgICAgICAgICAgcmV0dXJuIEV0dHVzU2luZUNvbnRyb2xsZXIKICAgICAgICBlbGlmIGRyaXZlcl9tbmVtb25pYyA9PSAnaGFja3JmJzoKICAgICAgICAgICAgcmV0dXJuIEhhY2tSRlNpbmUKICAgICAgICBlbHNlCiAgICAgICAgICAgIGVudHJ5ID0gJ3t9IGlzIG5vdCBhIHN1cHBvcnRlZCBTRFIgaGFyZHdhcmUgZHJpdmVyJwogICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKGVudHJ5LmZvcm1hdChkcml2ZXJfbW5lbW9uaWMpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgzMCkK</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X2RlZmF1bHRfc2JwX2RyaXZlcihzZWxmKToKICAgICAgICBpZiBzZWxmLmNvbmZbJ3NicF9kcml2ZXInXSA9PSAnZXRoZXJuZXQnOgogICAgICAgICAgICByZXR1cm4gc2VsZi5nZXRfZXRoX2RyaXZlcigpCiAgICAgICAgZWxpZiBzZWxmLmNvbmZbJ3NicF9kcml2ZXInXSA9PSAnc2VyaWFsJzoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuZ2V0X3VzYl9kcml2ZXIoKQoKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3dfZ2VuZXJhdG9yLmVuYWJsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jdHJsX2xvZ2dlci5pbmZvKCctIEtleWluZyB7Oi4zZX0gSHogZm9yIDMwcycuZm9ybWF0KGN3X2dlbmVyYXRvci5mcmVxdWVuY3kpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3dfZ2VuZXJhdG9yLmZyZXF1ZW5jeSA9IGZyZXF1ZW5jeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZnJlcXVlbmN5IGluIGZyZXF1ZW5jeV9saXN0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3dfZ2VuZXJhdG9yLmRpc2FibGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgzMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
