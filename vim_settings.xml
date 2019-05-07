@@ -255,12 +255,12 @@
         <mark key="^" line="97" column="41" />
         <mark key="." line="97" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" timestamp="1557191906749">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="143" column="31" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" timestamp="1557194481105">
+        <mark key="'" line="36" column="44" />
+        <mark key="[" line="218" column="70" />
+        <mark key="]" line="219" column="11" />
+        <mark key="." line="219" column="11" />
+        <mark key="^" line="219" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557191735661">
         <mark key="'" line="261" column="24" />
@@ -739,9 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="162" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="172" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="70" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
       <jump line="22" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
@@ -839,6 +836,9 @@
       <jump line="171" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="0" column="0" filename="/Python Console" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
+      <jump line="216" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
+      <jump line="60" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
+      <jump line="36" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -888,49 +888,49 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fixture.debug</text>
       </register>
       <register name="/" type="4">
-        <text>ettus\.</text>
+        <text>min</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZml4dHVyZXMuZml4dHVyZV91dGlscyBpbXBvcnQgU0RSRHJpdmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycyBpbXBvcnQgZXR0dXNfY29udHJvbGxlcgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogZW50ZXIgZHJpdmVyIGhlcmUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycyBpbXBvcnQgZXR0dXNfY29udHJvbGxlcgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbW9uaXRvci5taW4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycyBpbXBvcnQgZXR0dXNfY29udHJvbGxlcgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogZW50ZXIgZHJpdmVyIGhlcmUK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycyBpbXBvcnQgZXR0dXNfY29udHJvbGxlcgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXR1cm5zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ettus\.</last-search>
+      <last-search>min</last-search>
       <last-offset />
-      <last-pattern>ettus\.</last-pattern>
+      <last-pattern>min</last-pattern>
       <last-replace>e6,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -938,7 +938,6 @@ if { [catch {jtag frequency 125000} result] } {
     </search>
     <history>
       <history-search>
-        <entry>_get_imu_msg_string</entry>
         <entry>return</entry>
         <entry>msg_id</entry>
         <entry>rate_divisor</entry>
@@ -958,6 +957,7 @@ if { [catch {jtag frequency 125000} result] } {
         <entry>set_freq</entry>
         <entry>set_center</entry>
         <entry>ettus\.</entry>
+        <entry>min</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
