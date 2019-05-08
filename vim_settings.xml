@@ -262,12 +262,12 @@
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557285474855">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557345768109">
         <mark key="'" line="286" column="50" />
-        <mark key="[" line="254" column="48" />
-        <mark key="]" line="255" column="0" />
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
         <mark key="^" line="20" column="16" />
-        <mark key="." line="255" column="0" />
+        <mark key="." line="20" column="12" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
@@ -889,7 +889,7 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>48522.9492188</text>
       </register>
       <register name="/" type="4">
         <text>min</text>
