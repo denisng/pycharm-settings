@@ -262,12 +262,12 @@
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557277857799">
-        <mark key="'" line="271" column="24" />
-        <mark key="[" line="226" column="29" />
-        <mark key="]" line="226" column="29" />
-        <mark key="^" line="226" column="28" />
-        <mark key="." line="226" column="29" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557279470091">
+        <mark key="'" line="297" column="8" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="283" column="64" />
+        <mark key="^" line="283" column="64" />
+        <mark key="." line="283" column="64" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
@@ -740,9 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="70" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
-      <jump line="22" column="14" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="10" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="42" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="40" column="33" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
@@ -840,6 +837,9 @@
       <jump line="216" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="60" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="36" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
+      <jump line="235" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="16" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="300" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -889,7 +889,7 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>there is no encoded data</text>
       </register>
       <register name="/" type="4">
         <text>min</text>
@@ -898,31 +898,31 @@ if { [catch {jtag frequency 125000} result] } {
         <text>1245.966187e6</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5kZWJ1Z19sb2dnZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NlbmFyaW9bJ2ZyZXFfdG9sZXJhbmNlJ10sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0X2NvbnRhaW5lci5sb2dBc3NlcnQoJ2Jhc2VsaW5lX2NhcHR1cmVfZmFpbCcsIEZhbHNlLCBpbnB1dHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sICsgIiAtIGJhc2VsaW5lIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXRzID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNfY2VudGVyID0gaXNfY2VudGVyX2ZyZXEoZGZzW2NoYW5uZWxdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiB0aW1lLnRpbWUoKSA+IGV4cGlyZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFicyhkZnNbY2hhbm5lbF1bY29sXSAtIGRmc1tjaGFubmVsXS5iYXNlbGluZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGZzW2NoYW5uZWxdW2NvbCsiIC0gYmFzZWxpbmUiXSA9IFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRkZUTW9uaXRvci5DSEFOTkVMUykpOgo=</text>
+        <text encoding="base64">IyBpdCBpcyBub3QgY2hhbmdpbmcgb3ZlciB0aW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIGFueShtYXAobGFtYmRhIGNoOiBmZnRtb25pdG9yLm51bV9mZnRzKGNoKSA8IG51bV9zYW1wbGVzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZmdG1vbml0b3IuZW5hYmxlX2NoYW5uZWwoY2hhbm5lbD1GRlRNb25pdG9yLkNIQU5ORUxTKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZGlzYWJsZV9jaGFubmVsKCkgYWNjZXB0cyBpbnQgb3IgbGlzdFtpbnRdCiAgICAgICAgICAgICAgICBmZnRtb25pdG9yLmRpc2FibGVfY2hhbm5lbChGRlRNb25pdG9yLkNIQU5ORUxTKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
