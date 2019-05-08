@@ -262,12 +262,12 @@
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557280282414">
-        <mark key="'" line="264" column="8" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="^" line="250" column="64" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557281655719">
+        <mark key="'" line="215" column="18" />
+        <mark key="[" line="223" column="41" />
+        <mark key="]" line="223" column="62" />
+        <mark key="." line="223" column="62" />
+        <mark key="^" line="223" column="62" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
@@ -740,7 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="42" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="40" column="33" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
       <jump line="101" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
@@ -840,6 +839,7 @@
       <jump line="235" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="16" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="300" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="215" column="18" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -889,7 +889,7 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>there is no encoded data</text>
+        <text>Get baseline spectrum for all channels</text>
       </register>
       <register name="/" type="4">
         <text>min</text>
@@ -897,32 +897,33 @@ if { [catch {jtag frequency 125000} result] } {
       <register name="0" type="4">
         <text>1245.966187e6</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Capturing baseline spectrums &quot;
+                                        &quot;for all channels</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpc19jZW50ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgb2J0YWkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIChuZWlnaGJvcl9kaWZmLCB0b2xlcmFuY2UpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyLmRlYnVnKCJpc19jZW50ZXJfZnJlcXVlbmN5IGNoZWNrIGZhaWxlZC4gbmVpZ2hib3JfZGlmZj0lZiwgdG9sZXJhbmNlPSVmIiAlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpc19jZW50ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpc19jZW50ZXIgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIChuZWlnaGJvcl9kaWZmLCB0b2xlcmFuY2UpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG5laWdoYm9yX2RpZmYgPCB0b2xlcmFuY2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeXNfbG9nZ2VyLmRlYnVnKCJpc19jZW50ZXJfZnJlcXVlbmN5IGNoZWNrIGZhaWxlZC4gbmVpZ2hib3JfZGlmZj0lZiwgdG9sZXJhbmNlPSVmIiAlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5laWdoYm9yX2RpZmYgPSBhYnMoeFtpZHgtMV0teFtpZHgrMV0pCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
