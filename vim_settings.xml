@@ -262,10 +262,10 @@
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557353145197">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557620563032">
         <mark key="'" line="150" column="0" />
-        <mark key="[" line="286" column="48" />
-        <mark key="]" line="286" column="48" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="25" />
         <mark key="." line="286" column="48" />
         <mark key="^" line="151" column="54" />
       </file>
@@ -894,8 +894,8 @@ if { [catch {jtag frequency 125000} result] } {
       <register name="/" type="4">
         <text>min</text>
       </register>
-      <register name="0" type="4">
-        <text>SBP_MSG_SPECAN</text>
+      <register name="0" type="2">
+        <text encoding="base64">QklOX1dJRFRIID0gOTcwNDUuODk4NDM3NQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2dnZXIuZGVidWcoJ3BlYWsgYmluIGNvbnRhaW5zIHt9Jy5mb3JtYXQoc2luZV9mcmVxdWVuY3kpKQo=</text>
