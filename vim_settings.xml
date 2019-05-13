@@ -262,12 +262,12 @@
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557712568943">
-        <mark key="'" line="148" column="53" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="32" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557714339735">
+        <mark key="'" line="247" column="44" />
+        <mark key="[" line="247" column="36" />
+        <mark key="]" line="247" column="44" />
+        <mark key="." line="247" column="44" />
+        <mark key="^" line="247" column="44" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
@@ -740,14 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="45" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
-      <jump line="28" column="50" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
-      <jump line="42" column="7" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
-      <jump line="44" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
-      <jump line="45" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="46" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
       <jump line="40" column="3" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
       <jump line="31" column="61" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
@@ -840,6 +832,14 @@
       <jump line="145" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="150" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="149" column="53" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="51" column="9" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="29" column="21" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="26" column="10" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="247" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -889,49 +889,49 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>1575.443115e6</text>
+        <text>PROFILE['scenarios']</text>
       </register>
       <register name="/" type="4">
-        <text>min</text>
+        <text>PROFILE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QklOX1dJRFRIID0gOTcwNDUuODk4NDM3NQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImdhaW4iOiAwLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZyZXFfb2Zmc2V0IjogLTEwZTMsCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UFJPRklMRSA9IHsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5VTV9GRlRfU0FNUEwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRyeSA9ICd7fSBIeiBub3Qgd2l0aGluIGV4cGVjdGVkIGJpbicK</text>
+        <text encoding="base64">ICAgICJudW1fc2FtcGxlcyI6IDMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2Fpbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnb2Zmc2V0OiB7b2Zmc2V0fSBIeiwgJyBcCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYWN0dWFsOiB7YWN0dWFsfSBIeiknCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGJpbl9sb3cgPD0gc2luZV9mcmVxdWVuY3kgPCBiaW5faGlnaDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9mZnNldD1mcmVxX29mZnNldCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>min</last-search>
+      <last-search>PROFILE</last-search>
       <last-offset />
-      <last-pattern>min</last-pattern>
+      <last-pattern>PROFILE</last-pattern>
       <last-replace>e6,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -939,9 +939,6 @@ if { [catch {jtag frequency 125000} result] } {
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
-        <entry>msg_id</entry>
-        <entry>rate_divisor</entry>
         <entry>osmosdr_sink_0</entry>
         <entry>sys</entry>
         <entry>update</entry>
@@ -959,9 +956,11 @@ if { [catch {jtag frequency 125000} result] } {
         <entry>set_center</entry>
         <entry>ettus\.</entry>
         <entry>min</entry>
+        <entry>gain</entry>
+        <entry>samples</entry>
+        <entry>PROFILE</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>70,72s/&quot;/'/g</entry>
         <entry>q</entry>
         <entry encoding="base64">NTIsNTg8</entry>
@@ -980,6 +979,7 @@ if { [catch {jtag frequency 125000} result] } {
         <entry>30,45y</entry>
         <entry>39,44y</entry>
         <entry>s/,/e6,/g</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
