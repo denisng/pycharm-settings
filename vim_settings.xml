@@ -125,12 +125,6 @@
         <mark key="." line="20" column="71" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" timestamp="1557179202144">
-        <mark key="'" line="44" column="38" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/settings.py" timestamp="1512538038097">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="21" column="39" />
@@ -261,13 +255,6 @@
         <mark key="]" line="219" column="11" />
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1557714339735">
-        <mark key="'" line="247" column="44" />
-        <mark key="[" line="247" column="36" />
-        <mark key="]" line="247" column="44" />
-        <mark key="." line="247" column="44" />
-        <mark key="^" line="247" column="44" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
@@ -631,12 +618,12 @@
       <file name="/Dummy.txt" timestamp="1556316500677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1557191005363">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="31" />
-        <mark key="." line="18" column="59" />
-        <mark key="^" line="18" column="31" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1557716972997">
+        <mark key="'" line="121" column="29" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="73" column="40" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/_build/rst/imu_cal_pid.crl_emulation.rst" timestamp="1543372501027">
         <mark key="[" line="10" column="74" />
@@ -740,9 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
-      <jump line="40" column="3" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
-      <jump line="31" column="61" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="336" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" />
       <jump line="151" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" />
@@ -840,6 +824,9 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="26" column="10" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="247" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="50" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
+      <jump line="102" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
+      <jump line="121" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -889,7 +876,7 @@ if { [catch {jtag frequency 125000} result] } {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>PROFILE['scenarios']</text>
+        <text>frequency()</text>
       </register>
       <register name="/" type="4">
         <text>PROFILE</text>
@@ -898,31 +885,31 @@ if { [catch {jtag frequency 125000} result] } {
         <text encoding="base64">ICAgICAgICAgICAgImdhaW4iOiAwLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNlbnRlcl9mcmVxID0gZnJlcQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UFJPRklMRSA9IHsK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhaW4gPSBnYWluCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi51aGRfdXNycF9zaW5rXzAuc2V0X2Nsb2NrX3NvdXJjZSgiZXh0ZXJuYWwiLCAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5VTV9GRlRfU0FNUEwK</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi51aGRfdXNycF9zaW5rXzAuc2V0X3RpbWVfc291cmNlKCJleHRlcm5hbCIsIDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJudW1fc2FtcGxlcyI6IDMsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNvdXJjZS5zZXRfZnJlcXVlbmN5KHZhbHVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2Fpbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnb2Zmc2V0OiB7b2Zmc2V0fSBIeiwgJyBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYWN0dWFsOiB7YWN0dWFsfSBIeiknCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZyZXF1ZW5jeSA9IHZhbHVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9mZnNldD1mcmVxX29mZnNldCwK</text>
+        <text encoding="base64">ICAgIGRlZiBzZXRfY2VudGVyX2ZyZXEoc2VsZiwgdmFsdWUpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
