@@ -246,7 +246,7 @@
         <mark key="^" line="97" column="41" />
         <mark key="." line="97" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_boot.tcl" timestamp="1557870643444">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_boot.tcl" timestamp="1557871557459">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="50" column="15" />
         <mark key="]" line="50" column="16" />
@@ -311,7 +311,7 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/ram_to_file.tcl" timestamp="1557870637723">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/ram_to_file.tcl" timestamp="1557871553018">
         <mark key="[" line="23" column="15" />
         <mark key="]" line="23" column="16" />
         <mark key="^" line="41" column="0" />
@@ -370,7 +370,7 @@
         <mark key="." line="73" column="17" />
         <mark key="^" line="73" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf_with_tcl_and_fpga.tcl" timestamp="1557870654703">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf_with_tcl_and_fpga.tcl" timestamp="1557871564675">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="28" column="15" />
         <mark key="]" line="28" column="16" />
@@ -388,7 +388,7 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/soft_reset.tcl" timestamp="1557870659421">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/soft_reset.tcl" timestamp="1557871568681">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="17" column="16" />
         <mark key="." line="17" column="16" />
@@ -472,7 +472,7 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/file_to_ram.tcl" timestamp="1557870631903">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/file_to_ram.tcl" timestamp="1557871546661">
         <mark key="[" line="26" column="15" />
         <mark key="]" line="26" column="16" />
         <mark key="." line="26" column="16" />
@@ -553,7 +553,7 @@
         <mark key="^" line="227" column="27" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf.tcl" timestamp="1557870648441">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf.tcl" timestamp="1557871561189">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="16" />
@@ -572,7 +572,7 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/stop_jtag_disable.tcl" timestamp="1557870663966">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/stop_jtag_disable.tcl" timestamp="1557871572870">
         <mark key="'" line="22" column="20" />
         <mark key="[" line="33" column="15" />
         <mark key="]" line="33" column="16" />
