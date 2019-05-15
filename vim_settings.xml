@@ -400,12 +400,12 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1557876735225">
-        <mark key="'" line="372" column="0" />
-        <mark key="[" line="137" column="18" />
-        <mark key="]" line="137" column="314" />
-        <mark key="^" line="139" column="7" />
-        <mark key="." line="139" column="7" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1557877664968">
+        <mark key="'" line="371" column="0" />
+        <mark key="[" line="229" column="20" />
+        <mark key="]" line="229" column="33" />
+        <mark key="." line="229" column="33" />
+        <mark key="^" line="229" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" timestamp="1556049931654">
         <mark key="'" line="16" column="16" />
@@ -864,40 +864,52 @@
         <text encoding="base64">ICAgICAgICBleHBvcnQgUFlUSE9OUEFUSD0kUFlUSE9OUEFUSDoke3BrZ3MuZ251cmFkaW99L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy86JHtwa2dzLmdudXJhZGlvLW9zbW9zZHJ9L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>PROFILE</text>
       </register>
       <register name="0" type="4">
-        <text>{&quot;playback_file&quot; : &quot;/home/provision/jdiamond_test.iq&quot;,  &quot;playback_sample_rate&quot; : 2.5e6, &quot;playback_center_freq&quot; : 1575.42e6, &quot;playback_gain&quot; : 10, &quot;duration&quot; : 120.0, &quot;num_svs_tracked&quot; : 5, &quot;min_tracking_level&quot; : 35, &quot;mean_tracking_level&quot; : 41, &quot;max_tracking_level&quot; : 45, &quot;should_navigate&quot; : false}</text>
+        <text>sbp_driver = mkOption {
+      type = types.str;
+      default = &quot;serial&quot;;
+      description = ''
+        The sbp driver type, serial or ethernet
+      '';
+    };</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnQgUFlUSE9OUEFUSD0kUFlUSE9OUEFUSDoke3BrZ3MuZ251cmFkaW99L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjISAvdXNyL2Jpbi9lbnYgbml4LXNoZWxsCiAgICAgICAgIyEgbml4LXNoZWxsIC1pIGJhc2ggLXAgZ251cmFkaW8KICAgICAgICBzb3VyY2UgL2hvbWUvcHJvdmlzaW9uLy5iYXNocmMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnQgUFlUSE9OUEFUSD0kUFlUSE9OUEFUSDoke3BrZ3MuZ251cmFkaW99L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjISAvdXNyL2Jpbi9lbnYgbml4LXNoZWxsCiAgICAgICAgIyEgbml4LXNoZWxsIC1pIGJhc2ggLXAgZ251cmFkaW8KICAgICAgICBzb3VyY2UgL2hvbWUvcHJvdmlzaW9uLy5iYXNocmMK</text>
+      <register name="4" type="4">
+        <text>sdr_driver = mkOption {
+      type = types.str;
+      default = &quot;ettus&quot;;
+      description = ''
+        The SDR hardware driver type, ettus or hackrf
+      '';
+    };</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBleHBvcnQgUFlUSE9OUEFUSD0kUFlUSE9OUEFUSDoke3BrZ3MuZ251cmFkaW99L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjISAvdXNyL2Jpbi9lbnYgbml4LXNoZWxsCiAgICAgICAgIyEgbml4LXNoZWxsIC1pIGJhc2ggLXAgZ251cmFkaW8KICAgICAgICBzb3VyY2Ugfi8uYmFzaHJjCg==</text>
+        <text encoding="base64">ICAgICAgICAjISAvdXNyL2Jpbi9lbnYgbml4LXNoZWxsCiAgICAgICAgIyEgbml4LXNoZWxsIC1pIGJhc2ggLXAgZ251cmFkaW8KICAgICAgICBzb3VyY2UgL2hvbWUvcHJvdmlzaW9uLy5iYXNocmMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNlbnRlcl9mcmVxID0gZnJlcQo=</text>
+        <text encoding="base64">ICAgICAgICBleHBvcnQgUFlUSE9OUEFUSD0kUFlUSE9OUEFUSDoke3BrZ3MuZ251cmFkaW99L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdhaW4gPSBnYWluCg==</text>
+        <text encoding="base64">ICAgICAgICAjISAvdXNyL2Jpbi9lbnYgbml4LXNoZWxsCiAgICAgICAgIyEgbml4LXNoZWxsIC1pIGJhc2ggLXAgZ251cmFkaW8KICAgICAgICBzb3VyY2UgL2hvbWUvcHJvdmlzaW9uLy5iYXNocmMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi51aGRfdXNycF9zaW5rXzAuc2V0X2Nsb2NrX3NvdXJjZSgiZXh0ZXJuYWwiLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBleHBvcnQgUFlUSE9OUEFUSD0kUFlUSE9OUEFUSDoke3BrZ3MuZ251cmFkaW99L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
