@@ -522,6 +522,11 @@
         <mark key="^" line="1" column="48" />
         <mark key="." line="1" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/piksi-provision-artifacts/src2nix.sh" timestamp="1557884996376">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl.py" timestamp="1552347723456">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="31" />
@@ -864,7 +869,7 @@
         <text encoding="base64">ICAgICAgICBleHBvcnQgUFlUSE9OUEFUSD0kUFlUSE9OUEFUSDoke3BrZ3MuZ251cmFkaW99L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy86JHtwa2dzLmdudXJhZGlvLW9zbW9zZHJ9L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>PROFILE</text>
