@@ -63,11 +63,11 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/lab-super-banzai/configuration.nix" timestamp="1556316422041">
-        <mark key="[" line="20" column="88" />
-        <mark key="]" line="20" column="98" />
-        <mark key="^" line="30" column="23" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/lab-super-banzai/configuration.nix" timestamp="1557879654930">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="347" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/__init__.py" timestamp="1552954119635">
         <mark key="[" line="3" column="35" />
@@ -119,9 +119,9 @@
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/dng-nuc/configuration.nix" timestamp="1557876830619">
-        <mark key="[" line="25" column="233" />
-        <mark key="]" line="25" column="234" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/dng-nuc/configuration.nix" timestamp="1557879616016">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="347" />
         <mark key="." line="25" column="234" />
         <mark key="^" line="25" column="131" />
       </file>
@@ -869,25 +869,28 @@
       <register name="/" type="4">
         <text>PROFILE</text>
       </register>
-      <register name="0" type="4">
-        <text>sbp_driver = mkOption {
-      type = types.str;
-      default = &quot;serial&quot;;
-      description = ''
-        The sbp driver type, serial or ethernet
-      '';
-    };</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgY3VzdG9tLnByb3Zpc2lvbi5zZHJfZHJpdmVyID0gImhhY2tyZiI7CiAgY3VzdG9tLnByb3Zpc2lvbi5lbmQyZW5kX3Rlc3RfcHJvZmlsZSA9ICcneyJwbGF5YmFja19maWxlIiA6ICIvaG9tZS9wcm92aXNpb24vZ3Bzc2ltLWhhY2tyZi01TXNwcy5pcSIsICAicGxheWJhY2tfc2FtcGxlX3JhdGUiIDogNWU2LCAicGxheWJhY2tfY2VudGVyX2ZyZXEiIDogMTU3NS40MmU2LCAicGxheWJhY2tfZ2FpbiIgOiAwLCAiZHVyYXRpb24iIDogMTIwLjAsICJudW1fc3ZzX3RyYWNrZWQiIDogNywgIm1pbl90cmFja2luZ19sZXZlbCIgOiAzNSwgIm1lYW5fdHJhY2tpbmdfbGV2ZWwiIDogNDEsICJtYXhfdHJhY2tpbmdfbGV2ZWwiIDogNDUsICJzaG91bGRfbmF2aWdhdGUiIDogZmFsc2V9Jyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjdXN0b20ucHJvdmlzaW9uLmVuZDJlbmRfdGVzdF9wcm9maWxlID0gJyd7InBsYXliYWNrX2ZpbGUiIDogIi9ob21lL3Byb3Zpc2lvbi9ncHNzaW0taGFja3JmLTVNc3BzLmlxIiwgICJwbGF5YmFja19zYW1wbGVfcmF0ZSIgOiA1ZTYsICJwbGF5YmFja19jZW50ZXJfZnJlcSIgOiAxNTc1LjQyZTYsICJwbGF5YmFja19nYWluIiA6IDAsICJkdXJhdGlvbiIgOiAxMjAuMCwgIm51bV9zdnNfdHJhY2tlZCIgOiA3LCAibWluX3RyYWNraW5nX2xldmVsIiA6IDM1LCAibWVhbl90cmFja2luZ19sZXZlbCIgOiA0MSwgIm1heF90cmFja2luZ19sZXZlbCIgOiA0NSwgInNob3VsZF9uYXZpZ2F0ZSIgOiBmYWxzZX0nJzsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>sdr_driver = mkOption {
       type = types.str;
       default = &quot;ettus&quot;;
@@ -896,20 +899,11 @@
       '';
     };</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnQgUFlUSE9OUEFUSD0kUFlUSE9OUEFUSDoke3BrZ3MuZ251cmFkaW99L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy8K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjISAvdXNyL2Jpbi9lbnYgbml4LXNoZWxsCiAgICAgICAgIyEgbml4LXNoZWxsIC1pIGJhc2ggLXAgZ251cmFkaW8KICAgICAgICBzb3VyY2UgL2hvbWUvcHJvdmlzaW9uLy5iYXNocmMK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnQgUFlUSE9OUEFUSD0kUFlUSE9OUEFUSDoke3BrZ3MuZ251cmFkaW99L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy8K</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjISAvdXNyL2Jpbi9lbnYgbml4LXNoZWxsCiAgICAgICAgIyEgbml4LXNoZWxsIC1pIGJhc2ggLXAgZ251cmFkaW8KICAgICAgICBzb3VyY2UgL2hvbWUvcHJvdmlzaW9uLy5iYXNocmMK</text>
+        <text encoding="base64">ICAgICAgICBleHBvcnQgUFlUSE9OUEFUSD0kUFlUSE9OUEFUSDoke3BrZ3MuZ251cmFkaW99L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnQgUFlUSE9OUEFUSD0kUFlUSE9OUEFUSDoke3BrZ3MuZ251cmFkaW99L2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy8K</text>
+        <text encoding="base64">ICAgICAgICAjISAvdXNyL2Jpbi9lbnYgbml4LXNoZWxsCiAgICAgICAgIyEgbml4LXNoZWxsIC1pIGJhc2ggLXAgZ251cmFkaW8KICAgICAgICBzb3VyY2UgL2hvbWUvcHJvdmlzaW9uLy5iYXNocmMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -948,7 +942,6 @@
         <entry>PROFILE</entry>
       </history-search>
       <history-cmd>
-        <entry>70,72s/&quot;/'/g</entry>
         <entry>q</entry>
         <entry encoding="base64">NTIsNTg8</entry>
         <entry>s/name/base_part_number/g</entry>
@@ -967,6 +960,7 @@
         <entry>39,44y</entry>
         <entry>s/,/e6,/g</entry>
         <entry>W</entry>
+        <entry>.w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
