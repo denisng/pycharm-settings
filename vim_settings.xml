@@ -125,6 +125,13 @@
         <mark key="." line="25" column="234" />
         <mark key="^" line="25" column="131" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" timestamp="1558475384083">
+        <mark key="'" line="21" column="29" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="72" column="7" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/settings.py" timestamp="1512538038097">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="21" column="39" />
@@ -251,6 +258,13 @@
         <mark key="]" line="219" column="11" />
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1558477873729">
+        <mark key="'" line="171" column="0" />
+        <mark key="[" line="236" column="51" />
+        <mark key="]" line="236" column="51" />
+        <mark key="." line="236" column="51" />
+        <mark key="^" line="236" column="27" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
@@ -741,11 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
       <jump line="101" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
       <jump line="44" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
       <jump line="45" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
@@ -796,7 +805,6 @@
       <jump line="127" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="138" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="145" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="149" column="53" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="51" column="9" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="29" column="21" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
@@ -841,6 +849,12 @@
       <jump line="46" column="25" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="119" column="49" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
+      <jump line="20" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
+      <jump line="150" column="40" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="85" column="57" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="290" column="45" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="172" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -859,42 +873,40 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>setting</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>LOGGER</text>
       </register>
       <register name="0" type="4">
-        <text>gnuradio-3.7.12</text>
+        <text>str(freq_center)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiMgZ251cmFkaW8KZnJvbSBnbnVyYWRpbyBpbXBvcnQgYW5hbG9nCmZyb20gZ251cmFkaW8gaW1wb3J0IGdyCgojIGdudXJhZGlvLW9zbW9zZHIKaW1wb3J0IG9zbW9zZHIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text>entry.format(file=iq_path,
-                                       freq=center_frequency,
-                                       rate=sampling_rate)</text>
+        <text encoding="base64">bWFwKGxhbWJkYSBjaDogZmZ0bW9uaXRvci5udW1fZmZ0cyhjaCkgPCBOVU1fRkZUX1NBTVBMRVMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZGVE1vbml0b3IuQ0hBTk5FTFMp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sID0gc3RyKGZyZXFfY2VudGVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TE9HR0VSLmNyaXRpY2FsKCd0aGlzIGlzIGEgdGVzdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBpc19jZW50ZXIgc2hvdWxkIGJlIHRydWUgaWZmIGZyZXFfb2Zmc2V0ID09IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TE9HR0VSLmRlYnVnKCd0aGlzIGlzIGEgdGVzdCcpCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2hhY2tyZicpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgIFtucC5hcnJheV9lcXVhbCh4LCBmcmVxc1swXSkgZm9yIHggaW4gZnJlcXNdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNhbXBsZV9yYXRlID0gc2FtcF9yYXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
