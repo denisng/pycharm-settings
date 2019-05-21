@@ -413,12 +413,12 @@
         <mark key="^" line="99" column="11" />
         <mark key="." line="99" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" timestamp="1558472485877">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" timestamp="1558474241477">
         <mark key="'" line="48" column="25" />
-        <mark key="[" line="118" column="31" />
-        <mark key="]" line="118" column="46" />
-        <mark key="^" line="118" column="46" />
-        <mark key="." line="118" column="46" />
+        <mark key="[" line="98" column="43" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="97" column="25" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="D:/Documents/GitHub/py-prj-core/requirements.txt" timestamp="1502440811501">
         <mark key="[" line="0" column="0" />
@@ -642,12 +642,12 @@
       <file name="/Dummy.txt" timestamp="1556316500677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1557716972997">
-        <mark key="'" line="121" column="29" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="73" column="40" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1558474772452">
+        <mark key="'" line="119" column="49" />
+        <mark key="[" line="127" column="33" />
+        <mark key="]" line="128" column="49" />
+        <mark key="^" line="128" column="49" />
+        <mark key="." line="128" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/doc/_build/rst/imu_cal_pid.crl_emulation.rst" timestamp="1543372501027">
         <mark key="[" line="10" column="74" />
@@ -741,8 +741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="97" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="100" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="93" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
@@ -841,6 +839,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf.tcl" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf.tcl" />
       <jump line="46" column="25" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
+      <jump line="119" column="49" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -859,7 +859,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>starting playback</text>
+        <text>setting</text>
       </register>
       <register name="/" type="4">
         <text>LOGGER</text>
@@ -868,25 +868,27 @@
         <text>gnuradio-3.7.12</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgZ251cmFkaW8KZnJvbSBnbnVyYWRpbyBpbXBvcnQgYW5hbG9nCmZyb20gZ251cmFkaW8gaW1wb3J0IGdyCgojIGdudXJhZGlvLW9zbW9zZHIKaW1wb3J0IG9zbW9zZHIK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">TE9HR0VSLmNyaXRpY2FsKCd0aGlzIGlzIGEgdGVzdCcpCg==</text>
+      <register name="2" type="4">
+        <text>entry.format(file=iq_path,
+                                       freq=center_frequency,
+                                       rate=sampling_rate)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TE9HR0VSLmRlYnVnKCd0aGlzIGlzIGEgdGVzdCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2hhY2tyZicpCg==</text>
+        <text encoding="base64">TE9HR0VSLmNyaXRpY2FsKCd0aGlzIGlzIGEgdGVzdCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">TE9HR0VSLmRlYnVnKCd0aGlzIGlzIGEgdGVzdCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
+        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2hhY2tyZicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
