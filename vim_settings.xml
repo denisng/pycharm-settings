@@ -252,12 +252,12 @@
         <mark key="]" line="70" column="21" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" timestamp="1558478462556">
-        <mark key="'" line="169" column="39" />
-        <mark key="[" line="165" column="57" />
-        <mark key="]" line="166" column="37" />
-        <mark key="." line="166" column="37" />
-        <mark key="^" line="166" column="37" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" timestamp="1558479353249">
+        <mark key="'" line="77" column="29" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
+        <mark key="^" line="165" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1558477873729">
         <mark key="'" line="171" column="0" />
@@ -755,13 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
-      <jump line="45" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
-      <jump line="261" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
-      <jump line="263" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
-      <jump line="270" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
-      <jump line="258" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
-      <jump line="259" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="260" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="21" column="9" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf.py" />
       <jump line="95" column="18" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
@@ -855,6 +848,13 @@
       <jump line="290" column="45" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="172" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="163" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
+      <jump line="21" column="23" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
+      <jump line="37" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
+      <jump line="62" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
+      <jump line="61" column="9" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
+      <jump line="27" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
+      <jump line="90" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
+      <jump line="77" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -876,46 +876,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>LOGGER</text>
+        <text>profile</text>
       </register>
       <register name="0" type="4">
         <text>str(freq_center)</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gZW50ZXIgdGhlIHJpZ2h0IGRyaXZlciBoZXJlCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">bWFwKGxhbWJkYSBjaDogZmZ0bW9uaXRvci5udW1fZmZ0cyhjaCkgPCBOVU1fRkZUX1NBTVBMRVMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZGVE1vbml0b3IuQ0hBTk5FTFMp</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sID0gc3RyKGZyZXFfY2VudGVyKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBpc19jZW50ZXIgc2hvdWxkIGJlIHRydWUgaWZmIGZyZXFfb2Zmc2V0ID09IDAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFtucC5hcnJheV9lcXVhbCh4LCBmcmVxc1swXSkgZm9yIHggaW4gZnJlcXNdCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNhbXBsZV9yYXRlID0gc2FtcF9yYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LOGGER</last-search>
+      <last-search>profile</last-search>
       <last-offset />
-      <last-pattern>LOGGER</last-pattern>
+      <last-pattern>profile</last-pattern>
       <last-replace>self.logger</last-replace>
       <last-substitute>LOGGER</last-substitute>
       <last-dir>1</last-dir>
@@ -923,7 +923,6 @@
     </search>
     <history>
       <history-search>
-        <entry>osmosdr_sink_0</entry>
         <entry>sys</entry>
         <entry>update</entry>
         <entry>gnuradio</entry>
@@ -943,6 +942,7 @@
         <entry>samples</entry>
         <entry>PROFILE</entry>
         <entry>LOGGER</entry>
+        <entry>profile</entry>
       </history-search>
       <history-cmd>
         <entry>s/name/base_part_number/g</entry>
