@@ -252,12 +252,12 @@
         <mark key="]" line="70" column="21" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" timestamp="1557194481105">
-        <mark key="'" line="36" column="44" />
-        <mark key="[" line="218" column="70" />
-        <mark key="]" line="219" column="11" />
-        <mark key="." line="219" column="11" />
-        <mark key="^" line="219" column="11" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" timestamp="1558478462556">
+        <mark key="'" line="169" column="39" />
+        <mark key="[" line="165" column="57" />
+        <mark key="]" line="166" column="37" />
+        <mark key="." line="166" column="37" />
+        <mark key="^" line="166" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1558477873729">
         <mark key="'" line="171" column="0" />
@@ -755,7 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
       <jump line="44" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
       <jump line="45" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
       <jump line="261" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
@@ -855,6 +854,7 @@
       <jump line="137" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="290" column="45" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="172" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="163" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
