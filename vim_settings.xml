@@ -125,12 +125,12 @@
         <mark key="." line="25" column="234" />
         <mark key="^" line="25" column="131" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" timestamp="1558475384083">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" timestamp="1558561637517">
         <mark key="'" line="21" column="29" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="72" column="7" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="54" column="42" />
+        <mark key="]" line="54" column="54" />
+        <mark key="^" line="54" column="54" />
+        <mark key="." line="54" column="54" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/settings.py" timestamp="1512538038097">
         <mark key="[" line="20" column="59" />
@@ -496,12 +496,12 @@
         <mark key="^" line="4" column="155" />
         <mark key="." line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1557191972389">
-        <mark key="'" line="227" column="16" />
-        <mark key="[" line="238" column="12" />
-        <mark key="]" line="238" column="12" />
-        <mark key="." line="238" column="12" />
-        <mark key="^" line="238" column="12" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1558561309709">
+        <mark key="'" line="223" column="16" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="^" line="234" column="12" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1558484766023">
         <mark key="'" line="5" column="53" />
@@ -873,40 +873,40 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>GPSPlayback</text>
       </register>
       <register name="/" type="4">
         <text>profile</text>
       </register>
-      <register name="0" type="4">
-        <text>str(freq_center)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5hYnN0cmFjdF9kZXZpY2VzIGltcG9ydCBHUFNQbGF5YmFjawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gZW50ZXIgdGhlIHJpZ2h0IGRyaXZlciBoZXJlCg==</text>
+        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5hYnN0cmFjdF9kZXZpY2VzIGltcG9ydCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAnc2RyX2RyaXZlcicgbm90IGluIHNlbGYuY29uZjoKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCdgc2RyX2RyaXZlcmAgbm90IGRlZmluZWQgaW4nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnIGNvbmZpZ3VyYXRpb24nKQoK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bWFwKGxhbWJkYSBjaDogZmZ0bW9uaXRvci5udW1fZmZ0cyhjaCkgPCBOVU1fRkZUX1NBTVBMRVMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZGVE1vbml0b3IuQ0hBTk5FTFMp</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sID0gc3RyKGZyZXFfY2VudGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcgY29uZmlndXJhdGlvbicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBpc19jZW50ZXIgc2hvdWxkIGJlIHRydWUgaWZmIGZyZXFfb2Zmc2V0ID09IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCdgc2RyX2RyaXZlcmAgbm90IGRlZmluZWQgaW4nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAnc2RyX2RyaXZlcicgbm90IGluIHNlbGYuY29uZjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gZW50ZXIgdGhlIHJpZ2h0IGRyaXZlciBoZXJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFtucC5hcnJheV9lcXVhbCh4LCBmcmVxc1swXSkgZm9yIHggaW4gZnJlcXNdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">bWFwKGxhbWJkYSBjaDogZmZ0bW9uaXRvci5udW1fZmZ0cyhjaCkgPCBOVU1fRkZUX1NBTVBMRVMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZGVE1vbml0b3IuQ0hBTk5FTFMp</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
