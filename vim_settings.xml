@@ -437,12 +437,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1559084174747">
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1559086180311">
         <mark key="'" line="137" column="8" />
-        <mark key="[" line="89" column="4" />
-        <mark key="]" line="89" column="10" />
-        <mark key="^" line="89" column="10" />
-        <mark key="." line="89" column="10" />
+        <mark key="[" line="106" column="18" />
+        <mark key="]" line="106" column="10" />
+        <mark key="^" line="106" column="10" />
+        <mark key="." line="106" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/end2end_test_profile.json" timestamp="1554761333285">
         <mark key="[" line="4" column="28" />
