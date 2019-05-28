@@ -437,12 +437,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1559083323948">
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1559084174747">
         <mark key="'" line="137" column="8" />
-        <mark key="[" line="140" column="59" />
-        <mark key="]" line="142" column="32" />
-        <mark key="^" line="142" column="32" />
-        <mark key="." line="142" column="32" />
+        <mark key="[" line="89" column="4" />
+        <mark key="]" line="89" column="10" />
+        <mark key="^" line="89" column="10" />
+        <mark key="." line="89" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/end2end_test_profile.json" timestamp="1554761333285">
         <mark key="[" line="4" column="28" />
@@ -886,7 +886,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>left</text>
