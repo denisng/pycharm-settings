@@ -437,12 +437,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1559078054011">
-        <mark key="'" line="58" column="23" />
-        <mark key="[" line="137" column="62" />
-        <mark key="]" line="137" column="62" />
-        <mark key="." line="137" column="62" />
-        <mark key="^" line="137" column="62" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1559083323948">
+        <mark key="'" line="137" column="8" />
+        <mark key="[" line="140" column="59" />
+        <mark key="]" line="142" column="32" />
+        <mark key="^" line="142" column="32" />
+        <mark key="." line="142" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/end2end_test_profile.json" timestamp="1554761333285">
         <mark key="[" line="4" column="28" />
@@ -768,9 +768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="9" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf.py" />
-      <jump line="95" column="18" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
-      <jump line="99" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="88" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="161" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="96" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
@@ -868,6 +865,9 @@
       <jump line="90" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="77" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="58" column="23" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="120" column="27" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="128" column="8" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="129" column="8" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -886,57 +886,56 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
-        <text>profile</text>
+        <text>left</text>
       </register>
-      <register name="0" type="4">
-        <text>1575.42e6</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2dnZXIuZGVidWcoJ3JlYWwgcGVhayBsZWZ0IG9mIHBlYWsgYmluJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTI0NS45NjYxODdlNiAtIDEwZTMsIDEyNDUuOTY2MTg3ZTYsCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCAxMjI3LjYyNDUxMmU2LAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBIYW5kbGVyIHdpdGggY29udGV4dAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIERyaXZlciB3aXRoIGNvbnRleHQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV9wcm92aXNpb25fdG9vbHMuZHJpdmVycy5hYnN0cmFjdF9kZXZpY2VzIGltcG9ydCAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnc2RyX2RyaXZlcicgbm90IGluIHNlbGYuY29uZjoKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCdgc2RyX2RyaXZlcmAgbm90IGRlZmluZWQgaW4nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnIGNvbmZpZ3VyYXRpb24nKQoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbHRhPXNpbmVfZnJlcXVlbmN5IC0gcmFuZ2VfaGlnaCkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2dnZXIuZGVidWcoZW50cnkuZm9ybWF0KHNpbmU9c2luZV9mcmVxdWVuY3ksCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVsaWYgbm90IHNpbmVfZnJlcXVlbmN5IDwgcmFuZ2VfaGlnaDoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcgY29uZmlndXJhdGlvbicpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCdgc2RyX2RyaXZlcmAgbm90IGRlZmluZWQgaW4nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbHRhPXNpbmVfZnJlcXVlbmN5IC0gcmFuZ2VfbG93KSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>profile</last-search>
+      <last-search>left</last-search>
       <last-offset />
-      <last-pattern>profile</last-pattern>
-      <last-replace>self.logger</last-replace>
-      <last-substitute>LOGGER</last-substitute>
+      <last-pattern>left</last-pattern>
+      <last-replace>right</last-replace>
+      <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sys</entry>
         <entry>update</entry>
         <entry>gnuradio</entry>
         <entry>test_controller</entry>
@@ -956,10 +955,9 @@
         <entry>PROFILE</entry>
         <entry>LOGGER</entry>
         <entry>profile</entry>
+        <entry>left</entry>
       </history-search>
       <history-cmd>
-        <entry>s/name/base_part_number/g</entry>
-        <entry>s/name/major_rev/g</entry>
         <entry>s/name/minor_rev/g</entry>
         <entry>20,25s/\./._/</entry>
         <entry>31,38d</entry>
@@ -977,6 +975,8 @@
         <entry>.w</entry>
         <entry>%s/LOGGER/self.logger/</entry>
         <entry>q</entry>
+        <entry>s/left/center/g</entry>
+        <entry>s/left/right/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
