@@ -185,7 +185,7 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="42" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1557190617988">
+      <file name="/Python Console" timestamp="1559090039356">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -437,12 +437,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1559086180311">
-        <mark key="'" line="137" column="8" />
-        <mark key="[" line="106" column="18" />
-        <mark key="]" line="106" column="10" />
-        <mark key="^" line="106" column="10" />
-        <mark key="." line="106" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1559090724103">
+        <mark key="'" line="134" column="27" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="^" line="138" column="66" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/end2end_test_profile.json" timestamp="1554761333285">
         <mark key="[" line="4" column="28" />
@@ -768,8 +768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="96" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="149" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="152" column="10" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
@@ -868,6 +866,8 @@
       <jump line="120" column="27" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="128" column="8" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="129" column="8" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="133" column="71" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
+      <jump line="134" column="27" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -886,40 +886,40 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this is a bit of an anomaly</text>
       </register>
       <register name="/" type="4">
         <text>left</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2dnZXIuZGVidWcoJ3JlYWwgcGVhayBsZWZ0IG9mIHBlYWsgYmluJykK</text>
+      <register name="0" type="4">
+        <text>sine_frequency</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgIyBpZiB0aGUgaW5mZXJlbmNlIGNhbm5vdCBiZSBtYWRlLCB1c2UgYmluIHdpZHRoIHJlc29sdXRpb24KICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">ICAgICMgdGhpcyBkcm9wcyBlZmZlY3RpdmUgdG9sZXJhbmNlIGZyb20gQklOIFdJRFRIICh+OTdrSHopCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiZnJlcV9jZW50ZXIiOiAxNTcwLjAwZTYsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">RlJFUV9UT0xFUkFOQ0UgPSBIQUxGX0JJTl9XSURUSAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbHRhPXNpbmVfZnJlcXVlbmN5IC0gcmFuZ2VfaGlnaCkpCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoJ2Fub21hbHknKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2dnZXIuZGVidWcoZW50cnkuZm9ybWF0KHNpbmU9c2luZV9mcmVxdWVuY3ksCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2dnZXIuZGVidWcoJ3JpZ2h0IG9mIGNlbnRlcicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsaWYgbm90IHNpbmVfZnJlcXVlbmN5IDwgcmFuZ2VfaGlnaDoK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2dnZXIuZGVidWcoJ2xlZnQgb2YgY2VudGVyJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbHRhPXNpbmVfZnJlcXVlbmN5IC0gcmFuZ2VfbG93KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
