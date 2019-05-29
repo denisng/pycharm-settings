@@ -256,13 +256,6 @@
         <mark key="." line="146" column="0" />
         <mark key="^" line="165" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" timestamp="1558565326772">
-        <mark key="'" line="172" column="0" />
-        <mark key="[" line="113" column="37" />
-        <mark key="]" line="113" column="37" />
-        <mark key="." line="113" column="37" />
-        <mark key="^" line="113" column="37" />
-      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="5" />
@@ -507,12 +500,12 @@
         <mark key="^" line="234" column="12" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1558484766023">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1559091622931">
         <mark key="'" line="5" column="53" />
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="18" />
-        <mark key="." line="46" column="18" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
         <mark key="^" line="33" column="27" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/imu-cal-pid/setup.py" timestamp="1543351254104">
         <mark key="[" line="19" column="70" />
@@ -708,12 +701,12 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1557181445525">
-        <mark key="'" line="339" column="4" />
-        <mark key="[" line="219" column="40" />
-        <mark key="]" line="219" column="40" />
-        <mark key="." line="219" column="40" />
-        <mark key="^" line="219" column="40" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1559091579190">
+        <mark key="'" line="336" column="4" />
+        <mark key="[" line="326" column="5" />
+        <mark key="]" line="326" column="5" />
+        <mark key="." line="326" column="5" />
+        <mark key="^" line="326" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/power_control.py" timestamp="1556590274789">
         <mark key="[" line="26" column="41" />
@@ -889,46 +882,46 @@
         <text>this is a bit of an anomaly</text>
       </register>
       <register name="/" type="4">
-        <text>left</text>
+        <text encoding="base64">PDw8</text>
       </register>
       <register name="0" type="4">
         <text>sine_frequency</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgIyBpZiB0aGUgaW5mZXJlbmNlIGNhbm5vdCBiZSBtYWRlLCB1c2UgYmluIHdpZHRoIHJlc29sdXRpb24KICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBidW1waW5nIFBQVCB2ZXJzaW9uIG51bWJlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdGhpcyBkcm9wcyBlZmZlY3RpdmUgdG9sZXJhbmNlIGZyb20gQklOIFdJRFRIICh+OTdrSHopCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiZnJlcV9jZW50ZXIiOiAxNTcwLjAwZTYsCg==</text>
+        <text encoding="base64">ICAgIHZlcnNpb249IjUuNC4wIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RlJFUV9UT0xFUkFOQ0UgPSBIQUxGX0JJTl9XSURUSAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoJ2Fub21hbHknKQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBBZGRpbmcgY2FwYWJpbGl0eSB0byB1c2UgSGFja1JGIFNEUiBoYXJkd2FyZSBhcyBSRiBzb3VyY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2dnZXIuZGVidWcoJ3JpZ2h0IG9mIGNlbnRlcicpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2dnZXIuZGVidWcoJ2xlZnQgb2YgY2VudGVyJykK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgIyBpZiB0aGUgaW5mZXJlbmNlIGNhbm5vdCBiZSBtYWRlLCB1c2UgYmluIHdpZHRoIHJlc29sdXRpb24KICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgdGhpcyBkcm9wcyBlZmZlY3RpdmUgdG9sZXJhbmNlIGZyb20gQklOIFdJRFRIICh+OTdrSHopCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>left</last-search>
+      <last-search encoding="base64">PDw8</last-search>
       <last-offset />
-      <last-pattern>left</last-pattern>
+      <last-pattern encoding="base64">PDw8</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -936,7 +929,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
         <entry>gnuradio</entry>
         <entry>test_controller</entry>
         <entry>pmt</entry>
@@ -956,6 +948,7 @@
         <entry>LOGGER</entry>
         <entry>profile</entry>
         <entry>left</entry>
+        <entry encoding="base64">PDw8</entry>
       </history-search>
       <history-cmd>
         <entry>s/name/minor_rev/g</entry>
