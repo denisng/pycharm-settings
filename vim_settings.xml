@@ -462,8 +462,8 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" timestamp="1554255307617">
-        <mark key="'" line="108" column="37" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" timestamp="1560893372216">
+        <mark key="'" line="105" column="43" />
         <mark key="[" line="230" column="54" />
         <mark key="]" line="230" column="71" />
         <mark key="." line="230" column="71" />
@@ -754,10 +754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Python Console" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
-      <jump line="216" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
-      <jump line="60" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="36" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="235" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="16" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
@@ -854,6 +850,10 @@
       <jump line="289" column="52" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="27" column="16" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="209" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
+      <jump line="330" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
+      <jump line="379" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
+      <jump line="105" column="43" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -875,7 +875,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>dialout</text>
+        <text>check_test_hw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQVRUUntpZFZlbmRvcn09PSIxZDUwIiwgQVRUUntpZFByb2R1Y3R9PT0iNjA0YiIsIFNZTUxJTksrPSJoYWNrcmYtamF3YnJlYWtlci0tJWsiLCBNT0RFPSI2NjAiCg==</text>
@@ -912,9 +912,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dialout</last-search>
+      <last-search>check_test_hw</last-search>
       <last-offset />
-      <last-pattern>dialout</last-pattern>
+      <last-pattern>check_test_hw</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -922,8 +922,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test_controller</entry>
-        <entry>pmt</entry>
         <entry>,</entry>
         <entry>analog</entry>
         <entry>logging.getLogger</entry>
@@ -942,6 +940,8 @@
         <entry encoding="base64">PDw8</entry>
         <entry>gain</entry>
         <entry>dialout</entry>
+        <entry>self.run_tests</entry>
+        <entry>check_test_hw</entry>
       </history-search>
       <history-cmd>
         <entry>s/name/minor_rev/g</entry>
