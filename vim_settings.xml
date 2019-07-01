@@ -403,13 +403,6 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1562016693907">
-        <mark key="'" line="215" column="0" />
-        <mark key="[" line="224" column="6" />
-        <mark key="]" line="224" column="87" />
-        <mark key="." line="215" column="64" />
-        <mark key="^" line="213" column="114" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf.py" timestamp="1556049931654">
         <mark key="'" line="16" column="16" />
         <mark key="[" line="98" column="15" />
@@ -462,11 +455,11 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/acer-nuc/configuration.nix" timestamp="1562019033367">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/acer-nuc/configuration.nix" timestamp="1562020380300">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="2" />
+        <mark key="." line="24" column="2" />
+        <mark key="^" line="24" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" timestamp="1560893372216">
         <mark key="'" line="105" column="43" />
@@ -486,7 +479,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1562019046405">
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1562020672422">
         <mark key="[" line="75" column="26" />
         <mark key="]" line="77" column="27" />
         <mark key="." line="77" column="27" />
@@ -878,7 +871,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>dng</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
@@ -887,34 +880,34 @@
         <text>ACTION==&quot;add&quot;, ATTR{idVendor}==&quot;0403&quot;, ATTR{manufacturer}==&quot;Digilent&quot;, MODE:=&quot;666&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWNlci1udWM6IHByb3Zpc2lvbl9hY2VyLW51YwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWNlci1udWM6IHByb3Zpc2lvbl9hY2VyLW51Ywo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwbHVnZGV2Cg==</text>
+        <text encoding="base64">YWNlci1udWM6IHByb3Zpc2lvbl9hY2VyLW51Ywo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwbHVnZGV2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQVRUUntpZFZlbmRvcn09PSIxZDUwIiwgQVRUUntpZFByb2R1Y3R9PT0iNjA0YiIsIFNZTUxJTksrPSJoYWNrcmYtamF3YnJlYWtlci0layIsIE1PREU9IjY2MCIKICAgICAgQVRUUntpZFZlbmRvcn09PSIxZDUwIiwgQVRUUntpZFByb2R1Y3R9PT0iNjA4OSIsIFNZTUxJTksrPSJoYWNrcmYtb25lLSVrIiwgTU9ERT0iNjYwIgogICAgICBBVFRSe2lkVmVuZG9yfT09IjFmYzkiLCBBVFRSe2lkUHJvZHVjdH09PSIwMDBjIiwgU1lNTElOSys9ImhhY2tyZi1kZnUtJWsiLCBNT0RFPSI2NjAiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQVRUUntpZFZlbmRvcn09PSIxZDUwIiwgQVRUUntpZFByb2R1Y3R9PT0iNjA0YiIsIFNZTUxJTksrPSJoYWNrcmYtamF3YnJlYWtlci0layIsIE1PREU9IjY2MCIsIEdST1VQPSJkaWFsb3V0IgogICAgICBBVFRSe2lkVmVuZG9yfT09IjFkNTAiLCBBVFRSe2lkUHJvZHVjdH09PSI2MDg5IiwgU1lNTElOSys9ImhhY2tyZi1vbmUtJWsiLCBNT0RFPSI2NjAiLCBHUk9VUD0iZGlhbG91dCIKICAgICAgQVRUUntpZFZlbmRvcn09PSIxZmM5IiwgQVRUUntpZFByb2R1Y3R9PT0iMDAwYyIsIFNZTUxJTksrPSJoYWNrcmYtZGZ1LSVrIiwgTU9ERT0iNjYwIiwgR1JPVVA9ImRpYWxvdXQiCg==</text>
+        <text encoding="base64">ICAgICAgQVRUUntpZFZlbmRvcn09PSIxZDUwIiwgQVRUUntpZFByb2R1Y3R9PT0iNjA0YiIsIFNZTUxJTksrPSJoYWNrcmYtamF3YnJlYWtlci0layIsIE1PREU9IjY2MCIKICAgICAgQVRUUntpZFZlbmRvcn09PSIxZDUwIiwgQVRUUntpZFByb2R1Y3R9PT0iNjA4OSIsIFNZTUxJTksrPSJoYWNrcmYtb25lLSVrIiwgTU9ERT0iNjYwIgogICAgICBBVFRSe2lkVmVuZG9yfT09IjFmYzkiLCBBVFRSe2lkUHJvZHVjdH09PSIwMDBjIiwgU1lNTElOSys9ImhhY2tyZi1kZnUtJWsiLCBNT0RFPSI2NjAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgQVRUUntpZFZlbmRvcn09PSIxZDUwIiwgQVRUUntpZFByb2R1Y3R9PT0iNjA0YiIsIFNZTUxJTksrPSJoYWNrcmYtamF3YnJlYWtlci0layIsIE1PREU9IjY2MCIsIEdST1VQPSJkaWFsb3V0IgogICAgICBBVFRSe2lkVmVuZG9yfT09IjFkNTAiLCBBVFRSe2lkUHJvZHVjdH09PSI2MDg5IiwgU1lNTElOSys9ImhhY2tyZi1vbmUtJWsiLCBNT0RFPSI2NjAiLCBHUk9VUD0iZGlhbG91dCIKICAgICAgQVRUUntpZFZlbmRvcn09PSIxZmM5IiwgQVRUUntpZFByb2R1Y3R9PT0iMDAwYyIsIFNZTUxJTksrPSJoYWNrcmYtZGZ1LSVrIiwgTU9ERT0iNjYwIiwgR1JPVVA9ImRpYWxvdXQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBidW1waW5nIFBQVCB2ZXJzaW9uIG51bWJlcgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBidW1waW5nIFBQVCB2ZXJzaW9uIG51bWJlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -968,8 +961,8 @@
         <entry>%s/LOGGER/self.logger/</entry>
         <entry>s/left/center/g</entry>
         <entry>s/left/right/g</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
