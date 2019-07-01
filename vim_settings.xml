@@ -403,10 +403,10 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1559261510504">
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" timestamp="1562016693907">
         <mark key="'" line="215" column="0" />
-        <mark key="[" line="215" column="63" />
-        <mark key="]" line="215" column="64" />
+        <mark key="[" line="224" column="6" />
+        <mark key="]" line="224" column="87" />
         <mark key="." line="215" column="64" />
         <mark key="^" line="213" column="114" />
       </file>
@@ -882,8 +882,8 @@
       <register name="/" type="4">
         <text>check_test_hw</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQVRUUntpZFZlbmRvcn09PSIxZDUwIiwgQVRUUntpZFByb2R1Y3R9PT0iNjA0YiIsIFNZTUxJTksrPSJoYWNrcmYtamF3YnJlYWtlci0tJWsiLCBNT0RFPSI2NjAiCg==</text>
+      <register name="0" type="4">
+        <text>ACTION==&quot;add&quot;, ATTR{idVendor}==&quot;0403&quot;, ATTR{manufacturer}==&quot;Digilent&quot;, MODE:=&quot;666&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
