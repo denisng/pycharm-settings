@@ -462,7 +462,7 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/acer-nuc/configuration.nix" timestamp="1562012912978">
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/acer-nuc/configuration.nix" timestamp="1562019033367">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
@@ -486,10 +486,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1562015618113">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1562019046405">
+        <mark key="[" line="75" column="26" />
+        <mark key="]" line="77" column="27" />
+        <mark key="." line="77" column="27" />
+        <mark key="^" line="77" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1558561309709">
         <mark key="'" line="223" column="16" />
@@ -913,7 +914,7 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -965,10 +966,10 @@
         <entry>W</entry>
         <entry>.w</entry>
         <entry>%s/LOGGER/self.logger/</entry>
-        <entry>q</entry>
         <entry>s/left/center/g</entry>
         <entry>s/left/right/g</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
