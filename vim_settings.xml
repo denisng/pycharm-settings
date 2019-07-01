@@ -185,6 +185,10 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="42" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/homes/mfg-tester/provision/.profile" timestamp="1562021893714">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="60" />
+      </file>
       <file name="/Python Console" timestamp="1559090039356">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -877,7 +881,9 @@
         <text>check_test_hw</text>
       </register>
       <register name="0" type="4">
-        <text>ACTION==&quot;add&quot;, ATTR{idVendor}==&quot;0403&quot;, ATTR{manufacturer}==&quot;Digilent&quot;, MODE:=&quot;666&quot;</text>
+        <text>export REGISTRAR_USER=&quot;ue9zHxcbvwe&quot;
+export REGISTRAR_PASSWORD=&quot;pVYPSlkQeCz&quot;
+export REGISTRAR_URL=&quot;https://registrar.preprod.swiftnav.com&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YWNlci1udWM6IHByb3Zpc2lvbl9hY2VyLW51YwoK</text>
