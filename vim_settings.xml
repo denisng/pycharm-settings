@@ -459,11 +459,11 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/acer-nuc/configuration.nix" timestamp="1562020380300">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="24" column="2" />
-        <mark key="^" line="24" column="2" />
+      <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/acer-nuc/configuration.nix" timestamp="1562024050444">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="35" />
+        <mark key="." line="31" column="24" />
+        <mark key="^" line="31" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" timestamp="1560893372216">
         <mark key="'" line="105" column="43" />
@@ -875,7 +875,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>enp0s20f0u4</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
