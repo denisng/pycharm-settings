@@ -364,6 +364,13 @@
         <mark key="]" line="57" column="48" />
         <mark key="." line="57" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562104504308">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="39" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
         <mark key="[" line="72" column="45" />
@@ -618,6 +625,12 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="20" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/gnss_receiver.py" timestamp="1562104182510">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_sd.py" timestamp="1555376728967">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="1" />
@@ -763,9 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
-      <jump line="235" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
-      <jump line="16" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="300" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="215" column="18" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="304" column="50" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
@@ -863,6 +873,9 @@
       <jump line="330" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="379" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="105" column="43" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/gnss_receiver.py" />
+      <jump line="7" column="19" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -881,7 +894,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>enp0s20f0u4</text>
+        <text>http_port=80</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
@@ -892,31 +905,31 @@ export REGISTRAR_PASSWORD=&quot;pVYPSlkQeCz&quot;
 export REGISTRAR_URL=&quot;https://registrar.preprod.swiftnav.com&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWNlci1udWM6IHByb3Zpc2lvbl9hY2VyLW51YwoK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50ICdGaXJtd2FyZTogJXMnICUgZHV0LmdldF9maXJtd2FyZV92ZXJzaW9uKCkK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">YWNlci1udWM6IHByb3Zpc2lvbl9hY2VyLW51Ywo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwbHVnZGV2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoJ3J4X3R5cGUgdW5rbm93bicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQVRUUntpZFZlbmRvcn09PSIxZDUwIiwgQVRUUntpZFByb2R1Y3R9PT0iNjA0YiIsIFNZTUxJTksrPSJoYWNrcmYtamF3YnJlYWtlci0layIsIE1PREU9IjY2MCIKICAgICAgQVRUUntpZFZlbmRvcn09PSIxZDUwIiwgQVRUUntpZFByb2R1Y3R9PT0iNjA4OSIsIFNZTUxJTksrPSJoYWNrcmYtb25lLSVrIiwgTU9ERT0iNjYwIgogICAgICBBVFRSe2lkVmVuZG9yfT09IjFmYzkiLCBBVFRSe2lkUHJvZHVjdH09PSIwMDBjIiwgU1lNTElOSys9ImhhY2tyZi1kZnUtJWsiLCBNT0RFPSI2NjAiCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQVRUUntpZFZlbmRvcn09PSIxZDUwIiwgQVRUUntpZFByb2R1Y3R9PT0iNjA0YiIsIFNZTUxJTksrPSJoYWNrcmYtamF3YnJlYWtlci0layIsIE1PREU9IjY2MCIsIEdST1VQPSJkaWFsb3V0IgogICAgICBBVFRSe2lkVmVuZG9yfT09IjFkNTAiLCBBVFRSe2lkUHJvZHVjdH09PSI2MDg5IiwgU1lNTElOSys9ImhhY2tyZi1vbmUtJWsiLCBNT0RFPSI2NjAiLCBHUk9VUD0iZGlhbG91dCIKICAgICAgQVRUUntpZFZlbmRvcn09PSIxZmM5IiwgQVRUUntpZFByb2R1Y3R9PT0iMDAwYyIsIFNZTUxJTksrPSJoYWNrcmYtZGZ1LSVrIiwgTU9ERT0iNjYwIiwgR1JPVVA9ImRpYWxvdXQiCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJpbWJsZVZlcnNpb241cDM3KHdhbl9pcF9hZGRyZXNzLCBiaW5hcnlfcG9ydCwgdXNlcm5hbWUsIHBhc3N3b3JkLCBodHRwX3BvcnQ9aHR0cF9wb3J0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoIlVzaW5nIHRyaW1ibGUgdjUuMzcgcmVjZWl2ZXIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBidW1waW5nIFBQVCB2ZXJzaW9uIG51bWJlcgo=</text>
+        <text encoding="base64">ICAgIGVsaWYgZmlybXdhcmVfdmVyc2lvbiA9PSAnNS4zNyc6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
