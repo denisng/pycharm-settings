@@ -247,12 +247,6 @@
         <mark key="^" line="97" column="41" />
         <mark key="." line="97" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_boot.tcl" timestamp="1558057735683">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="70" column="21" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" timestamp="1558479353249">
         <mark key="'" line="77" column="29" />
         <mark key="[" line="146" column="0" />
@@ -358,19 +352,13 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf.py" timestamp="1556677023156">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="57" column="47" />
-        <mark key="]" line="57" column="48" />
-        <mark key="." line="57" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562190047482">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562193298182">
         <mark key="s" line="28" column="17" />
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="90" column="15" />
-        <mark key="]" line="90" column="15" />
-        <mark key="." line="90" column="15" />
-        <mark key="^" line="156" column="22" />
+        <mark key="'" line="57" column="34" />
+        <mark key="[" line="102" column="67" />
+        <mark key="]" line="102" column="67" />
+        <mark key="." line="102" column="67" />
+        <mark key="^" line="102" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
@@ -378,12 +366,6 @@
         <mark key="]" line="73" column="17" />
         <mark key="." line="73" column="17" />
         <mark key="^" line="73" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf_with_tcl_and_fpga.tcl" timestamp="1558057626809">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="48" column="21" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_register.py" timestamp="1554249762810">
         <mark key="[" line="69" column="29" />
@@ -396,12 +378,6 @@
         <mark key="]" line="13" column="24" />
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/soft_reset.tcl" timestamp="1558057653931">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="37" column="21" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/test_controller.py" timestamp="1552104478811">
         <mark key="'" line="45" column="0" />
@@ -481,12 +457,12 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/configuration/logging.json" timestamp="1562190078117">
-        <mark key="'" line="20" column="20" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/configuration/logging.json" timestamp="1562192620193">
+        <mark key="'" line="25" column="20" />
         <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
-        <mark key="^" line="20" column="17" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="13" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1562020672422">
         <mark key="[" line="75" column="26" />
@@ -526,11 +502,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" timestamp="1562100847539">
-        <mark key="[" line="110" column="5" />
-        <mark key="]" line="110" column="5" />
-        <mark key="^" line="110" column="5" />
-        <mark key="." line="110" column="5" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" timestamp="1562191755293">
+        <mark key="'" line="113" column="5" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/__init__.py" timestamp="1554166047940">
         <mark key="'" line="4" column="12" />
@@ -582,11 +559,6 @@
         <mark key="^" line="227" column="27" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf.tcl" timestamp="1558057750173">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/config.json" timestamp="1562188503322">
         <mark key="[" line="0" column="0" />
       </file>
@@ -616,11 +588,12 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/gnss_receiver.py" timestamp="1562104182510">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/gnss_receiver.py" timestamp="1562192147443">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="52" />
+        <mark key="." line="29" column="52" />
+        <mark key="^" line="29" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_sd.py" timestamp="1555376728967">
         <mark key="[" line="12" column="0" />
@@ -767,8 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf_with_tcl_and_fpga.tcl" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf_with_tcl_and_fpga.tcl" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf_with_tcl_and_fpga.tcl" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf_with_tcl_and_fpga.tcl" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf_with_tcl_and_fpga.tcl" />
@@ -867,6 +838,8 @@
       <jump line="99" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="95" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="92" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="110" column="5" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" />
+      <jump line="57" column="34" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -885,7 +858,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
@@ -894,31 +867,31 @@
         <text encoding="base64">ICAgICAgICBwcmludF9mYWlsdXJlX2Jhbm5lcigpCiAgICAgICAgZXhpdCgxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzID0ganNvbi4K</text>
+        <text encoding="base64">CiAgICAjIG1ha2Ugc3VyZSBkaXJlY3RvcnkgZm9yIGxvZyBmaWxlcyBleGlzdHMKICAgIGxvZ19wYXRoID0gb3MucGF0aC5kaXJuYW1lKHNldHRpbmdzWydoYW5kbGVycyddWydmaWxlbmFtZSddKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGxvZ19wYXRoKToKICAgICAgICBvcy5tYWtlZGlycyhsb2dfcGF0aCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cygnL2hvbWUvcHJvdmlzaW9uL2xvZ3MnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAibG9nZ2VycyI6IHsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLl9fbmFtZV9fCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJmaWxlX2hhbmRsZXIiOiB7CiAgICAgICJjbGFzcyI6ICJsb2dnaW5nLmhhbmRsZXJzLlJvdGF0aW5nRmlsZUhhbmRsZXIiLAogICAgICAibGV2ZWwiOiAiREVCVUciLAogICAgICAiZm9ybWF0dGVyIjogImZpbGVfZm9ybWF0dGVyIiwKICAgICAgImZpbGVuYW1lIjogIi9ob21lL3Byb3Zpc2lvbi9sb2dzL2duc3MtMS1kZWJ1Zy5sb2ciLAogICAgICAibWF4Qnl0ZXMiOiAxMDI0LAogICAgICAiYmFja3VwQ291bnQiOiA1CiAgICB9Cg==</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIigpIjogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIm1vZGUiOiAidyIK</text>
+        <text encoding="base64">ICAgIHNldHRpbmdzID0ganNvbi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UkNWUl9IVFRQX1BPUlQgPSA4MAo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvb2wK</text>
+        <text encoding="base64">ICAibG9nZ2VycyI6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
