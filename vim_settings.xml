@@ -203,6 +203,12 @@
         <mark key="." line="29" column="58" />
         <mark key="^" line="29" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/build_test_gnss_receiver_1.py" timestamp="1562203926393">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" timestamp="1556660350503">
         <mark key="'" line="156" column="17" />
         <mark key="[" line="30" column="10" />
@@ -866,32 +872,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludF9mYWlsdXJlX2Jhbm5lcigpCiAgICAgICAgZXhpdCgxKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAjIG1ha2Ugc3VyZSBkaXJlY3RvcnkgZm9yIGxvZyBmaWxlcyBleGlzdHMKICAgIGxvZ19wYXRoID0gb3MucGF0aC5kaXJuYW1lKHNldHRpbmdzWydoYW5kbGVycyddWydmaWxlbmFtZSddKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGxvZ19wYXRoKToKICAgICAgICBvcy5tYWtlZGlycyhsb2dfcGF0aCkK</text>
+      <register name="1" type="4">
+        <text>import os
+import shutil</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cygnL2hvbWUvcHJvdmlzaW9uL2xvZ3MnKQo=</text>
+        <text encoding="base64">CiAgICAjIG1ha2Ugc3VyZSBkaXJlY3RvcnkgZm9yIGxvZyBmaWxlcyBleGlzdHMKICAgIGxvZ19wYXRoID0gb3MucGF0aC5kaXJuYW1lKHNldHRpbmdzWydoYW5kbGVycyddWydmaWxlbmFtZSddKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGxvZ19wYXRoKToKICAgICAgICBvcy5tYWtlZGlycyhsb2dfcGF0aCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cygnL2hvbWUvcHJvdmlzaW9uL2xvZ3MnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLl9fbmFtZV9fCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">awo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLl9fbmFtZV9fCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">awo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzID0ganNvbi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgIHNldHRpbmdzID0ganNvbi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAibG9nZ2VycyI6IHsK</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
