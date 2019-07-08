@@ -468,11 +468,11 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/configuration/logging.json" timestamp="1562192620193">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/configuration/logging.json" timestamp="1562623164178">
         <mark key="'" line="25" column="20" />
         <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="39" />
-        <mark key="." line="13" column="39" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/Makefile" timestamp="1562020672422">
@@ -875,7 +875,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>gnss_receiver.</text>
+        <text>/home/provision/logs/</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
