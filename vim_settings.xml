@@ -368,12 +368,13 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562622086565">
-        <mark key="s" line="28" column="17" />
-        <mark key="'" line="57" column="34" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="64" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562629451900">
+        <mark key="s" line="41" column="17" />
+        <mark key="'" line="70" column="34" />
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="18" column="41" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
@@ -472,10 +473,10 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/configuration/logging.json" timestamp="1562623164178">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/configuration/logging.json" timestamp="1562629443257">
         <mark key="'" line="25" column="20" />
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="19" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="34" />
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="39" />
       </file>
@@ -885,8 +886,7 @@
         <text>check_test_hw</text>
       </register>
       <register name="0" type="4">
-        <text>os.path.join(APP_DIR,
-                                     os.path.basename(path))</text>
+        <text>%Y-%m-%d %H:%M:%S</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcob3MucGF0aC5qb2luKEFQUF9ESVIsIG9zLnBhdGguYmFzZW5hbWUocGF0aCkpKQo=</text>
