@@ -517,12 +517,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" timestamp="1562191755293">
-        <mark key="'" line="113" column="5" />
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="^" line="1" column="8" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" timestamp="1562628548729">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="113" column="6" />
+        <mark key="]" line="116" column="4" />
+        <mark key="." line="116" column="4" />
+        <mark key="^" line="116" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/__init__.py" timestamp="1554166047940">
         <mark key="'" line="4" column="12" />
@@ -761,8 +761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf.tcl" />
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/run_elf.tcl" />
       <jump line="46" column="25" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
       <jump line="119" column="49" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
@@ -861,6 +859,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/build_test_gnss_receiver_1.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/build_test_gnss_receiver_1.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/build_test_gnss_receiver_1.py" />
+      <jump line="113" column="5" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="2">
