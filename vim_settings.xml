@@ -280,6 +280,12 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/station-management/goldcrest-devices/goldcrest_devices/gnss_receiver.py" timestamp="1562618356248">
+        <mark key="[" line="31" column="59" />
+        <mark key="]" line="31" column="64" />
+        <mark key="^" line="31" column="64" />
+        <mark key="." line="31" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/actions/setup_piksi.py" timestamp="1556152150966">
         <mark key="'" line="230" column="71" />
         <mark key="[" line="233" column="27" />
@@ -864,7 +870,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>new__</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
