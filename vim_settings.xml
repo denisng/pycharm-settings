@@ -364,13 +364,12 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562193298182">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562622086565">
         <mark key="s" line="28" column="17" />
         <mark key="'" line="57" column="34" />
-        <mark key="[" line="102" column="67" />
-        <mark key="]" line="102" column="67" />
-        <mark key="." line="102" column="67" />
-        <mark key="^" line="102" column="66" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="64" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
@@ -653,6 +652,12 @@
         <mark key="." line="82" column="38" />
         <mark key="^" line="83" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/Pipfile" timestamp="1562621752183">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1558474772452">
         <mark key="'" line="119" column="49" />
         <mark key="[" line="127" column="33" />
@@ -870,7 +875,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>new__</text>
+        <text>gnss_receiver.</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
@@ -878,33 +883,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludF9mYWlsdXJlX2Jhbm5lcigpCiAgICAgICAgZXhpdCgxKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBnb2xkY3Jlc3RfZGV2aWNlcy5nbnNzX3JlY2VpdmVyIGltcG9ydCBnZXRfY29uY3JldGVfdHJpbWJsZQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBnbnNzX3JlY2VpdmVyIGltcG9ydCBnZXRfY29uY3JldGVfdHJpbWJsZQo=</text>
+      </register>
+      <register name="3" type="4">
         <text>import os
 import shutil</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiAgICAjIG1ha2Ugc3VyZSBkaXJlY3RvcnkgZm9yIGxvZyBmaWxlcyBleGlzdHMKICAgIGxvZ19wYXRoID0gb3MucGF0aC5kaXJuYW1lKHNldHRpbmdzWydoYW5kbGVycyddWydmaWxlbmFtZSddKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGxvZ19wYXRoKToKICAgICAgICBvcy5tYWtlZGlycyhsb2dfcGF0aCkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cygnL2hvbWUvcHJvdmlzaW9uL2xvZ3MnKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLl9fbmFtZV9fCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLl9fbmFtZV9fCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzID0ganNvbi4K</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
