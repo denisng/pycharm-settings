@@ -657,11 +657,11 @@
         <mark key="." line="82" column="38" />
         <mark key="^" line="83" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/Pipfile" timestamp="1562621752183">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/Pipfile" timestamp="1562634592797">
         <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1558474772452">
         <mark key="'" line="119" column="49" />
@@ -880,7 +880,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>settings</text>
+        <text>0.12.0</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
