@@ -220,11 +220,12 @@
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/.ssh/ssh-config/configs/lab.ssh" timestamp="1562708497934">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="37" column="23" />
-        <mark key="." line="37" column="23" />
-        <mark key="^" line="37" column="23" />
+      <file name="$USER_HOME$/.ssh/ssh-config/configs/lab.ssh" timestamp="1562709254995">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="25" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" timestamp="1553028080687">
         <mark key="'" line="30" column="12" />
@@ -773,8 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="23" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
-      <jump line="37" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="62" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="61" column="9" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="27" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
@@ -873,6 +872,8 @@
       <jump line="206" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="204" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="201" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="31" column="23" filename="$USER_HOME$/.ssh/ssh-config/configs/lab.ssh" />
+      <jump line="21" column="0" filename="$USER_HOME$/.ssh/ssh-config/configs/lab.ssh" />
     </jumps>
     <registers>
       <register name="a" type="2">
