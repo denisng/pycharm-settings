@@ -368,13 +368,13 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562629451900">
-        <mark key="s" line="41" column="17" />
-        <mark key="'" line="70" column="34" />
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="18" column="41" />
-        <mark key="." line="18" column="24" />
-        <mark key="^" line="18" column="23" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562630926538">
+        <mark key="s" line="58" column="17" />
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="130" column="8" />
+        <mark key="]" line="130" column="21" />
+        <mark key="^" line="130" column="21" />
+        <mark key="." line="130" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
@@ -806,7 +806,6 @@
       <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="11" column="5" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
@@ -862,6 +861,7 @@
       <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/build_test_gnss_receiver_1.py" />
       <jump line="113" column="5" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" />
+      <jump line="37" column="26" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -880,7 +880,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>settings</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
@@ -889,31 +889,31 @@
         <text>%Y-%m-%d %H:%M:%S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcob3MucGF0aC5qb2luKEFQUF9ESVIsIG9zLnBhdGguYmFzZW5hbWUocGF0aCkpKQo=</text>
+        <text encoding="base64">ICAgICMgbWFrZSBzdXJlIGRpcmVjdG9yeSBmb3IgbG9nIGZpbGVzIGV4aXN0cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcocGF0aCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwuY29weXRyZWUocGF0aCwKICAgICAgICAgICAgICAgICAgICAgICAgb3MucGF0aC5qb2luKEFQUF9ESVIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcy5wYXRoLmJhc2VuYW1lKHBhdGgpKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwuY29weShwYXRoLCBBUFBfRElSKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZXR0aW5ncyA9IGpzb24ubG9hZChzZXR0aW5nX2ZpbGUpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3BlbignY29uZmlndXJhdGlvbi9sb2dnaW5nLmpzb24nKSBhcyBzZXR0aW5nX2ZpbGU6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcob3MucGF0aC5qb2luKEFQUF9ESVIsIG9zLnBhdGguYmFzZW5hbWUocGF0aCkpKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG9zLmlzCg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcocGF0aCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3MubWFrZWRpcnMoQVBQX0RJUikK</text>
+        <text encoding="base64">ICAgICAgICBzaHV0aWwuY29weXRyZWUocGF0aCwKICAgICAgICAgICAgICAgICAgICAgICAgb3MucGF0aC5qb2luKEFQUF9ESVIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcy5wYXRoLmJhc2VuYW1lKHBhdGgpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBwcmVwYXJlIHRoZSBmaWxlcwo=</text>
+        <text encoding="base64">ICAgICAgICBzaHV0aWwuY29weShwYXRoLCBBUFBfRElSKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBtYWtlIHN1cmUgd2UgaGF2ZSBhIGNsZWFuIGJ1aWxkIGRpcmVjdG9yeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
