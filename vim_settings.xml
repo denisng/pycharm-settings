@@ -206,12 +206,12 @@
         <mark key="." line="29" column="58" />
         <mark key="^" line="29" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/build_test_gnss_receiver_1.py" timestamp="1562628066542">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/build_test_gnss_receiver_1.py" timestamp="1562637339889">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="30" column="39" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="23" column="46" />
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="24" column="21" />
+        <mark key="." line="24" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/crl_interface.py" timestamp="1556660350503">
         <mark key="'" line="156" column="17" />
@@ -368,13 +368,13 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562630926538">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562638230348">
         <mark key="s" line="58" column="17" />
-        <mark key="'" line="38" column="26" />
-        <mark key="[" line="130" column="8" />
-        <mark key="]" line="130" column="21" />
-        <mark key="^" line="130" column="21" />
-        <mark key="." line="130" column="21" />
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="217" column="7" />
+        <mark key="]" line="217" column="6" />
+        <mark key="^" line="217" column="6" />
+        <mark key="." line="217" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
@@ -518,12 +518,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" timestamp="1562628548729">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" timestamp="1562638493145">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="113" column="6" />
-        <mark key="]" line="116" column="4" />
-        <mark key="." line="116" column="4" />
-        <mark key="^" line="116" column="4" />
+        <mark key="[" line="118" column="16" />
+        <mark key="]" line="119" column="19" />
+        <mark key="." line="119" column="19" />
+        <mark key="^" line="119" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/configuration/__init__.py" timestamp="1554166047940">
         <mark key="'" line="4" column="12" />
@@ -762,16 +762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="25" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="119" column="49" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" />
-      <jump line="20" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/ettus_controller.py" />
-      <jump line="150" column="40" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
-      <jump line="85" column="57" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
-      <jump line="290" column="45" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
-      <jump line="172" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
-      <jump line="163" column="39" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="21" column="23" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="37" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
       <jump line="62" column="35" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_end_to_end.py" />
@@ -862,6 +852,16 @@
       <jump line="113" column="5" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" />
       <jump line="37" column="26" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="195" column="7" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="61" column="17" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="199" column="17" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="202" column="7" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="203" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="220" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="208" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="206" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="204" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
+      <jump line="201" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -880,40 +880,40 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0.12.0</text>
+        <text>dut</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
       </register>
-      <register name="0" type="4">
-        <text>%Y-%m-%d %H:%M:%S</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW5kX3Rlc3QoRVhJVF9DT0RFX0ZBSUwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbWFrZSBzdXJlIGRpcmVjdG9yeSBmb3IgbG9nIGZpbGVzIGV4aXN0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0tLS0tLS0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR0aW5ncyA9IGpzb24ubG9hZChzZXR0aW5nX2ZpbGUpCg==</text>
+        <text encoding="base64">ICAgIFJldHVybnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignY29uZmlndXJhdGlvbi9sb2dnaW5nLmpzb24nKSBhcyBzZXR0aW5nX2ZpbGU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcob3MucGF0aC5qb2luKEFQUF9ESVIsIG9zLnBhdGguYmFzZW5hbWUocGF0aCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcocGF0aCkK</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3VyZV9sb2dnaW5nKCkKCiAgICBwcmludF9zdGFydF9iYW5uZXIoKQoKICAgIGR1dCA9IHN0ZXBfMSgpCgogICAgaWYgZHV0OgogICAgICAgIGlmIHN0ZXBfMihkdXQpOgogICAgICAgICAgICBwcmludF9zdWNjZXNzX2Jhbm5lcigpCiAgICAgICAgICAgIGVuZF90ZXN0KEVYSVRfQ09ERV9QQVNTKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50X2ZhaWx1cmVfYmFubmVyKCkKICAgICAgICAgICAgZW5kX3Rlc3QoRVhJVF9DT0RFX0ZBSUwpCiAgICBlbHNlOgogICAgICAgIHByaW50X2ZhaWx1cmVfYmFubmVyKCkKICAgICAgICBlbmRfdGVzdChFWElUX0NPREVfRkFJTCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwuY29weXRyZWUocGF0aCwKICAgICAgICAgICAgICAgICAgICAgICAgb3MucGF0aC5qb2luKEFQUF9ESVIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcy5wYXRoLmJhc2VuYW1lKHBhdGgpKSkK</text>
+        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwuY29weShwYXRoLCBBUFBfRElSKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kX3Rlc3QoRVhJVF9DT0RFX1BBU1MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
