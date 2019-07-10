@@ -380,13 +380,13 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562800305761">
-        <mark key="s" line="66" column="17" />
-        <mark key="'" line="169" column="33" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="^" line="173" column="23" />
-        <mark key="." line="174" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562801001705">
+        <mark key="s" line="61" column="17" />
+        <mark key="'" line="164" column="33" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="219" column="11" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
@@ -896,40 +896,40 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Main test logic.</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kX3Rlc3QoRVhJVF9DT0RFX0ZBSUwpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TE9HR0VSLmRlYnVnKFNJVEVfUEFDS0FHRVNfRElSKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdz1SQ1ZSX1BBU1NXT1JEKSkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBqc29uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bmFtZT1SQ1ZSX1VTRVJOQU1FLAo=</text>
+        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3J0PVJDVlJfSFRUUF9QT1JULAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzaW1wbGVqc29uIGFzIGpzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuY3JpdGljYWwobXNnLmZvcm1hdChpcD1SQ1ZSX0lQLAo=</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAne2lwfTp7cG9ydH0sIHVzZXJuYW1lOiB7dW5hbWV9LCBwYXNzd29yZDoge3B3fScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSAndW5hYmxlIHRvIGNvbm5lY3QgdG8gQ0hDTkFWIFAyIHVzaW5nIGFkZHJlc3M6ICcgXAo=</text>
+        <text encoding="base64">ICAgIC0tLS0tLS0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CltyZXF1aXJlc10KcHl0aG9uX3ZlcnNpb24gPSAiMyIK</text>
+        <text encoding="base64">ICAgIFJldHVybnMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
