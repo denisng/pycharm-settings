@@ -381,13 +381,13 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562725979535">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1562794181060">
         <mark key="s" line="58" column="17" />
         <mark key="'" line="202" column="0" />
-        <mark key="[" line="71" column="28" />
-        <mark key="]" line="71" column="71" />
-        <mark key="^" line="71" column="71" />
-        <mark key="." line="71" column="71" />
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
@@ -898,7 +898,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
