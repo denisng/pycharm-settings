@@ -150,7 +150,8 @@
         <mark key="." line="41" column="31" />
         <mark key="^" line="41" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/test-gnss-1-chcnavp2.desktop" timestamp="1562805418843">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/test-gnss-1-chcnavp2.desktop" timestamp="1562810991667">
+        <mark key="'" line="4" column="22" />
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="22" />
         <mark key="^" line="8" column="22" />
@@ -792,7 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="29" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="33" column="9" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="39" column="9" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="45" column="9" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
@@ -892,6 +892,7 @@
       <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/install_test_gnss_receiver_1.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/install_test_gnss_receiver_1.py" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/install_test_gnss_receiver_1.py" />
+      <jump line="4" column="22" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/test-gnss-1-chcnavp2.desktop" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -913,7 +914,7 @@
         <text>(' ' * 60) + '[ERROR]'</text>
       </register>
       <register name="/" type="4">
-        <text>check_test_hw</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">b3MucGF0aC5qb2luKG9zLmdldGN3ZCgpLCA=</text>
@@ -950,17 +951,16 @@
       </register>
     </registers>
     <search>
-      <last-search>check_test_hw</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>check_test_hw</last-pattern>
-      <last-replace>right</last-replace>
-      <last-substitute>left</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace />
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
         <entry>analog</entry>
         <entry>logging.getLogger</entry>
         <entry>eng_notation</entry>
@@ -980,9 +980,9 @@
         <entry>dialout</entry>
         <entry>self.run_tests</entry>
         <entry>check_test_hw</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>20,25s/\./._/</entry>
         <entry>31,38d</entry>
         <entry encoding="base64">MzAsMzc8</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1001,6 +1001,7 @@
         <entry>q</entry>
         <entry>11,18d</entry>
         <entry>W</entry>
+        <entry>%s/&quot;//g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
