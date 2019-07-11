@@ -233,12 +233,11 @@
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/.ssh/ssh-config/configs/lab.ssh" timestamp="1562709254995">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="25" column="23" />
-        <mark key="^" line="25" column="23" />
-        <mark key="." line="25" column="23" />
+      <file name="$USER_HOME$/.ssh/ssh-config/configs/lab.ssh" timestamp="1562811486082">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="23" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_ram.py" timestamp="1553028080687">
         <mark key="'" line="30" column="12" />
@@ -911,7 +910,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>(' ' * 60) + '[ERROR]'</text>
+        <text>10.1.22.35</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
