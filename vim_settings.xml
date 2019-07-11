@@ -599,12 +599,12 @@
         <mark key="^" line="227" column="27" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/install_test_gnss_receiver_1.py" timestamp="1562807802140">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/install_test_gnss_receiver_1.py" timestamp="1562809803624">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="21" column="72" />
-        <mark key="]" line="21" column="72" />
-        <mark key="." line="21" column="72" />
-        <mark key="^" line="21" column="72" />
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="59" column="28" />
+        <mark key="." line="59" column="28" />
+        <mark key="^" line="59" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/config.json" timestamp="1562188503322">
         <mark key="[" line="0" column="0" />
@@ -910,7 +910,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>(' ' * 60) + '[ERROR]'</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
@@ -919,31 +919,31 @@
         <text encoding="base64">b3MucGF0aC5qb2luKG9zLmdldGN3ZCgpLCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygnJXMgYWxyZWFkeSBleGlzdHMnLCBESVJfU1dJRlQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygnJXMgYWxyZWFkeSBleGlzdHMnLCBESVJfU1dJRlQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2h1dGlsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TE9HR0VSLmRlYnVnKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdAo=</text>
+        <text encoding="base64">c2h1dGlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygpCg==</text>
+        <text encoding="base64">TE9HR0VSLmRlYnVnKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TE9HR0VSLmluZm8oJ0NyZWF0aW5nIC9ob21lL3Byb3Zpc2lvbi8uc3dpZnQgZGlyZWN0b3J5Li4uJykK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5jcml0aWNhbCgpCg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
