@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="tcl" type="PLAIN_TEXT" />
       <mapping ext="hebilog" type="PLAIN_TEXT" />
+      <mapping ext="desktop" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
