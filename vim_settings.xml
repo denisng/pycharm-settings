@@ -599,12 +599,12 @@
         <mark key="^" line="227" column="27" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/install_test_gnss_receiver_1.py" timestamp="1562804792428">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/install_test_gnss_receiver_1.py" timestamp="1562807802140">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="59" column="39" />
-        <mark key="]" line="60" column="19" />
-        <mark key="." line="60" column="19" />
-        <mark key="^" line="60" column="19" />
+        <mark key="[" line="21" column="72" />
+        <mark key="]" line="21" column="72" />
+        <mark key="." line="21" column="72" />
+        <mark key="^" line="21" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/config.json" timestamp="1562188503322">
         <mark key="[" line="0" column="0" />
@@ -910,13 +910,13 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0.0.0</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>check_test_hw</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">TE9HR0VSLmluZm8oTVNHX0RPTkUpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">b3MucGF0aC5qb2luKG9zLmdldGN3ZCgpLCA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygnJXMgYWxyZWFkeSBleGlzdHMnLCBESVJfU1dJRlQpCg==</text>
