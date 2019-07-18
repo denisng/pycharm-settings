@@ -760,12 +760,12 @@
         <mark key="." line="26" column="41" />
         <mark key="^" line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/response/routers.py" timestamp="1563415818090">
-        <mark key="'" line="11" column="70" />
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="10" />
-        <mark key="." line="19" column="10" />
-        <mark key="^" line="19" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/response/routers.py" timestamp="1563417268910">
+        <mark key="'" line="30" column="1" />
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="21" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/dev_hackrf_cw.py" timestamp="1557262431077">
         <mark key="[" line="30" column="47" />
@@ -814,7 +814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="0" filename="$USER_HOME$/Documents/GitHub/nixos-machines/modules/provision/default.nix" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="330" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
       <jump line="379" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/gui/base_gui.py" />
@@ -914,6 +913,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/base.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/base.py" />
       <jump line="10" column="70" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/response/routers.py" />
+      <jump line="23" column="1" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/response/routers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -932,7 +932,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Base</text>
+        <text encoding="base64">IGFjdGlvbg==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -949,31 +949,31 @@ import logging
 LOGGER = logging.getLogger(__name__)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjcmFkbGVwb2ludF9hcGkucmVzcG9uc2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGF0dHJfbmFtZSwgYXR0cl92YWwgaW4gdmlld2l0ZW1zKGpzb25fb2JqZWN0KToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhYmMgaW1wb3J0IEFCQ01ldGEK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBjcmFkbGVwb2ludF9hcGkucmVzcG9uc2UuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
