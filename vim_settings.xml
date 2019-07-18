@@ -63,6 +63,13 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/base.py" timestamp="1563410324648">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="34" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="26" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/script_runner.py" timestamp="1552352977036">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="21" column="49" />
@@ -205,7 +212,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1559090039356">
+      <file name="/Python Console" timestamp="1563410051603">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -693,6 +700,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/setup.py" timestamp="1563409345648">
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="17" column="47" />
+        <mark key="^" line="17" column="47" />
+        <mark key="." line="17" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1558474772452">
         <mark key="'" line="119" column="49" />
         <mark key="[" line="127" column="33" />
@@ -792,7 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="9" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="39" column="9" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="45" column="9" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
       <jump line="51" column="9" filename="$USER_HOME$/Documents/GitHub/nixos-machines/python_repos/piksi_provision_tools/piksi_provision_tools/tests/test_rf_specan.py" />
@@ -892,6 +904,7 @@
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/install_test_gnss_receiver_1.py" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/install_test_gnss_receiver_1.py" />
       <jump line="4" column="22" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/test-gnss-1-chcnavp2.desktop" />
+      <jump line="10" column="7" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/base.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -910,7 +923,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>10.1.22.35</text>
+        <text encoding="base64">IHJlcXVlc3Qu</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -919,31 +932,31 @@
         <text encoding="base64">b3MucGF0aC5qb2luKG9zLmdldGN3ZCgpLCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygnJXMgYWxyZWFkeSBleGlzdHMnLCBESVJfU1dJRlQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygnJXMgYWxyZWFkeSBleGlzdHMnLCBESVJfU1dJRlQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2h1dGlsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TE9HR0VSLmRlYnVnKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdAo=</text>
+        <text encoding="base64">c2h1dGlsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygpCg==</text>
+        <text encoding="base64">TE9HR0VSLmRlYnVnKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
