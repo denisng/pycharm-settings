@@ -113,9 +113,9 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/include/netcloud" timestamp="1563507688011">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="9" />
+      <file name="$USER_HOME$/include/netcloud" timestamp="1563513086338">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="62" />
         <mark key="." line="3" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/const.py" timestamp="1558057475751">
@@ -651,11 +651,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" timestamp="1563505838612" />
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" timestamp="1563509240376">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="12" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" timestamp="1563513800427">
+        <mark key="'" line="4" column="17" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1554153146607">
         <mark key="'" line="10" column="17" />
@@ -856,7 +857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="5" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
@@ -956,6 +956,7 @@
       <jump line="3" column="6" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/secrets.py" />
       <jump line="12" column="52" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/secrets.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/secrets.py" />
+      <jump line="4" column="17" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -974,58 +975,56 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>?mac=</text>
       </register>
       <register name="/" type="4">
-        <text>-</text>
+        <text>=</text>
       </register>
-      <register name="0" type="4">
-        <text>X-ECM-API-KEY</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0IFhfQ1BfQVBJX0lEPSI4NThlYTllYyIKZXhwb3J0IFhfQ1BfQVBJX0tFWT0iZjdiNzcwMzI5MTk1YTM1ZWNiZDVmNDBhMmUxYzMwYzkiCmV4cG9ydCBYX0VDTV9BUElfSUQ9IjRkMjVmNDlhLTJiNjctNDU4My04Y2NjLWVlN2MzZDdiNDQxNiIKZXhwb3J0IFhfRUNNX0FQSV9LRVk9IjBiZTNjMDBkYWY1MWE3Y2E1NjcxYzM4N2E2MDQwZDViODNkMDE4NWEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aGVhZGVyID0ge30KCmZvciBrZXkgaW4gU0VDUkVUX1RSQU5TTEFUSU9OOgogICAgaGVhZGVyW1NFQ1JFVF9UUkFOU0xBVElPTltrZXldXSA9IG9zLmVudmlyb25ba2V5XQoKcHJpbnQgaGVhZGVyCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aGVhZGVyID0ge30KCmZvciBrZXkgaW4gU0VDUkVUX1RSQU5TTEFUSU9OOgogICAgaGVhZGVyW1NFQ1JFVF9UUkFOU0xBVElPTltrZXldXSA9IG9zLmVudmlyb25ba2V5XQoKcHJpbnQgaGVhZGVyCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdYLUVDTS1BUEktS0VZJwo=</text>
+        <text encoding="base64">XSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdYLUVDTS1BUEktSUQnLAo=</text>
+        <text encoding="base64">ICAgICdYLUVDTS1BUEktS0VZJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdYLUNQLUFQSS1LRVknLAo=</text>
+        <text encoding="base64">ICAgICdYLUVDTS1BUEktSUQnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdYLUNQLUFQSS1JRCcsCg==</text>
+        <text encoding="base64">ICAgICdYLUNQLUFQSS1LRVknLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>-</last-search>
+      <last-search>=</last-search>
       <last-offset />
-      <last-pattern>-</last-pattern>
-      <last-replace>_</last-replace>
-      <last-substitute>-</last-substitute>
+      <last-pattern>=</last-pattern>
+      <last-replace>:</last-replace>
+      <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logging.getLogger</entry>
-        <entry>eng_notation</entry>
         <entry>self.gain</entry>
         <entry>ettus.set_freq</entry>
         <entry>set_freq</entry>
@@ -1044,10 +1043,10 @@
         <entry>check_test_hw</entry>
         <entry>&quot;</entry>
         <entry>-</entry>
+        <entry encoding="base64">ZXhwb3J0IA==</entry>
+        <entry>=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">MzAsMzc8</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zL21zZ19pZC9yYXRlX2Rpdmlzb3IvZw==</entry>
         <entry>95,102d</entry>
         <entry encoding="base64">JzwsJz5zL3JhdGVfZGl2aXNvci9tc2dfZGl2L2c=</entry>
@@ -1065,6 +1064,8 @@
         <entry>W</entry>
         <entry>%s/&quot;//g</entry>
         <entry>4,7s/-/_/g</entry>
+        <entry>5,8s/export //</entry>
+        <entry>5,8s/=/:/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
