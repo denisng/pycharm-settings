@@ -113,10 +113,10 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/include/netcloud" timestamp="1563513086338">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="62" />
-        <mark key="." line="3" column="9" />
+      <file name="$USER_HOME$/include/netcloud" timestamp="1563515019628">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="56" />
+        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/const.py" timestamp="1558057475751">
         <mark key="[" line="0" column="20" />
@@ -651,12 +651,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" timestamp="1563505838612" />
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" timestamp="1563513800427">
-        <mark key="'" line="4" column="17" />
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="35" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" timestamp="1563515214735">
+        <mark key="'" line="8" column="56" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="50" column="79" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1554153146607">
         <mark key="'" line="10" column="17" />
@@ -857,9 +857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="112" column="8" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
@@ -957,6 +954,9 @@
       <jump line="12" column="52" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/secrets.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/secrets.py" />
       <jump line="4" column="17" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" />
+      <jump line="14" column="35" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" />
+      <jump line="8" column="56" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -975,40 +975,42 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>?mac=</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IFhfQ1BfQVBJX0lEPSI4NThlYTllYyIKZXhwb3J0IFhfQ1BfQVBJX0tFWT0iZjdiNzcwMzI5MTk1YTM1ZWNiZDVmNDBhMmUxYzMwYzkiCmV4cG9ydCBYX0VDTV9BUElfSUQ9IjRkMjVmNDlhLTJiNjctNDU4My04Y2NjLWVlN2MzZDdiNDQxNiIKZXhwb3J0IFhfRUNNX0FQSV9LRVk9IjBiZTNjMDBkYWY1MWE3Y2E1NjcxYzM4N2E2MDQwZDViODNkMDE4NWEiCg==</text>
+      <register name="0" type="4">
+        <text>60202875-02fa-4722-97d1-be12d3ea0cc4</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aGVhZGVyID0ge30KCmZvciBrZXkgaW4gU0VDUkVUX1RSQU5TTEFUSU9OOgogICAgaGVhZGVyW1NFQ1JFVF9UUkFOU0xBVElPTltrZXldXSA9IG9zLmVudmlyb25ba2V5XQoKcHJpbnQgaGVhZGVyCg==</text>
+        <text encoding="base64">cmVxID0gCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>requests.get(url,
+                        headers=headers,
+                        params=query)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdYLUVDTS1BUEktS0VZJwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdYLUVDTS1BUEktSUQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdYLUNQLUFQSS1LRVknLAo=</text>
+        <text encoding="base64">aGVhZGVyID0ge30KCmZvciBrZXkgaW4gU0VDUkVUX1RSQU5TTEFUSU9OOgogICAgaGVhZGVyW1NFQ1JFVF9UUkFOU0xBVElPTltrZXldXSA9IG9zLmVudmlyb25ba2V5XQoKcHJpbnQgaGVhZGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
