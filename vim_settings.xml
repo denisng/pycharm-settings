@@ -194,11 +194,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" timestamp="1563505949334">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="3" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" timestamp="1563570611369">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_hw.py" timestamp="1551226368727">
         <mark key="[" line="10" column="6" />
@@ -602,12 +603,12 @@
         <mark key="^" line="69" column="45" />
         <mark key="." line="69" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/secrets.py" timestamp="1563508867388">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/secrets.py" timestamp="1563570186982">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="22" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+        <mark key="^" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/abstract_devices.py" timestamp="1555971344322">
         <mark key="[" line="12" column="26" />
@@ -650,7 +651,6 @@
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/config.json" timestamp="1562188503322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" timestamp="1563505838612" />
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" timestamp="1563515309147">
         <mark key="'" line="8" column="56" />
         <mark key="[" line="53" column="3" />
@@ -857,7 +857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="112" column="8" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="119" column="49" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
@@ -957,6 +956,7 @@
       <jump line="14" column="35" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" />
       <jump line="8" column="56" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -975,7 +975,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>EndpointRouters</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
@@ -984,33 +984,33 @@
         <text>60202875-02fa-4722-97d1-be12d3ea0cc4</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVybCA9ICcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>requests.get(url,
-                        headers=headers,
-                        params=query)</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cmVxID0gCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>requests.get(url,
+                        headers=headers,
+                        params=query)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aGVhZGVyID0ge30KCmZvciBrZXkgaW4gU0VDUkVUX1RSQU5TTEFUSU9OOgogICAgaGVhZGVyW1NFQ1JFVF9UUkFOU0xBVElPTltrZXldXSA9IG9zLmVudmlyb25ba2V5XQoKcHJpbnQgaGVhZGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
