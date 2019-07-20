@@ -194,12 +194,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" timestamp="1563576558765">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="30" column="25" />
-        <mark key="^" line="30" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" timestamp="1563581407794">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="38" column="41" />
+        <mark key="]" line="38" column="42" />
+        <mark key="." line="38" column="42" />
+        <mark key="^" line="38" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_hw.py" timestamp="1551226368727">
         <mark key="[" line="10" column="6" />
@@ -658,12 +658,12 @@
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/config.json" timestamp="1562188503322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" timestamp="1563577097581">
-        <mark key="'" line="8" column="21" />
-        <mark key="[" line="34" column="58" />
-        <mark key="]" line="34" column="61" />
-        <mark key="." line="34" column="61" />
-        <mark key="^" line="34" column="61" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" timestamp="1563581356003">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="37" column="67" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/test.py" timestamp="1563571463412">
         <mark key="'" line="8" column="56" />
@@ -871,13 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/build_test_gnss_receiver_1.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/build_test_gnss_receiver_1.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/build_test_gnss_receiver_1.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/build_test_gnss_receiver_1.py" />
-      <jump line="113" column="5" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/.gitignore" />
-      <jump line="37" column="26" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="195" column="7" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="61" column="17" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
       <jump line="199" column="17" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" />
@@ -964,13 +957,20 @@
       <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
       <jump line="2" column="14" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
-      <jump line="9" column="21" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
+      <jump line="35" column="29" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -989,7 +989,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>``</text>
@@ -998,31 +998,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLmpzb24oKVsnZXhjZXB0aW9uJ11bJ3R5cGUnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJhbXM9cWFyZ3MpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXJzPXNlbGYuX2hlYWRlcnMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09ERV9ERUxFVEVfT0sgPSByZXF1ZXN0cy5jb2Rlcy5ub19jb250ZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldCh1cmw9c2VsZi5fdXJsLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09ERV9QVVRfT0sgPSByZXF1ZXN0cy5jb2Rlcy5hY2NlcHRlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q09ERV9QT1NUX09LID0gcmVxdWVzdHMuY29kZXMuY3JlYXRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IobXNnLCB0ZXJtLCBxYXJnc1t0ZXJtXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q09ERV9HRVRfT0sgPSByZXF1ZXN0cy5jb2Rlcy5vawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZyA9ICclcz0lcyBpcyBub3QgYSB2YWxpZCBxdWVyeSB0ZXJtJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdGVybSBub3QgaW4gUk9VVEVSU19HRVRfUVVFUllfVEVSTVM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdGVybSBpbiBxYXJnczoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBjcmFkbGVwb2ludF9hcGkuZW5kcG9pbnRzLmJhc2VzIGltcG9ydCBQQUdJTkdfUVVFUllfVEVSTVMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
