@@ -345,12 +345,12 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/product.py" timestamp="1563926164176">
-        <mark key="'" line="16" column="10" />
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="33" column="36" />
-        <mark key="^" line="33" column="36" />
-        <mark key="." line="33" column="36" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/product.py" timestamp="1563930845316">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="4" column="65" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" timestamp="1554160917367">
         <mark key="'" line="97" column="56" />
@@ -911,9 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" />
       <jump line="26" column="4" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" />
       <jump line="7" column="20" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" />
@@ -1011,6 +1008,9 @@
       <jump line="92" column="14" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/router.py" />
       <jump line="5" column="43" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/router.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/router.py" />
+      <jump line="48" column="7" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/product.py" />
+      <jump line="2" column="14" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/product.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/product.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1038,31 +1038,31 @@
         <text encoding="base64">ZnJvbSBjcmFkbGVwb2ludF9hcGkuZW5kcG9pbnRzLmJhc2VzIGltcG9ydCBBcGlCYXNlR2V0UmVxdWVzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cHk6Y2xhc3M6YGNyYWRsZXBvaW50YAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGJldHRlciByZXR1cm4gdmFsdWUK</text>
+        <text encoding="base64">Y2xhc3MgUHJvZHVjdEF0dHJpYnV0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+        <text encoding="base64">ICAgICAgICA6cHk6Y2xhc3M6YGNyYWRsZXBvaW50YAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcHJvZHVjdAo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGJldHRlciByZXR1cm4gdmFsdWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHJldHVybiBhIHByb2R1Y3Qgb2JqZWN0IGluc3RlYWQ/Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fcHJvZHVjdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
