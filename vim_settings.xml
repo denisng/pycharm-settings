@@ -885,6 +885,12 @@
         <mark key="." line="28" column="11" />
         <mark key="^" line="28" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/account.py" timestamp="1564438021761">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf.py" timestamp="1557184376354">
         <mark key="'" line="22" column="9" />
         <mark key="[" line="0" column="31" />
@@ -920,7 +926,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/router.py" />
       <jump line="72" column="69" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/router.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" />
@@ -1020,6 +1025,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/product.py" />
       <jump line="83" column="38" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
       <jump line="6" column="65" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/product.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/account.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1038,7 +1044,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Abstraction of the Cradlepoint NetCloud API /routers/ endpoint.</text>
+        <text>classmethod</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
@@ -1047,31 +1053,31 @@
         <text encoding="base64">ICAgIHByaW50KCdwcm9kdWN0IG5hbWU6Jywgcm91dGVyLnByb2R1Y3QubmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WC1FQ00tQVBJLUlEOjYwMjAyODc1LTAyZmEtNDcyMi05N2QxLWJlMTJkM2VhMGNjNApYLUVDTS1BUEktS0VZOjE0NDRmMWU0ZWZkYWEzZGY0ZjJlMDkwMTEyNzAxNTYyYWE4YmE1NjMKWC1DUC1BUEktSUQ6ODU4ZWE5ZWMKWC1DUC1BUEktS0VZOmY3Yjc3MDMyOTE5NWEzNWVjYmQ1ZjQwYTJlMWMzMGM5CkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVlc3RzLmNvZGVzLm9rKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvZHVjdCh2YWxpZGF0ZV9odHRwX3Jlc3BvbnNlKHJlc3BvbnNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVlc3RzLmNvZGVzLm9rKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvZHVjdCh2YWxpZGF0ZV9odHRwX3Jlc3BvbnNlKHJlc3BvbnNlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldCh1cmw9cHJvZHVjdF91cmwsIGhlYWRlcnM9SEVBREVSUykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldCh1cmw9cHJvZHVjdF91cmwsIGhlYWRlcnM9SEVBREVSUykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjcmFkbGVwb2ludF9hcGkuY29uc3Quc2VjcmV0cyBpbXBvcnQgSEVBREVSUwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
