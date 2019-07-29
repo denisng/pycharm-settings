@@ -348,12 +348,12 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/product.py" timestamp="1564162513192">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/product.py" timestamp="1564440276010">
         <mark key="'" line="2" column="65" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="52" column="50" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="51" column="25" />
+        <mark key="^" line="51" column="25" />
+        <mark key="." line="51" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/docs/DEV_GUIDE.md" timestamp="1554160917367">
         <mark key="'" line="97" column="56" />
@@ -885,11 +885,11 @@
         <mark key="." line="28" column="11" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/account.py" timestamp="1564439241486">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="27" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/account.py" timestamp="1564440519606">
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="34" column="10" />
+        <mark key="." line="34" column="10" />
+        <mark key="^" line="34" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_rf.py" timestamp="1557184376354">
         <mark key="'" line="22" column="9" />
@@ -1044,7 +1044,7 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>classmethod</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
@@ -1053,28 +1053,28 @@
         <text encoding="base64">ICAgIHByaW50KCdwcm9kdWN0IG5hbWU6Jywgcm91dGVyLnByb2R1Y3QubmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3BlcnR5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WC1FQ00tQVBJLUlEOjYwMjAyODc1LTAyZmEtNDcyMi05N2QxLWJlMTJkM2VhMGNjNApYLUVDTS1BUEktS0VZOjE0NDRmMWU0ZWZkYWEzZGY0ZjJlMDkwMTEyNzAxNTYyYWE4YmE1NjMKWC1DUC1BUEktSUQ6ODU4ZWE5ZWMKWC1DUC1BUEktS0VZOmY3Yjc3MDMyOTE5NWEzNWVjYmQ1ZjQwYTJlMWMzMGM5CkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uCg==</text>
+        <text encoding="base64">ICAgICAgICBhY2NvdW50X3VybCA9IHNlbGYuX2FjY291bnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+        <text encoding="base64">ICAgIHByb3BlcnR5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WC1FQ00tQVBJLUlEOjYwMjAyODc1LTAyZmEtNDcyMi05N2QxLWJlMTJkM2VhMGNjNApYLUVDTS1BUEktS0VZOjE0NDRmMWU0ZWZkYWEzZGY0ZjJlMDkwMTEyNzAxNTYyYWE4YmE1NjMKWC1DUC1BUEktSUQ6ODU4ZWE5ZWMKWC1DUC1BUEktS0VZOmY3Yjc3MDMyOTE5NWEzNWVjYmQ1ZjQwYTJlMWMzMGM5CkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVlc3RzLmNvZGVzLm9rKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvZHVjdCh2YWxpZGF0ZV9odHRwX3Jlc3BvbnNlKHJlc3BvbnNlLAo=</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
