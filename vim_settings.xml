@@ -32,12 +32,11 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/group.py" timestamp="1564446781750">
-        <mark key="'" line="51" column="27" />
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="33" />
-        <mark key="." line="2" column="33" />
-        <mark key="^" line="2" column="33" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/group.py" timestamp="1564447546066">
+        <mark key="'" line="2" column="33" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/exceptions.py" timestamp="1554506275264">
         <mark key="[" line="8" column="0" />
@@ -223,12 +222,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" timestamp="1564446925791">
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" timestamp="1564447694722">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="35" />
-        <mark key="." line="9" column="35" />
-        <mark key="^" line="9" column="35" />
+        <mark key="[" line="91" column="43" />
+        <mark key="]" line="93" column="35" />
+        <mark key="." line="93" column="35" />
+        <mark key="^" line="93" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_hw.py" timestamp="1551226368727">
         <mark key="[" line="10" column="6" />
@@ -259,12 +258,12 @@
       <file name="/Python Console" timestamp="1564161607614">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/router.py" timestamp="1564447027953">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="65" column="15" />
-        <mark key="]" line="65" column="48" />
-        <mark key="." line="65" column="48" />
-        <mark key="^" line="65" column="48" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/router.py" timestamp="1564448430198">
+        <mark key="'" line="83" column="12" />
+        <mark key="[" line="166" column="19" />
+        <mark key="]" line="166" column="39" />
+        <mark key="." line="166" column="39" />
+        <mark key="^" line="166" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/tst/test_serial_number.py" timestamp="1554511747338">
         <mark key="'" line="24" column="0" />
@@ -550,6 +549,12 @@
         <mark key="]" line="230" column="71" />
         <mark key="." line="230" column="71" />
         <mark key="^" line="230" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/const/state.py" timestamp="1564448261638">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/__init__.py" timestamp="1556674077929">
         <mark key="[" line="1" column="42" />
@@ -918,8 +923,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/reboot_activity.py" />
-      <jump line="21" column="19" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/base.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/base.py" />
       <jump line="26" column="26" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/base.py" />
       <jump line="3" column="49" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/__init__.py" />
@@ -1018,6 +1021,8 @@
       <jump line="86" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/router.py" />
       <jump line="93" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/router.py" />
       <jump line="97" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/router.py" />
+      <jump line="2" column="33" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/group.py" />
+      <jump line="67" column="12" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/router.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1036,40 +1041,41 @@
         <text encoding="base64">Cmp0YWcgdGFyZ2V0cyAxCmp0YWcgZnJlcXVlbmN5IDEyNTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>self._group</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdmaXJtd2FyZSAoYWN0dWFsKTonLCByb3V0ZXIuYWN0dWFsX2Zpcm13YXJlLnZlcnNpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnZ3JvdXAgbmFtZTonLCByb3V0ZXIuZ3JvdXAubmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHJldHVybiBhIGdyb3VwIG9iamVjdCBpbnN0ZWFkPwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjcmFkbGVwb2ludF9hcGkuZW50aXRpZXMuYmFzZSBpbXBvcnQgQmFzZUVudGl0eQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGNhbiBiZSBOb25lL251bGwK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAjIHRoaXMgY2FuIGJlIE5vbmUvbnVsbAo=</text>
       </register>
+      <register name="2" type="4">
+        <text>trying
+            to upgrade to another version of firmware</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHJldHVybiBmaXJtd2FyZSBvYmplY3QgaW5zdGVhZCBvZiBVUkw/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHJldHVybiBhIGZpcm13YXJlIG9iamVjdCBpbnN0ZWFkPwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogaW1wbGVtZW50IGdyb3VwX2lkIHRoYXQgZXh0cmFjdHMgdGhlIGdyb3VwIElEIGZyb20gdGhlIFVSTD8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
