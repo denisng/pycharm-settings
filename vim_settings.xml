@@ -344,12 +344,12 @@
         <mark key="." line="146" column="0" />
         <mark key="^" line="165" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/cradlepoint/__main__.py" timestamp="1564782089066">
-        <mark key="'" line="53" column="22" />
-        <mark key="[" line="60" column="10" />
-        <mark key="]" line="60" column="12" />
-        <mark key="^" line="60" column="12" />
-        <mark key="." line="60" column="12" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/cradlepoint/__main__.py" timestamp="1564783092230">
+        <mark key="'" line="98" column="22" />
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="58" column="21" />
+        <mark key="." line="58" column="21" />
+        <mark key="^" line="57" column="59" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
@@ -467,9 +467,9 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1564718388676">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="140" column="45" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1564783052546">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="110" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
@@ -745,6 +745,11 @@
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/swift-ft-cli-common/setup.py" timestamp="1564783549431">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/stop_jtag_disable.tcl" timestamp="1558057499198">
         <mark key="'" line="22" column="20" />
         <mark key="[" line="32" column="0" />
@@ -817,9 +822,9 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/setup.py" timestamp="1564451516064">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="19" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/setup.py" timestamp="1564783533394">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="49" />
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
@@ -1054,40 +1059,40 @@
         <text encoding="base64">ICAgICAgICBkYXRldGltZS5kYXRldGltZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgbWFrZSBzdXJlIGRpcmVjdG9yeSBmb3IgbG9nIGZpbGVzIGV4aXN0cwogICAgbG9nX3BhdGggPSBvcy5wYXRoLmRpcm5hbWUoCiAgICAgICAgTE9HR0lOR19DT05GSUdbJ2hhbmRsZXJzJ11bJ2ZpbGVfaGFuZGxlciddWydmaWxlbmFtZSddKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGxvZ19wYXRoKToKICAgICAgICBvcy5tYWtlZGlycyhsb2dfcGF0aCkKCiAgICBsb2dnaW5nLmNvbmZpZy5kaWN0Q29uZmlnKExPR0dJTkdfQ09ORklHKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ05hdHVyYWwgTGFuZ3VhZ2UgOjogRW5nbGlzaCcsCiAgICAgICAgICAgICdPcGVyYXRpbmcgU3lzdGVtIDo6IE1hY09TIDo6IE1hY09TIFgnLAogICAgICAgICAgICAnT3BlcmF0aW5nIFN5c3RlbSA6OiBQT1NJWCA6OiBMaW51eCcsCiAgICAgICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMi43JywKICAgICAgICAgICAgJ1Byb2dyYW1taW5nIExhbmd1YWdlIDo6IFB5dGhvbiA6OiAzJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ZGVmIHByaW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjcmFkbGVwb2ludF9hcGkuZW50aXRpZXMuCg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGRhdGV0aW1lPwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGRhdGV0aW1lPwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ZnJvbSBjcmFkbGVwb2ludF9hcGkuZW50aXRpZXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1126,7 +1131,6 @@
         <entry>self</entry>
       </history-search>
       <history-cmd>
-        <entry>5,8s/export //</entry>
         <entry>5,8s/=/:/</entry>
         <entry>9,15s/,/\n/g</entry>
         <entry>9,15s/,/\r/g</entry>
@@ -1145,6 +1149,7 @@
         <entry>20,62s/self/cls/g</entry>
         <entry>18,44y</entry>
         <entry>135,141y</entry>
+        <entry>69,111y</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
