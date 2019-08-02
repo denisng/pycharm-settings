@@ -344,6 +344,13 @@
         <mark key="." line="146" column="0" />
         <mark key="^" line="165" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/cradlepoint/__main__.py" timestamp="1564718394149">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="5" />
@@ -453,6 +460,10 @@
         <mark key="]" line="32" column="39" />
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/__main__.py" timestamp="1564718388676">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="140" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/serialnumber/src/swift_serialization/serial_number.py" timestamp="1554511675260">
         <mark key="'" line="72" column="11" />
@@ -931,7 +942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="12" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" />
       <jump line="82" column="13" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" />
       <jump line="16" column="15" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/groups.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/groups.py" />
@@ -1031,6 +1041,7 @@
       <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/reboot_activity.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/reboot_activity.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/reboot_activity.py" />
+      <jump line="9" column="4" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/cradlepoint/__main__.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1049,40 +1060,40 @@
         <text encoding="base64">ICAgICAgICBkYXRldGltZS5kYXRldGltZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdwcm9kdWN0IG5hbWU6JywgZ3JvdXAucHJvZHVjdC5uYW1lKQo=</text>
+        <text encoding="base64">ICAgICMgbWFrZSBzdXJlIGRpcmVjdG9yeSBmb3IgbG9nIGZpbGVzIGV4aXN0cwogICAgbG9nX3BhdGggPSBvcy5wYXRoLmRpcm5hbWUoCiAgICAgICAgTE9HR0lOR19DT05GSUdbJ2hhbmRsZXJzJ11bJ2ZpbGVfaGFuZGxlciddWydmaWxlbmFtZSddKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGxvZ19wYXRoKToKICAgICAgICBvcy5tYWtlZGlycyhsb2dfcGF0aCkKCiAgICBsb2dnaW5nLmNvbmZpZy5kaWN0Q29uZmlnKExPR0dJTkdfQ09ORklHKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjcmFkbGVwb2ludF9hcGkuZW50aXRpZXMuCg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGRhdGV0aW1lPwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGRhdGV0aW1lPwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ZnJvbSBjcmFkbGVwb2ludF9hcGkuZW50aXRpZXMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIKICAgICAgICAgICAgYSB0aW1lc3RhbXAK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGRhdGV0aW1lPwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGRhdGV0aW1lPwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYSB0aW1lc3RhbXAuCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGRhdGV0aW1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIK</text>
+        <text encoding="base64">ICAgICAgICBzdHIKICAgICAgICAgICAgYSB0aW1lc3RhbXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1121,8 +1132,6 @@
         <entry>self</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;//g</entry>
-        <entry>4,7s/-/_/g</entry>
         <entry>5,8s/export //</entry>
         <entry>5,8s/=/:/</entry>
         <entry>9,15s/,/\n/g</entry>
@@ -1140,6 +1149,8 @@
         <entry>18,39s/self/cls/g</entry>
         <entry>45,$s/groups_v2/Groupsendpoint/g</entry>
         <entry>20,62s/self/cls/g</entry>
+        <entry>18,44y</entry>
+        <entry>135,141y</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
