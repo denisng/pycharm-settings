@@ -23,9 +23,6 @@
         <mark key="^" line="160" column="32" />
         <mark key="." line="160" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1563918953010">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/groups.py" timestamp="1564626767380">
         <mark key="[" line="54" column="53" />
         <mark key="]" line="54" column="59" />
@@ -256,8 +253,11 @@
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="59" />
       </file>
-      <file name="/Python Console" timestamp="1564452078140">
+      <file name="/Python Console" timestamp="1564778367878">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/router.py" timestamp="1564451917279">
         <mark key="'" line="277" column="33" />
@@ -344,12 +344,12 @@
         <mark key="." line="146" column="0" />
         <mark key="^" line="165" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/cradlepoint/__main__.py" timestamp="1564718394149">
-        <mark key="'" line="9" column="4" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="31" column="3" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/cradlepoint/__main__.py" timestamp="1564778349188">
+        <mark key="'" line="53" column="22" />
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="8" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/src/audit_config/configuration_parser.py" timestamp="1512536143608">
         <mark key="[" line="2" column="5" />
@@ -389,6 +389,12 @@
         <mark key="]" line="233" column="65" />
         <mark key="^" line="233" column="65" />
         <mark key="." line="233" column="65" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/end2end_test_profile.json" timestamp="1554761333285">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="0" column="323" />
+        <mark key="^" line="0" column="323" />
       </file>
       <file name="D:/Documents/Python/Projects/Miscellaneous/settings.py" timestamp="1512539442720">
         <mark key="[" line="29" column="0" />
@@ -498,6 +504,13 @@
         <mark key="^" line="99" column="11" />
         <mark key="." line="99" column="11" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1554153146607">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/playback.py" timestamp="1558474241477">
         <mark key="'" line="48" column="25" />
         <mark key="[" line="98" column="43" />
@@ -510,12 +523,6 @@
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/end2end_test_profile.json" timestamp="1554761333285">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="0" column="323" />
-        <mark key="^" line="0" column="323" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/larson_controller.py" timestamp="1551844022391">
         <mark key="'" line="67" column="37" />
@@ -548,6 +555,13 @@
         <mark key="]" line="27" column="20" />
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/to_yaml.py" timestamp="1554168519567">
+        <mark key="'" line="0" column="36" />
+        <mark key="[" line="82" column="38" />
+        <mark key="]" line="82" column="38" />
+        <mark key="." line="82" column="38" />
+        <mark key="^" line="83" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/nixos-machines/confs/acer-nuc/configuration.nix" timestamp="1562024050444">
         <mark key="[" line="31" column="24" />
@@ -717,9 +731,6 @@
         <mark key="." line="59" column="28" />
         <mark key="^" line="59" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/gnss_receiver_1_chc_p2/config.json" timestamp="1562188503322">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/bases.py" timestamp="1564446889524">
         <mark key="'" line="62" column="53" />
         <mark key="[" line="57" column="41" />
@@ -733,13 +744,6 @@
         <mark key="]" line="12" column="23" />
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="56" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1554153146607">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="18" column="10" />
-        <mark key="." line="18" column="10" />
-        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/xsdb/tcl/stop_jtag_disable.tcl" timestamp="1558057499198">
         <mark key="'" line="22" column="20" />
@@ -813,21 +817,11 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/to_yaml.py" timestamp="1554168519567">
-        <mark key="'" line="0" column="36" />
-        <mark key="[" line="82" column="38" />
-        <mark key="]" line="82" column="38" />
-        <mark key="." line="82" column="38" />
-        <mark key="^" line="83" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/setup.py" timestamp="1564451516064">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="19" />
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1563922266337">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/drivers/hackrf/constant_wave.py" timestamp="1558474772452">
         <mark key="'" line="119" column="49" />
@@ -942,8 +936,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="13" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/routers.py" />
-      <jump line="16" column="15" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/groups.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/groups.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/groups.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/endpoints/groups.py" />
@@ -1042,6 +1034,8 @@
       <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/reboot_activity.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cradlepoint-api/cradlepoint_api/entities/reboot_activity.py" />
       <jump line="9" column="4" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/cradlepoint/__main__.py" />
+      <jump line="46" column="16" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/cradlepoint/__main__.py" />
+      <jump line="51" column="22" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/standalone_zip/cradlepoint/__main__.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
