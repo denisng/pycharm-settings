@@ -1,9 +1,19 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ourVersions">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="2.7" />
+          <item index="1" class="java.lang.String" itemvalue="3.8" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="49">
+        <list size="50">
           <item index="0" class="java.lang.String" itemvalue="sbp" />
           <item index="1" class="java.lang.String" itemvalue="PyYAML" />
           <item index="2" class="java.lang.String" itemvalue="pre-commit" />
@@ -53,6 +63,7 @@
           <item index="46" class="java.lang.String" itemvalue="lazy-object-proxy" />
           <item index="47" class="java.lang.String" itemvalue="pylint" />
           <item index="48" class="java.lang.String" itemvalue="isort" />
+          <item index="49" class="java.lang.String" itemvalue="RPi.GPIO" />
         </list>
       </value>
     </option>
