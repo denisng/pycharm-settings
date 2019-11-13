@@ -4,13 +4,13 @@
     <property name="created">2019-11-11T19:36:46</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-11-11T19:38:45</property>
+    <property name="modified">2019-11-12T17:41:21</property>
     <property name="originalScheme">gruvbox-theme</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.1" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -19,7 +19,7 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
