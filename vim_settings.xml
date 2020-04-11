@@ -74,7 +74,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586465932791">
+      <file name="/Dummy.txt" timestamp="1586563524886">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/tolerance_test.py" timestamp="1586473555497">
@@ -84,18 +84,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/requirements.txt" timestamp="1586374606407">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="5" />
-        <mark key="^" line="7" column="5" />
-        <mark key="." line="7" column="5" />
-      </file>
       <file name="/Python Console" timestamp="1586556464624">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/gyro_const.py" timestamp="1586389117330">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="41" />
+      <file name="/devices [registrar]" timestamp="1586563543433">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/duro_final_test_lists.py" timestamp="1586556971394">
         <mark key="'" line="3" column="0" />
@@ -104,7 +97,7 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="/console" timestamp="1586465936080">
+      <file name="/console" timestamp="1586563527529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1586555204077">
@@ -132,7 +125,7 @@
         <mark key="^" line="56" column="49" />
         <mark key="." line="56" column="48" />
       </file>
-      <file name="/a.sql" timestamp="1586465932775">
+      <file name="/a.sql" timestamp="1586563524875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" timestamp="1586556364663">
@@ -142,7 +135,10 @@
         <mark key="." line="124" column="25" />
         <mark key="^" line="96" column="4" />
       </file>
-      <file name="/foo.bar" timestamp="1586466567452">
+      <file name="/foo.bar" timestamp="1586563543479">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1586563543445">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" timestamp="1586556108746">
