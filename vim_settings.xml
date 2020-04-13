@@ -74,20 +74,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586563524886">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/tolerance_test.py" timestamp="1586473555497">
-        <mark key="'" line="42" column="4" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1586556464624">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/devices [registrar]" timestamp="1586566389370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/duro_final_test_lists.py" timestamp="1586556971394">
@@ -108,11 +95,31 @@
       <file name="/imus [registrar]" timestamp="1586567642625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" timestamp="1586819175748">
+      <file name="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" timestamp="1586820823341">
         <mark key="'" line="1" column="28" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="66" />
+        <mark key="." line="12" column="65" />
+        <mark key="^" line="12" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" timestamp="1586815316868">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="68" column="67" />
+        <mark key="]" line="69" column="37" />
+        <mark key="." line="69" column="36" />
+        <mark key="^" line="69" column="37" />
+      </file>
+      <file name="/a.sql" timestamp="1586563524875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1586566389383">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586563524886">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/devices [registrar]" timestamp="1586566389370">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_barcode.py" timestamp="1586481199301">
         <mark key="'" line="1" column="68" />
@@ -138,15 +145,11 @@
         <mark key="]" line="47" column="17" />
         <mark key="." line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" timestamp="1586815316868">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="68" column="67" />
-        <mark key="]" line="69" column="37" />
-        <mark key="." line="69" column="36" />
-        <mark key="^" line="69" column="37" />
-      </file>
-      <file name="/a.sql" timestamp="1586563524875">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/factory-toolbox/setup.py" timestamp="1586820209618">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="19" column="25" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" timestamp="1586556364663">
         <mark key="'" line="101" column="67" />
@@ -156,9 +159,6 @@
         <mark key="^" line="96" column="4" />
       </file>
       <file name="/foo.bar" timestamp="1586567642651">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1586566389383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.imus" timestamp="1586567642640">
