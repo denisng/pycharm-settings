@@ -27,7 +27,6 @@
         <entry>bmi160</entry>
       </history-search>
       <history-cmd>
-        <entry>5,$s/StrictVersion/LoosePiksiVersion/g</entry>
         <entry>wq</entry>
         <entry>11,1192s/\w\+/'\0',/</entry>
         <entry>10,1193j</entry>
@@ -46,6 +45,7 @@
         <entry>141,143y</entry>
         <entry>146,148y</entry>
         <entry>W</entry>
+        <entry>48,61d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -121,12 +121,12 @@
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1586466567440">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" timestamp="1586556923716">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="55" column="64" />
-        <mark key="]" line="56" column="49" />
-        <mark key="^" line="56" column="49" />
-        <mark key="." line="56" column="48" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" timestamp="1586815316868">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="68" column="67" />
+        <mark key="]" line="69" column="37" />
+        <mark key="." line="69" column="36" />
+        <mark key="^" line="69" column="37" />
       </file>
       <file name="/a.sql" timestamp="1586563524875">
         <mark key="[" line="0" column="0" />
@@ -197,7 +197,6 @@
       <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="24" column="69" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
@@ -254,9 +253,10 @@
       <jump line="34" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/duro_final_test_lists.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -274,10 +274,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>correctiv</text>
+        <text>' '</text>
       </register>
       <register name="-" type="4">
-        <text>correctiv</text>
+        <text>' '</text>
       </register>
       <register name="/" type="4">
         <text>bmi160</text>
@@ -289,31 +289,31 @@
     https://www.bosch-sensortec.com/products/motion-sensors/imus/bmi160.html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzc2VkID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBtdXN0IGV4aXQgbm93Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzc2VkID0gVHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFyY29kZV9zbiA9IHNlbGYucmVzdWx0X2NvbnRhaW5lci5kZXZpY2UubWZnX2lkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzc2VkID0gRmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIGJhcmNvZGVfc24gPT0gZ2VuZWFsb2d5X3NuOgogICAgICAgICAgICAgICAgcGFzc2VkID0gVHJ1ZQogICAgICAgICAgICAgICAgc2VsZi5kZWJ1Z19sb2dnZXIuZGVidWcoJ2R1cm8gYmFyY29kZSB2ZXJpZmljYXRpb24gJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Bhc3NlZCcpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwYXNzZWQgPSBGYWxzZQogICAgICAgICAgICAgICAgIyBsb25nIG1lc3NhZ2UgYmVjYXVzZSBpdCBnZXRzIHByaW50ZWQgdG8gdGhlIG9wZXJhdG9yCiAgICAgICAgICAgICAgICAjIG5vdGlmaWVzIHRoZW0gb2YgcG9zc2libGUgc291cmNlIG9mIGVycm9yIGFuZAogICAgICAgICAgICAgICAgIyBjb3JyZXNwb25kaW5nIGNvcnJlY3RpdmUgYWN0aW9uCiAgICAgICAgICAgICAgICBzZWxmLmRlYnVnX2xvZ2dlci5lcnJvcignU2Nhbm5lZCBEdXJvIGJhcmNvZGUgZG9lcyBub3QgJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21hdGNoIGdlbmVhbG9neSBkYXRhLiBEaWQgeW91ICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzY2FuIHRoZSBiYXJjb2RlIG9uIHRoZSAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGV2aWNlPycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vd3d3LmJvc2NoLXNlbnNvcnRlYy5jb20vcHJvZHVjdHMvbW90aW9uLXNlbnNvcnMvaW11cy9ibWkxNjAuaHRtbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzc2VkID0gVHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNwZWNpZmljIHRvIHRoZSBCb3NjaCBTZW5zb3J0ZWMgQk1JMTYwIEluZXJ0aWFsIE1lYXN1cmVtZW50IFVuaXQuCg==</text>
+        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
