@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>00108093919100055</entry>
         <entry>syslog_formatter</entry>
         <entry>power_ctrl_type</entry>
         <entry>get_pwr_ctrl</entry>
@@ -25,9 +24,9 @@
         <entry>Excessive</entry>
         <entry>calculate</entry>
         <entry>bmi160</entry>
+        <entry>conf</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>11,1192s/\w\+/'\0',/</entry>
         <entry>10,1193j</entry>
         <entry>3,23s/\w\+/'\0',/</entry>
@@ -46,6 +45,7 @@
         <entry>146,148y</entry>
         <entry>W</entry>
         <entry>48,61d</entry>
+        <entry>s/conf/self.conf/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -108,9 +108,6 @@
       <file name="/imus [registrar]" timestamp="1586567642625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/runs [registrar]" timestamp="1586466567427">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_barcode.py" timestamp="1586481199301">
         <mark key="'" line="1" column="68" />
         <mark key="[" line="4" column="38" />
@@ -120,6 +117,13 @@
       </file>
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1586466567440">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1586816822648">
+        <mark key="'" line="31" column="98" />
+        <mark key="[" line="33" column="40" />
+        <mark key="]" line="34" column="8" />
+        <mark key="^" line="34" column="8" />
+        <mark key="." line="34" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1586815921444">
         <mark key="[" line="47" column="16" />
@@ -159,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="48" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
@@ -259,6 +262,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/test_sets/duro_final_test_lists.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
+      <jump line="32" column="98" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -276,46 +280,43 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>' '</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>' '</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>bmi160</text>
+        <text>conf</text>
       </register>
       <register name="0" type="4">
-        <text>operations and algorithms that are
-    specific to the Bosch Sensortec BMI160 Inertial Measurement Unit.
-
-    https://www.bosch-sensortec.com/products/motion-sensors/imus/bmi160.html</text>
+        <text>conf['power_ctrl_type'], conf['power_ctrl_addr']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBtdXN0IGV4aXQgbm93Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzc2VkID0gVHJ1ZQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiB3aXA6IHVzZSBuZXcgc2lnbmF0dXJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFyY29kZV9zbiA9IHNlbGYucmVzdWx0X2NvbnRhaW5lci5kZXZpY2UubWZnX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZlsncG93ZXJfY3RybF90eXBlJ10sIGNvbmZbJ3Bvd2VyX2N0cmxfYWRkciddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnB3cl9jdHJsID0gcG93ZXJfY29udHJvbC5nZXRfcHdyX2N0cmwoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzc2VkID0gRmFsc2UK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIGJhcmNvZGVfc24gPT0gZ2VuZWFsb2d5X3NuOgogICAgICAgICAgICAgICAgcGFzc2VkID0gVHJ1ZQogICAgICAgICAgICAgICAgc2VsZi5kZWJ1Z19sb2dnZXIuZGVidWcoJ2R1cm8gYmFyY29kZSB2ZXJpZmljYXRpb24gJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Bhc3NlZCcpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwYXNzZWQgPSBGYWxzZQogICAgICAgICAgICAgICAgIyBsb25nIG1lc3NhZ2UgYmVjYXVzZSBpdCBnZXRzIHByaW50ZWQgdG8gdGhlIG9wZXJhdG9yCiAgICAgICAgICAgICAgICAjIG5vdGlmaWVzIHRoZW0gb2YgcG9zc2libGUgc291cmNlIG9mIGVycm9yIGFuZAogICAgICAgICAgICAgICAgIyBjb3JyZXNwb25kaW5nIGNvcnJlY3RpdmUgYWN0aW9uCiAgICAgICAgICAgICAgICBzZWxmLmRlYnVnX2xvZ2dlci5lcnJvcignU2Nhbm5lZCBEdXJvIGJhcmNvZGUgZG9lcyBub3QgJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21hdGNoIGdlbmVhbG9neSBkYXRhLiBEaWQgeW91ICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzY2FuIHRoZSBiYXJjb2RlIG9uIHRoZSAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGV2aWNlPycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBtdXN0IGV4aXQgbm93Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFzc2VkID0gVHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFyY29kZV9zbiA9IHNlbGYucmVzdWx0X2NvbnRhaW5lci5kZXZpY2UubWZnX2lkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -324,11 +325,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bmi160</last-search>
+      <last-search>conf</last-search>
       <last-offset />
-      <last-pattern>bmi160</last-pattern>
-      <last-replace>7</last-replace>
-      <last-substitute>5</last-substitute>
+      <last-pattern>conf</last-pattern>
+      <last-replace>self.conf</last-replace>
+      <last-substitute>conf</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
