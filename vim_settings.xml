@@ -95,12 +95,12 @@
       <file name="/imus [registrar]" timestamp="1586567642625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" timestamp="1586827954248">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="37" />
+      <file name="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" timestamp="1586828573841">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="43" column="22" />
+        <mark key="]" line="43" column="23" />
+        <mark key="." line="43" column="22" />
+        <mark key="^" line="43" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" timestamp="1586815316868">
         <mark key="'" line="49" column="0" />
@@ -166,20 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
-      <jump line="80" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
-      <jump line="31" column="24" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="2" column="26" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
-      <jump line="144" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
-      <jump line="143" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
       <jump line="139" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
       <jump line="134" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
       <jump line="131" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
@@ -265,7 +251,21 @@
       <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="32" column="98" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" />
       <jump line="1" column="28" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="17" column="43" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="25" column="27" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="8" column="4" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="20" column="10" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="3" column="13" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="48" column="47" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -282,11 +282,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRyeSA9IAo=</text>
+      <register name="*" type="4">
+        <text>genealogy_duro_sn</text>
       </register>
       <register name="-" type="4">
-        <text>entry.format(distrust)</text>
+        <text>genealogy_duro_sn</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
@@ -295,31 +295,31 @@
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRyeSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBhY3R1YWxfc2VyaWFsID0gc2Nhbm5lZF9kdXJvX3NuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBnZW5lbG9neV9zZXJpYWwgPSBnZW5lYWxvZ3lfZHVyb19zbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzYnBfcGlrc2lfc24gPT0gZ2VuZWFsb2d5X3Bpa3NpX3NuOgogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvb2wK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzY2FubmVkX2R1cm9fc24gPT0gZ2VuZWFsb2d5X2R1cm9fc246CiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICBlbnRyeSA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IiIiCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvb2wK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
