@@ -74,16 +74,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/__init__.py" timestamp="1586899446874">
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="3" column="59" />
-        <mark key="." line="3" column="58" />
-        <mark key="^" line="3" column="59" />
+      <file name="/start_script.py" timestamp="1586900223393">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/__init__.py" timestamp="1586899838561">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="29" />
+      </file>
+      <file name="/Python Console" timestamp="1586901235416">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1586897110191">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/imus [registrar]" timestamp="1586900428057">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" timestamp="1586830987322">
         <mark key="'" line="43" column="0" />
@@ -108,13 +117,6 @@
         <mark key="[" line="166" column="0" />
         <mark key="]" line="170" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" timestamp="1586815316868">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="68" column="67" />
-        <mark key="]" line="69" column="37" />
-        <mark key="." line="69" column="36" />
-        <mark key="^" line="69" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" timestamp="1586897554307">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="3" column="0" />
@@ -122,8 +124,14 @@
         <mark key="^" line="1" column="69" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/provision.py" timestamp="1586897227448">
-        <mark key="'" line="1" column="44" />
+      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/setup.py" timestamp="1586901283767">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/provision.py" timestamp="1586901196684">
+        <mark key="'" line="71" column="12" />
         <mark key="[" line="1" column="22" />
         <mark key="]" line="2" column="23" />
         <mark key="^" line="2" column="23" />
@@ -140,23 +148,6 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/factory-toolbox/requirements.txt" timestamp="1586819352956">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/fixtures/fixture_utils.py" timestamp="1586816822648">
-        <mark key="'" line="31" column="98" />
-        <mark key="[" line="33" column="40" />
-        <mark key="]" line="34" column="8" />
-        <mark key="^" line="34" column="8" />
-        <mark key="." line="34" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/setup.py" timestamp="1586815921444">
-        <mark key="[" line="47" column="16" />
-        <mark key="]" line="47" column="17" />
-        <mark key="." line="47" column="17" />
-      </file>
       <file name="/" timestamp="1586899044972">
         <mark key="[" line="0" column="0" />
       </file>
@@ -166,7 +157,7 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="24" />
       </file>
-      <file name="/foo.bar" timestamp="1586567642651">
+      <file name="/foo.bar" timestamp="1586900428406">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1586890505687">
@@ -174,7 +165,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.imus" timestamp="1586567642640">
+      <file name="/dog2zb0js2j5imh.public.imus" timestamp="1586900428340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" timestamp="1586898816735">
@@ -186,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
       <jump line="19" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="37" column="59" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="22" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
@@ -286,6 +276,7 @@
       <jump line="1" column="22" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" />
       <jump line="1" column="48" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" />
+      <jump line="71" column="12" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/provision.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,10 +294,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">aW1wb3J0cyB0byBwcmVzZXJ2ZSBjb21wYXRpYmlsaXR5IHdpdGgg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1wb3J0cyB0byBwcmVzZXJ2ZSBjb21wYXRpYmlsaXR5IHdpdGgg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
