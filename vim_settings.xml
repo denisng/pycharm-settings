@@ -108,13 +108,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_barcode.py" timestamp="1586481199301">
-        <mark key="'" line="1" column="68" />
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/factory-toolbox/requirements.txt" timestamp="1586819352956">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -162,6 +155,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" timestamp="1586891717376">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1586566389383">
         <mark key="[" line="0" column="0" />
@@ -288,11 +286,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="2">
-        <text>{
-    'serial-num': u'',
-    'firmware': u'',
-    'smoothpose': True
-}</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>could eliminate this IF..ELIF..ELSE here by doing both</text>
@@ -304,35 +298,35 @@
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSByZWdpc3RyYXJfY2xpZW50IGltcG9ydCAoZ2V0RHVyb0Zyb21QaWtzaSwgZ2V0UGlrc2lGcm9tRHVybykK</text>
+      </register>
+      <register name="4" type="2">
         <text>{
     'serial-num': u'',
     'firmware': u'',
     'smoothpose': True
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICMK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudHJ5ID0gJ2NoZWNraW5nIGdlbmVhbG9neSBkYXRhIGZvciBEdXJvIHt9JwogICAgTE9HR0VSLmRlYnVnKCcnKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBgYEZhbHNlYGAgb3RoZXJ3aXNlLgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaGVzIHRoYXQgc3RvcmVkIGluIGdlbmVhbG9neS4K</text>
+        <text encoding="base64">ICAgIGVudHJ5ID0gJ2NoZWNraW5nIGdlbmVhbG9neSBkYXRhIGZvciBEdXJvIHt9JwogICAgTE9HR0VSLmRlYnVnKCcnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
