@@ -77,11 +77,10 @@
       <file name="/start_script.py" timestamp="1586903831868">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/__init__.py" timestamp="1586899838561">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="0" column="29" />
+      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/__init__.py" timestamp="1586904278888">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="45" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/Python Console" timestamp="1586903557362">
         <mark key="'" line="0" column="67" />
@@ -102,12 +101,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" timestamp="1586897759888">
+      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" timestamp="1586904298831">
         <mark key="'" line="1" column="48" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="1" column="49" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/status.py" timestamp="1586897757472">
         <mark key="[" line="4" column="0" />
@@ -291,8 +290,8 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">ZnJvbSByZWdpc3RyYXJfY2xpZW50LmNvbW1vbiBpbXBvcnQgaGVhcnRiZWF0Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -304,30 +303,30 @@
         <text encoding="base64">ICAgIHByaW50KF92ZXJpZnlfZ2VuZWFsb2d5KCcnLCAnJywgJ3Bpa3NpJykpCiAgICBwcmludChfdmVyaWZ5X2dlbmVhbG9neSgnJywgJycsICdkdXJvJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KF92ZXJpZnlfZ2VuZWFsb2d5KCkpCg==</text>
+        <text encoding="base64">ZnJvbSByZWdpc3RyYXJfY2xpZW50LmNvbW1vbiBpbXBvcnQgaGVhcnRiZWF0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ICAgIHByaW50KF92ZXJpZnlfZ2VuZWFsb2d5KCkpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIA==</text>
+      </register>
+      <register name="4" type="2">
         <text>&quot;&quot;&quot;
 Client library for 
 &quot;&quot;&quot;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CmRlZiBoZWFydGJlYXQoZGF0YSk6CiAgICBkYXRhID0geydob3N0bmFtZSc6IGRhdGF9CiAgICByID0gcG9zdCh7J3R5cGUnOiAnaGVhcnRiZWF0JywgJ2RhdGEnOiBkYXRhfSkKICAgIHJldHVybiByWydkYXRhJ10KCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">CkxPR0dFUiA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">CkxPR0dFUiA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
