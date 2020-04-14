@@ -74,7 +74,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1586900223393">
+      <file name="/start_script.py" timestamp="1586903831868">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/__init__.py" timestamp="1586899838561">
@@ -83,7 +83,8 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1586901235416">
+      <file name="/Python Console" timestamp="1586903557362">
+        <mark key="'" line="0" column="67" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1586897110191">
@@ -148,14 +149,11 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="38" />
       </file>
-      <file name="/" timestamp="1586899044972">
+      <file name="/Dummy.txt" timestamp="1586903843960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/factory-toolbox/setup.py" timestamp="1586820209618">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="19" column="25" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="19" column="24" />
+      <file name="/" timestamp="1586903994971">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1586900428406">
         <mark key="[" line="0" column="0" />
@@ -168,18 +166,15 @@
       <file name="/dog2zb0js2j5imh.public.imus" timestamp="1586900428340">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" timestamp="1586898816735">
-        <mark key="'" line="1" column="22" />
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="27" column="41" />
-        <mark key="." line="27" column="40" />
-        <mark key="^" line="27" column="41" />
+      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" timestamp="1586903780435">
+        <mark key="'" line="67" column="40" />
+        <mark key="[" line="68" column="78" />
+        <mark key="]" line="70" column="25" />
+        <mark key="." line="70" column="24" />
+        <mark key="^" line="70" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="37" column="59" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="22" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="49" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="28" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
@@ -277,6 +272,9 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" />
       <jump line="1" column="48" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" />
       <jump line="71" column="12" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/provision.py" />
+      <jump line="0" column="67" filename="/Python Console" />
+      <jump line="46" column="75" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" />
+      <jump line="66" column="40" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,33 +301,33 @@
         <text>conf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmRlZiBnZXRUZXN0U2V0c1Bhc3NlZChzZXJpYWxfaWQpOgogICAgZGF0YSA9IHsnc2VyaWFsLWlkJzogc2VyaWFsX2lkfQogICAgciA9IHBvc3Qoeyd0eXBlJzogJ3Rlc3Qtc2V0cy1wYXNzZWQtcmVxdWVzdCcsICdkYXRhJzogZGF0YX0pCiAgICByZXR1cm4gclsnZGF0YSdd</text>
+        <text encoding="base64">ICAgIHByaW50KF92ZXJpZnlfZ2VuZWFsb2d5KCcnLCAnJywgJ3Bpa3NpJykpCiAgICBwcmludChfdmVyaWZ5X2dlbmVhbG9neSgnJywgJycsICdkdXJvJykpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KF92ZXJpZnlfZ2VuZWFsb2d5KCkpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIA==</text>
+      </register>
+      <register name="3" type="2">
         <text>&quot;&quot;&quot;
 Client library for 
 &quot;&quot;&quot;</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CmRlZiBoZWFydGJlYXQoZGF0YSk6CiAgICBkYXRhID0geydob3N0bmFtZSc6IGRhdGF9CiAgICByID0gcG9zdCh7J3R5cGUnOiAnaGVhcnRiZWF0JywgJ2RhdGEnOiBkYXRhfSkKICAgIHJldHVybiByWydkYXRhJ10KCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CkxPR0dFUiA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkxPR0dFUiA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmRlZiB2ZXJpZnlfZ2VuZWFsb2d5KHBpa3NpX2ludGVyZmFjZSwgc2Nhbm5lZF9kdXJvX3NuLCBkaXN0cnVzdCk6CiAgICAiIiJHZW5lcmljaXplZCBhbGdvcml0aG0gZm9yIGNoZWNraW5nIGEgc2VyaWFsIG51bWJlciBhZ2FpbnN0IHdoYXQKICAgIGlzIHJlY29yZGVkIGluIHRoZSBEdXJvIGdlbmVhbG9neS4KCiAgICBQYXJhbWV0ZXJzCiAgICAtLS0tLS0tLS0tCiAgICBwaWtzaV9pbnRlcmZhY2UgOiBmYWN0b3J5LXRvb2xib3gucGlrc2kuQWJzdHJhY3RQaWtzaUludGVyZmFjZQogICAgIiIiCiAgICBzYnBfcGlrc2lfc24gPSBwaWtzaV9pbnRlcmZhY2UuZ2V0X3NlcmlhbF9udW1iZXIoKQoKICAgIGVudHJ5ID0gJ2NoZWNraW5nIGdlbmVhbG9neSBkYXRhIGZvciBEdXJvIHt9IHdpdGggUGlrc2kge30nCiAgICBMT0dHRVIuZGVidWcoZW50cnkuZm9ybWF0KHNjYW5uZWRfZHVyb19zbiwgc2JwX3Bpa3NpX3NuKSkKCiAgICAjIHRoZSBJRi4uRUxJRi4uRUxTRSBicmFuY2hpbmcgaGVyZSBjb3VsZCBiZSBlbGltaW5hdGVkIGJ5CiAgICAjIHBlcmZvcm1pbmcgYm90aCBjaGVja3MgYW5kIHJldHVybmluZyBhIHR1cGxlL2RpY3Qgd2l0aCB0d28gcmVzdWx0cwogICAgaWYgZGlzdHJ1c3QgPT0gJ2R1cm8nOgogICAgICAgIGFjdHVhbF9zZXJpYWwgPSBzY2FubmVkX2R1cm9fc24KICAgICAgICBnZW5lYWxvZ3lfc2VyaWFsID0gZ2V0RHVyb0Zyb21QaWtzaShzYnBfcGlrc2lfc24pCiAgICBlbGlmIGRpc3RydXN0ID09ICdwaWtzaSc6CiAgICAgICAgYWN0dWFsX3NlcmlhbCA9IHNicF9waWtzaV9zbgogICAgICAgIGdlbmVhbG9neV9zZXJpYWwgPSBnZXRQaWtzaUZyb21EdXJvKHNjYW5uZWRfZHVyb19zbikKICAgIGVsc2U6CiAgICAgICAgZW50cnkgPSAnZGlzdHJ1c3Qgb2Yge30gaXMgbm90IHN1cHBvcnRlZCwgb25seSBgZHVyb2Agb3IgJyBcCiAgICAgICAgICAgICAgICAnYHBpa3NpYCBzZXJpYWwgbnVtYmVycyBjYW4gYmUgZGlzdHJ1c3RlZCcKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGVudHJ5LmZvcm1hdChkaXN0cnVzdCkpCgogICAgaWYgYWN0dWFsX3NlcmlhbCA9PSBnZW5lYWxvZ3lfc2VyaWFsOgogICAgICAgIHJldHVybiBUcnVlCiAgICBlbHNlOgogICAgICAgIExPR0dFUi5kZWJ1ZygnYWN0dWFsIHt9IGRvZXMgbm90IG1hdGNoIHt9Jy5mb3JtYXQoCiAgICAgICAgICAgIGFjdHVhbF9zZXJpYWwsCiAgICAgICAgICAgIGdlbmVhbG9neV9zZXJpYWwKICAgICAgICApKQogICAgICAgIHJldHVybiBGYWxzZQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
