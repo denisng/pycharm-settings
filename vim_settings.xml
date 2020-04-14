@@ -95,12 +95,12 @@
       <file name="/imus [registrar]" timestamp="1586567642625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" timestamp="1586828573841">
+      <file name="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" timestamp="1586830315792">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="43" column="22" />
-        <mark key="]" line="43" column="23" />
-        <mark key="." line="43" column="22" />
-        <mark key="^" line="43" column="23" />
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="37" column="9" />
+        <mark key="." line="37" column="9" />
+        <mark key="^" line="37" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" timestamp="1586815316868">
         <mark key="'" line="49" column="0" />
@@ -283,10 +283,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>genealogy_duro_sn</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>genealogy_duro_sn</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
@@ -295,31 +295,31 @@
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhY3R1YWxfc2VyaWFsID0gc2Nhbm5lZF9kdXJvX3NuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lbG9neV9zZXJpYWwgPSBnZW5lYWxvZ3lfZHVyb19zbgo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzYnBfcGlrc2lfc24gPT0gZ2VuZWFsb2d5X3Bpa3NpX3NuOgogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzY2FubmVkX2R1cm9fc24gPT0gZ2VuZWFsb2d5X2R1cm9fc246CiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGVudHJ5ID0gJ2NoZWNraW5nIGdlbmVhbG9neSBkYXRhIGZvciBEdXJvIHt9JwogICAgTE9HR0VSLmRlYnVnKCcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRyeSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBgYEZhbHNlYGAgb3RoZXJ3aXNlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaGVzIHRoYXQgc3RvcmVkIGluIGdlbmVhbG9neS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBgYFRydWVgYCBpZiBhY3R1YWwgc2VyaWFsIG51bWJlciAoc2Nhbm5lZCBvciBxdWVyaWVkIHZpYSBTQlApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvb2wK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
