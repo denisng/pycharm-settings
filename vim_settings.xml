@@ -139,11 +139,7 @@
       <file name="/foo.bar" timestamp="1586900428406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1586890505687">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/requirements.txt" timestamp="1587070079600" />
       <file name="/dog2zb0js2j5imh.public.imus" timestamp="1586900428340">
         <mark key="[" line="0" column="0" />
       </file>
