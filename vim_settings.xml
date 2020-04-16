@@ -89,26 +89,15 @@
         <mark key="]" line="1" column="45" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587075953141">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/checkout-repo.yaml" timestamp="1587075206269">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="19" />
-        <mark key="." line="21" column="18" />
-        <mark key="^" line="21" column="19" />
-      </file>
       <file name="/Python Console" timestamp="1587075086053">
         <mark key="'" line="0" column="67" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/imus [registrar]" timestamp="1586900428057">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/playbook.yaml" timestamp="1587076380889">
-        <mark key="'" line="11" column="38" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="39" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/test-playbook.yaml" timestamp="1587078586609">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" timestamp="1586904298831">
         <mark key="'" line="1" column="48" />
@@ -117,29 +106,11 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/status.py" timestamp="1586897757472">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="/" timestamp="1586903994971">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/inventory.yaml" timestamp="1587076185626">
         <mark key="[" line="24" column="17" />
         <mark key="]" line="24" column="18" />
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" timestamp="1586897554307">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="69" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1586900428406">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/requirements.txt" timestamp="1587075350426">
         <mark key="'" line="10" column="0" />
@@ -147,9 +118,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="2" column="10" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="/dog2zb0js2j5imh.public.imus" timestamp="1586900428340">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/setup.py" timestamp="1587068318639">
         <mark key="[" line="0" column="5" />
@@ -163,6 +131,41 @@
         <mark key="]" line="2" column="23" />
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587075953141">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/checkout-repo.yaml" timestamp="1587075206269">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="19" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/playbook.yaml" timestamp="1587078512071">
+        <mark key="'" line="3" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc.yaml" timestamp="1587079068115">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="0" />
+      </file>
+      <file name="/" timestamp="1586903994971">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" timestamp="1587079109371">
+        <mark key="'" line="16" column="34" />
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="31" />
+      </file>
+      <file name="/foo.bar" timestamp="1586900428406">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.imus" timestamp="1586900428340">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" timestamp="1586903780435">
         <mark key="'" line="67" column="40" />
@@ -179,10 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="40" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="24" column="69" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
@@ -279,6 +278,10 @@
       <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/requirements.txt" />
       <jump line="11" column="38" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/playbook.yaml" />
+      <jump line="3" column="7" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/playbook.yaml" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" />
+      <jump line="16" column="34" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,43 +299,43 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>bringup</text>
+        <text>11</text>
       </register>
       <register name="-" type="4">
-        <text>bringup</text>
+        <text>11</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0tCgotIGhvc3RzOiBicmluZ3VwCiAgdGFza3M6CiAgICAtIGluY2x1ZGU6IHRhc2tzL3N5c3RlbS1wYWNrYWdlcy55YW1sCiAgICAtIGluY2x1ZGU6IHRhc2tzL3NldHVwLW5ldHdvcmsueWFtbAogICAgLSBpbmNsdWRlOiB0YXNrcy9jaGVja291dC1yZXBvLnlhbWwKICAgIC0gaW5jbHVkZTogdGFza3MvcGlwLWluc3RhbGwueWFtbAogICAgLSBpbmNsdWRlOiB0YXNrcy9pbnN0YWxsLXhzZGIueWFtbAogICAgLSBpbmNsdWRlOiB0YXNrcy9waWtzaS1wcm92aXNpb24tYXJ0aWZhY3RzLnlhbWwKICAgIC0gaW5jbHVkZTogdGFza3MvZ2VuZXJhdGUtY29uZmlnLWZpbGUueWFtbAogICAgLSBpbmNsdWRlOiB0YXNrcy9kZXNrdG9wLWljb25zLnlhbWwK</text>
+        <text encoding="base64">aG9zdG5hbWU6ICJyb2ItbnVjIgpwb3dlcl9jdHJsX3R5cGU6ICJkdW1teSIKcG93ZXJfY3RybF9hZGRyOiAiMTkyLjE2OC4wLjExIgp1YXJ0MCA6ICIvZGV2L3NlcmlhbC9ieS1pZC91c2ItRlRESV9GVDIzMlJfVVNCX1VBUlRfQTYwME1JRVItaWYwMC1wb3J0MCIKdWFydDEgOiAiL2Rldi9zZXJpYWwvYnktaWQvdXNiLUZURElfRlQyMzJSX1VTQl9VQVJUX0E2MDBNSFNMLWlmMDAtcG9ydDAiCmZpcm13YXJlX2NvbV9wb3J0IDogIi9kZXYvdHR5QUNNMCIKc2JwX2RyaXZlciA6ICJ1c2IiCnNkcl9kcml2ZXIgOiAiaGFja3JmIgpiaW5hcnlfZGlyIDogIi9vcHQvcGlrc2ktcHJvdmlzaW9uLWFydGlmYWN0cyIKbG9nX2RpciA6ICIvaG9tZS9wcm92aXNpb24vbG9ncy8iCnRlc3RfZml4dHVyZSA6ICJldmFsX2p0YWciCnRlc3Rfc3dfdmVyc2lvbiA6ICJzYW5kd2ljaC0xMi0xOC0xOC05Mi1nMmM3NDRlMi1kaXJ0eSIKZW5kMmVuZF90ZXN0X3Byb2ZpbGUgOiAneyJwbGF5YmFja19maWxlIiA6ICIvaG9tZS9wcm92aXNpb24vZ3Bzc2ltLWhhY2tyZi01TXNwcy5pcSIsICJwbGF5YmFja19zYW1wbGVfcmF0ZSIgOiA1ZTYsICJwbGF5YmFja19jZW50ZXJfZnJlcSIgOiAxNTc1LjQyZTYsICJwbGF5YmFja19nYWluIiA6IDAsICJkdXJhdGlvbiIgOiAxMjAuMCwgIm51bV9zdnNfdHJhY2tlZCIgOiA3LCAibWluX3RyYWNraW5nX2xldmVsIiA6IDM1LCAibWVhbl90cmFja2luZ19sZXZlbCIgOiA0MSwgIm1heF90cmFja2luZ19sZXZlbCIgOiA0NSwgInNob3VsZF9uYXZpZ2F0ZSIgOiBmYWxzZX0nCndkdF9taW4gOiAxCndkdF9tYXggOiAyLjUKdm9sdGFnZV9yYWlsX3RvbGVyYW5jZTogMC4xCnVzYl9hZGFwdGVyX25hbWU6ICJlbngwMDUwYjYyODg2NGMiCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Iwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Iwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">I3BhbmRhcyByZXF1aXJlcyB0YWJsZXMsIGJ1dCBkb2Vzbid0IGluc3RhbGwgaXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I3BhbmRhcyByZXF1aXJlcyB0YWJsZXMsIGJ1dCBkb2Vzbid0IGluc3RhbGwgaXQKCg==</text>
+        <text encoding="base64">I3BhbmRhcyByZXF1aXJlcyB0YWJsZXMsIGJ1dCBkb2Vzbid0IGluc3RhbGwgaXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGFibGVzCg==</text>
+        <text encoding="base64">I3BhbmRhcyByZXF1aXJlcyB0YWJsZXMsIGJ1dCBkb2Vzbid0IGluc3RhbGwgaXQKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSByZWdpc3RyYXJfY2xpZW50LmNvbW1vbiBpbXBvcnQgaGVhcnRiZWF0Cg==</text>
+        <text encoding="base64">dGFibGVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KF92ZXJpZnlfZ2VuZWFsb2d5KCkpCg==</text>
+        <text encoding="base64">ZnJvbSByZWdpc3RyYXJfY2xpZW50LmNvbW1vbiBpbXBvcnQgaGVhcnRiZWF0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ICAgIHByaW50KF92ZXJpZnlfZ2VuZWFsb2d5KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
