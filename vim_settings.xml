@@ -27,7 +27,6 @@
         <entry>conf</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">NTEsNjI8</entry>
         <entry>8,49y</entry>
         <entry>7,50d</entry>
         <entry encoding="base64">MTQ0LDE5ND4=</entry>
@@ -47,6 +46,7 @@
         <entry>31,$d</entry>
         <entry>167,172y</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -83,6 +83,13 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" timestamp="1586995689609">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="6" />
+        <mark key="^" line="36" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/__init__.py" timestamp="1586904278888">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="45" />
@@ -102,13 +109,6 @@
       </file>
       <file name="/imus [registrar]" timestamp="1586900428057">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" timestamp="1586830987322">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="21" column="67" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" timestamp="1586904298831">
         <mark key="'" line="1" column="48" />
@@ -174,10 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="28" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="5" column="11" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="25" column="36" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
       <jump line="64" column="40" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
@@ -274,6 +270,10 @@
       <jump line="0" column="67" filename="/Python Console" />
       <jump line="46" column="75" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" />
       <jump line="66" column="40" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" />
+      <jump line="26" column="5" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,7 +332,7 @@ Client library for
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
