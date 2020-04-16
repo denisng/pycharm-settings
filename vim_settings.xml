@@ -154,12 +154,11 @@
       <file name="/" timestamp="1586903994971">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" timestamp="1587079109371">
-        <mark key="'" line="16" column="34" />
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="31" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="31" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" timestamp="1587079762691">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="9" column="29" />
       </file>
       <file name="/foo.bar" timestamp="1586900428406">
         <mark key="[" line="0" column="0" />
@@ -298,11 +297,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>11</text>
+      <register name="*" type="2">
+        <text encoding="base64">dXNiX2FkYXB0ZXJfbmFtZTogImVueDAwNTBiNjI4ODY0YyIK</text>
       </register>
       <register name="-" type="4">
-        <text>11</text>
+        <text>eval_jtag</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
@@ -311,31 +310,31 @@
         <text encoding="base64">aG9zdG5hbWU6ICJyb2ItbnVjIgpwb3dlcl9jdHJsX3R5cGU6ICJkdW1teSIKcG93ZXJfY3RybF9hZGRyOiAiMTkyLjE2OC4wLjExIgp1YXJ0MCA6ICIvZGV2L3NlcmlhbC9ieS1pZC91c2ItRlRESV9GVDIzMlJfVVNCX1VBUlRfQTYwME1JRVItaWYwMC1wb3J0MCIKdWFydDEgOiAiL2Rldi9zZXJpYWwvYnktaWQvdXNiLUZURElfRlQyMzJSX1VTQl9VQVJUX0E2MDBNSFNMLWlmMDAtcG9ydDAiCmZpcm13YXJlX2NvbV9wb3J0IDogIi9kZXYvdHR5QUNNMCIKc2JwX2RyaXZlciA6ICJ1c2IiCnNkcl9kcml2ZXIgOiAiaGFja3JmIgpiaW5hcnlfZGlyIDogIi9vcHQvcGlrc2ktcHJvdmlzaW9uLWFydGlmYWN0cyIKbG9nX2RpciA6ICIvaG9tZS9wcm92aXNpb24vbG9ncy8iCnRlc3RfZml4dHVyZSA6ICJldmFsX2p0YWciCnRlc3Rfc3dfdmVyc2lvbiA6ICJzYW5kd2ljaC0xMi0xOC0xOC05Mi1nMmM3NDRlMi1kaXJ0eSIKZW5kMmVuZF90ZXN0X3Byb2ZpbGUgOiAneyJwbGF5YmFja19maWxlIiA6ICIvaG9tZS9wcm92aXNpb24vZ3Bzc2ltLWhhY2tyZi01TXNwcy5pcSIsICJwbGF5YmFja19zYW1wbGVfcmF0ZSIgOiA1ZTYsICJwbGF5YmFja19jZW50ZXJfZnJlcSIgOiAxNTc1LjQyZTYsICJwbGF5YmFja19nYWluIiA6IDAsICJkdXJhdGlvbiIgOiAxMjAuMCwgIm51bV9zdnNfdHJhY2tlZCIgOiA3LCAibWluX3RyYWNraW5nX2xldmVsIiA6IDM1LCAibWVhbl90cmFja2luZ19sZXZlbCIgOiA0MSwgIm1heF90cmFja2luZ19sZXZlbCIgOiA0NSwgInNob3VsZF9uYXZpZ2F0ZSIgOiBmYWxzZX0nCndkdF9taW4gOiAxCndkdF9tYXggOiAyLjUKdm9sdGFnZV9yYWlsX3RvbGVyYW5jZTogMC4xCnVzYl9hZGFwdGVyX25hbWU6ICJlbngwMDUwYjYyODg2NGMiCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNiX2FkYXB0ZXJfbmFtZTogImVueDAwNTBiNjI4ODY0YyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">c2RyX2RyaXZlciA6ICJoYWNrcmYiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ZW5kMmVuZF90ZXN0X3Byb2ZpbGUgOiAneyJwbGF5YmFja19maWxlIiA6ICIvaG9tZS9wcm92aXNpb24vZ3Bzc2ltLWhhY2tyZi01TXNwcy5pcSIsICJwbGF5YmFja19zYW1wbGVfcmF0ZSIgOiA1ZTYsICJwbGF5YmFja19jZW50ZXJfZnJlcSIgOiAxNTc1LjQyZTYsICJwbGF5YmFja19nYWluIiA6IDAsICJkdXJhdGlvbiIgOiAxMjAuMCwgIm51bV9zdnNfdHJhY2tlZCIgOiA3LCAibWluX3RyYWNraW5nX2xldmVsIiA6IDM1LCAibWVhbl90cmFja2luZ19sZXZlbCIgOiA0MSwgIm1heF90cmFja2luZ19sZXZlbCIgOiA0NSwgInNob3VsZF9uYXZpZ2F0ZSIgOiBmYWxzZX0nCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I3BhbmRhcyByZXF1aXJlcyB0YWJsZXMsIGJ1dCBkb2Vzbid0IGluc3RhbGwgaXQK</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3BhbmRhcyByZXF1aXJlcyB0YWJsZXMsIGJ1dCBkb2Vzbid0IGluc3RhbGwgaXQKCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGFibGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSByZWdpc3RyYXJfY2xpZW50LmNvbW1vbiBpbXBvcnQgaGVhcnRiZWF0Cg==</text>
+        <text encoding="base64">I3BhbmRhcyByZXF1aXJlcyB0YWJsZXMsIGJ1dCBkb2Vzbid0IGluc3RhbGwgaXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KF92ZXJpZnlfZ2VuZWFsb2d5KCkpCg==</text>
+        <text encoding="base64">I3BhbmRhcyByZXF1aXJlcyB0YWJsZXMsIGJ1dCBkb2Vzbid0IGluc3RhbGwgaXQKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
