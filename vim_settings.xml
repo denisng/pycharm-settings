@@ -147,11 +147,11 @@
       <file name="/dog2zb0js2j5imh.public.imus" timestamp="1586900428340">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/setup.py" timestamp="1586901283767">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="10" column="23" />
+      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/setup.py" timestamp="1587068318639">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/provision.py" timestamp="1586901196684">
         <mark key="'" line="71" column="12" />
@@ -290,11 +290,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ZnJvbSByZWdpc3RyYXJfY2xpZW50LmNvbW1vbiBpbXBvcnQgaGVhcnRiZWF0Cg==</text>
+      <register name="*" type="4">
+        <text>distutils.core</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>distutils.core</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
