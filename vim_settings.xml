@@ -163,9 +163,7 @@
       <file name="/foo.bar" timestamp="1586900428406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.imus" timestamp="1586900428340">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/install-xsdb.yaml" timestamp="1587085913736" />
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" timestamp="1586903780435">
         <mark key="'" line="67" column="40" />
         <mark key="[" line="68" column="78" />
