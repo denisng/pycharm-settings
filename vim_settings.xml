@@ -89,15 +89,40 @@
         <mark key="]" line="1" column="45" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1587075953141">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/checkout-repo.yaml" timestamp="1587081266993">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="53" />
+        <mark key="." line="27" column="52" />
+        <mark key="^" line="27" column="53" />
+      </file>
       <file name="/Python Console" timestamp="1587075086053">
         <mark key="'" line="0" column="67" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/desktop-icons.yaml" timestamp="1587153303335">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/test-playbook.yaml" timestamp="1587078586609">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/playbook.yaml" timestamp="1587078512071">
+        <mark key="'" line="3" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc.yaml" timestamp="1587152499559">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" timestamp="1586904298831">
         <mark key="'" line="1" column="48" />
@@ -112,7 +137,15 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/files/download_binaries.sh" timestamp="1587092384588" />
+      <file name="/" timestamp="1586903994971">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" timestamp="1587152502388">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="10" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/requirements.txt" timestamp="1587075350426">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="12" column="0" />
@@ -126,42 +159,6 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/provision.py" timestamp="1586901196684">
-        <mark key="'" line="71" column="12" />
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587075953141">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/checkout-repo.yaml" timestamp="1587081266993">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="53" />
-        <mark key="." line="27" column="52" />
-        <mark key="^" line="27" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/playbook.yaml" timestamp="1587078512071">
-        <mark key="'" line="3" column="7" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc.yaml" timestamp="1587080228806">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="35" />
-      </file>
-      <file name="/" timestamp="1586903994971">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" timestamp="1587080229828">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="9" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/install-xsdb.yaml" timestamp="1587085913736" />
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" timestamp="1586903780435">
         <mark key="'" line="67" column="40" />
         <mark key="[" line="68" column="78" />
@@ -294,7 +291,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">dXNiX2FkYXB0ZXJfbmFtZTogImVueDAwNTBiNjI4ODY0YyIK</text>
+        <text encoding="base64">c2RyX2RyaXZlciA6ICJoYWNrcmYiCg==</text>
       </register>
       <register name="-" type="4">
         <text>eval_jtag</text>
@@ -303,7 +300,7 @@
         <text>conf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNiX2FkYXB0ZXJfbmFtZTogImVueDAwNTBiNjI4ODY0YyIK</text>
+        <text encoding="base64">c2RyX2RyaXZlciA6ICJoYWNrcmYiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNiX2FkYXB0ZXJfbmFtZTogImVueDAwNTBiNjI4ODY0YyIK</text>
