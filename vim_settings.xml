@@ -135,9 +135,6 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="/" timestamp="1586903994971">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" timestamp="1587152502388">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="21" />
@@ -150,6 +147,11 @@
         <mark key="]" line="236" column="57" />
         <mark key="^" line="236" column="57" />
         <mark key="." line="236" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_duro_barcode.py" timestamp="1587159517065">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/requirements.txt" timestamp="1587075350426">
         <mark key="'" line="10" column="0" />
