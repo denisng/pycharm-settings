@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>syslog_formatter</entry>
         <entry>power_ctrl_type</entry>
         <entry>get_pwr_ctrl</entry>
         <entry>TestPrereqs</entry>
@@ -25,6 +24,7 @@
         <entry>calculate</entry>
         <entry>bmi160</entry>
         <entry>conf</entry>
+        <entry>Invalid URL</entry>
       </history-search>
       <history-cmd>
         <entry>8,49y</entry>
@@ -303,7 +303,7 @@
         <text>rob/ansible</text>
       </register>
       <register name="/" type="4">
-        <text>conf</text>
+        <text>Invalid URL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2RyX2RyaXZlciA6ICJoYWNrcmYiCg==</text>
@@ -342,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>conf</last-search>
+      <last-search>Invalid URL</last-search>
       <last-offset />
-      <last-pattern>conf</last-pattern>
+      <last-pattern>Invalid URL</last-pattern>
       <last-replace>self.conf</last-replace>
       <last-substitute>conf</last-substitute>
       <last-dir>1</last-dir>
