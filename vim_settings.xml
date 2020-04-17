@@ -92,11 +92,12 @@
       <file name="/Dummy.txt" timestamp="1587075953141">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/checkout-repo.yaml" timestamp="1587081266993">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="53" />
-        <mark key="." line="27" column="52" />
-        <mark key="^" line="27" column="53" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/checkout-repo.yaml" timestamp="1587154475397">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="/Python Console" timestamp="1587075086053">
         <mark key="'" line="0" column="67" />
@@ -146,6 +147,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/test_controller.py" timestamp="1587153597314">
+        <mark key="'" line="217" column="28" />
+        <mark key="[" line="236" column="56" />
+        <mark key="]" line="236" column="57" />
+        <mark key="^" line="236" column="57" />
+        <mark key="." line="236" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/requirements.txt" timestamp="1587075350426">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="12" column="0" />
@@ -159,13 +167,6 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" timestamp="1586903780435">
-        <mark key="'" line="67" column="40" />
-        <mark key="[" line="68" column="78" />
-        <mark key="]" line="70" column="25" />
-        <mark key="." line="70" column="24" />
-        <mark key="^" line="70" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/deploy-test.yaml" timestamp="1587076388743">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="13" />
@@ -174,10 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="69" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="218" column="8" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="216" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
@@ -274,6 +271,10 @@
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" />
       <jump line="16" column="34" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" />
+      <jump line="216" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/test_controller.py" />
+      <jump line="27" column="12" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/checkout-repo.yaml" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/checkout-repo.yaml" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/checkout-repo.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -290,11 +291,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">c2RyX2RyaXZlciA6ICJoYWNrcmYiCg==</text>
+      <register name="*" type="4">
+        <text>rob/ansible</text>
       </register>
       <register name="-" type="4">
-        <text>eval_jtag</text>
+        <text>rob/ansible</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
