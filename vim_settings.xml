@@ -135,11 +135,11 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" timestamp="1587166865917">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" timestamp="1587168299685">
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="24" />
-        <mark key="^" line="2" column="25" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/test_controller.py" timestamp="1587153597314">
         <mark key="'" line="217" column="28" />
@@ -297,16 +297,16 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>power_ctrl_addr: &quot;http://192.168.0.100&quot;</text>
+        <text>power_ctrl_addr: &quot;http://admin:1234@192.168.0.100</text>
       </register>
       <register name="-" type="4">
-        <text>rob/ansible</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>Invalid URL</text>
       </register>
       <register name="0" type="4">
-        <text>power_ctrl_addr: &quot;http://192.168.0.100&quot;</text>
+        <text>power_ctrl_addr: &quot;http://admin:1234@192.168.0.100</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNiX2FkYXB0ZXJfbmFtZTogImVueDAwNTBiNjI4ODY0YyIK</text>
