@@ -135,11 +135,11 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" timestamp="1587168299685">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="48" />
-        <mark key="." line="2" column="48" />
-        <mark key="^" line="2" column="49" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" timestamp="1587169457942">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/test_controller.py" timestamp="1587153597314">
         <mark key="'" line="217" column="28" />
@@ -148,10 +148,11 @@
         <mark key="^" line="236" column="57" />
         <mark key="." line="236" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_duro_barcode.py" timestamp="1587159517065">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_duro_barcode.py" timestamp="1587169467660">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/requirements.txt" timestamp="1587075350426">
         <mark key="'" line="10" column="0" />
@@ -297,10 +298,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>power_ctrl_addr: &quot;http://admin:1234@192.168.0.100</text>
+        <text>duro_mfg_test</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>duro_mfg_test</text>
       </register>
       <register name="/" type="4">
         <text>Invalid URL</text>
