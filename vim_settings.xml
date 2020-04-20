@@ -115,8 +115,8 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1587406459219">
-        <mark key="[" line="0" column="12" />
+      <file name="/dummy.sql" timestamp="1587417808263">
+        <mark key="[" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/checkout-repo.yaml" timestamp="1587409645196">
         <mark key="'" line="16" column="0" />
@@ -139,11 +139,6 @@
       </file>
       <file name="/results [registrar]" timestamp="1587405757361">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc.yaml" timestamp="1587152499559">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="21" />
       </file>
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1587405489746">
         <mark key="[" line="0" column="0" />
