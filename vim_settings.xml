@@ -74,28 +74,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/desktop-icons.yaml" timestamp="1587153303335">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="37" />
-        <mark key="^" line="10" column="37" />
-        <mark key="." line="10" column="36" />
-      </file>
       <file name="/scratch" timestamp="1587405698259">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/test_controller.py" timestamp="1587153597314">
-        <mark key="'" line="217" column="28" />
-        <mark key="[" line="236" column="56" />
-        <mark key="]" line="236" column="57" />
-        <mark key="^" line="236" column="57" />
-        <mark key="." line="236" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_duro_barcode.py" timestamp="1587171958421">
-        <mark key="'" line="77" column="81" />
-        <mark key="[" line="48" column="63" />
-        <mark key="]" line="48" column="83" />
-        <mark key="." line="48" column="82" />
-        <mark key="^" line="48" column="83" />
+      <file name="/dog2zb0js2j5imh.public.softwares" timestamp="1587418632556">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1587417628067">
         <mark key="[" line="0" column="0" />
@@ -108,12 +91,6 @@
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/pip-install.yaml" timestamp="1587155250530">
-        <mark key="[" line="17" column="50" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="24" />
       </file>
       <file name="/dummy.sql" timestamp="1587417808263">
         <mark key="[" line="0" column="10" />
@@ -131,6 +108,9 @@
         <mark key="." line="71" column="30" />
         <mark key="^" line="71" column="31" />
       </file>
+      <file name="/softwares [registrar]" timestamp="1587418632544">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/devices [registrar]" timestamp="1587417628050">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,22 +120,28 @@
       <file name="/results [registrar]" timestamp="1587405757361">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/dog2zb0js2j5imh.public.hardwares" timestamp="1587418731081">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1587405489746">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/host_vars/rob-nuc-2.yaml" timestamp="1587169457942">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/templates/idle.html" timestamp="1587420721215">
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="27" column="54" />
+        <mark key="^" line="27" column="54" />
+        <mark key="." line="27" column="53" />
       </file>
-      <file name="/foo.bar" timestamp="1587417628078">
+      <file name="/foo.bar" timestamp="1587418734041">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1587404963552">
+      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1587418734029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/duros [registrar]" timestamp="1587404963368">
+      <file name="/hardwares [registrar]" timestamp="1587418731071">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/duros [registrar]" timestamp="1587418734011">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
