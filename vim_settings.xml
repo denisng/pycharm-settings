@@ -74,6 +74,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1587422127619">
+        <mark key="'" line="0" column="67" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/scratch" timestamp="1587405698259">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,11 +90,11 @@
       <file name="/dog2zb0js2j5imh.public.results" timestamp="1587405757374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1587405686179">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="41" />
-        <mark key="^" line="0" column="41" />
-        <mark key="." line="0" column="40" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/checkout-repo.yaml" timestamp="1587423089682">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="25" />
       </file>
       <file name="/dummy.sql" timestamp="1587417808263">
         <mark key="[" line="0" column="10" />
@@ -114,23 +118,23 @@
       <file name="/devices [registrar]" timestamp="1587417628050">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/runs [registrar]" timestamp="1587405489731">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/results [registrar]" timestamp="1587405757361">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" timestamp="1587423694562">
+        <mark key="[" line="203" column="33" />
+        <mark key="]" line="203" column="42" />
+        <mark key="." line="203" column="41" />
+        <mark key="^" line="203" column="42" />
       </file>
       <file name="/dog2zb0js2j5imh.public.hardwares" timestamp="1587418731081">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1587405489746">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/templates/idle.html" timestamp="1587420824286">
-        <mark key="[" line="27" column="54" />
-        <mark key="]" line="27" column="68" />
-        <mark key="^" line="27" column="68" />
-        <mark key="." line="27" column="67" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/templates/idle.html" timestamp="1587423837422">
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="6" />
       </file>
       <file name="/foo.bar" timestamp="1587418734041">
         <mark key="[" line="0" column="0" />
@@ -263,43 +267,43 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0ie3t2ZXJzaW9ufX0iPnt7dmVyc2lvbn19PC9vcHRpb24+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dng/barcode</text>
+        <text>new-updater</text>
       </register>
       <register name="/" type="4">
         <text>Invalid URL</text>
       </register>
-      <register name="0" type="4">
-        <text>power_ctrl_addr: &quot;http://admin:1234@192.168.0.100</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0ie3t2ZXJzaW9ufX0iPnt7dmVyc2lvbn19PC9vcHRpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Int7dmVyc2lvbn19Ij57e3ZlcnNpb259fTwvb3B0aW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5pbXVtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBlbmRpZiAlfSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBpZiB2ZXJzaW9uID09IGRlZmF1bHRfdmVyc2lvbiAlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oRklYVFVSRS5saXN0X2NhY2hlZF9mdygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gbWluaW11bTogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
