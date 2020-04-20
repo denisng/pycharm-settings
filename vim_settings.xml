@@ -121,7 +121,10 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/checkout-repo.yaml" timestamp="1587154475397">
+      <file name="/dummy.sql" timestamp="1587406459219">
+        <mark key="[" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/checkout-repo.yaml" timestamp="1587409645196">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="24" />
@@ -278,11 +281,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">V0hFUkUg</text>
+      <register name="*" type="4">
+        <text>dng/barcode</text>
       </register>
       <register name="-" type="4">
-        <text>W</text>
+        <text>dng/barcode</text>
       </register>
       <register name="/" type="4">
         <text>Invalid URL</text>
