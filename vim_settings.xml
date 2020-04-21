@@ -78,8 +78,10 @@
         <mark key="'" line="0" column="67" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/scratch" timestamp="1587405698259">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/setup.py" timestamp="1587427681452">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="/dog2zb0js2j5imh.public.softwares" timestamp="1587418632556">
         <mark key="[" line="0" column="0" />
@@ -90,11 +92,11 @@
       <file name="/dog2zb0js2j5imh.public.results" timestamp="1587405757374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/checkout-repo.yaml" timestamp="1587423089682">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/checkout-repo.yaml" timestamp="1587427636504">
         <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="25" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="24" />
       </file>
       <file name="/dummy.sql" timestamp="1587417808263">
         <mark key="[" line="0" column="10" />
@@ -267,10 +269,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dng/issue-52</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dng/issue-52</text>
       </register>
       <register name="/" type="4">
         <text>Invalid URL</text>
