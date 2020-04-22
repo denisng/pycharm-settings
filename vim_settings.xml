@@ -94,11 +94,11 @@
       <file name="/results [registrar]" timestamp="1587498181731">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" timestamp="1587423694562">
-        <mark key="[" line="203" column="33" />
-        <mark key="]" line="203" column="42" />
-        <mark key="." line="203" column="41" />
-        <mark key="^" line="203" column="42" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" timestamp="1587596351937">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1587498193117">
         <mark key="[" line="0" column="0" />
@@ -118,11 +118,11 @@
       <file name="/foo.bar" timestamp="1587498193129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/files/updater_application.desktop" timestamp="1587595143616">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/files/updater_application.desktop" timestamp="1587595948813">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1587430411124">
         <mark key="[" line="0" column="0" />
@@ -270,10 +270,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>Network;WebBrowser;</text>
+        <text>%U</text>
       </register>
       <register name="-" type="4">
-        <text>Network;WebBrowser;</text>
+        <text>%U</text>
       </register>
       <register name="/" type="4">
         <text>Invalid URL</text>
