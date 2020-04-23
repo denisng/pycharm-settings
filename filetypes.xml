@@ -7,7 +7,6 @@
       <mapping pattern="dng-inv" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="idle" type="PLAIN_TEXT" />
-      <mapping ext="desktop" type="PLAIN_TEXT" />
       <mapping ext="tcl" type="PLAIN_TEXT" />
       <mapping ext="hebilog" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
