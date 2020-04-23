@@ -77,6 +77,9 @@
       <file name="/Dummy.txt" timestamp="1587498160161">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/devices [registrar]" timestamp="1587678156233">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/console" timestamp="1587498160523">
         <mark key="[" line="0" column="0" />
       </file>
@@ -90,13 +93,10 @@
         <mark key="^" line="31" column="9" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="/results [registrar]" timestamp="1587498181731">
+      <file name="/results [registrar]" timestamp="1587678156574">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1587498193117">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/scratch" timestamp="1587433600543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/test_controller.py" timestamp="1587677934760">
@@ -105,7 +105,7 @@
       <file name="/a.sql" timestamp="1587498160138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1587498193129">
+      <file name="/foo.bar" timestamp="1587678156599">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" timestamp="1587677766215">
@@ -117,7 +117,10 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.results" timestamp="1587498181746">
+      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1587678156425">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.results" timestamp="1587678156588">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/checkout-repo.yaml" timestamp="1587605418462">
@@ -131,9 +134,6 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="27" />
-      </file>
-      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1587432769852">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1587604426365">
         <mark key="'" line="6" column="18" />
