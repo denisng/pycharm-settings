@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>TestPrereqs</entry>
-        <entry>^</entry>
-        <entry>detect</entry>
         <entry>REBOOT_WAIT</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>\w+</entry>
@@ -25,6 +22,9 @@
         <entry>Invalid URL</entry>
         <entry>bar</entry>
         <entry>-</entry>
+        <entry>result_container</entry>
+        <entry>device.part_number</entry>
+        <entry>part_number</entry>
       </history-search>
       <history-cmd>
         <entry>7,50d</entry>
@@ -74,10 +74,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1587498160161">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/console" timestamp="1587498160523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/desktop-icons.yaml" timestamp="1587599867579" />
+      <file name="/runs [registrar]" timestamp="1587498193100">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" timestamp="1587605657587">
         <mark key="'" line="10" column="18" />
         <mark key="[" line="35" column="0" />
@@ -85,14 +90,32 @@
         <mark key="^" line="31" column="9" />
         <mark key="." line="35" column="4" />
       </file>
+      <file name="/results [registrar]" timestamp="1587498181731">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1587498193117">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/scratch" timestamp="1587433600543">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/test_controller.py" timestamp="1587677934760">
+        <mark key="'" line="303" column="84" />
       </file>
       <file name="/a.sql" timestamp="1587498160138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1587430411124">
+      <file name="/foo.bar" timestamp="1587498193129">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" timestamp="1587677766215">
+        <mark key="'" line="22" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/files/updater_application.desktop" timestamp="1587600081905">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="34" />
       </file>
       <file name="/dog2zb0js2j5imh.public.results" timestamp="1587498181746">
         <mark key="[" line="0" column="0" />
@@ -109,40 +132,7 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="/dummy.sql" timestamp="1587498286935">
-        <mark key="[" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/playbook.yaml" timestamp="1587600674290">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="41" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587498160161">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/runs [registrar]" timestamp="1587498193100">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/results [registrar]" timestamp="1587498181731">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1587498193117">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1587498193129">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/files/updater_application.desktop" timestamp="1587600081905">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="34" />
-      </file>
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1587432769852">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/duros [registrar]" timestamp="1587432769836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1587604426365">
@@ -152,19 +142,17 @@
         <mark key="^" line="0" column="24857" />
         <mark key="." line="0" column="24856" />
       </file>
+      <file name="/dummy.sql" timestamp="1587498286935">
+        <mark key="[" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/playbook.yaml" timestamp="1587600674290">
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="41" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="187" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="180" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="172" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="147" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="140" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="136" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
@@ -254,6 +242,17 @@
       <jump line="32" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" />
       <jump line="6" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="10" column="18" filename="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" />
+      <jump line="41" column="58" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" />
+      <jump line="58" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" />
+      <jump line="63" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" />
+      <jump line="68" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" />
+      <jump line="73" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" />
+      <jump line="78" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" />
+      <jump line="20" column="32" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" />
+      <jump line="22" column="57" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" />
+      <jump line="107" column="52" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/test_controller.py" />
+      <jump line="275" column="30" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/test_controller.py" />
+      <jump line="303" column="84" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/test_controller.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -277,7 +276,7 @@
         <text>new-updater</text>
       </register>
       <register name="/" type="4">
-        <text>-</text>
+        <text>part_number</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0ie3t2ZXJzaW9ufX0iPnt7dmVyc2lvbn19PC9vcHRpb24+Cg==</text>
@@ -316,9 +315,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>-</last-search>
+      <last-search>part_number</last-search>
       <last-offset />
-      <last-pattern>-</last-pattern>
+      <last-pattern>part_number</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
