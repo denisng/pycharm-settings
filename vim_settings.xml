@@ -23,8 +23,8 @@
         <entry>bmi160</entry>
         <entry>conf</entry>
         <entry>Invalid URL</entry>
-        <entry>-</entry>
         <entry>bar</entry>
+        <entry>-</entry>
       </history-search>
       <history-cmd>
         <entry>7,50d</entry>
@@ -78,8 +78,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/ansible/tasks/desktop-icons.yaml" timestamp="1587599867579" />
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" timestamp="1587604141308">
-        <mark key="'" line="32" column="4" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" timestamp="1587605657587">
+        <mark key="'" line="10" column="18" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="4" />
         <mark key="^" line="31" column="9" />
@@ -97,6 +97,12 @@
       <file name="/dog2zb0js2j5imh.public.results" timestamp="1587498181746">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/checkout-repo.yaml" timestamp="1587605418462">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="25" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1587433616668">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="27" />
@@ -113,9 +119,6 @@
         <mark key="." line="7" column="41" />
       </file>
       <file name="/Dummy.txt" timestamp="1587498160161">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/devices [registrar]" timestamp="1587430411009">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/runs [registrar]" timestamp="1587498193100">
@@ -151,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="191" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="187" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="180" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
@@ -251,6 +253,7 @@
       <jump line="19" column="25" filename="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" />
       <jump line="32" column="4" filename="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" />
       <jump line="6" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="10" column="18" filename="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -268,13 +271,13 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new-updater</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new-updater</text>
       </register>
       <register name="/" type="4">
-        <text>bar</text>
+        <text>-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0ie3t2ZXJzaW9ufX0iPnt7dmVyc2lvbn19PC9vcHRpb24+Cg==</text>
@@ -313,9 +316,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bar</last-search>
+      <last-search>-</last-search>
       <last-offset />
-      <last-pattern>bar</last-pattern>
+      <last-pattern>-</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
