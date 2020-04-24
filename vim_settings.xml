@@ -77,10 +77,10 @@
       <file name="/start_script.py" timestamp="1587759838277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/setup.py" timestamp="1587759786277">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
+      <file name="$USER_HOME$/Documents/GitHub/py-registrar/setup.py" timestamp="1587761225616">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="/Dummy.ts" timestamp="1587760219412">
         <mark key="[" line="0" column="0" />
@@ -126,6 +126,11 @@
         <mark key="]" line="7" column="42" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/setup.py" timestamp="1587762376065">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/provision.py" timestamp="1587685712809">
         <mark key="'" line="51" column="9" />
         <mark key="[" line="86" column="72" />
@@ -140,9 +145,6 @@
         <mark key="." line="7" column="41" />
       </file>
       <file name="/Dummy.html" timestamp="1587760218112">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/devices [registrar]" timestamp="1587678156233">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/results [registrar]" timestamp="1587678156574">
