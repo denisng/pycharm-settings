@@ -74,12 +74,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" timestamp="1587688617111">
-        <mark key="'" line="11" column="18" />
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="12" />
+      <file name="/devices [registrar]" timestamp="1587678156233">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" timestamp="1587690239091">
+        <mark key="'" line="10" column="18" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/results [registrar]" timestamp="1587678156574">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1587498193117">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" timestamp="1587685502027">
         <mark key="[" line="6" column="11" />
@@ -93,11 +101,26 @@
       <file name="/''" timestamp="1587684232383">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/" timestamp="1587684229312">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" timestamp="1587685811727">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="36" />
         <mark key="." line="23" column="35" />
         <mark key="^" line="23" column="36" />
+      </file>
+      <file name="/foo.bar" timestamp="1587678156599">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" timestamp="1587677766215">
+        <mark key="'" line="22" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/files/updater_application.desktop" timestamp="1587600081905">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="34" />
       </file>
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1587678156425">
         <mark key="[" line="0" column="0" />
@@ -118,39 +141,6 @@
         <mark key="." line="87" column="31" />
         <mark key="^" line="87" column="32" />
       </file>
-      <file name="/dummy.sql" timestamp="1587498286935">
-        <mark key="[" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/playbook.yaml" timestamp="1587600674290">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="41" />
-      </file>
-      <file name="/devices [registrar]" timestamp="1587678156233">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/results [registrar]" timestamp="1587678156574">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1587498193117">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/" timestamp="1587684229312">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1587678156599">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" timestamp="1587677766215">
-        <mark key="'" line="22" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/files/updater_application.desktop" timestamp="1587600081905">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="34" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1587604426365">
         <mark key="'" line="6" column="18" />
         <mark key="[" line="0" column="0" />
@@ -163,6 +153,15 @@
         <mark key="]" line="15" column="37" />
         <mark key="." line="15" column="36" />
         <mark key="^" line="15" column="37" />
+      </file>
+      <file name="/dummy.sql" timestamp="1587498286935">
+        <mark key="[" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/playbook.yaml" timestamp="1587600674290">
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -282,8 +281,8 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>'', {'type': 'test-sets-passed-request', 'data': data}</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
       </register>
       <register name="-" type="4">
         <text>'', {'type': 'test-sets-passed-request', 'data': data}</text>
@@ -295,31 +294,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0ie3t2ZXJzaW9ufX0iPnt7dmVyc2lvbn19PC9vcHRpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cjw8PDw8PDwgSEVBRDpjbGllbnQvcmVnaXN0cmFyX2NsaWVudC9wcm92aXNpb24ucHkKPT09PT09PQoKZGVmIHB1dER1cm8oZHVyb19zZXJpYWxfaWQsIHNlcmlhbF9pZCwgY2Fycmllcl9pZCwgaW50ZXJmYWNlX2lkLAogICAgICAgICAgICBjZWxsbW9kZW1faWQpOgogICAgZGF0YSA9IHsnZHVyby1zZXJpYWwtaWQnOiBkdXJvX3NlcmlhbF9pZCwgJ3NlcmlhbC1pZCc6IHNlcmlhbF9pZCwKICAgICAgICAgICAgJ2NhcnJpZXItaWQnOiBjYXJyaWVyX2lkLCAnaW50ZXJmYWNlLWlkJzogaW50ZXJmYWNlX2lkLAogICAgICAgICAgICAnY2VsbG1vZGVtLWlkJzogY2VsbG1vZGVtX2lkfQogICAgciA9IHB1dCgnZHVybycsIGRhdGEpCiAgICByZXR1cm4gclsnZGF0YSddCgoKZGVmIGdldER1cm9Gcm9tUGlrc2koc2VyaWFsX2lkKToKICAgIGRhdGEgPSB7J3NlcmlhbC1pZCc6IHNlcmlhbF9pZH0KICAgIHIgPSBwb3N0KCdkdXJvLWZyb20tcGlrc2knLCBkYXRhKQogICAgcmV0dXJuIHJbJ2RhdGEnXQoKCmRlZiBnZXRQaWtzaUZyb21EdXJvKGR1cm9fc2VyaWFsX2lkKToKICAgIGRhdGEgPSB7J2R1cm8tc2VyaWFsLWlkJzogZHVyb19zZXJpYWxfaWR9CiAgICByID0gcG9zdCgncGlrc2ktZnJvbS1kdXJvJywgZGF0YSkKICAgIHJldHVybiByWydkYXRhJ10KCgpkZWYgZ2V0VGVzdFNldHNQYXNzZWQoc2VyaWFsX2lkKToKICAgIGRhdGEgPSB7J3NlcmlhbC1pZCc6IHNlcmlhbF9pZH0KICAgIHIgPSBwb3N0KCd0ZXN0LXNldHMtcGFzc2VkJywgZGF0YSkKICAgIHJldHVybiByWydkYXRhJ10KPj4+Pj4+PiBjb252ZXJ0ZWQgdG8gdmVyYnMgYW5kIHBhdGhzIGluc3RlYWQgb2YgYSBzaW5nbGUgZW5kcG9pbnQ6Y2xpZW50L3JlZ2lzdHJhcl9jbGllbnQucHkK</text>
+        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjb252ZXJ0ZWQgdG8gdmVyYnMgYW5kIHBhdGhzIGluc3RlYWQgb2YgYSBzaW5nbGUgZW5kcG9pbnQ6Y2xpZW50L3JlZ2lzdHJhcl9jbGllbnQucHkK</text>
+        <text encoding="base64">Cjw8PDw8PDwgSEVBRDpjbGllbnQvcmVnaXN0cmFyX2NsaWVudC9wcm92aXNpb24ucHkKPT09PT09PQoKZGVmIHB1dER1cm8oZHVyb19zZXJpYWxfaWQsIHNlcmlhbF9pZCwgY2Fycmllcl9pZCwgaW50ZXJmYWNlX2lkLAogICAgICAgICAgICBjZWxsbW9kZW1faWQpOgogICAgZGF0YSA9IHsnZHVyby1zZXJpYWwtaWQnOiBkdXJvX3NlcmlhbF9pZCwgJ3NlcmlhbC1pZCc6IHNlcmlhbF9pZCwKICAgICAgICAgICAgJ2NhcnJpZXItaWQnOiBjYXJyaWVyX2lkLCAnaW50ZXJmYWNlLWlkJzogaW50ZXJmYWNlX2lkLAogICAgICAgICAgICAnY2VsbG1vZGVtLWlkJzogY2VsbG1vZGVtX2lkfQogICAgciA9IHB1dCgnZHVybycsIGRhdGEpCiAgICByZXR1cm4gclsnZGF0YSddCgoKZGVmIGdldER1cm9Gcm9tUGlrc2koc2VyaWFsX2lkKToKICAgIGRhdGEgPSB7J3NlcmlhbC1pZCc6IHNlcmlhbF9pZH0KICAgIHIgPSBwb3N0KCdkdXJvLWZyb20tcGlrc2knLCBkYXRhKQogICAgcmV0dXJuIHJbJ2RhdGEnXQoKCmRlZiBnZXRQaWtzaUZyb21EdXJvKGR1cm9fc2VyaWFsX2lkKToKICAgIGRhdGEgPSB7J2R1cm8tc2VyaWFsLWlkJzogZHVyb19zZXJpYWxfaWR9CiAgICByID0gcG9zdCgncGlrc2ktZnJvbS1kdXJvJywgZGF0YSkKICAgIHJldHVybiByWydkYXRhJ10KCgpkZWYgZ2V0VGVzdFNldHNQYXNzZWQoc2VyaWFsX2lkKToKICAgIGRhdGEgPSB7J3NlcmlhbC1pZCc6IHNlcmlhbF9pZH0KICAgIHIgPSBwb3N0KCd0ZXN0LXNldHMtcGFzc2VkJywgZGF0YSkKICAgIHJldHVybiByWydkYXRhJ10KPj4+Pj4+PiBjb252ZXJ0ZWQgdG8gdmVyYnMgYW5kIHBhdGhzIGluc3RlYWQgb2YgYSBzaW5nbGUgZW5kcG9pbnQ6Y2xpZW50L3JlZ2lzdHJhcl9jbGllbnQucHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByWydkYXRhJ10K</text>
+        <text encoding="base64">Pj4+Pj4+PiBjb252ZXJ0ZWQgdG8gdmVyYnMgYW5kIHBhdGhzIGluc3RlYWQgb2YgYSBzaW5nbGUgZW5kcG9pbnQ6Y2xpZW50L3JlZ2lzdHJhcl9jbGllbnQucHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHIgPSBnZXQoJ2hlYXJ0YmVhdCcsIGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByWydkYXRhJ10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSB7J2hvc3RuYW1lJzogZGF0YX0K</text>
+        <text encoding="base64">ICAgIHIgPSBnZXQoJ2hlYXJ0YmVhdCcsIGRhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGhlYXJ0YmVhdChkYXRhKToK</text>
+        <text encoding="base64">ICAgIGRhdGEgPSB7J2hvc3RuYW1lJzogZGF0YX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGhlYXJ0YmVhdChkYXRhKToK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByLmpzb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
