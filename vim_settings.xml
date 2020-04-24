@@ -74,7 +74,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/devices [registrar]" timestamp="1587678156233">
+      <file name="/start_script.py" timestamp="1587759838277">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/py-registrar/setup.py" timestamp="1587759786277">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+      </file>
+      <file name="/Dummy.ts" timestamp="1587760219412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" timestamp="1587690239091">
@@ -83,22 +91,16 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/results [registrar]" timestamp="1587678156574">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" timestamp="1587685502027">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="18" />
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/test_controller.py" timestamp="1587677934760">
-        <mark key="'" line="303" column="84" />
-      </file>
       <file name="/''" timestamp="1587684232383">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/" timestamp="1587684229312">
+      <file name="/Dummy.js" timestamp="1587760218853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" timestamp="1587685811727">
@@ -107,29 +109,17 @@
         <mark key="." line="23" column="35" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="/foo.bar" timestamp="1587678156599">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/tests/test_verify_device.py" timestamp="1587677766215">
-        <mark key="'" line="22" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/files/updater_application.desktop" timestamp="1587600081905">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="34" />
-      </file>
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1587678156425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.results" timestamp="1587678156588">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/checkout-repo.yaml" timestamp="1587605418462">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/py-registrar/registrar_server/api/requests/post_requests.py" timestamp="1587760451593">
+        <mark key="[" line="54" column="48" />
+        <mark key="]" line="54" column="48" />
+        <mark key="^" line="47" column="55" />
+        <mark key="." line="54" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/deploy-production.yaml" timestamp="1587692564793">
         <mark key="[" line="7" column="0" />
@@ -143,27 +133,32 @@
         <mark key="." line="87" column="31" />
         <mark key="^" line="87" column="32" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1587604426365">
-        <mark key="'" line="6" column="18" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/playbook.yaml" timestamp="1587692562631">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="41" />
+      </file>
+      <file name="/Dummy.html" timestamp="1587760218112">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24857" />
-        <mark key="^" line="0" column="24857" />
-        <mark key="." line="0" column="24856" />
+      </file>
+      <file name="/devices [registrar]" timestamp="1587678156233">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/results [registrar]" timestamp="1587678156574">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1587760132917">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1587678156599">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" timestamp="1587685866422">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="37" />
         <mark key="." line="15" column="36" />
         <mark key="^" line="15" column="37" />
-      </file>
-      <file name="/dummy.sql" timestamp="1587498286935">
-        <mark key="[" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/playbook.yaml" timestamp="1587692562631">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -283,11 +278,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIC0gaW5jbHVkZTogdGFza3MvZGVza3RvcC1zaG9ydGN1dC55YW1sCg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'', {'type': 'test-sets-passed-request', 'data': data}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>part_number</text>
