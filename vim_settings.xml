@@ -109,11 +109,13 @@
         <mark key="." line="23" column="35" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1587678156425">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/dog2zb0js2j5imh.public.results" timestamp="1587678156588">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/requirements.txt" timestamp="1587766175021">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/registrar_server/api/requests/post_requests.py" timestamp="1587760451593">
         <mark key="[" line="54" column="48" />
@@ -147,9 +149,6 @@
       <file name="/Dummy.html" timestamp="1587760218112">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/results [registrar]" timestamp="1587678156574">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/" timestamp="1587760132917">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,6 +160,12 @@
         <mark key="]" line="15" column="37" />
         <mark key="." line="15" column="36" />
         <mark key="^" line="15" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/uplink_manager.py" timestamp="1587765976004">
+        <mark key="[" line="31" column="50" />
+        <mark key="]" line="32" column="44" />
+        <mark key="^" line="32" column="44" />
+        <mark key="." line="32" column="43" />
       </file>
     </filemarks>
     <jumps>
