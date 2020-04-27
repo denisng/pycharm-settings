@@ -85,6 +85,9 @@
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
+      <file name="/Dummy.txt" timestamp="1588018122445">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.ts" timestamp="1587760219412">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,15 +97,6 @@
         <mark key="]" line="38" column="51" />
         <mark key="." line="38" column="50" />
         <mark key="^" line="38" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" timestamp="1587685502027">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="17" />
-      </file>
-      <file name="/''" timestamp="1587684232383">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.js" timestamp="1587760218853">
         <mark key="[" line="0" column="0" />
@@ -116,7 +110,7 @@
         <mark key="." line="23" column="35" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="/foo.bar" timestamp="1587678156599">
+      <file name="/a.sql" timestamp="1588017817269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/requirements.txt" timestamp="1587766175021">
@@ -164,6 +158,9 @@
         <mark key="]" line="32" column="44" />
         <mark key="^" line="32" column="44" />
         <mark key="." line="32" column="43" />
+      </file>
+      <file name="/dummy.sql" timestamp="1588018130688">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/playbook.yaml" timestamp="1587692562631">
         <mark key="[" line="7" column="0" />
