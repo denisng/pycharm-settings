@@ -74,9 +74,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1587759838277">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Dummy.html" timestamp="1587760218112">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,7 +88,7 @@
       <file name="/Dummy.ts" timestamp="1587760219412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/runs [registrar]" timestamp="1588037697558">
+      <file name="/runs [registrar]" timestamp="1588089933498">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" timestamp="1587768326166">
@@ -101,19 +98,22 @@
         <mark key="." line="38" column="50" />
         <mark key="^" line="38" column="51" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1588037697578">
+      <file name="/results [registrar]" timestamp="1588089940857">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1588089933504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.js" timestamp="1587760218853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/" timestamp="1587760132917">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.sql" timestamp="1588037625136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1588037697612">
+      <file name="/foo.bar" timestamp="1588089940902">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.results" timestamp="1588089940882">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/requirements.txt" timestamp="1587766175021">
