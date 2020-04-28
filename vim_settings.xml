@@ -85,10 +85,13 @@
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588018122445">
+      <file name="/Dummy.txt" timestamp="1588037630200">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.ts" timestamp="1587760219412">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/runs [registrar]" timestamp="1588037697558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" timestamp="1587768326166">
@@ -98,19 +101,19 @@
         <mark key="." line="38" column="50" />
         <mark key="^" line="38" column="51" />
       </file>
+      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1588037697578">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.js" timestamp="1587760218853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/" timestamp="1587760132917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" timestamp="1587685811727">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="36" />
-        <mark key="." line="23" column="35" />
-        <mark key="^" line="23" column="36" />
+      <file name="/a.sql" timestamp="1588037625136">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1588017817269">
+      <file name="/foo.bar" timestamp="1588037697612">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/requirements.txt" timestamp="1587766175021">
@@ -130,15 +133,13 @@
         <mark key="^" line="47" column="55" />
         <mark key="." line="54" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/deploy-production.yaml" timestamp="1587692564793">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="42" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/setup.py" timestamp="1587762376065">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
+      </file>
+      <file name="/default" timestamp="1588037688318">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/provision.py" timestamp="1587763708747">
         <mark key="'" line="51" column="9" />
@@ -147,26 +148,14 @@
         <mark key="." line="69" column="29" />
         <mark key="^" line="63" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" timestamp="1587685866422">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="37" />
-        <mark key="." line="15" column="36" />
-        <mark key="^" line="15" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/src/piksi_provision_tools/uplink_manager.py" timestamp="1587765976004">
         <mark key="[" line="31" column="50" />
         <mark key="]" line="32" column="44" />
         <mark key="^" line="32" column="44" />
         <mark key="." line="32" column="43" />
       </file>
-      <file name="/dummy.sql" timestamp="1588018130688">
+      <file name="/dummy.sql" timestamp="1588037653005">
         <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/playbook.yaml" timestamp="1587692562631">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="41" />
       </file>
     </filemarks>
     <jumps>
