@@ -74,31 +74,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/imus [registrar]" timestamp="1588278131595">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/quality-control-piksi-results" timestamp="1588279702371">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dog2zb0js2j5imh.public.results" timestamp="1588089940882">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588280518394">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/imus [Registrar]" timestamp="1588280952842">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/default" timestamp="1588037688318">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/devices/piksi.py" timestamp="1588278075894">
-        <mark key="'" line="37" column="44" />
-      </file>
-      <file name="/dummy.sql" timestamp="1588037653005">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="/dumpDataPreview" timestamp="1588281037475">
+      <file name="/imus [registrar]" timestamp="1588284728793">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/runs [registrar]" timestamp="1588089933498">
@@ -110,19 +86,34 @@
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1588089933504">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/quality-control-piksi-results" timestamp="1588279702371">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/" timestamp="1588200139178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1588280952869">
+      <file name="/foo.bar" timestamp="1588284728800">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.results" timestamp="1588089940882">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588280518394">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/devices [Registrar]" timestamp="1588280518377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.imus" timestamp="1588280952856">
+      <file name="/imus [Registrar]" timestamp="1588280952842">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1588279389223">
+      <file name="/dog2zb0js2j5imh.public.imus" timestamp="1588284728796">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/default" timestamp="1588037688318">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1588284728799">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SQL/quality-control-piksi-results.sql" timestamp="1588280947483">
@@ -132,7 +123,16 @@
         <mark key="." line="15" column="2943" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="/duros [registrar]" timestamp="1588279389207">
+      <file name="/duros [registrar]" timestamp="1588284728798">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/devices/piksi.py" timestamp="1588278075894">
+        <mark key="'" line="37" column="44" />
+      </file>
+      <file name="/dummy.sql" timestamp="1588037653005">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="/dumpDataPreview" timestamp="1588281037475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/gnss-converters/c/src/rtcm3_sbp.c" timestamp="1588200671055">
