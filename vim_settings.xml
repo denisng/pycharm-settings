@@ -74,6 +74,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/Dockerfile" timestamp="1588286242194">
+        <mark key="[" line="1" column="111" />
+        <mark key="]" line="1" column="116" />
+        <mark key="^" line="1" column="116" />
+        <mark key="." line="1" column="115" />
+      </file>
       <file name="/imus [registrar]" timestamp="1588284728793">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,9 +134,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/devices/piksi.py" timestamp="1588278075894">
         <mark key="'" line="37" column="44" />
-      </file>
-      <file name="/dummy.sql" timestamp="1588037653005">
-        <mark key="[" line="0" column="1" />
       </file>
       <file name="/dumpDataPreview" timestamp="1588281037475">
         <mark key="[" line="0" column="0" />
