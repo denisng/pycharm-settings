@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>\d\+</entry>
-        <entry>StrictVersion</entry>
-        <entry>\w\+</entry>
         <entry>device</entry>
         <entry>5</entry>
         <entry>GyroscopeMeasurementRangeUnstable</entry>
@@ -25,13 +22,11 @@
         <entry>process</entry>
         <entry>buf</entry>
         <entry>RTCM3_FIFO_SIZE</entry>
+        <entry>\d\+,'\0'</entry>
+        <entry>\d+,'\0',</entry>
+        <entry>\w\+</entry>
       </history-search>
       <history-cmd>
-        <entry>7,50d</entry>
-        <entry encoding="base64">MTQ0LDE5ND4=</entry>
-        <entry>s/5/7/g</entry>
-        <entry>20,60y</entry>
-        <entry>207,210y</entry>
         <entry>141,143y</entry>
         <entry>146,148y</entry>
         <entry>W</entry>
@@ -46,6 +41,11 @@
         <entry>167,172y</entry>
         <entry>s/-/_/g</entry>
         <entry>wq</entry>
+        <entry>16,165s/\d\+,'\0'/</entry>
+        <entry>16,165s/\d+,'\0',/</entry>
+        <entry>16,156s/\w\+/'\0',/</entry>
+        <entry>16,156s/\w\+/'00\0',/</entry>
+        <entry>16,156j</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -77,23 +77,14 @@
       <file name="/imus [registrar]" timestamp="1588278131595">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/desktop-shortcut.yaml" timestamp="1587768326166">
-        <mark key="'" line="10" column="18" />
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="38" column="51" />
-        <mark key="." line="38" column="50" />
-        <mark key="^" line="38" column="51" />
-      </file>
-      <file name="/a.sql" timestamp="1588037625136">
+      <file name="/quality-control-piksi-results" timestamp="1588279702371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.results" timestamp="1588089940882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_provision_tools/python/requirements.txt" timestamp="1587766175021">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588280518394">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/default" timestamp="1588037688318">
         <mark key="[" line="0" column="0" />
@@ -119,14 +110,11 @@
       <file name="/" timestamp="1588200139178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1588279389238">
+      <file name="/foo.bar" timestamp="1588280518406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/ansible.cfg" timestamp="1587768544324">
+      <file name="/devices [Registrar]" timestamp="1588280518377">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="9" />
       </file>
       <file name="/dog2zb0js2j5imh.public.imus" timestamp="1588278131828">
         <mark key="[" line="0" column="0" />
@@ -134,10 +122,11 @@
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1588279389223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SQL/quality-control-piksi-results.sql" timestamp="1588279682064">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="21" />
+      <file name="$USER_HOME$/Documents/SQL/quality-control-piksi-results.sql" timestamp="1588280873923">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="2943" />
         <mark key="^" line="15" column="22" />
       </file>
       <file name="/duros [registrar]" timestamp="1588279389207">
@@ -148,9 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="128" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="134" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
@@ -248,6 +234,9 @@
       <jump line="1643" column="30" filename="$USER_HOME$/Documents/GitHub/gnss-converters/c/src/rtcm3_sbp.c" />
       <jump line="1624" column="54" filename="$USER_HOME$/Documents/GitHub/gnss-converters/c/src/rtcm3_sbp.c" />
       <jump line="37" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/devices/piksi.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/Documents/SQL/quality-control-piksi-results.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SQL/quality-control-piksi-results.sql" />
+      <jump line="155" column="0" filename="$USER_HOME$/Documents/SQL/quality-control-piksi-results.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -265,13 +254,13 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>00862011520100073</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>00862011520100073</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>RTCM3_FIFO_SIZE</text>
+        <text>\w\+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gaW5jbHVkZTogdGFza3MvZGVza3RvcC1zaG9ydGN1dC55YW1sCg==</text>
@@ -310,11 +299,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>RTCM3_FIFO_SIZE</last-search>
+      <last-search>\w\+</last-search>
       <last-offset />
-      <last-pattern>RTCM3_FIFO_SIZE</last-pattern>
-      <last-replace>_</last-replace>
-      <last-substitute>-</last-substitute>
+      <last-pattern>\w\+</last-pattern>
+      <last-replace>'00\0',</last-replace>
+      <last-substitute>\w\+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
