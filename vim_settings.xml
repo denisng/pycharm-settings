@@ -74,15 +74,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/setup.py" timestamp="1587761225616">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588037630200">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.ts" timestamp="1587760219412">
+      <file name="/imus [registrar]" timestamp="1588278131595">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/runs [registrar]" timestamp="1588089933498">
@@ -107,7 +102,7 @@
       <file name="/a.sql" timestamp="1588037625136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1588089940902">
+      <file name="/foo.bar" timestamp="1588278131878">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.results" timestamp="1588089940882">
@@ -124,11 +119,8 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/py-registrar/registrar_server/api/requests/post_requests.py" timestamp="1587760451593">
-        <mark key="[" line="54" column="48" />
-        <mark key="]" line="54" column="48" />
-        <mark key="^" line="47" column="55" />
-        <mark key="." line="54" column="48" />
+      <file name="/dog2zb0js2j5imh.public.imus" timestamp="1588278131828">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/py-registrar/client/setup.py" timestamp="1587762376065">
         <mark key="[" line="4" column="13" />
@@ -151,6 +143,9 @@
         <mark key="^" line="32" column="44" />
         <mark key="." line="32" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/devices/piksi.py" timestamp="1588278075894">
+        <mark key="'" line="37" column="44" />
+      </file>
       <file name="/dummy.sql" timestamp="1588037653005">
         <mark key="[" line="0" column="1" />
       </file>
@@ -159,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="107" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
@@ -259,6 +253,7 @@
       <jump line="1658" column="45" filename="$USER_HOME$/Documents/GitHub/gnss-converters/c/src/rtcm3_sbp.c" />
       <jump line="1643" column="30" filename="$USER_HOME$/Documents/GitHub/gnss-converters/c/src/rtcm3_sbp.c" />
       <jump line="1624" column="54" filename="$USER_HOME$/Documents/GitHub/gnss-converters/c/src/rtcm3_sbp.c" />
+      <jump line="37" column="44" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/devices/piksi.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
