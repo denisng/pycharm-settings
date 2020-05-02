@@ -117,10 +117,12 @@
       <file name="/dumpDataPreview" timestamp="1588281037475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" timestamp="1588406364685">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" timestamp="1588408537307">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="37" />
+        <mark key="[" line="188" column="15" />
+        <mark key="]" line="188" column="24" />
+        <mark key="." line="188" column="23" />
+        <mark key="^" line="188" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" timestamp="1588398584861">
         <mark key="'" line="0" column="0" />
@@ -277,11 +279,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Byb3BhZ2F0ZSc6IFRydWUsCg==</text>
+      <register name="*" type="4">
+        <text>BaseException</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>BaseException</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
