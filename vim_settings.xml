@@ -96,6 +96,12 @@
         <mark key="." line="13" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/docker-compose.yaml" timestamp="1588401230126" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/configuration.py" timestamp="1588404610593">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="28" column="26" />
+        <mark key="^" line="28" column="26" />
+        <mark key="." line="28" column="25" />
+      </file>
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588280518394">
         <mark key="[" line="0" column="0" />
       </file>
