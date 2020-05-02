@@ -96,11 +96,11 @@
         <mark key="." line="13" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/docker-compose.yaml" timestamp="1588401230126" />
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/configuration.py" timestamp="1588404610593">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="28" column="26" />
-        <mark key="^" line="28" column="26" />
-        <mark key="." line="28" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/configuration.py" timestamp="1588404666520">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="30" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588280518394">
         <mark key="[" line="0" column="0" />
@@ -117,8 +117,8 @@
       <file name="/dumpDataPreview" timestamp="1588281037475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" timestamp="1588396414496">
-        <mark key="'" line="133" column="28" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" timestamp="1588406364685">
+        <mark key="'" line="29" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="37" />
       </file>
@@ -158,7 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="114" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
@@ -258,6 +257,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" />
       <jump line="14" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -274,8 +274,8 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>,</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb3BhZ2F0ZSc6IFRydWUsCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -284,7 +284,7 @@
         <text>\w\+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBsb2dnaW5nLmNvbmZpZyBpbXBvcnQgZGljdENvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb3BhZ2F0ZSc6IFRydWUsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
