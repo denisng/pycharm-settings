@@ -80,6 +80,9 @@
         <mark key="^" line="30" column="26" />
         <mark key="." line="30" column="25" />
       </file>
+      <file name="/Python Console" timestamp="1588395368864">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/imus [registrar]" timestamp="1588284728793">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,9 +151,6 @@
       </file>
       <file name="/duros [registrar]" timestamp="1588284728798">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/gnss-converters/c/src/rtcm3_sbp.c" timestamp="1588200671055">
-        <mark key="'" line="1624" column="54" />
       </file>
     </filemarks>
     <jumps>
