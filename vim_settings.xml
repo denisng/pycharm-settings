@@ -40,13 +40,13 @@
         <entry>31,$d</entry>
         <entry>167,172y</entry>
         <entry>s/-/_/g</entry>
-        <entry>wq</entry>
         <entry>16,165s/\d\+,'\0'/</entry>
         <entry>16,165s/\d+,'\0',/</entry>
         <entry>16,156s/\w\+/'\0',/</entry>
         <entry>16,156s/\w\+/'00\0',/</entry>
         <entry>16,156j</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -105,7 +105,7 @@
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588280518394">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/checkout-repo.yaml" timestamp="1588393317349">
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/checkout-repo.yaml" timestamp="1588410857755">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="24" />
@@ -117,12 +117,12 @@
       <file name="/dumpDataPreview" timestamp="1588281037475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" timestamp="1588410706676">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="105" column="16" />
-        <mark key="]" line="106" column="17" />
-        <mark key="." line="106" column="16" />
-        <mark key="^" line="106" column="17" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" timestamp="1588410806140">
+        <mark key="'" line="21" column="20" />
+        <mark key="[" line="107" column="8" />
+        <mark key="]" line="107" column="18" />
+        <mark key="." line="107" column="17" />
+        <mark key="^" line="107" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" timestamp="1588398584861">
         <mark key="'" line="0" column="0" />
@@ -163,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
       <jump line="9" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
@@ -263,6 +262,7 @@
       <jump line="14" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" />
+      <jump line="20" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -280,10 +280,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>BaseException</text>
+        <text>new-updater</text>
       </register>
       <register name="-" type="4">
-        <text>BaseException</text>
+        <text>new-updater</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
@@ -319,7 +319,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
