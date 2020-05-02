@@ -74,11 +74,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/Dockerfile" timestamp="1588286242194">
-        <mark key="[" line="1" column="111" />
-        <mark key="]" line="1" column="116" />
-        <mark key="^" line="1" column="116" />
-        <mark key="." line="1" column="115" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/Dockerfile" timestamp="1588382694341">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="30" column="26" />
+        <mark key="." line="30" column="25" />
       </file>
       <file name="/imus [registrar]" timestamp="1588284728793">
         <mark key="[" line="0" column="0" />
@@ -86,17 +86,35 @@
       <file name="/a.dummy" timestamp="1588372760445">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/setup.py" timestamp="1588365136004">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="13" column="40" />
-        <mark key="^" line="13" column="40" />
-        <mark key="." line="13" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" timestamp="1588372825688">
-        <mark key="'" line="133" column="28" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/setup.py" timestamp="1588382540036">
+        <mark key="[" line="15" column="66" />
+        <mark key="]" line="15" column="73" />
+        <mark key="^" line="15" column="73" />
+        <mark key="." line="15" column="72" />
       </file>
       <file name="/quality-control-piksi-results" timestamp="1588279702371">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588280518394">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/checkout-repo.yaml" timestamp="1588382836305">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="25" />
+      </file>
+      <file name="/imus [Registrar]" timestamp="1588280952842">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/devices/piksi.py" timestamp="1588278075894">
+        <mark key="'" line="37" column="44" />
+      </file>
+      <file name="/dumpDataPreview" timestamp="1588281037475">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" timestamp="1588372825688">
+        <mark key="'" line="133" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" timestamp="1588373202611">
         <mark key="[" line="14" column="11" />
@@ -110,16 +128,7 @@
       <file name="/foo.bar" timestamp="1588284728800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.results" timestamp="1588089940882">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588280518394">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/devices [Registrar]" timestamp="1588280518377">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/imus [Registrar]" timestamp="1588280952842">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.imus" timestamp="1588284728796">
@@ -136,12 +145,6 @@
         <mark key="^" line="15" column="22" />
       </file>
       <file name="/duros [registrar]" timestamp="1588284728798">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/devices/piksi.py" timestamp="1588278075894">
-        <mark key="'" line="37" column="44" />
-      </file>
-      <file name="/dumpDataPreview" timestamp="1588281037475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/gnss-converters/c/src/rtcm3_sbp.c" timestamp="1588200671055">
@@ -266,10 +269,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>import waitress</text>
+        <text>new-updater</text>
       </register>
       <register name="-" type="4">
-        <text>import waitress</text>
+        <text>new-updater</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
@@ -278,31 +281,31 @@
         <text encoding="base64">ICAgICcwMDEwODA5MTcyMDEwMDEwOCcsICcwMDEwODA5MTcyMDEwMDEwNScsICcwMDEwODA5MTcyMDEwMDEwMScsICcwMDEwODA5MTcyMDEwMDEwNicsICcwMDEwODA5MTcyMDEwMDExNycsICcwMDEwODA5MTcyMDEwMDEyMScsICcwMDEwODA5MTcyMDEwMDExNScsICcwMDEwODA5MTcyMDEwMDEzNicsICcwMDEwODA5MTcyMDEwMDEyOCcsICcwMDEwODA5MTcyMDEwMDEzNScsICcwMDEwODA5MTcyMDEwMDEzMicsICcwMDEwODA5MTcyMDEwMDEzOCcsICcwMDEwODA5MTcyMDEwMDEyMCcsICcwMDEwODA5MTcyMDEwMDExNCcsICcwMDEwODA5MTcyMDEwMDEyMycsICcwMDEwODA5MTcyMDEwMDEwNycsICcwMDEwODA5MTcyMDEwMDEwOScsICcwMDEwODA5MTcyMDEwMDExOScsICcwMDEwODA5MTcyMDEwMDExNicsICcwMDEwODA5MTcyMDEwMDEzMCcsICcwMDEwODA5MTcyMDEwMDEyMicsICcwMDEwODA5MTcyMDEwMDEyOScsICcwMDEwODA5MTcyMDEwMDExMycsICcwMDEwODA5MTcyMDEwMDEyNycsICcwMDEwODA5MTcyMDEwMDEyNCcsICcwMDEwODA5MTcyMDEwMDEzOScsICcwMDEwODA5MTcyMDEwMDE5NCcsICcwMDEwODA5MTcyMDEwMDE5MCcsICcwMDEwODA5MTcyMDEwMDE0MCcsICcwMDEwODA5MTcyMDEwMDE5OCcsICcwMDEwODA5MTcyMDEwMDE5NycsICcwMDEwODA5MTcyMDEwMDEzMycsICcwMDEwODA5MTcyMDEwMDEyNicsICcwMDEwODA5MTcyMDEwMDE5MycsICcwMDEwODA5MTcyMDEwMDEyNScsICcwMDEwODA5MTcyMDEwMDEzNycsICcwMDEwODA5MTcyMDEwMDE5OScsICcwMDEwODA5MTcyMDEwMDE5NScsICcwMDEwODA5MTcyMDEwMDExMicsICcwMDEwODA5MTcyMDEwMDE4NCcsICcwMDEwODA5MTcyMDEwMDE5MScsICcwMDEwODA5MTcyMDEwMDE0NycsICcwMDEwODA5MTcyMDEwMDE4MicsICcwMDEwODA5MTcyMDEwMDE4OScsICcwMDEwODA5MTcyMDEwMDE2NycsICcwMDEwODA5MTcyMDEwMDE4MScsICcwMDEwODA5MTcyMDEwMDE5MicsICcwMDEwODA5MTcyMDEwMDE4NScsICcwMDEwODA5MTcyMDEwMDE2MicsICcwMDEwODA5MTcyMDEwMDE4OCcsICcwMDEwODA5MTcyMDEwMDIwMCcsICcwMDEwODA5MTcyMDEwMDE3NCcsICcwMDEwODA5MTcyMDEwMDE3NicsICcwMDEwODA5MTcyMDEwMDE4NycsICcwMDEwODA5MTcyMDEwMDE1NCcsICcwMDEwODA5MTcyMDEwMDE0MScsICcwMDEwODA5MTcyMDEwMDE2NCcsICcwMDEwODA5MTcyMDEwMDE3MCcsICcwMDEwODA5MTcyMDEwMDE2MScsICcwMDEwODA5MTcyMDEwMDE2NScsICcwMDEwODA5MTcyMDEwMDE4NicsICcwMDEwODA5MTcyMDEwMDE4MycsICcwMDEwODA5MTcyMDEwMDE2NicsICcwMDEwODA5MTcyMDEwMDE3MScsICcwMDEwODA5MTcyMDEwMDE2OCcsICcwMDEwODA5MTcyMDEwMDE3MicsICcwMDEwODA5MTcyMDEwMDE1NycsICcwMDEwODA5MTcyMDEwMDE3NScsICcwMDEwODA5MTcyMDEwMDE3MycsICcwMDEwODA5MTcyMDEwMDE0NScsICcwMDEwODA5MTcyMDEwMDE0MycsICcwMDEwODA5MTcyMDEwMDE1OCcsICcwMDEwODA5MTcyMDEwMDE1MycsICcwMDEwODA5MTcyMDEwMDE2MycsICcwMDEwODA5MTcyMDEwMDE2OScsICcwMDEwODA5MTcyMDEwMDE1NicsICcwMDEwODA5MTcyMDEwMDE2MCcsICcwMDEwODA5MTcyMDEwMDE1NScsICcwMDEwODA5MTcyMDEwMDE0MicsICcwMDEwODA5MTcyMDEwMDE1OScsICcwMDEwODA5MTcyMDEwMDE5NicsICcwMDEwODA5MTcyMDEwMDEzMScsICcwMDEwODA5MTcyMDEwMDE0NicsICcwMDEwODA5MTcyMDEwMDIxNicsICcwMDEwODA5MTcyMDEwMDIwOCcsICcwMDEwODA5MTcyMDEwMDIyMycsICcwMDEwODA5MTcyMDEwMDI0MCcsICcwMDEwODA5MTcyMDEwMDE1MicsICcwMDEwODA5MTcyMDEwMDI0MScsICcwMDEwODA5MTcyMDEwMDI0NycsICcwMDEwODA5MTcyMDEwMDI0NScsICcwMDEwODA5MTcyMDEwMDIyNCcsICcwMDEwODA5MTcyMDEwMDIzMicsICcwMDEwODA5MTcyMDEwMDIzNCcsICcwMDEwODA5MTcyMDEwMDIzMCcsICcwMDEwODA5MTcyMDEwMDE3NycsICcwMDEwODA5MTcyMDEwMDIzMScsICcwMDEwODA5MTcyMDEwMDE0NCcsICcwMDEwODA5MTcyMDEwMDI0NicsICcwMDEwODA5MTcyMDEwMDIzNicsICcwMDEwODA5MTcyMDEwMDI0NCcsICcwMDEwODA5MTcyMDEwMDE3OCcsICcwMDEwODA5MTcyMDEwMDIzNycsICcwMDEwODA5MTcyMDEwMDE1MScsICcwMDEwODA5MTcyMDEwMDIzOCcsICcwMDEwODA5MTcyMDEwMDE3OScsICcwMDEwODA5MTcyMDEwMDIzNScsICcwMDEwODA5MTcyMDEwMDIzOScsICcwMDEwODA5MTcyMDEwMDE0OCcsICcwMDEwODA5MTcyMDEwMDE0OScsICcwMDEwODA5MTcyMDEwMDIyOScsICcwMDEwODA5MTcyMDEwMDE1MCcsICcwMDEwODA5MTcyMDEwMDE4MCcsICcwMDEwODA5MTcyMDEwMDIyNycsICcwMDEwODA5MTcyMDEwMDIxNScsICcwMDEwODA5MTcyMDEwMDIxMycsICcwMDEwODA5MTcyMDEwMDIzMycsICcwMDEwODA5MTcyMDEwMDI0MicsICcwMDEwODA5MTcyMDEwMDI0MycsICcwMDEwODA5MTcyMDEwMDIxNycsICcwMDEwODA5MTcyMDEwMDIyNicsICcwMDEwODA5MTcyMDEwMDIxOScsICcwMDEwODA5MTcyMDEwMDIyMScsICcwMDEwODA5MTcyMDEwMDIxMCcsICcwMDEwODA5MTcyMDEwMDIyNScsICcwMDEwODA5MTcyMDEwMDIyOCcsICcwMDEwODA5MTcyMDEwMDIxMicsICcwMDEwODA5MTcyMDEwMDIwOScsICcwMDEwODA5MTcyMDEwMDIwMScsICcwMDEwODA5MTcyMDEwMDIwMycsICcwMDEwODA5MTcyMDEwMDIyMCcsICcwMDEwODA5MTcyMDEwMDIxNCcsICcwMDEwODA5MTcyMDEwMDIyMicsICcwMDEwODA5MTcyMDEwMDIxOCcsICcwMDEwODA5MTcyMDEwMDIwMicsICcwMDEwODA5MTcyMDEwMDIwNicsICcwMDEwODA5MTcyMDEwMDIwNCcsICcwMDEwODA5MTcyMDEwMDIwNScsICcwMDEwODA5MTcyMDEwMDIwNycsICcwMDEwODA5MTcyMDEwMDIxMScsICcwMDEwODA5MTcyMDEwMDI0OCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">RU5WIEZMQVNLX0FQUD0icGlrc2lfdXBkYXRlcl9zZXJ2ZXIuYXBwIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICcwMDEwODA5MjYxOTEwMDY3OCcsICcwMDEwODA5MjYxOTEwMDY3NScsICcwMDEwODA5MjYxOTEwMDY1NycsICcwMDEwODA5MjYxOTEwMDgzMScsICcwMDEwODA5MjYxOTEwMDg3MCcsICcwMDEwODA5MjYxOTEwMDMzNicsICcwMDEwODA5MjYxOTEwMDkwNycsICcwMDEwODA5MjYxOTEwMDkwMycsICcwMDEwODA5MjYxOTEwMDg5NScsICcwMDEwODA5MjYxOTEwMDkwNScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
+        <text encoding="base64">ICAgICcwMDEwODA5MjYxOTEwMDY3OCcsICcwMDEwODA5MjYxOTEwMDY3NScsICcwMDEwODA5MjYxOTEwMDY1NycsICcwMDEwODA5MjYxOTEwMDgzMScsICcwMDEwODA5MjYxOTEwMDg3MCcsICcwMDEwODA5MjYxOTEwMDMzNicsICcwMDEwODA5MjYxOTEwMDkwNycsICcwMDEwODA5MjYxOTEwMDkwMycsICcwMDEwODA5MjYxOTEwMDg5NScsICcwMDEwODA5MjYxOTEwMDkwNScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cjw8PDw8PDwgSEVBRDpjbGllbnQvcmVnaXN0cmFyX2NsaWVudC9wcm92aXNpb24ucHkKPT09PT09PQoKZGVmIHB1dER1cm8oZHVyb19zZXJpYWxfaWQsIHNlcmlhbF9pZCwgY2Fycmllcl9pZCwgaW50ZXJmYWNlX2lkLAogICAgICAgICAgICBjZWxsbW9kZW1faWQpOgogICAgZGF0YSA9IHsnZHVyby1zZXJpYWwtaWQnOiBkdXJvX3NlcmlhbF9pZCwgJ3NlcmlhbC1pZCc6IHNlcmlhbF9pZCwKICAgICAgICAgICAgJ2NhcnJpZXItaWQnOiBjYXJyaWVyX2lkLCAnaW50ZXJmYWNlLWlkJzogaW50ZXJmYWNlX2lkLAogICAgICAgICAgICAnY2VsbG1vZGVtLWlkJzogY2VsbG1vZGVtX2lkfQogICAgciA9IHB1dCgnZHVybycsIGRhdGEpCiAgICByZXR1cm4gclsnZGF0YSddCgoKZGVmIGdldER1cm9Gcm9tUGlrc2koc2VyaWFsX2lkKToKICAgIGRhdGEgPSB7J3NlcmlhbC1pZCc6IHNlcmlhbF9pZH0KICAgIHIgPSBwb3N0KCdkdXJvLWZyb20tcGlrc2knLCBkYXRhKQogICAgcmV0dXJuIHJbJ2RhdGEnXQoKCmRlZiBnZXRQaWtzaUZyb21EdXJvKGR1cm9fc2VyaWFsX2lkKToKICAgIGRhdGEgPSB7J2R1cm8tc2VyaWFsLWlkJzogZHVyb19zZXJpYWxfaWR9CiAgICByID0gcG9zdCgncGlrc2ktZnJvbS1kdXJvJywgZGF0YSkKICAgIHJldHVybiByWydkYXRhJ10KCgpkZWYgZ2V0VGVzdFNldHNQYXNzZWQoc2VyaWFsX2lkKToKICAgIGRhdGEgPSB7J3NlcmlhbC1pZCc6IHNlcmlhbF9pZH0KICAgIHIgPSBwb3N0KCd0ZXN0LXNldHMtcGFzc2VkJywgZGF0YSkKICAgIHJldHVybiByWydkYXRhJ10KPj4+Pj4+PiBjb252ZXJ0ZWQgdG8gdmVyYnMgYW5kIHBhdGhzIGluc3RlYWQgb2YgYSBzaW5nbGUgZW5kcG9pbnQ6Y2xpZW50L3JlZ2lzdHJhcl9jbGllbnQucHkK</text>
+        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjb252ZXJ0ZWQgdG8gdmVyYnMgYW5kIHBhdGhzIGluc3RlYWQgb2YgYSBzaW5nbGUgZW5kcG9pbnQ6Y2xpZW50L3JlZ2lzdHJhcl9jbGllbnQucHkK</text>
+        <text encoding="base64">Cjw8PDw8PDwgSEVBRDpjbGllbnQvcmVnaXN0cmFyX2NsaWVudC9wcm92aXNpb24ucHkKPT09PT09PQoKZGVmIHB1dER1cm8oZHVyb19zZXJpYWxfaWQsIHNlcmlhbF9pZCwgY2Fycmllcl9pZCwgaW50ZXJmYWNlX2lkLAogICAgICAgICAgICBjZWxsbW9kZW1faWQpOgogICAgZGF0YSA9IHsnZHVyby1zZXJpYWwtaWQnOiBkdXJvX3NlcmlhbF9pZCwgJ3NlcmlhbC1pZCc6IHNlcmlhbF9pZCwKICAgICAgICAgICAgJ2NhcnJpZXItaWQnOiBjYXJyaWVyX2lkLCAnaW50ZXJmYWNlLWlkJzogaW50ZXJmYWNlX2lkLAogICAgICAgICAgICAnY2VsbG1vZGVtLWlkJzogY2VsbG1vZGVtX2lkfQogICAgciA9IHB1dCgnZHVybycsIGRhdGEpCiAgICByZXR1cm4gclsnZGF0YSddCgoKZGVmIGdldER1cm9Gcm9tUGlrc2koc2VyaWFsX2lkKToKICAgIGRhdGEgPSB7J3NlcmlhbC1pZCc6IHNlcmlhbF9pZH0KICAgIHIgPSBwb3N0KCdkdXJvLWZyb20tcGlrc2knLCBkYXRhKQogICAgcmV0dXJuIHJbJ2RhdGEnXQoKCmRlZiBnZXRQaWtzaUZyb21EdXJvKGR1cm9fc2VyaWFsX2lkKToKICAgIGRhdGEgPSB7J2R1cm8tc2VyaWFsLWlkJzogZHVyb19zZXJpYWxfaWR9CiAgICByID0gcG9zdCgncGlrc2ktZnJvbS1kdXJvJywgZGF0YSkKICAgIHJldHVybiByWydkYXRhJ10KCgpkZWYgZ2V0VGVzdFNldHNQYXNzZWQoc2VyaWFsX2lkKToKICAgIGRhdGEgPSB7J3NlcmlhbC1pZCc6IHNlcmlhbF9pZH0KICAgIHIgPSBwb3N0KCd0ZXN0LXNldHMtcGFzc2VkJywgZGF0YSkKICAgIHJldHVybiByWydkYXRhJ10KPj4+Pj4+PiBjb252ZXJ0ZWQgdG8gdmVyYnMgYW5kIHBhdGhzIGluc3RlYWQgb2YgYSBzaW5nbGUgZW5kcG9pbnQ6Y2xpZW50L3JlZ2lzdHJhcl9jbGllbnQucHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByWydkYXRhJ10K</text>
+        <text encoding="base64">Pj4+Pj4+PiBjb252ZXJ0ZWQgdG8gdmVyYnMgYW5kIHBhdGhzIGluc3RlYWQgb2YgYSBzaW5nbGUgZW5kcG9pbnQ6Y2xpZW50L3JlZ2lzdHJhcl9jbGllbnQucHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHIgPSBnZXQoJ2hlYXJ0YmVhdCcsIGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByWydkYXRhJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSB7J2hvc3RuYW1lJzogZGF0YX0K</text>
+        <text encoding="base64">ICAgIHIgPSBnZXQoJ2hlYXJ0YmVhdCcsIGRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
