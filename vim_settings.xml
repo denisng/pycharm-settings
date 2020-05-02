@@ -74,11 +74,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/Dockerfile" timestamp="1588399659177">
-        <mark key="[" line="30" column="22" />
-        <mark key="]" line="31" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/Dockerfile" timestamp="1588401202439">
+        <mark key="[" line="30" column="46" />
+        <mark key="]" line="30" column="47" />
         <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="." line="30" column="46" />
       </file>
       <file name="/Python Console" timestamp="1588395368864">
         <mark key="[" line="0" column="0" />
@@ -95,9 +95,7 @@
         <mark key="^" line="15" column="75" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="/quality-control-piksi-results" timestamp="1588279702371">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/docker-compose.yaml" timestamp="1588401230126" />
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588280518394">
         <mark key="[" line="0" column="0" />
       </file>
@@ -271,10 +269,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
