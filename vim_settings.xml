@@ -125,6 +125,11 @@
       <file name="/foo.bar" timestamp="1588284728800">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/logging.py" timestamp="1588394264757">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+      </file>
       <file name="/devices [Registrar]" timestamp="1588280518377">
         <mark key="[" line="0" column="0" />
       </file>
@@ -266,10 +271,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>new-updater</text>
+        <text>, 'file'</text>
       </register>
       <register name="-" type="4">
-        <text>new-updater</text>
+        <text>, 'file'</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
