@@ -137,9 +137,6 @@
         <mark key="]" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="/devices [Registrar]" timestamp="1588280518377">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/dog2zb0js2j5imh.public.imus" timestamp="1588284728796">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,6 +149,12 @@
         <mark key="]" line="15" column="2963" />
         <mark key="." line="15" column="2943" />
         <mark key="^" line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/MANIFEST.in" timestamp="1588407018885">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+        <mark key="." line="1" column="42" />
       </file>
       <file name="/duros [registrar]" timestamp="1588284728798">
         <mark key="[" line="0" column="0" />
