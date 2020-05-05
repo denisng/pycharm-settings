@@ -45,8 +45,8 @@
         <entry>16,156s/\w\+/'\0',/</entry>
         <entry>16,156s/\w\+/'00\0',/</entry>
         <entry>16,156j</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -83,6 +83,12 @@
       <file name="/Python Console" timestamp="1588395368864">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/requirements.txt" timestamp="1588637069280">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="/imus [registrar]" timestamp="1588284728793">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,28 +100,6 @@
         <mark key="]" line="13" column="35" />
         <mark key="^" line="15" column="75" />
         <mark key="." line="13" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/docker-compose.yaml" timestamp="1588401230126" />
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/configuration.py" timestamp="1588404666520">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="30" />
-        <mark key="^" line="30" column="28" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588280518394">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/checkout-repo.yaml" timestamp="1588410857755">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="25" />
-      </file>
-      <file name="/imus [Registrar]" timestamp="1588280952842">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dumpDataPreview" timestamp="1588281037475">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" timestamp="1588410806140">
         <mark key="'" line="21" column="20" />
@@ -131,6 +115,12 @@
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/configuration.py" timestamp="1588404666520">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="30" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="/foo.bar" timestamp="1588284728800">
         <mark key="[" line="0" column="0" />
       </file>
@@ -138,6 +128,15 @@
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="27" />
         <mark key="." line="22" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/checkout-repo.yaml" timestamp="1588410857755">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="25" />
+      </file>
+      <file name="/imus [Registrar]" timestamp="1588280952842">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.imus" timestamp="1588284728796">
         <mark key="[" line="0" column="0" />
@@ -159,6 +158,9 @@
         <mark key="." line="1" column="42" />
       </file>
       <file name="/duros [registrar]" timestamp="1588284728798">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dumpDataPreview" timestamp="1588281037475">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -280,10 +282,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>new-updater</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>new-updater</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
@@ -319,7 +321,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
