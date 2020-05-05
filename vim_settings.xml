@@ -108,6 +108,12 @@
         <mark key="." line="107" column="17" />
         <mark key="^" line="107" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/pyproject.toml" timestamp="1588638665909">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" timestamp="1588398584861">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="0" />
@@ -144,13 +150,6 @@
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1588284728799">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SQL/quality-control-piksi-results.sql" timestamp="1588280947483">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="2963" />
-        <mark key="." line="15" column="2943" />
-        <mark key="^" line="15" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/MANIFEST.in" timestamp="1588407018885">
         <mark key="[" line="1" column="39" />
         <mark key="]" line="1" column="43" />
@@ -165,9 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
-      <jump line="9" column="29" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
       <jump line="100" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
       <jump line="29" column="63" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="101" column="67" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
@@ -265,6 +261,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" />
       <jump line="20" column="20" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" />
+      <jump line="2" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/pyproject.toml" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/pyproject.toml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/pyproject.toml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -281,8 +280,8 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>b</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>b</text>
@@ -290,35 +289,35 @@
       <register name="/" type="4">
         <text>\w\+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Byb3BhZ2F0ZSc6IFRydWUsCg==</text>
+      <register name="0" type="4">
+        <text>https://swiftnav.jfrog.io/artifactory/api/pypi/pypi/simple</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgJ2NvbnNvbGVfc2NyaXB0cyc6IFsndXBkYXRlci1ydW4tcHJvZHVjdGlvbj1waWtzaV91cGRhdGVyX3NlcnZlci5jb21tYW5kX2xpbmU6cnVuX3Byb2R1Y3Rpb24nXQo=</text>
+        <text encoding="base64">dXJsID0gImh0dHBzOi8vc3dpZnRuYXYuamZyb2cuaW8vYXJ0aWZhY3RvcnkvYXBpL3B5cGkvcHlwaS9zaW1wbGUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW50cnlfcG9pbnRzPXsK</text>
+        <text encoding="base64">bmFtZSA9ICdzd2lmdC1hcnRpZmFjdG9yeScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpY3RDb25maWcoTE9HX0NPTkZJRykK</text>
+        <text encoding="base64">W3Rvb2wucG9ldHJ5LnNvdXJjZV0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV91cGRhdGVyX3NlcnZlci5hcHAgaW1wb3J0IGNyZWF0ZV9hcHAK</text>
+        <text encoding="base64">dXJsID0gImh0dHBzOi8vc3dpZnRuYXYuamZyb2cuaW8vYXJ0aWZhY3RvcnkvYXBpL3B5cGkvcHlwaS9zaW1wbGUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBwaWtzaV91cGRhdGVyX3NlcnZlci5jb25maWd1cmF0aW9uIGltcG9ydCBMT0dfQ09ORklHCg==</text>
+        <text encoding="base64">bmFtZSA9ICdzd2lmdC1hcnRpZmFjdG9yeScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3Rvb2wucG9ldHJ5LnNvdXJjZV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
