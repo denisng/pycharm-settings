@@ -74,6 +74,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/.gitignore" timestamp="1588641412214">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="130" column="16" />
+        <mark key="]" line="131" column="5" />
+        <mark key="^" line="131" column="5" />
+        <mark key="." line="131" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/Dockerfile" timestamp="1588401202439">
         <mark key="[" line="30" column="46" />
         <mark key="]" line="30" column="47" />
@@ -141,9 +148,6 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="/imus [Registrar]" timestamp="1588280952842">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/dog2zb0js2j5imh.public.imus" timestamp="1588284728796">
         <mark key="[" line="0" column="0" />
       </file>
@@ -164,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="56" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/test_gyro.py" />
       <jump line="29" column="63" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="101" column="67" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_gyro_bias/bosch_bmi160.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/piksi_provision_tools/tests/test_verify_duro_barcode.py" />
@@ -264,6 +267,7 @@
       <jump line="2" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/pyproject.toml" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/pyproject.toml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/pyproject.toml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/.gitignore" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
