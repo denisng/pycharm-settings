@@ -81,12 +81,6 @@
         <mark key="^" line="131" column="5" />
         <mark key="." line="131" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/Dockerfile" timestamp="1588401202439">
-        <mark key="[" line="30" column="46" />
-        <mark key="]" line="30" column="47" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="30" column="46" />
-      </file>
       <file name="/Python Console" timestamp="1588646173328">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,14 +90,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="/runs [registrar]" timestamp="1588727390994">
+      <file name="/devices [registrar]" timestamp="1588730862354">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/setup.py" timestamp="1588398613228">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="35" />
-        <mark key="^" line="15" column="75" />
-        <mark key="." line="13" column="35" />
+      <file name="/runs [registrar]" timestamp="1588730823634">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" timestamp="1588410806140">
         <mark key="'" line="21" column="20" />
@@ -118,7 +109,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1588727390995">
+      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1588730823647">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/msg_obs.py" timestamp="1588646742063">
@@ -133,7 +124,7 @@
         <mark key="^" line="30" column="28" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1588727390996">
+      <file name="/foo.bar" timestamp="1588730862382">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/piksi_updater/ansible/tasks/checkout-repo.yaml" timestamp="1588410857755">
@@ -141,6 +132,9 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="25" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588730862367">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/console.py" timestamp="1588643048261">
         <mark key="'" line="1" column="22" />
@@ -155,10 +149,10 @@
         <mark key="^" line="1" column="43" />
         <mark key="." line="1" column="42" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1588727390993">
+      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1588730823606">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/duros [registrar]" timestamp="1588727390989">
+      <file name="/duros [registrar]" timestamp="1588730823588">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1588643653124">
