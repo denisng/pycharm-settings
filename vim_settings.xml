@@ -153,12 +153,11 @@
         <mark key="]" line="0" column="2237" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/message_parser.py" timestamp="1588800525091">
-        <mark key="'" line="31" column="35" />
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="15" />
-        <mark key="." line="28" column="15" />
-        <mark key="^" line="28" column="42" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/message_parser.py" timestamp="1588804123074">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="30" column="56" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/decoded_sbp/msg_obs.py" timestamp="1588799634258">
         <mark key="'" line="0" column="0" />
@@ -285,11 +284,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>instance or sub-class there</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICB5aWVsZCBzYnBfbWVzc2FnZV9mYWN0b3J5KGxpbmUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>instance or sub-class there</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
@@ -298,31 +297,34 @@
         <text encoding="base64">ICAgICAgICBkZWNvZGVkIEpTT04gb2JqZWN0IHJlcHJlc2VudGluZyBhIGRlY29kZWQgU0JQIG1lc3NhZ2UuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNCUC5mcm8K</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBzYnBfbWVzc2FnZV9mYWN0b3J5KGxpbmUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciBsaW5lIGluIG9wZW4ocGF0aCwgJ3InKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgbWVzc2FnZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHNpbXBsZWpzb24ubG9hZHMoanNvbl9vYmopCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBtZXNzYWdlLm1zZ190eXBlID09IG1zZ190eXBlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text encoding="base64">ICAgIGZvciBtZXNzYWdlIGluIG1lc3NhZ2VzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ICAgIGRpY3QK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>file containing
+    decoded SBP messages in JSON form</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      <register name="8" type="4">
+        <text>containing JSON
+    objects representing decoded SBP messages</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2EK</text>
+      <register name="9" type="4">
+        <text>Instance of SBP message class or an appropriate sub-class
+        thereof</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
