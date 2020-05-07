@@ -81,7 +81,7 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1588807303671">
+      <file name="/Python Console" timestamp="1588811701590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1588796197918">
@@ -103,19 +103,11 @@
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588730862367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/console.py" timestamp="1588643048261">
-        <mark key="'" line="1" column="22" />
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="3" column="15" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/.gitignore" timestamp="1588641412214">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="130" column="16" />
-        <mark key="]" line="131" column="5" />
-        <mark key="^" line="131" column="5" />
-        <mark key="." line="131" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/flags.py" timestamp="1588811562091">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="/devices [registrar]" timestamp="1588730862354">
         <mark key="[" line="0" column="0" />
@@ -132,6 +124,11 @@
       </file>
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1588730823647">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/type_74.txt" timestamp="1588811762288">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2236" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1588730862382">
         <mark key="[" line="0" column="0" />
@@ -285,7 +282,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBzYnBfbWVzc2FnZV9mYWN0b3J5KGxpbmUpCg==</text>
+        <text>{&quot;crc&quot;:50126,&quot;header&quot;:{&quot;n_obs&quot;:16,&quot;t&quot;:{&quot;ns_residual&quot;:0,&quot;tow&quot;:407254700,&quot;wn&quot;:2104}},&quot;length&quot;:249,&quot;msg_type&quot;:74,&quot;obs&quot;:[{&quot;D&quot;:{&quot;f&quot;:123,&quot;i&quot;:-360},&quot;L&quot;:{&quot;f&quot;:145,&quot;i&quot;:124866513},&quot;P&quot;:1198964984,&quot;cn0&quot;:165,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:11}},{&quot;D&quot;:{&quot;f&quot;:95,&quot;i&quot;:17},&quot;L&quot;:{&quot;f&quot;:179,&quot;i&quot;:129664350},&quot;P&quot;:1245033778,&quot;cn0&quot;:169,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:20}},{&quot;D&quot;:{&quot;f&quot;:16,&quot;i&quot;:13},&quot;L&quot;:{&quot;f&quot;:53,&quot;i&quot;:97715550},&quot;P&quot;:1245033397,&quot;cn0&quot;:170,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:20}},{&quot;D&quot;:{&quot;f&quot;:46,&quot;i&quot;:-424},&quot;L&quot;:{&quot;f&quot;:10,&quot;i&quot;:116014052},&quot;P&quot;:1113963847,&quot;cn0&quot;:180,&quot;flags&quot;:15,&quot;lock&quot;:15,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:23}},{&quot;D&quot;:{&quot;f&quot;:87,&quot;i&quot;:-320},&quot;L&quot;:{&quot;f&quot;:132,&quot;i&quot;:87428608},&quot;P&quot;:1113963347,&quot;cn0&quot;:201,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:23}},{&quot;D&quot;:{&quot;f&quot;:26,&quot;i&quot;:-2081},&quot;L&quot;:{&quot;f&quot;:172,&quot;i&quot;:129884902},&quot;P&quot;:1247151597,&quot;cn0&quot;:161,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:25}},{&quot;D&quot;:{&quot;f&quot;:186,&quot;i&quot;:-1569},&quot;L&quot;:{&quot;f&quot;:73,&quot;i&quot;:97881777},&quot;P&quot;:1247151128,&quot;cn0&quot;:173,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:25}},{&quot;D&quot;:{&quot;f&quot;:184,&quot;i&quot;:3096},&quot;L&quot;:{&quot;f&quot;:103,&quot;i&quot;:127401059},&quot;P&quot;:1223301925,&quot;cn0&quot;:180,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:28}},{&quot;D&quot;:{&quot;f&quot;:140,&quot;i&quot;:2333},&quot;L&quot;:{&quot;f&quot;:31,&quot;i&quot;:96009948},&quot;P&quot;:1223301725,&quot;cn0&quot;:155,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:28}},{&quot;D&quot;:{&quot;f&quot;:96,&quot;i&quot;:-2395},&quot;L&quot;:{&quot;f&quot;:65,&quot;i&quot;:127860084},&quot;P&quot;:1227709328,&quot;cn0&quot;:179,&quot;flags&quot;:15,&quot;lock&quot;:15,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:32}},{&quot;D&quot;:{&quot;f&quot;:84,&quot;i&quot;:-1805},&quot;L&quot;:{&quot;f&quot;:179,&quot;i&quot;:96355872},&quot;P&quot;:1227709147,&quot;cn0&quot;:182,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:32}},{&quot;D&quot;:{&quot;f&quot;:73,&quot;i&quot;:-1735},&quot;L&quot;:{&quot;f&quot;:120,&quot;i&quot;:132427287},&quot;P&quot;:1271563416,&quot;cn0&quot;:154,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:34}},{&quot;D&quot;:{&quot;f&quot;:125,&quot;i&quot;:1671},&quot;L&quot;:{&quot;f&quot;:65,&quot;i&quot;:122655193},&quot;P&quot;:1177731869,&quot;cn0&quot;:173,&quot;flags&quot;:15,&quot;lock&quot;:15,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:37}},{&quot;D&quot;:{&quot;f&quot;:129,&quot;i&quot;:1259},&quot;L&quot;:{&quot;f&quot;:237,&quot;i&quot;:92433452},&quot;P&quot;:1177732159,&quot;cn0&quot;:165,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:37}}],&quot;payload&quot;:&quot;rDZGGAAAAAA4CBD4wHZH0U9xB5GY/nulDA8LDDK1NUpehboHsxEAX6kMDxQMtbM1Sl4F0wU1DQAQqgwPFDBHvWVC5DvqBgpY/i60Dw8XDFO7ZUIADjYFhMD+V8kNDxcw7QVWSubivQes3/caoQ0PGQwYBFZKsY7VBUnf+bqtDA8ZMCUb6khj/JcHZxgMuLQMDxwMXRrqSNz+uAUfHQmMmw0PHDCQWy1JdP2eB0Gl9mCzDw8gDNtaLUkgRr4Fs/P4VLYNDyAwmITKSxeu5Ad4OflJmgwPIgwdwzJG2ZFPB0GHBn2tDw8lDD/EMkYsbIIF7esEgaUMDyUw&quot;,&quot;preamble&quot;:85,&quot;sender&quot;:61569}</text>
       </register>
       <register name="-" type="4">
         <text>b</text>
@@ -294,7 +291,7 @@
         <text>\w\+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvZGVkIEpTT04gb2JqZWN0IHJlcHJlc2VudGluZyBhIGRlY29kZWQgU0JQIG1lc3NhZ2UuCg==</text>
+        <text>{&quot;crc&quot;:50126,&quot;header&quot;:{&quot;n_obs&quot;:16,&quot;t&quot;:{&quot;ns_residual&quot;:0,&quot;tow&quot;:407254700,&quot;wn&quot;:2104}},&quot;length&quot;:249,&quot;msg_type&quot;:74,&quot;obs&quot;:[{&quot;D&quot;:{&quot;f&quot;:123,&quot;i&quot;:-360},&quot;L&quot;:{&quot;f&quot;:145,&quot;i&quot;:124866513},&quot;P&quot;:1198964984,&quot;cn0&quot;:165,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:11}},{&quot;D&quot;:{&quot;f&quot;:95,&quot;i&quot;:17},&quot;L&quot;:{&quot;f&quot;:179,&quot;i&quot;:129664350},&quot;P&quot;:1245033778,&quot;cn0&quot;:169,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:20}},{&quot;D&quot;:{&quot;f&quot;:16,&quot;i&quot;:13},&quot;L&quot;:{&quot;f&quot;:53,&quot;i&quot;:97715550},&quot;P&quot;:1245033397,&quot;cn0&quot;:170,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:20}},{&quot;D&quot;:{&quot;f&quot;:46,&quot;i&quot;:-424},&quot;L&quot;:{&quot;f&quot;:10,&quot;i&quot;:116014052},&quot;P&quot;:1113963847,&quot;cn0&quot;:180,&quot;flags&quot;:15,&quot;lock&quot;:15,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:23}},{&quot;D&quot;:{&quot;f&quot;:87,&quot;i&quot;:-320},&quot;L&quot;:{&quot;f&quot;:132,&quot;i&quot;:87428608},&quot;P&quot;:1113963347,&quot;cn0&quot;:201,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:23}},{&quot;D&quot;:{&quot;f&quot;:26,&quot;i&quot;:-2081},&quot;L&quot;:{&quot;f&quot;:172,&quot;i&quot;:129884902},&quot;P&quot;:1247151597,&quot;cn0&quot;:161,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:25}},{&quot;D&quot;:{&quot;f&quot;:186,&quot;i&quot;:-1569},&quot;L&quot;:{&quot;f&quot;:73,&quot;i&quot;:97881777},&quot;P&quot;:1247151128,&quot;cn0&quot;:173,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:25}},{&quot;D&quot;:{&quot;f&quot;:184,&quot;i&quot;:3096},&quot;L&quot;:{&quot;f&quot;:103,&quot;i&quot;:127401059},&quot;P&quot;:1223301925,&quot;cn0&quot;:180,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:28}},{&quot;D&quot;:{&quot;f&quot;:140,&quot;i&quot;:2333},&quot;L&quot;:{&quot;f&quot;:31,&quot;i&quot;:96009948},&quot;P&quot;:1223301725,&quot;cn0&quot;:155,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:28}},{&quot;D&quot;:{&quot;f&quot;:96,&quot;i&quot;:-2395},&quot;L&quot;:{&quot;f&quot;:65,&quot;i&quot;:127860084},&quot;P&quot;:1227709328,&quot;cn0&quot;:179,&quot;flags&quot;:15,&quot;lock&quot;:15,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:32}},{&quot;D&quot;:{&quot;f&quot;:84,&quot;i&quot;:-1805},&quot;L&quot;:{&quot;f&quot;:179,&quot;i&quot;:96355872},&quot;P&quot;:1227709147,&quot;cn0&quot;:182,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:32}},{&quot;D&quot;:{&quot;f&quot;:73,&quot;i&quot;:-1735},&quot;L&quot;:{&quot;f&quot;:120,&quot;i&quot;:132427287},&quot;P&quot;:1271563416,&quot;cn0&quot;:154,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:34}},{&quot;D&quot;:{&quot;f&quot;:125,&quot;i&quot;:1671},&quot;L&quot;:{&quot;f&quot;:65,&quot;i&quot;:122655193},&quot;P&quot;:1177731869,&quot;cn0&quot;:173,&quot;flags&quot;:15,&quot;lock&quot;:15,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:37}},{&quot;D&quot;:{&quot;f&quot;:129,&quot;i&quot;:1259},&quot;L&quot;:{&quot;f&quot;:237,&quot;i&quot;:92433452},&quot;P&quot;:1177732159,&quot;cn0&quot;:165,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:37}}],&quot;payload&quot;:&quot;rDZGGAAAAAA4CBD4wHZH0U9xB5GY/nulDA8LDDK1NUpehboHsxEAX6kMDxQMtbM1Sl4F0wU1DQAQqgwPFDBHvWVC5DvqBgpY/i60Dw8XDFO7ZUIADjYFhMD+V8kNDxcw7QVWSubivQes3/caoQ0PGQwYBFZKsY7VBUnf+bqtDA8ZMCUb6khj/JcHZxgMuLQMDxwMXRrqSNz+uAUfHQmMmw0PHDCQWy1JdP2eB0Gl9mCzDw8gDNtaLUkgRr4Fs/P4VLYNDyAwmITKSxeu5Ad4OflJmgwPIgwdwzJG2ZFPB0GHBn2tDw8lDD/EMkYsbIIF7esEgaUMDyUw&quot;,&quot;preamble&quot;:85,&quot;sender&quot;:61569}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB5aWVsZCBzYnBfbWVzc2FnZV9mYWN0b3J5KGxpbmUpCg==</text>
