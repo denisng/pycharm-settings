@@ -81,11 +81,12 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser.py" timestamp="1588814842147">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="4" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser.py" timestamp="1588815897977">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="64" />
+        <mark key="]" line="2" column="78" />
+        <mark key="." line="2" column="77" />
+        <mark key="^" line="2" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" timestamp="1588814709842">
         <mark key="'" line="31" column="8" />
@@ -107,17 +108,17 @@
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588730862367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/flags.py" timestamp="1588811562091">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/flags.py" timestamp="1588815545067">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="9" column="14" />
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/tools/generators.py" timestamp="1588814998304">
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="16" />
-        <mark key="." line="45" column="15" />
-        <mark key="^" line="45" column="16" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/tools/generators.py" timestamp="1588815683024">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/generators.py" timestamp="1588814714357">
         <mark key="[" line="2" column="3" />
@@ -178,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" />
       <jump line="1" column="22" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" />
       <jump line="1" column="48" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" />
@@ -278,6 +277,8 @@
       <jump line="7" column="48" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" />
       <jump line="28" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" />
       <jump line="1" column="30" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/msg_types.py" />
+      <jump line="6" column="11" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -294,11 +295,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>observations_gen</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICBmb3Igb2JzX21lc3NhZ2VzIGluIHNlbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>observations_gen</text>
+        <text encoding="base64">anNvbl9maWxlIGFzIA==</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
@@ -307,31 +308,31 @@
         <text encoding="base64">ICAgICAgICBNZXNzYWdlIG9iamVjdCwgb2YgdGhlIGFwcHJvcHJpYXRlIHN1Yi1jbGFzcyB3aGVuIHBvc3NpYmxlLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGNuMF9wYXJzZXIocGF0aCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igb2JzX21lc3NhZ2VzIGluIHNlbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAzcmQgcGFydHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzYnAubXNnIGltcG9ydCBTQlAKZnJvbSBzYnAub2JzZXJ2YXRpb24gaW1wb3J0IE1zZ09icwo=</text>
+        <text encoding="base64">ZGVmIGNuMF9wYXJzZXIocGF0aCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzYnAubXNnIGltcG9ydCBTQlAK</text>
+        <text encoding="base64">ZGVmIGNuMF9wYXJzZXIocGF0aCk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNpbXBsZWpzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIG9iamVjdC4K</text>
+        <text encoding="base64">IyAzcmQgcGFydHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzYnAubXNnIGltcG9ydCBTQlAKZnJvbSBzYnAub2JzZXJ2YXRpb24gaW1wb3J0IE1zZ09icwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzYnAubXNnIGltcG9ydCBTQlAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
