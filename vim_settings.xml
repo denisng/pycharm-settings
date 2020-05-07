@@ -27,7 +27,6 @@
         <entry>\w\+</entry>
       </history-search>
       <history-cmd>
-        <entry>141,143y</entry>
         <entry>146,148y</entry>
         <entry>W</entry>
         <entry>48,61d</entry>
@@ -46,6 +45,7 @@
         <entry>16,156s/\w\+/'00\0',/</entry>
         <entry>16,156j</entry>
         <entry>wq</entry>
+        <entry>10,18d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -81,17 +81,21 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1588811701590">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser.py" timestamp="1588814842147">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1588796197918">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" timestamp="1588814709842">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/msg_obs.py" timestamp="1588646742063">
-        <mark key="'" line="1" column="55" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/a.dummy" timestamp="1588814193099">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/decoded_sbp/decoded_message.py" timestamp="1588799081906">
         <mark key="'" line="9" column="0" />
@@ -109,6 +113,18 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/tools/generators.py" timestamp="1588814998304">
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="16" />
+        <mark key="." line="45" column="15" />
+        <mark key="^" line="45" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/generators.py" timestamp="1588814714357">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="/devices [registrar]" timestamp="1588730862354">
         <mark key="[" line="0" column="0" />
       </file>
@@ -119,24 +135,25 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="/runs [registrar]" timestamp="1588730823634">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1588730823647">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/msg_types.py" timestamp="1588814708302">
+        <mark key="'" line="1" column="30" />
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/type_74.txt" timestamp="1588811762288">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2236" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/tools/factory.py" timestamp="1588814915688">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="17" />
+      </file>
       <file name="/foo.bar" timestamp="1588730862382">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1588730823606">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/duros [registrar]" timestamp="1588730823588">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/helpers/DecodedMessage.py" timestamp="1588796194249">
@@ -145,16 +162,12 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1588643653124">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2237" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/message_parser.py" timestamp="1588804123074">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="30" column="56" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/message_parser.py" timestamp="1588814113905">
+        <mark key="'" line="55" column="28" />
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/decoded_sbp/msg_obs.py" timestamp="1588799634258">
         <mark key="'" line="0" column="0" />
@@ -165,15 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="47" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Documents/GitHub/factory-toolbox/factory_toolbox/genealogy.py" />
-      <jump line="64" column="4" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" />
-      <jump line="1" column="44" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/provision.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" />
       <jump line="1" column="22" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" />
@@ -265,6 +269,15 @@
       <jump line="3" column="4" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/decoded_sbp/msg_obs.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/decoded_sbp/msg_obs.py" />
       <jump line="18" column="35" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/message_parser.py" />
+      <jump line="50" column="40" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/message_parser.py" />
+      <jump line="54" column="28" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/message_parser.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" />
+      <jump line="16" column="66" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" />
+      <jump line="7" column="48" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" />
+      <jump line="1" column="30" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/msg_types.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -281,47 +294,44 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text>{&quot;crc&quot;:50126,&quot;header&quot;:{&quot;n_obs&quot;:16,&quot;t&quot;:{&quot;ns_residual&quot;:0,&quot;tow&quot;:407254700,&quot;wn&quot;:2104}},&quot;length&quot;:249,&quot;msg_type&quot;:74,&quot;obs&quot;:[{&quot;D&quot;:{&quot;f&quot;:123,&quot;i&quot;:-360},&quot;L&quot;:{&quot;f&quot;:145,&quot;i&quot;:124866513},&quot;P&quot;:1198964984,&quot;cn0&quot;:165,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:11}},{&quot;D&quot;:{&quot;f&quot;:95,&quot;i&quot;:17},&quot;L&quot;:{&quot;f&quot;:179,&quot;i&quot;:129664350},&quot;P&quot;:1245033778,&quot;cn0&quot;:169,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:20}},{&quot;D&quot;:{&quot;f&quot;:16,&quot;i&quot;:13},&quot;L&quot;:{&quot;f&quot;:53,&quot;i&quot;:97715550},&quot;P&quot;:1245033397,&quot;cn0&quot;:170,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:20}},{&quot;D&quot;:{&quot;f&quot;:46,&quot;i&quot;:-424},&quot;L&quot;:{&quot;f&quot;:10,&quot;i&quot;:116014052},&quot;P&quot;:1113963847,&quot;cn0&quot;:180,&quot;flags&quot;:15,&quot;lock&quot;:15,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:23}},{&quot;D&quot;:{&quot;f&quot;:87,&quot;i&quot;:-320},&quot;L&quot;:{&quot;f&quot;:132,&quot;i&quot;:87428608},&quot;P&quot;:1113963347,&quot;cn0&quot;:201,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:23}},{&quot;D&quot;:{&quot;f&quot;:26,&quot;i&quot;:-2081},&quot;L&quot;:{&quot;f&quot;:172,&quot;i&quot;:129884902},&quot;P&quot;:1247151597,&quot;cn0&quot;:161,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:25}},{&quot;D&quot;:{&quot;f&quot;:186,&quot;i&quot;:-1569},&quot;L&quot;:{&quot;f&quot;:73,&quot;i&quot;:97881777},&quot;P&quot;:1247151128,&quot;cn0&quot;:173,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:25}},{&quot;D&quot;:{&quot;f&quot;:184,&quot;i&quot;:3096},&quot;L&quot;:{&quot;f&quot;:103,&quot;i&quot;:127401059},&quot;P&quot;:1223301925,&quot;cn0&quot;:180,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:28}},{&quot;D&quot;:{&quot;f&quot;:140,&quot;i&quot;:2333},&quot;L&quot;:{&quot;f&quot;:31,&quot;i&quot;:96009948},&quot;P&quot;:1223301725,&quot;cn0&quot;:155,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:28}},{&quot;D&quot;:{&quot;f&quot;:96,&quot;i&quot;:-2395},&quot;L&quot;:{&quot;f&quot;:65,&quot;i&quot;:127860084},&quot;P&quot;:1227709328,&quot;cn0&quot;:179,&quot;flags&quot;:15,&quot;lock&quot;:15,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:32}},{&quot;D&quot;:{&quot;f&quot;:84,&quot;i&quot;:-1805},&quot;L&quot;:{&quot;f&quot;:179,&quot;i&quot;:96355872},&quot;P&quot;:1227709147,&quot;cn0&quot;:182,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:32}},{&quot;D&quot;:{&quot;f&quot;:73,&quot;i&quot;:-1735},&quot;L&quot;:{&quot;f&quot;:120,&quot;i&quot;:132427287},&quot;P&quot;:1271563416,&quot;cn0&quot;:154,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:34}},{&quot;D&quot;:{&quot;f&quot;:125,&quot;i&quot;:1671},&quot;L&quot;:{&quot;f&quot;:65,&quot;i&quot;:122655193},&quot;P&quot;:1177731869,&quot;cn0&quot;:173,&quot;flags&quot;:15,&quot;lock&quot;:15,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:37}},{&quot;D&quot;:{&quot;f&quot;:129,&quot;i&quot;:1259},&quot;L&quot;:{&quot;f&quot;:237,&quot;i&quot;:92433452},&quot;P&quot;:1177732159,&quot;cn0&quot;:165,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:37}}],&quot;payload&quot;:&quot;rDZGGAAAAAA4CBD4wHZH0U9xB5GY/nulDA8LDDK1NUpehboHsxEAX6kMDxQMtbM1Sl4F0wU1DQAQqgwPFDBHvWVC5DvqBgpY/i60Dw8XDFO7ZUIADjYFhMD+V8kNDxcw7QVWSubivQes3/caoQ0PGQwYBFZKsY7VBUnf+bqtDA8ZMCUb6khj/JcHZxgMuLQMDxwMXRrqSNz+uAUfHQmMmw0PHDCQWy1JdP2eB0Gl9mCzDw8gDNtaLUkgRr4Fs/P4VLYNDyAwmITKSxeu5Ad4OflJmgwPIgwdwzJG2ZFPB0GHBn2tDw8lDD/EMkYsbIIF7esEgaUMDyUw&quot;,&quot;preamble&quot;:85,&quot;sender&quot;:61569}</text>
+      <register name="*" type="4">
+        <text>observations_gen</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>observations_gen</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
       </register>
       <register name="0" type="2">
-        <text>{&quot;crc&quot;:50126,&quot;header&quot;:{&quot;n_obs&quot;:16,&quot;t&quot;:{&quot;ns_residual&quot;:0,&quot;tow&quot;:407254700,&quot;wn&quot;:2104}},&quot;length&quot;:249,&quot;msg_type&quot;:74,&quot;obs&quot;:[{&quot;D&quot;:{&quot;f&quot;:123,&quot;i&quot;:-360},&quot;L&quot;:{&quot;f&quot;:145,&quot;i&quot;:124866513},&quot;P&quot;:1198964984,&quot;cn0&quot;:165,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:11}},{&quot;D&quot;:{&quot;f&quot;:95,&quot;i&quot;:17},&quot;L&quot;:{&quot;f&quot;:179,&quot;i&quot;:129664350},&quot;P&quot;:1245033778,&quot;cn0&quot;:169,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:20}},{&quot;D&quot;:{&quot;f&quot;:16,&quot;i&quot;:13},&quot;L&quot;:{&quot;f&quot;:53,&quot;i&quot;:97715550},&quot;P&quot;:1245033397,&quot;cn0&quot;:170,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:20}},{&quot;D&quot;:{&quot;f&quot;:46,&quot;i&quot;:-424},&quot;L&quot;:{&quot;f&quot;:10,&quot;i&quot;:116014052},&quot;P&quot;:1113963847,&quot;cn0&quot;:180,&quot;flags&quot;:15,&quot;lock&quot;:15,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:23}},{&quot;D&quot;:{&quot;f&quot;:87,&quot;i&quot;:-320},&quot;L&quot;:{&quot;f&quot;:132,&quot;i&quot;:87428608},&quot;P&quot;:1113963347,&quot;cn0&quot;:201,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:23}},{&quot;D&quot;:{&quot;f&quot;:26,&quot;i&quot;:-2081},&quot;L&quot;:{&quot;f&quot;:172,&quot;i&quot;:129884902},&quot;P&quot;:1247151597,&quot;cn0&quot;:161,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:25}},{&quot;D&quot;:{&quot;f&quot;:186,&quot;i&quot;:-1569},&quot;L&quot;:{&quot;f&quot;:73,&quot;i&quot;:97881777},&quot;P&quot;:1247151128,&quot;cn0&quot;:173,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:25}},{&quot;D&quot;:{&quot;f&quot;:184,&quot;i&quot;:3096},&quot;L&quot;:{&quot;f&quot;:103,&quot;i&quot;:127401059},&quot;P&quot;:1223301925,&quot;cn0&quot;:180,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:28}},{&quot;D&quot;:{&quot;f&quot;:140,&quot;i&quot;:2333},&quot;L&quot;:{&quot;f&quot;:31,&quot;i&quot;:96009948},&quot;P&quot;:1223301725,&quot;cn0&quot;:155,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:28}},{&quot;D&quot;:{&quot;f&quot;:96,&quot;i&quot;:-2395},&quot;L&quot;:{&quot;f&quot;:65,&quot;i&quot;:127860084},&quot;P&quot;:1227709328,&quot;cn0&quot;:179,&quot;flags&quot;:15,&quot;lock&quot;:15,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:32}},{&quot;D&quot;:{&quot;f&quot;:84,&quot;i&quot;:-1805},&quot;L&quot;:{&quot;f&quot;:179,&quot;i&quot;:96355872},&quot;P&quot;:1227709147,&quot;cn0&quot;:182,&quot;flags&quot;:15,&quot;lock&quot;:13,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:32}},{&quot;D&quot;:{&quot;f&quot;:73,&quot;i&quot;:-1735},&quot;L&quot;:{&quot;f&quot;:120,&quot;i&quot;:132427287},&quot;P&quot;:1271563416,&quot;cn0&quot;:154,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:34}},{&quot;D&quot;:{&quot;f&quot;:125,&quot;i&quot;:1671},&quot;L&quot;:{&quot;f&quot;:65,&quot;i&quot;:122655193},&quot;P&quot;:1177731869,&quot;cn0&quot;:173,&quot;flags&quot;:15,&quot;lock&quot;:15,&quot;sid&quot;:{&quot;code&quot;:12,&quot;sat&quot;:37}},{&quot;D&quot;:{&quot;f&quot;:129,&quot;i&quot;:1259},&quot;L&quot;:{&quot;f&quot;:237,&quot;i&quot;:92433452},&quot;P&quot;:1177732159,&quot;cn0&quot;:165,&quot;flags&quot;:15,&quot;lock&quot;:12,&quot;sid&quot;:{&quot;code&quot;:48,&quot;sat&quot;:37}}],&quot;payload&quot;:&quot;rDZGGAAAAAA4CBD4wHZH0U9xB5GY/nulDA8LDDK1NUpehboHsxEAX6kMDxQMtbM1Sl4F0wU1DQAQqgwPFDBHvWVC5DvqBgpY/i60Dw8XDFO7ZUIADjYFhMD+V8kNDxcw7QVWSubivQes3/caoQ0PGQwYBFZKsY7VBUnf+bqtDA8ZMCUb6khj/JcHZxgMuLQMDxwMXRrqSNz+uAUfHQmMmw0PHDCQWy1JdP2eB0Gl9mCzDw8gDNtaLUkgRr4Fs/P4VLYNDyAwmITKSxeu5Ad4OflJmgwPIgwdwzJG2ZFPB0GHBn2tDw8lDD/EMkYsbIIF7esEgaUMDyUw&quot;,&quot;preamble&quot;:85,&quot;sender&quot;:61569}</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIG9iamVjdCwgb2YgdGhlIGFwcHJvcHJpYXRlIHN1Yi1jbGFzcyB3aGVuIHBvc3NpYmxlLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBzYnBfbWVzc2FnZV9mYWN0b3J5KGxpbmUpCg==</text>
+        <text encoding="base64">ZGVmIGNuMF9wYXJzZXIocGF0aCk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBsaW5lIGluIG9wZW4ocGF0aCwgJ3InKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgbWVzc2FnZQo=</text>
+        <text encoding="base64">IyAzcmQgcGFydHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtZXNzYWdlLm1zZ190eXBlID09IG1zZ190eXBlOgo=</text>
+        <text encoding="base64">ZnJvbSBzYnAubXNnIGltcG9ydCBTQlAKZnJvbSBzYnAub2JzZXJ2YXRpb24gaW1wb3J0IE1zZ09icwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBtZXNzYWdlIGluIG1lc3NhZ2VzOgo=</text>
+        <text encoding="base64">ZnJvbSBzYnAubXNnIGltcG9ydCBTQlAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpY3QK</text>
+        <text encoding="base64">aW1wb3J0IHNpbXBsZWpzb24K</text>
       </register>
-      <register name="7" type="4">
-        <text>file containing
-    decoded SBP messages in JSON form</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIG9iamVjdC4K</text>
       </register>
-      <register name="8" type="4">
-        <text>containing JSON
-    objects representing decoded SBP messages</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Instance of SBP message class or an appropriate sub-class
-        thereof</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
