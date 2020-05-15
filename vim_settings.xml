@@ -148,14 +148,17 @@
       <file name="/foo.bar" timestamp="1588730862382">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1588730862367">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/flags.py" timestamp="1588815545067">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="9" column="14" />
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1589576182371">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/helpers/DecodedMessage.py" timestamp="1588796194249">
         <mark key="[" line="1" column="3" />
@@ -192,9 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="48" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" />
-      <jump line="71" column="12" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/provision.py" />
-      <jump line="0" column="67" filename="/Python Console" />
       <jump line="46" column="75" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" />
       <jump line="66" column="40" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/verification.py" />
       <jump line="26" column="5" filename="$USER_HOME$/Documents/GitHub/piksi_provision_tools/.gitignore" />
@@ -292,6 +292,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser.py" />
       <jump line="16" column="33" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/.gitignore" />
+      <jump line="1" column="21" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="4" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="22" column="10" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,44 +311,44 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>evaluate flags</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIHBhcnNlcl9tYWluLnBhcnNlX2FyZ3MoWydjb25maWcnLCAnLWgnXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>evaluate flags</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIG9iamVjdCwgb2YgdGhlIGFwcHJvcHJpYXRlIHN1Yi1jbGFzcyB3aGVuIHBvc3NpYmxlLgo=</text>
+        <text encoding="base64">ICAgIHBhcnNlcl9tYWluLnBhcnNlX2FyZ3MoWyctaCddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhcnNlcl9tYWluLnBhcnNlX2FyZ3MoWydjb25maWcnLCAnLWgnXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igb2JzX21lc3NhZ2VzIGluIHNlbAo=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uPSdzdWJjb21tYW5kIGhlbHAnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlbHA9J3N1Yi1jb21tYW5kIGhlbHAnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGNuMF9wYXJzZXIocGF0aCk6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGNuMF9wYXJzZXIocGF0aCk6Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAzcmQgcGFydHkK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzYnAubXNnIGltcG9ydCBTQlAKZnJvbSBzYnAub2JzZXJ2YXRpb24gaW1wb3J0IE1zZ09icwo=</text>
+        <text encoding="base64">ICAgIGhlbHA9JycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
