@@ -87,9 +87,6 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/devices [registrar]" timestamp="1588730862354">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1589512950508">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,6 +120,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/pyproject.toml" timestamp="1589513761534">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="49" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/type_74.txt" timestamp="1588811762288">
         <mark key="[" line="0" column="0" />
@@ -160,6 +163,13 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/.gitignore" timestamp="1589513917813">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="128" column="6" />
+        <mark key="]" line="131" column="5" />
+        <mark key="^" line="131" column="5" />
+        <mark key="." line="131" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/message_parser.py" timestamp="1588814113905">
         <mark key="'" line="55" column="28" />
         <mark key="[" line="0" column="3" />
@@ -182,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/genealogy.py" />
       <jump line="1" column="48" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/common.py" />
       <jump line="71" column="12" filename="$USER_HOME$/Documents/GitHub/py-registrar/client/registrar_client/provision.py" />
       <jump line="0" column="67" filename="/Python Console" />
@@ -282,6 +291,7 @@
       <jump line="6" column="11" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser.py" />
       <jump line="16" column="33" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/.gitignore" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
