@@ -101,12 +101,12 @@
       <file name="/a.dummy" timestamp="1589591654416">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" timestamp="1589593774803">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" timestamp="1589594211292">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="41" column="71" />
-        <mark key="]" line="41" column="88" />
-        <mark key="^" line="41" column="88" />
-        <mark key="." line="41" column="87" />
+        <mark key="[" line="62" column="46" />
+        <mark key="]" line="63" column="19" />
+        <mark key="^" line="63" column="19" />
+        <mark key="." line="63" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" timestamp="1589591645691">
         <mark key="'" line="0" column="0" />
@@ -164,12 +164,12 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1589594127252">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1589595931659">
         <mark key="'" line="30" column="41" />
-        <mark key="[" line="41" column="61" />
-        <mark key="]" line="41" column="73" />
-        <mark key="." line="41" column="72" />
-        <mark key="^" line="41" column="73" />
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="44" column="44" />
+        <mark key="." line="44" column="43" />
+        <mark key="^" line="44" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1589577843617">
         <mark key="[" line="15" column="15" />
