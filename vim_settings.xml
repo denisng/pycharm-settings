@@ -131,18 +131,19 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1589837238626">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1589839338247">
         <mark key="'" line="46" column="37" />
-        <mark key="[" line="30" column="38" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="31" column="55" />
+        <mark key="]" line="31" column="56" />
+        <mark key="." line="31" column="56" />
+        <mark key="^" line="31" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" timestamp="1589594211292">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" timestamp="1589839330922">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="62" column="46" />
-        <mark key="]" line="63" column="19" />
-        <mark key="^" line="63" column="19" />
-        <mark key="." line="63" column="18" />
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="77" column="42" />
+        <mark key="^" line="77" column="42" />
+        <mark key="." line="77" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" timestamp="1589591645691">
         <mark key="'" line="0" column="0" />
@@ -314,11 +315,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiB0cmFwIAo=</text>
+      <register name="*" type="4">
+        <text>if we know the capture stage has finished</text>
       </register>
       <register name="-" type="4">
-        <text>keeping</text>
+        <text>if we know the capture stage has finished</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
@@ -327,31 +328,31 @@
         <text encoding="base64">ICAgICAgICBwa2dfcmVzb3VyY2VzLmdldF9kaXN0cmlidXRpb24oJ21hbGxhcmRfbm1lYV9zY3JlZW4nKS52ZXJzaW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiB0cmFwIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogY291bGQgZXhpdCB0aGUgdGhyZWFkIGlmIHdlIGtub3cgdGhhdCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiB0cmFwIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmlzRW5hYmxlZEZvcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJlLXByb2Nlc3Npbmcgc2hvdWxkIGhhcHBlbiBoZXJlIGlmIG5lZWRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmlzRW5hYmxlZEZvcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJlLXByb2Nlc3Npbmcgc2hvdWxkIGhhcHBlbiBoZXJlIGlmIG5lZWRlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKGUpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
