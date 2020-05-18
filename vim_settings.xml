@@ -74,6 +74,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/generators.py" timestamp="1588814714357">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/decoded_sbp/__init__.py" timestamp="1588799490499">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="14" column="19" />
@@ -81,7 +87,7 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1589593633097">
+      <file name="/Python Console" timestamp="1589836734909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser.py" timestamp="1588817998534">
@@ -100,45 +106,6 @@
       </file>
       <file name="/a.dummy" timestamp="1589591654416">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" timestamp="1589594211292">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="62" column="46" />
-        <mark key="]" line="63" column="19" />
-        <mark key="^" line="63" column="19" />
-        <mark key="." line="63" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" timestamp="1589591645691">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="63" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="9" />
-        <mark key="^" line="21" column="10" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/flags.py" timestamp="1588815545067">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/.gitignore" timestamp="1589513917813">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="128" column="6" />
-        <mark key="]" line="131" column="5" />
-        <mark key="^" line="131" column="5" />
-        <mark key="." line="131" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/tools/generators.py" timestamp="1588815683024">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/generators.py" timestamp="1588814714357">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/msg_types.py" timestamp="1588814708302">
         <mark key="'" line="1" column="30" />
@@ -164,12 +131,31 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1589597448380">
-        <mark key="'" line="42" column="37" />
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="38" column="25" />
-        <mark key="." line="38" column="24" />
-        <mark key="^" line="38" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1589837238626">
+        <mark key="'" line="46" column="37" />
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" timestamp="1589594211292">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="62" column="46" />
+        <mark key="]" line="63" column="19" />
+        <mark key="^" line="63" column="19" />
+        <mark key="." line="63" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" timestamp="1589591645691">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="63" />
+        <mark key="]" line="21" column="10" />
+        <mark key="." line="21" column="9" />
+        <mark key="^" line="21" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/flags.py" timestamp="1588815545067">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1589577843617">
         <mark key="[" line="15" column="15" />
@@ -182,6 +168,13 @@
         <mark key="]" line="10" column="34" />
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/.gitignore" timestamp="1589513917813">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="128" column="6" />
+        <mark key="]" line="131" column="5" />
+        <mark key="^" line="131" column="5" />
+        <mark key="." line="131" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/message_parser.py" timestamp="1588814113905">
         <mark key="'" line="55" column="28" />
@@ -196,6 +189,12 @@
         <mark key="]" line="9" column="19" />
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/tools/generators.py" timestamp="1588815683024">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="19" />
       </file>
     </filemarks>
     <jumps>
