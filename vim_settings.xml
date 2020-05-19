@@ -104,12 +104,12 @@
       <file name="/pynmea2_decode" timestamp="1589917345459">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1589919770463">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1589920658068">
         <mark key="'" line="27" column="42" />
-        <mark key="[" line="36" column="46" />
-        <mark key="]" line="36" column="58" />
-        <mark key="^" line="36" column="58" />
-        <mark key="." line="36" column="57" />
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="32" column="23" />
+        <mark key="^" line="32" column="23" />
+        <mark key="." line="32" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/framer.py" timestamp="1589849190736">
         <mark key="'" line="29" column="13" />
@@ -309,7 +309,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyID0gY29uZmlncGFyc2VyLkNvbmZpZ1BhcnNlcigpCiAgICAgICAgICAgIHBhcnNlci5yZWFkKEFQUF9DT05GX1BBVEgpCgogICAgICAgICAgICBzZWxmLnBvcnQgPSBwYXJzZXJbJ0dMT0JBTCddWydwb3J0J10KICAgICAgICAgICAgc2VsZi5vdXRwdXRfZGlyID0gcGFyc2VyWydHTE9CQUwnXVsnb3V0cHV0X2RpciddCg==</text>
       </register>
       <register name="-" type="4">
         <text>PORT</text>
@@ -321,31 +321,31 @@
         <text encoding="base64">ICAgIG9zLm1ha2VkaXJzKGFwcF9kaXJzLnVzZXJfY29uZmlnX2RpciwgZXhpc3Rfb2s9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyID0gY29uZmlncGFyc2VyLkNvbmZpZ1BhcnNlcigpCiAgICAgICAgICAgIHBhcnNlci5yZWFkKEFQUF9DT05GX1BBVEgpCgogICAgICAgICAgICBzZWxmLnBvcnQgPSBwYXJzZXJbJ0dMT0JBTCddWydwb3J0J10KICAgICAgICAgICAgc2VsZi5vdXRwdXRfZGlyID0gcGFyc2VyWydHTE9CQUwnXVsnb3V0cHV0X2RpciddCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlci5yZWFkX2ZpbGUoY29uZl9maWxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKEFQUF9DT05GX1BBVEgpIGFzIGNvbmZfZmlsZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlci5yZWFkX2ZpbGUoY29uZl9maWxlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLnJlYWRfZmlsZShBUFBfQ09ORl9QQVRIKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKEFQUF9DT05GX1BBVEgpIGFzIGNvbmZfZmlsZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLnJlYWRfZmlsZShBUFBfQ09ORl9QQVRIKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhhcHBfZGlycy51c2VyX2NvbmZpZ19kaXIsIGV4aXN0X29rPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhhcHBfZGlycy51c2VyX2NvbmZpZ19kaXIsIGV4aXN0X29rPVRydWUpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9zLm1ha2VkaXJzKGFwcF9kaXJzLnVzZXJfY29uZmlnX2RpciwgZXhpc3Rfb2s9VHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
