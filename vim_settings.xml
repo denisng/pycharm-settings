@@ -28,7 +28,6 @@
       </history-search>
       <history-cmd>
         <entry>146,148y</entry>
-        <entry>W</entry>
         <entry>48,61d</entry>
         <entry>s/conf/self.conf/g</entry>
         <entry>7:19y</entry>
@@ -46,6 +45,7 @@
         <entry>16,156j</entry>
         <entry>wq</entry>
         <entry>10,18d</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -104,12 +104,12 @@
       <file name="/pynmea2_decode" timestamp="1589917345459">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1589918021620">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1589919770463">
         <mark key="'" line="27" column="42" />
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="34" column="34" />
-        <mark key="." line="34" column="33" />
-        <mark key="^" line="34" column="34" />
+        <mark key="[" line="36" column="46" />
+        <mark key="]" line="36" column="58" />
+        <mark key="^" line="36" column="58" />
+        <mark key="." line="36" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/framer.py" timestamp="1589849190736">
         <mark key="'" line="29" column="13" />
@@ -309,10 +309,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>default_output_dir =</text>
+        <text>PORT</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
@@ -321,31 +321,31 @@
         <text encoding="base64">ICAgIG9zLm1ha2VkaXJzKGFwcF9kaXJzLnVzZXJfY29uZmlnX2RpciwgZXhpc3Rfb2s9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhhcHBfZGlycy51c2VyX2NvbmZpZ19kaXIsIGV4aXN0X29rPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlci5yZWFkX2ZpbGUoY29uZl9maWxlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKEFQUF9DT05GX1BBVEgpIGFzIGNvbmZfZmlsZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VyLnJlYWRfZmlsZShBUFBfQ09ORl9QQVRIKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9zLm1ha2VkaXJzKGFwcF9kaXJzLnVzZXJfY29uZmlnX2RpciwgZXhpc3Rfb2s9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QVBQX09VVFBVVF9ESVIgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5leHBhbmR1c2VyKCd+JyksICdtYWxsYXJkLW5tZWEtc2NyZWVuJykK</text>
+        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhhcHBfZGlycy51c2VyX2NvbmZpZ19kaXIsIGV4aXN0X29rPVRydWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text>create_config</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdSdW5uaW5nIHBhcnNlciB0aHJlYWQnKQo=</text>
+        <text encoding="base64">ICAgIG9zLm1ha2VkaXJzKGFwcF9kaXJzLnVzZXJfY29uZmlnX2RpciwgZXhpc3Rfb2s9VHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
