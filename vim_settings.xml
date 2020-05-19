@@ -97,7 +97,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1589849420918">
+      <file name="/a.dummy" timestamp="1589856294685">
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/msg_types.py" timestamp="1588814708302">
@@ -113,6 +113,13 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1589856429833">
+        <mark key="'" line="4" column="18" />
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="17" column="39" />
+        <mark key="^" line="17" column="39" />
+        <mark key="." line="17" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/framer.py" timestamp="1589849190736">
         <mark key="'" line="29" column="13" />
         <mark key="[" line="1" column="37" />
@@ -120,10 +127,11 @@
         <mark key="." line="1" column="37" />
         <mark key="^" line="1" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/type_74.txt" timestamp="1588811762288">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2236" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/filesystem.py" timestamp="1589856269655">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/tools/factory.py" timestamp="1588814915688">
         <mark key="[" line="13" column="4" />
@@ -183,13 +191,6 @@
         <mark key="^" line="131" column="5" />
         <mark key="." line="131" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/message_parser.py" timestamp="1588814113905">
-        <mark key="'" line="55" column="28" />
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="1" column="29" />
-        <mark key="^" line="1" column="29" />
-        <mark key="." line="1" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/tools/generators.py" timestamp="1588815683024">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="19" />
@@ -198,8 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="17" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" />
-      <jump line="133" column="28" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/app/__init__.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" />
       <jump line="14" column="16" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/piksi_updater/piksi-updater-rpi-device/piksi-updater-server/piksi_updater_server/command_line.py" />
@@ -298,6 +297,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="10" column="48" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="27" column="38" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
+      <jump line="15" column="15" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
+      <jump line="4" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,10 +316,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuaW5mbygnVGVybWluYXRpbmcgc2VyaWFsIHBvcnQgY2FwdHVyZSB0aHJlYWQuLi4nKQo=</text>
+        <text>create_config</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
+        <text>cfg</text>
       </register>
       <register name="/" type="4">
         <text>\w\+</text>
@@ -327,31 +328,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuaW5mbygnVGVybWluYXRpbmcgc2VyaWFsIHBvcnQgY2FwdHVyZSB0aHJlYWQuLi4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>create_config</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdSdW5uaW5nIHBhcnNlciB0aHJlYWQnKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgbm90ZSB0aGF0IGNhcHR1cmUgd2lsbCBzdGFydCBncmFiYmluZyBzZXJpYWwgZGF0YSBBU0FQCg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdSdW5uaW5nIHBhcnNlciB0aHJlYWQnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgSVQgQkVHSU5TISEhCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICMgbm90ZSB0aGF0IGNhcHR1cmUgd2lsbCBzdGFydCBncmFiYmluZyBzZXJpYWwgZGF0YSBBU0FQCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgSVQgQkVHSU5TISEhCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ25fcXVldWUucAo=</text>
+        <text encoding="base64">ICAgICMgbm90ZSB0aGF0IGNhcHR1cmUgd2lsbCBzdGFydCBncmFiYmluZyBzZXJpYWwgZGF0YSBBU0FQCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R1BfR0dBX1NFTlRFTkNFX1FVRVVFID0gcXVldWUuUXVldWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ25fcXVldWUucAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGFuYWx5emUoc2VyaWFsX3BvcnQsIGNhcHR1cmVfdGltZSkgLT4gTm9uZToK</text>
+        <text encoding="base64">R1BfR0dBX1NFTlRFTkNFX1FVRVVFID0gcXVldWUuUXVldWUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
