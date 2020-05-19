@@ -5,6 +5,6 @@
   </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="72" />
-    <option name="SOFT_MARGINS" value="72,80,90" />
+    <option name="SOFT_MARGINS" value="72,80,88" />
   </codeStyleSettings>
 </code_scheme>
