@@ -74,6 +74,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/framers.py" timestamp="1589946620183">
+        <mark key="'" line="13" column="46" />
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="26" column="75" />
+        <mark key="^" line="26" column="75" />
+        <mark key="." line="26" column="74" />
+      </file>
       <file name="/Python Console" timestamp="1589917107158">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,12 +123,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/tools/factory.py" timestamp="1588814915688">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="16" />
-        <mark key="^" line="13" column="17" />
       </file>
       <file name="/" timestamp="1589930309314">
         <mark key="[" line="0" column="0" />
@@ -188,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" />
       <jump line="7" column="48" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" />
       <jump line="28" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/factory.py" />
       <jump line="1" column="30" filename="$USER_HOME$/Documents/GitHub/mallard-cn0-screen/src/mallard_cn0_screen/parser/msg_types.py" />
@@ -288,6 +288,7 @@
       <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
+      <jump line="13" column="46" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/framers.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -304,11 +305,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>time</text>
       </register>
       <register name="-" type="4">
-        <text>ColumnarDataSource</text>
+        <text>time</text>
       </register>
       <register name="/" type="4">
         <text>_</text>
