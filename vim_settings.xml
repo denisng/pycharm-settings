@@ -74,11 +74,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/framers.py" timestamp="1590010292814">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/framers.py" timestamp="1590010944816">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="25" />
-        <mark key="." line="32" column="24" />
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="51" column="37" />
+        <mark key="." line="51" column="37" />
         <mark key="^" line="32" column="25" />
       </file>
       <file name="/Python Console" timestamp="1590008546743">
@@ -102,7 +102,7 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="49" />
       </file>
-      <file name="/pynmea2_decode" timestamp="1589917345459">
+      <file name="/pynmea2_decode" timestamp="1590010981033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1589935467947">
@@ -306,10 +306,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>xmit.</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>xmit.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>_</text>
