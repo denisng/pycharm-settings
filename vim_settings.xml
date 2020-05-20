@@ -74,12 +74,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/framers.py" timestamp="1589946620183">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/framers.py" timestamp="1590007034348">
         <mark key="'" line="13" column="46" />
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="26" column="75" />
-        <mark key="^" line="26" column="75" />
-        <mark key="." line="26" column="74" />
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="41" column="13" />
+        <mark key="^" line="41" column="13" />
+        <mark key="." line="41" column="12" />
       </file>
       <file name="/Python Console" timestamp="1589917107158">
         <mark key="[" line="0" column="0" />
@@ -306,10 +306,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>time</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="-" type="4">
-        <text>time</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name="/" type="4">
         <text>_</text>
@@ -321,28 +321,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9Ebwo=</text>
+        <text encoding="base64">ICAgICAgICBmaXhfcXVhbGl0eS5hcHBlbmQoZ2dhX3NlbnRlbmNlLmdwc19xdWFsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aW1lc3RhbXAuYXBwZW5kKGdnYV9zZW50ZW5jZS50aW1lc3RhbXApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZmlsZW5hbWVzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgVE9Ebwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRpbQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGguCg==</text>
+        <text encoding="base64">ICAgICMgZmlsZW5hbWVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRpbQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
