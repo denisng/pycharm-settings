@@ -150,12 +150,12 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590021921515">
-        <mark key="'" line="55" column="7" />
-        <mark key="[" line="67" column="36" />
-        <mark key="]" line="67" column="55" />
-        <mark key="." line="67" column="54" />
-        <mark key="^" line="67" column="55" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590022655089">
+        <mark key="'" line="74" column="37" />
+        <mark key="[" line="79" column="83" />
+        <mark key="]" line="81" column="36" />
+        <mark key="." line="81" column="35" />
+        <mark key="^" line="81" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1589577843617">
         <mark key="[" line="15" column="15" />
@@ -187,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="12" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" />
       <jump line="11" column="34" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" />
       <jump line="38" column="20" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" />
@@ -287,6 +286,7 @@
       <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="57" column="48" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="55" column="7" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
+      <jump line="74" column="37" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -304,43 +304,43 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIGRhdGV0aW1lLnRpbWVkZWx0YShob3Vycz0pLAo=</text>
+        <text encoding="base64">ICAgIHRpbWVwbG90LmxpbmUoc291cmNlPWduX2NkcywgeD0naW5kZXgnLCB5PSdxdWFsaXR5JywgbGVnZW5kPSckR05HR0EnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>datetime(2020, 5, 20, 17),</text>
+        <text>Timestamp</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGV0aW1lLnRpbWVkZWx0YShob3Vycz0pLAo=</text>
+        <text encoding="base64">ICAgIHRpbWVwbG90LmxpbmUoc291cmNlPWduX2NkcywgeD0naW5kZXgnLCB5PSdxdWFsaXR5JywgbGVnZW5kPSckR05HR0EnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGV0aW1lLmRhdGV0aW1lKDIwMjAsIDUsIDIwLCAyMCksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGV0aW1lLmRhdGV0aW1lKDIwMjAsIDUsIDIwLCAxOSksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGV0aW1lLmRhdGV0aW1lKDIwMjAsIDUsIDIwLCAxOCksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNkcyA9IAo=</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdQbG90dGluZyB0aW1lIHNlcmllcy4uLicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGV0aW1lLmRhdGV0aW1lKDIwMjAsIDUsIDIwLCAyMCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNkZiA9IAo=</text>
+        <text encoding="base64">ICAgIGRhdGV0aW1lLmRhdGV0aW1lKDIwMjAsIDUsIDIwLCAxOSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lc3RhbXAuYXBwZW5kKCkK</text>
+        <text encoding="base64">ICAgIGRhdGV0aW1lLmRhdGV0aW1lKDIwMjAsIDUsIDIwLCAxOCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNkcyA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
