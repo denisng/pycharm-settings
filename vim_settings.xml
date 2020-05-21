@@ -150,12 +150,11 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590022655089">
-        <mark key="'" line="74" column="37" />
-        <mark key="[" line="79" column="83" />
-        <mark key="]" line="81" column="36" />
-        <mark key="." line="81" column="35" />
-        <mark key="^" line="81" column="36" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590023241251">
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="62" column="15" />
+        <mark key="." line="62" column="14" />
+        <mark key="^" line="62" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1589577843617">
         <mark key="[" line="15" column="15" />
