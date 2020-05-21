@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>GyroscopeMeasurementRangeUnstable</entry>
-        <entry>InvalidGyroRange</entry>
         <entry>Excessive</entry>
         <entry>calculate</entry>
         <entry>bmi160</entry>
@@ -25,10 +23,10 @@
         <entry>\w\+</entry>
         <entry>_</entry>
         <entry>data</entry>
+        <entry>timedelta</entry>
+        <entry>(.*)</entry>
       </history-search>
       <history-cmd>
-        <entry>s/conf/self.conf/g</entry>
-        <entry>7:19y</entry>
         <entry>7,19y</entry>
         <entry>20,25y</entry>
         <entry>26,145y</entry>
@@ -46,6 +44,8 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL18vLS9n</entry>
         <entry>56,58s/data/cds/</entry>
+        <entry>7,27s/timedelta/datetime/</entry>
+        <entry>17,21s/(.*)/(2020, 5, 21, 1)/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -81,12 +81,12 @@
         <mark key="." line="51" column="37" />
         <mark key="^" line="32" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/bokeh_test.py" timestamp="1590021982338">
-        <mark key="'" line="22" column="35" />
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="30" />
-        <mark key="^" line="10" column="30" />
-        <mark key="." line="10" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/bokeh_test.py" timestamp="1590049972937">
+        <mark key="'" line="16" column="22" />
+        <mark key="[" line="38" column="64" />
+        <mark key="]" line="38" column="72" />
+        <mark key="^" line="38" column="72" />
+        <mark key="." line="38" column="71" />
       </file>
       <file name="/Python Console" timestamp="1590008546743">
         <mark key="[" line="0" column="0" />
@@ -181,15 +181,11 @@
         <mark key="^" line="131" column="5" />
         <mark key="." line="131" column="4" />
       </file>
-      <file name="/bokeh_test" timestamp="1590022000393">
+      <file name="/bokeh_test" timestamp="1590049678984">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="34" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" />
-      <jump line="38" column="20" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" />
-      <jump line="5" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" />
       <jump line="43" column="41" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" />
       <jump line="21" column="33" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" />
       <jump line="17" column="49" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" />
@@ -286,12 +282,16 @@
       <jump line="57" column="48" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="55" column="7" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="74" column="37" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
+      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/bokeh_test.py" />
+      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/bokeh_test.py" />
+      <jump line="6" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/bokeh_test.py" />
+      <jump line="16" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/bokeh_test.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c19oaXN0b3J5LmFwcGVuZCgKICAgICAgICAgICAgU3RhdHVzTWVzc2FnZShTdGF0dXMuVVBHUkFESU5HLAogICAgICAgICAgICAgICAgICAgICAgICAgICdGVyBiZWZvcmUgdXBkYXRlICVzJyAlIGluaXRpYWwpCiAgICAgICAgKQo=</text>
+      <register name="a" type="4">
+        <text>2020, 05, 21, 1</text>
       </register>
       <register name="&quot;" type="4">
         <text encoding="base64">aGViaS1weSA9ICIwLjk5LjAiCg==</text>
@@ -302,44 +302,45 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHRpbWVwbG90LmxpbmUoc291cmNlPWduX2NkcywgeD0naW5kZXgnLCB5PSdxdWFsaXR5JywgbGVnZW5kPSckR05HR0EnKQo=</text>
+      <register name="*" type="4">
+        <text>line</text>
       </register>
       <register name="-" type="4">
-        <text>Timestamp</text>
+        <text>line</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>(.*)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRpbWVwbG90LmxpbmUoc291cmNlPWduX2NkcywgeD0naW5kZXgnLCB5PSdxdWFsaXR5JywgbGVnZW5kPSckR05HR0EnKQo=</text>
+      <register name="0" type="4">
+        <text>2020, 05, 21, 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZmlnLmxpbmUoc291cmNlPWNkcywgeD0naW5kZXgnLCB5PSdiJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>{'value': values},
+                  index=pd.to_timedelta(timestamps))</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdQbG90dGluZyB0aW1lIHNlcmllcy4uLicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW5kZXg9cGQudG9fdGltZWRlbHRhKHRpbWVzdGFtcHMpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGV0aW1lLmRhdGV0aW1lKDIwMjAsIDUsIDIwLCAyMCksCg==</text>
+        <text encoding="base64">ZGYgPSBwZC5EYXRhRnJhbWUoeyd2YWx1ZSc6IHZhbHVlc30sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGV0aW1lLmRhdGV0aW1lKDIwMjAsIDUsIDIwLCAxOSksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGV0aW1lLmRhdGV0aW1lKDIwMjAsIDUsIDIwLCAxOCksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNkcyA9IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdQbG90dGluZyB0aW1lIHNlcmllcy4uLicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -348,11 +349,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>data</last-search>
+      <last-search>(.*)</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
-      <last-replace>cds</last-replace>
-      <last-substitute>data</last-substitute>
+      <last-pattern>(.*)</last-pattern>
+      <last-replace>(2020, 5, 21, 1)</last-replace>
+      <last-substitute>(.*)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
