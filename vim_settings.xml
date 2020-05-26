@@ -99,6 +99,12 @@
       <file name="/pynmea2_decode" timestamp="1590010981033">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/pyproject.toml" timestamp="1590531478952">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1590523048865">
         <mark key="[" line="21" column="30" />
         <mark key="]" line="22" column="32" />
@@ -118,7 +124,7 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/" timestamp="1590524362505">
+      <file name="/" timestamp="1590531592110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1590194066743">
@@ -162,12 +168,12 @@
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1590526795155">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1590531404093">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="37" />
-        <mark key="^" line="30" column="37" />
-        <mark key="." line="30" column="36" />
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="20" />
+        <mark key="^" line="41" column="11" />
+        <mark key="." line="41" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/pynmea2_decode.py" timestamp="1589917354691">
         <mark key="[" line="1" column="0" />
@@ -180,13 +186,6 @@
         <mark key="]" line="13" column="48" />
         <mark key="." line="13" column="47" />
         <mark key="^" line="13" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/.gitignore" timestamp="1589513917813">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="128" column="6" />
-        <mark key="]" line="131" column="5" />
-        <mark key="^" line="131" column="5" />
-        <mark key="." line="131" column="4" />
       </file>
       <file name="/bokeh_test" timestamp="1590526646358">
         <mark key="[" line="0" column="0" />
@@ -310,43 +309,43 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>config</text>
+        <text>tool</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>tool</text>
       </register>
       <register name="/" type="4">
         <text>timeplot_cds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFyc2VyX2FuYWx5emUuYWRkX2FyZ3VtZW50KCkK</text>
+        <text encoding="base64">ICAgICAgICBhcmdzID0gcGFyc2VyX21haW4ucGFyc2VfYXJncyh0ZXN0X2FyZ3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJhcmdoISEhIikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGNvbW1hbmRfbGluZSgpOgo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoZW50cnkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlciA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBlbnRyeSA9ICd7fSBpcyBub3QgYSB2YWxpZCBzdWJjb21tYW5kJy5mb3JtYXQoYXJncy50b29sKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtYWxsYXJkX25tZWFfc2NyZWVuLmNvbmZpZ3VyYXRpb24gaW1wb3J0IENPTkZJRwo=</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogdHJhcCBzaHV0ZG93biBmcm9tIHNlcmlhbCBkYXRhIGNhcHR1cmUK</text>
+        <text encoding="base64">ZGVmIGNvbW1hbmRfbGluZSgpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
