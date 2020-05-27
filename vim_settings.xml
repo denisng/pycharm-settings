@@ -105,11 +105,11 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1590538306057">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="48" />
-        <mark key="." line="17" column="47" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1590539052163">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
         <mark key="^" line="17" column="48" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/framer.py" timestamp="1589849190736">
         <mark key="'" line="29" column="13" />
@@ -309,7 +309,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;invoke config tool&quot;</text>
@@ -321,31 +321,31 @@
         <text encoding="base64">ICAgIGNvbmZpZ19wYXJzZXIuYWRkX2FyZ3VtZW50KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2VjdGlvbiBpbiBzZWxmLgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmludChzZWxmKToK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnNlciA9IE5vbmUK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNhcHR1cmVfdGltZSA9IE5vbmUK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhcHR1cmVfdGltZSA9IDEwCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm91dHB1dF9kaXIgPSBOb25lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm91dHB1dF9kaXIgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5leHBhbmR1c2VyKCJ+IiksICJtYWxsYXJkLW5tZWEtc2NyZWVuIikK</text>
+        <text encoding="base64">ICAgICAgICAjIHRoZXNlIGdldCBpbml0aWFsaXplZCBwcm9wZXJseSBieSBgYGxvYWQoKWBgIG9yIGBgcmVzZXQoKWBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlcmlhbF9wb3J0ID0gIiIK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlcmlhbF9wb3J0ID0gTm9uZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiUmVzZXR0aW5nIGNvbmZpZ3VyYXRpb24gdmFsdWVzIHRvIGRlZmF1bHQuLi4iKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXNldChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc2VjdGlvbiBpbiBzZWxmLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
