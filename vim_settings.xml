@@ -105,8 +105,8 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1590630790585">
-        <mark key="'" line="71" column="48" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1590631886745">
+        <mark key="'" line="76" column="0" />
         <mark key="[" line="81" column="60" />
         <mark key="]" line="81" column="61" />
         <mark key="^" line="81" column="61" />
@@ -155,8 +155,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590547010889">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590632231712">
         <mark key="'" line="89" column="25" />
+        <mark key="[" line="50" column="23" />
+        <mark key="]" line="50" column="30" />
+        <mark key="." line="50" column="29" />
+        <mark key="^" line="50" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/events.py" timestamp="1590190037869">
         <mark key="'" line="1" column="16" />
@@ -189,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="5" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="16" column="39" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="148" column="4" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
@@ -289,6 +292,7 @@
       <jump line="90" column="59" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="98" column="44" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="71" column="48" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -305,11 +309,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>run</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>run</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
