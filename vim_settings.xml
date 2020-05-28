@@ -105,12 +105,12 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1590624672792">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1590625265856">
         <mark key="'" line="37" column="22" />
-        <mark key="[" line="84" column="67" />
-        <mark key="]" line="84" column="68" />
-        <mark key="." line="84" column="67" />
-        <mark key="^" line="84" column="68" />
+        <mark key="[" line="84" column="31" />
+        <mark key="]" line="84" column="49" />
+        <mark key="." line="84" column="48" />
+        <mark key="^" line="84" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/framer.py" timestamp="1589849190736">
         <mark key="'" line="29" column="13" />
@@ -124,6 +124,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/logging_levels.py" timestamp="1590627579873">
+        <mark key="'" line="7" column="25" />
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="16" column="25" />
       </file>
       <file name="/" timestamp="1590544533729">
         <mark key="[" line="0" column="0" />
@@ -147,13 +154,6 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulator.py" timestamp="1589591645691">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="63" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="9" />
-        <mark key="^" line="21" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590547010889">
         <mark key="'" line="89" column="25" />
@@ -189,9 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="105" column="4" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="110" column="4" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="107" column="4" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="95" column="3" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
@@ -289,6 +286,9 @@
       <jump line="67" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
       <jump line="1" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="37" column="22" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logging_levels.py" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/logging_levels.py" />
+      <jump line="7" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/logging_levels.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,43 +306,43 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>format</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>format</text>
       </register>
       <register name="/" type="4">
         <text>CONFIG</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoQ09ORklHKQo=</text>
+        <text encoding="base64">IyAxMjM0NTY3OAojICAgIERFQlVHCiMgICAgIElORk8KIyAgV0FSTklORwojICAgIEVSUk9SCiMgQ1JJVElDQUwKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cmdzLnNlcmlhbCwgY2FwdHVyZV90aW1lLCBzZXJpYWxfcG9ydCkK</text>
+      <register name="2" type="2">
+        <text encoding="base64">Zm9ybWF0ID0gIntsZXZlbG5hbWU6Pn0i</text>
+      </register>
+      <register name="3" type="2">
+        <text>INFO</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">REVCVUcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzLmV4aXQoMTMwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBDVFJMK0MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">cmdzLnNlcmlhbCwgY2FwdHVyZV90aW1lLCBzZXJpYWxfcG9ydCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxfcG9ydCA9IGFyZ3Muc2VyaWFsX3BvcnQgaWYgYXJncy5zZXJpYWxfcG9ydCBlbHNlIENPTkZJR1snQU5BTFlaRSddWydzZXJpYWxfcG9ydCddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzLmV4aXQoMTMwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
