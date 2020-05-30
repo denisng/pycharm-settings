@@ -153,12 +153,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590803982669">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590804010693">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="51" column="59" />
-        <mark key="]" line="51" column="59" />
+        <mark key="[" line="84" column="15" />
+        <mark key="]" line="84" column="15" />
         <mark key="^" line="33" column="83" />
-        <mark key="." line="51" column="59" />
+        <mark key="." line="84" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/events.py" timestamp="1590190037869">
         <mark key="'" line="1" column="16" />
@@ -308,10 +308,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>dut_</text>
+        <text>timeplot_</text>
       </register>
       <register name="-" type="4">
-        <text>dut_</text>
+        <text>timeplot_</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
