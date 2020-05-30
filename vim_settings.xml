@@ -88,7 +88,7 @@
         <mark key="^" line="38" column="72" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="/Python Console" timestamp="1590610417062">
+      <file name="/Python Console" timestamp="1590808140432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1590188169805">
@@ -153,12 +153,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590807041795">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590808462427">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="45" column="35" />
-        <mark key="]" line="45" column="49" />
-        <mark key="." line="45" column="48" />
-        <mark key="^" line="45" column="49" />
+        <mark key="[" line="54" column="50" />
+        <mark key="]" line="55" column="27" />
+        <mark key="." line="55" column="26" />
+        <mark key="^" line="55" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/events.py" timestamp="1590190037869">
         <mark key="'" line="1" column="16" />
@@ -307,11 +307,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>$x</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICB4X3JhbmdlPSgwLjUsIDguNSksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>$x</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -341,31 +341,31 @@
         )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXR0ZXJzPXsiaW5kZXgiOiAiZGF0ZXRpbWUifSwK</text>
+        <text encoding="base64">ICAgICAgICB4X3JhbmdlPSgwLjUsIDguNSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXR0ZXJzPXsiaW5kZXgiOiAiZGF0ZXRpbWUifSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I9InJveWFsYmx1ZSIsCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVnZW5kX2xhYmVsPSIkR0FHR0EgKEdhbGlsZW8pIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3I9InJveWFsYmx1ZSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeT0iZ2EiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVnZW5kX2xhYmVsPSIkR0FHR0EgKEdhbGlsZW8pIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeD0iaW5kZXgiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeT0iZ2EiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc291cmNlPXRpbWVwbG90X2NkcywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeD0iaW5kZXgiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0iZ2EiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cmNlPXRpbWVwbG90X2NkcywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
