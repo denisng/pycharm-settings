@@ -91,11 +91,12 @@
         <mark key="^" line="38" column="72" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/README.md" timestamp="1591046410361">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="17" column="31" />
-        <mark key="^" line="17" column="32" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/README.md" timestamp="1591047497620">
+        <mark key="'" line="38" column="42" />
+        <mark key="[" line="38" column="86" />
+        <mark key="]" line="38" column="87" />
+        <mark key="." line="38" column="86" />
+        <mark key="^" line="38" column="87" />
       </file>
       <file name="/a.dummy" timestamp="1590188169805">
         <mark key="[" line="0" column="10" />
@@ -139,6 +140,13 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/.gitignore" timestamp="1591046754168">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="20" column="5" />
+        <mark key="^" line="20" column="5" />
+        <mark key="." line="20" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" timestamp="1590190064131">
         <mark key="'" line="14" column="98" />
         <mark key="[" line="14" column="39" />
@@ -179,21 +187,11 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/queues.py" timestamp="1589849682308">
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="13" column="48" />
-        <mark key="." line="13" column="47" />
-        <mark key="^" line="13" column="48" />
-      </file>
       <file name="/bokeh_test" timestamp="1590526646358">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="39" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
-      <jump line="104" column="4" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
-      <jump line="84" column="32" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="83" column="42" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
@@ -290,6 +288,10 @@
       <jump line="188" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="176" column="24" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="41" column="86" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
+      <jump line="10" column="12" filename="$USER_HOME$/Documents/GitHub/mallard-test/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/.gitignore" />
+      <jump line="32" column="3" filename="$USER_HOME$/Documents/GitHub/mallard-test/README.md" />
+      <jump line="38" column="42" filename="$USER_HOME$/Documents/GitHub/mallard-test/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,10 +309,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
