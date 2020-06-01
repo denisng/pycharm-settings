@@ -91,6 +91,12 @@
         <mark key="^" line="38" column="72" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/README.md" timestamp="1591046410361">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="32" />
+      </file>
       <file name="/a.dummy" timestamp="1590188169805">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -313,31 +319,31 @@
         <text encoding="base64">ICAgICAgICAgICAgIiRHTkdHQSAoQWdncmVnYXRlKSI6IGduX3Nlcmllcy52YWx1ZV9jb3VudHMoKSwKICAgICAgICAgICAgIiRHUEdHQSAoR1BTKSI6IGdwX3Nlcmllcy52YWx1ZV9jb3VudHMoKSwKICAgICAgICAgICAgIiRHTEdHQSAoR0xPTkFTUykiOiBnbF9zZXJpZXMudmFsdWVfY291bnRzKCksCiAgICAgICAgICAgICIkR0FHR0EgKEdhbGlsZW8pIjogZ2Ffc2VyaWVzLnZhbHVlX2NvdW50cygpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ClRvIGRvOgotIFsgXSBtaW5pbWl6ZSBweWxpbnRyYwotIFsgXSB0ZXN0IGplbmtpbnMKLSBbIF0gdGVzdCBwdWJsaXNoCi0gWyBdIGRvY3Mgb24gbWFrZWZpbGUgdGFyZ2V0cwotIFsgXSBkb2NzIG9uIGJsYWNrCi0gWyBdIGRvY3Mgb24gbXlweQotIFsgXSBkb2NzIG9uIHB1Ymxpc2hpbmcKLSBbIF0gZG9jcyBvbiBob3cgdG8gaW5zdGFsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcj0icm95YWxibHVlIiwK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZWdlbmRfbGFiZWw9IiRHQUdHQSAoR2FsaWxlbykiLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcj0icm95YWxibHVlIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB5PSJnYSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBsZWdlbmRfbGFiZWw9IiRHQUdHQSAoR2FsaWxlbykiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB4PSJpbmRleCIsCg==</text>
+        <text encoding="base64">ICAgICAgICB5PSJnYSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2U9Y2RzLAo=</text>
+        <text encoding="base64">ICAgICAgICB4PSJpbmRleCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lPSJnYSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2U9Y2RzLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpbWVwbG90LmNpcmNsZSgK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lPSJnYSIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIHRpbWVwbG90LmNpcmNsZSgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
