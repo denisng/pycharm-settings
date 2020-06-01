@@ -74,21 +74,64 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590809515876">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/bokeh_test.py" timestamp="1590052805928">
-        <mark key="'" line="16" column="22" />
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="38" column="72" />
-        <mark key="." line="2" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/README.rst" timestamp="1591049971596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" timestamp="1591051572644">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="25" />
+      </file>
+      <file name="/pynmea2_decode" timestamp="1590712684619">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/logging_levels.py" timestamp="1590627579873">
+        <mark key="'" line="7" column="25" />
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="16" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591052315818">
+        <mark key="'" line="5" column="27" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="65" />
+        <mark key="^" line="17" column="65" />
+        <mark key="." line="17" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" timestamp="1590190064131">
+        <mark key="'" line="14" column="98" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590811874384">
+        <mark key="'" line="41" column="86" />
+        <mark key="[" line="114" column="9" />
+        <mark key="]" line="115" column="38" />
+        <mark key="." line="115" column="37" />
+        <mark key="^" line="115" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/events.py" timestamp="1590190037869">
+        <mark key="'" line="1" column="16" />
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="8" column="47" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="47" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/pynmea2_decode.py" timestamp="1590712676201">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590809515876">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/README.md" timestamp="1591047647951">
         <mark key="'" line="40" column="42" />
@@ -96,14 +139,6 @@
         <mark key="]" line="37" column="40" />
         <mark key="." line="37" column="39" />
         <mark key="^" line="37" column="40" />
-      </file>
-      <file name="/a.dummy" timestamp="1590188169805">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="/pynmea2_decode" timestamp="1590712684619">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/pyproject.toml" timestamp="1590531478952">
         <mark key="[" line="11" column="13" />
@@ -117,13 +152,6 @@
         <mark key="]" line="72" column="30" />
         <mark key="." line="72" column="29" />
         <mark key="^" line="72" column="30" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/logging_levels.py" timestamp="1590627579873">
-        <mark key="'" line="7" column="25" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="16" column="26" />
-        <mark key="." line="16" column="25" />
       </file>
       <file name="/" timestamp="1590812554284">
         <mark key="[" line="0" column="0" />
@@ -140,38 +168,17 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" timestamp="1590190064131">
-        <mark key="'" line="14" column="98" />
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="40" />
-        <mark key="." line="14" column="39" />
-        <mark key="^" line="14" column="40" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/README.md" timestamp="1591051506608">
+        <mark key="[" line="8" column="69" />
+        <mark key="]" line="8" column="78" />
+        <mark key="." line="8" column="77" />
+        <mark key="^" line="8" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/README.md" timestamp="1591050375290">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/stuffers.py" timestamp="1590050779946">
-        <mark key="'" line="30" column="50" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590811874384">
-        <mark key="'" line="41" column="86" />
-        <mark key="[" line="114" column="9" />
-        <mark key="]" line="115" column="38" />
-        <mark key="." line="115" column="37" />
-        <mark key="^" line="115" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/events.py" timestamp="1590190037869">
-        <mark key="'" line="1" column="16" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="8" column="47" />
-        <mark key="." line="8" column="46" />
-        <mark key="^" line="8" column="47" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/pyproject.toml" timestamp="1591051680368">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="62" />
+        <mark key="^" line="7" column="62" />
+        <mark key="." line="7" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1590794422033">
         <mark key="'" line="15" column="13" />
@@ -180,19 +187,11 @@
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/pynmea2_decode.py" timestamp="1590712676201">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="2" />
-        <mark key="^" line="1" column="2" />
-        <mark key="." line="1" column="1" />
-      </file>
       <file name="/bokeh_test" timestamp="1590526646358">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="83" column="42" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="90" column="59" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="98" column="44" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
@@ -291,6 +290,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/.gitignore" />
       <jump line="32" column="3" filename="$USER_HOME$/Documents/GitHub/mallard-test/README.md" />
       <jump line="38" column="42" filename="$USER_HOME$/Documents/GitHub/mallard-test/README.md" />
+      <jump line="1" column="31" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="5" column="27" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,43 +309,43 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>Tool for</text>
+        <text encoding="base64">b3BlbiB0aGUg</text>
       </register>
       <register name="-" type="4">
-        <text>Tool for</text>
+        <text encoding="base64">b3BlbiB0aGUg</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiRHTkdHQSAoQWdncmVnYXRlKSI6IGduX3Nlcmllcy52YWx1ZV9jb3VudHMoKSwKICAgICAgICAgICAgIiRHUEdHQSAoR1BTKSI6IGdwX3Nlcmllcy52YWx1ZV9jb3VudHMoKSwKICAgICAgICAgICAgIiRHTEdHQSAoR0xPTkFTUykiOiBnbF9zZXJpZXMudmFsdWVfY291bnRzKCksCiAgICAgICAgICAgICIkR0FHR0EgKEdhbGlsZW8pIjogZ2Ffc2VyaWVzLnZhbHVlX2NvdW50cygpLAo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ClRvIGRvOgotIFsgXSBtaW5pbWl6ZSBweWxpbnRyYwotIFsgXSB0ZXN0IGplbmtpbnMKLSBbIF0gdGVzdCBwdWJsaXNoCi0gWyBdIGRvY3Mgb24gbWFrZWZpbGUgdGFyZ2V0cwotIFsgXSBkb2NzIG9uIGJsYWNrCi0gWyBdIGRvY3Mgb24gbXlweQotIFsgXSBkb2NzIG9uIHB1Ymxpc2hpbmcKLSBbIF0gZG9jcyBvbiBob3cgdG8gaW5zdGFsbAo=</text>
+        <text encoding="base64">IyBUT0RPOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ClRvIGRvOgotIFsgXSBtaW5pbWl6ZSBweWxpbnRyYwotIFsgXSB0ZXN0IGplbmtpbnMKLSBbIF0gdGVzdCBwdWJsaXNoCi0gWyBdIGRvY3Mgb24gbWFrZWZpbGUgdGFyZ2V0cwotIFsgXSBkb2NzIG9uIGJsYWNrCi0gWyBdIGRvY3Mgb24gbXlweQotIFsgXSBkb2NzIG9uIHB1Ymxpc2hpbmcKLSBbIF0gZG9jcyBvbiBob3cgdG8gaW5zdGFsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcj0icm95YWxibHVlIiwK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZWdlbmRfbGFiZWw9IiRHQUdHQSAoR2FsaWxlbykiLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcj0icm95YWxibHVlIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB5PSJnYSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBsZWdlbmRfbGFiZWw9IiRHQUdHQSAoR2FsaWxlbykiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4PSJpbmRleCIsCg==</text>
+        <text encoding="base64">ICAgICAgICB5PSJnYSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2U9Y2RzLAo=</text>
+        <text encoding="base64">ICAgICAgICB4PSJpbmRleCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lPSJnYSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2U9Y2RzLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRpbWVwbG90LmNpcmNsZSgK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lPSJnYSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
