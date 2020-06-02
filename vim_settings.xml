@@ -145,12 +145,12 @@
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591062537140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591139940496">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591141358541">
         <mark key="'" line="73" column="8" />
-        <mark key="[" line="71" column="22" />
-        <mark key="]" line="71" column="23" />
-        <mark key="." line="71" column="23" />
-        <mark key="^" line="71" column="22" />
+        <mark key="[" line="93" column="14" />
+        <mark key="]" line="93" column="44" />
+        <mark key="." line="93" column="43" />
+        <mark key="^" line="93" column="44" />
       </file>
       <file name="/dummy.sql" timestamp="1591062572445">
         <mark key="[" line="0" column="15" />
@@ -281,10 +281,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>invocation</text>
+        <text>AmazonBasicsHU3641V1, self).__init__()</text>
       </register>
       <register name="-" type="4">
-        <text>invocation</text>
+        <text>AmazonBasicsHU3641V1, self).__init__()</text>
       </register>
       <register name="/" type="4">
         <text>uhubctlw</text>
