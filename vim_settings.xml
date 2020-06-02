@@ -86,16 +86,6 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="/pynmea2_decode" timestamp="1590712684619">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/logging_levels.py" timestamp="1590627579873">
-        <mark key="'" line="7" column="25" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="16" column="26" />
-        <mark key="." line="16" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591053426279">
         <mark key="'" line="20" column="64" />
         <mark key="[" line="14" column="33" />
@@ -109,6 +99,9 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1591062493602">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590811874384">
         <mark key="'" line="41" column="86" />
         <mark key="[" line="114" column="9" />
@@ -116,11 +109,11 @@
         <mark key="." line="115" column="37" />
         <mark key="^" line="115" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/pynmea2_decode.py" timestamp="1590712676201">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="2" />
-        <mark key="^" line="1" column="2" />
-        <mark key="." line="1" column="1" />
+      <file name="/dummy.sql" timestamp="1591062572445">
+        <mark key="[" line="0" column="15" />
+      </file>
+      <file name="/quality-control-duro-results" timestamp="1591062638912">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1590809515876">
         <mark key="[" line="0" column="0" />
@@ -132,19 +125,6 @@
         <mark key="." line="37" column="39" />
         <mark key="^" line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/pyproject.toml" timestamp="1590531478952">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="11" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1590714820893">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="72" column="24" />
-        <mark key="]" line="72" column="30" />
-        <mark key="." line="72" column="29" />
-        <mark key="^" line="72" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctl/uhubctlwrapper.py" timestamp="1591055779049">
         <mark key="'" line="1" column="46" />
         <mark key="[" line="28" column="115" />
@@ -152,13 +132,11 @@
         <mark key="." line="28" column="115" />
         <mark key="^" line="28" column="116" />
       </file>
-      <file name="/" timestamp="1590812554284">
+      <file name="/duros [Registrar]" timestamp="1591062537126">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1590713479930">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="/" timestamp="1590812554284">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/.gitignore" timestamp="1591046754168">
         <mark key="'" line="0" column="0" />
@@ -179,14 +157,14 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1590794422033">
-        <mark key="'" line="15" column="13" />
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="4" />
+      <file name="/foo.bar" timestamp="1591062537152">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/bokeh_test" timestamp="1590526646358">
+      <file name="/devices [Registrar]" timestamp="1591062493512">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/SQL/quality-control-duro-results.sql" timestamp="1591062624340" />
+      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591062537140">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
