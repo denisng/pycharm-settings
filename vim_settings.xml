@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>_</entry>
         <entry>data</entry>
         <entry>timedelta</entry>
         <entry>(.*)</entry>
@@ -25,10 +24,9 @@
         <entry>CONFIG</entry>
         <entry>;</entry>
         <entry>&quot;</entry>
+        <entry>\w\+</entry>
       </history-search>
       <history-cmd>
-        <entry>s/gn/ga/g</entry>
-        <entry>91,94s/g._time_cds/timeplot_cds/</entry>
         <entry>101,$s/timeplot/histogram/</entry>
         <entry>108,111s/line/vbar/</entry>
         <entry>108,111s/timeplot_cds/histogram_cds/</entry>
@@ -46,6 +44,8 @@
         <entry>s/;/ ; /g</entry>
         <entry>30,35y</entry>
         <entry>157,166y</entry>
+        <entry>s/\w\+/'\0',/</entry>
+        <entry>3,43s/\w\+/'\0',/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -99,23 +99,19 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="/temp" timestamp="1591064382280">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1591062493602">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1590811874384">
-        <mark key="'" line="41" column="86" />
-        <mark key="[" line="114" column="9" />
-        <mark key="]" line="115" column="38" />
-        <mark key="." line="115" column="37" />
-        <mark key="^" line="115" column="38" />
+      <file name="/runs [Registrar]" timestamp="1591064029130">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1591062572445">
         <mark key="[" line="0" column="15" />
       </file>
       <file name="/quality-control-duro-results" timestamp="1591062638912">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590809515876">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/README.md" timestamp="1591047647951">
@@ -132,18 +128,11 @@
         <mark key="." line="28" column="115" />
         <mark key="^" line="28" column="116" />
       </file>
+      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1591064029144">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/duros [Registrar]" timestamp="1591062537126">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/" timestamp="1590812554284">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/.gitignore" timestamp="1591046754168">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="20" column="5" />
-        <mark key="^" line="20" column="5" />
-        <mark key="." line="20" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/README.md" timestamp="1591051506608">
         <mark key="[" line="8" column="69" />
@@ -157,7 +146,7 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="61" />
       </file>
-      <file name="/foo.bar" timestamp="1591062537152">
+      <file name="/foo.bar" timestamp="1591064029159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/devices [Registrar]" timestamp="1591062493512">
@@ -167,12 +156,15 @@
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591062537140">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591064364527">
+        <mark key="'" line="42" column="18" />
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="44" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
-      <jump line="71" column="48" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
-      <jump line="50" column="29" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="66" column="19" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
       <jump line="95" column="28" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
@@ -269,6 +261,10 @@
       <jump line="5" column="27" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="17" column="64" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="1" column="46" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctl/uhubctlwrapper.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
+      <jump line="42" column="18" filename="$USER_HOME$/Documents/SQL/temp.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -285,44 +281,84 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+      <register name="*" type="4">
+        <text>serial_id</text>
       </register>
       <register name="-" type="4">
-        <text>here()</text>
+        <text>serial_id</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>\w\+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLnJ1bihbc2VsZi50b29sX3BhdGgsICctLXZlbmRvcicsIHNlbGYudmVuZG9yLCAnLS1sb2NhdGlvbicsIHNlbGYubG9jYXRpb24sICctLWFjdGlvbicsIEFDVElPTl9PTiwgJy0tcG9ydCcsIHNlbGYucG9ydF0pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+      <register name="1" type="4">
+        <text>00108090320100304
+00108090320100304
+00108082418100464
+00108091720100054
+00108091720100044
+00108091720100034
+00108091720100044
+00108091720100044
+00108091720100034
+00108091720100034
+00108091720100054
+00108091720100024
+00108091720100074
+00108091720100064
+00108091720100054
+00108091720100054
+00108091720100024
+00108091720100024
+00108091720100064
+00108091720100064
+00108091720100074
+00108091720100074
+00108091720100014
+00108091720100004
+00108091720100084
+00108091720100094
+00108091720100104
+00108091720100134
+00108091720100014
+00108091720100014
+00108091720100134
+00108091720100134
+00108091720100104
+00108091720100104
+00108091720100094
+00108091720100094
+00108091720100124
+00108091720100114
+00108091720100194
+00108091720100184
+00108091720100174</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGhlcmUoKToKICAgIHJldHVybiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBUT0RPOgo=</text>
+        <text encoding="base64">ZGVmIGhlcmUoKToKICAgIHJldHVybiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ClRvIGRvOgotIFsgXSBtaW5pbWl6ZSBweWxpbnRyYwotIFsgXSB0ZXN0IGplbmtpbnMKLSBbIF0gdGVzdCBwdWJsaXNoCi0gWyBdIGRvY3Mgb24gbWFrZWZpbGUgdGFyZ2V0cwotIFsgXSBkb2NzIG9uIGJsYWNrCi0gWyBdIGRvY3Mgb24gbXlweQotIFsgXSBkb2NzIG9uIHB1Ymxpc2hpbmcKLSBbIF0gZG9jcyBvbiBob3cgdG8gaW5zdGFsbAo=</text>
+        <text encoding="base64">IyBUT0RPOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ClRvIGRvOgotIFsgXSBtaW5pbWl6ZSBweWxpbnRyYwotIFsgXSB0ZXN0IGplbmtpbnMKLSBbIF0gdGVzdCBwdWJsaXNoCi0gWyBdIGRvY3Mgb24gbWFrZWZpbGUgdGFyZ2V0cwotIFsgXSBkb2NzIG9uIGJsYWNrCi0gWyBdIGRvY3Mgb24gbXlweQotIFsgXSBkb2NzIG9uIHB1Ymxpc2hpbmcKLSBbIF0gZG9jcyBvbiBob3cgdG8gaW5zdGFsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcj0icm95YWxibHVlIiwK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZWdlbmRfbGFiZWw9IiRHQUdHQSAoR2FsaWxlbykiLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcj0icm95YWxibHVlIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB5PSJnYSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBsZWdlbmRfbGFiZWw9IiRHQUdHQSAoR2FsaWxlbykiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -331,11 +367,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>\w\+</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace encoding="base64">IDsg</last-replace>
-      <last-substitute>;</last-substitute>
+      <last-pattern>\w\+</last-pattern>
+      <last-replace>'\0',</last-replace>
+      <last-substitute>\w\+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
