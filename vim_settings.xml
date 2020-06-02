@@ -145,12 +145,12 @@
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591062537140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591138356923">
-        <mark key="'" line="42" column="27" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="80" column="30" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591139940496">
+        <mark key="'" line="73" column="8" />
+        <mark key="[" line="71" column="22" />
+        <mark key="]" line="71" column="23" />
+        <mark key="." line="71" column="23" />
+        <mark key="^" line="71" column="22" />
       </file>
       <file name="/dummy.sql" timestamp="1591062572445">
         <mark key="[" line="0" column="15" />
@@ -164,8 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
       <jump line="107" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" />
@@ -264,6 +262,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="41" column="27" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="68" column="34" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="71" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -280,11 +280,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0nJwo=</text>
+      <register name="*" type="4">
+        <text>invocation</text>
       </register>
       <register name="-" type="4">
-        <text>an `int`</text>
+        <text>invocation</text>
       </register>
       <register name="/" type="4">
         <text>uhubctlw</text>
@@ -293,31 +293,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbXNnID0gJ3t2fSAoe3R9KSBpcyBub3QgYSB2YWxpZCBVU0IgaHViIHBvcnQnLmZvcm1hdCh2PWtleSwgdD10eXBlKGtleSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0nJwo=</text>
+        <text encoding="base64">ICAgICMgYWxsb3dzIHlvdSB0byBpbmRleCBhbiBpbnN0YW5jZSBvZiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGFsbG93IGluZGV4aW5nIGJ5IHBvcnQgaWQK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogYWxsb3cgaW5kZXhpbmcgYnkgcG9ydCBpZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBwb3B1bGF0ZSB0aGUgcG9ydHMK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0nJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGFsbG93IGluZGV4aW5nIGJ5IHBvcnQgaWQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGlkZW50aWZ5IHRvdGFsIG51bWJlciBvZiBwb3J0cyBieSBxdWVyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBwb3B1bGF0ZSB0aGUgcG9ydHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
