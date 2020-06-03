@@ -83,6 +83,9 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="/Python Console" timestamp="1591143189126">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" timestamp="1591053377127">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="5" column="35" />
@@ -145,12 +148,12 @@
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591062537140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591141358541">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591141550240">
         <mark key="'" line="73" column="8" />
-        <mark key="[" line="93" column="14" />
-        <mark key="]" line="93" column="44" />
-        <mark key="." line="93" column="43" />
-        <mark key="^" line="93" column="44" />
+        <mark key="[" line="97" column="34" />
+        <mark key="]" line="97" column="47" />
+        <mark key="." line="97" column="46" />
+        <mark key="^" line="97" column="47" />
       </file>
       <file name="/dummy.sql" timestamp="1591062572445">
         <mark key="[" line="0" column="15" />
@@ -281,10 +284,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>AmazonBasicsHU3641V1, self).__init__()</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>AmazonBasicsHU3641V1, self).__init__()</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>uhubctlw</text>
@@ -293,31 +296,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbXNnID0gJ3t2fSAoe3R9KSBpcyBub3QgYSB2YWxpZCBVU0IgaHViIHBvcnQnLmZvcm1hdCh2PWtleSwgdD10eXBlKGtleSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgYWxsb3dzIHlvdSB0byBpbmRleCBhbiBpbnN0YW5jZSBvZiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogYWxsb3cgaW5kZXhpbmcgYnkgcG9ydCBpZAo=</text>
+        <text encoding="base64">ICAgICMgYWxsb3dzIHlvdSB0byBpbmRleCBhbiBpbnN0YW5jZSBvZiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogYWxsb3cgaW5kZXhpbmcgYnkgcG9ydCBpZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0nJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGFsbG93IGluZGV4aW5nIGJ5IHBvcnQgaWQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBwb3B1bGF0ZSB0aGUgcG9ydHMK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0nJwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGFsbG93IGluZGV4aW5nIGJ5IHBvcnQgaWQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBwb3B1bGF0ZSB0aGUgcG9ydHMK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
