@@ -148,12 +148,12 @@
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591062537140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591141550240">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591145221289">
         <mark key="'" line="73" column="8" />
-        <mark key="[" line="97" column="34" />
-        <mark key="]" line="97" column="47" />
-        <mark key="." line="97" column="46" />
-        <mark key="^" line="97" column="47" />
+        <mark key="[" line="81" column="87" />
+        <mark key="]" line="82" column="32" />
+        <mark key="^" line="82" column="32" />
+        <mark key="." line="82" column="31" />
       </file>
       <file name="/dummy.sql" timestamp="1591062572445">
         <mark key="[" line="0" column="15" />
@@ -284,10 +284,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>.</text>
+        <text encoding="base64">VVNCIGh1YiA=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">VVNCIGh1YiA=</text>
       </register>
       <register name="/" type="4">
         <text>uhubctlw</text>
@@ -296,31 +296,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbXNnID0gJ3t2fSAoe3R9KSBpcyBub3QgYSB2YWxpZCBVU0IgaHViIHBvcnQnLmZvcm1hdCh2PWtleSwgdD10eXBlKGtleSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgYWxsb3dzIHlvdSB0byBpbmRleCBhbiBpbnN0YW5jZSBvZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgS2V5RXJyb3IobXNnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogYWxsb3cgaW5kZXhpbmcgYnkgcG9ydCBpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gJ3t9IGlzIG5vdCBhIHZhbGlkIFVTQiBodWIgcG9ydCcuZm9ybWF0KGtleSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBrZXkgbm90IGluIHNlbGYuX3BvcnRzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0nJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGFsbG93IGluZGV4aW5nIGJ5IHBvcnQgaWQK</text>
+        <text encoding="base64">ICAgICMgYWxsb3dzIHlvdSB0byBpbmRleCBhbiBpbnN0YW5jZSBvZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogYWxsb3cgaW5kZXhpbmcgYnkgcG9ydCBpZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBwb3B1bGF0ZSB0aGUgcG9ydHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0nJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
