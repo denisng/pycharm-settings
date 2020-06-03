@@ -99,12 +99,12 @@
         <mark key="." line="28" column="115" />
         <mark key="^" line="28" column="116" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591148845526">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="42" column="49" />
-        <mark key="]" line="42" column="55" />
-        <mark key="^" line="42" column="55" />
-        <mark key="." line="42" column="54" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591150212751">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="44" column="20" />
+        <mark key="^" line="44" column="20" />
+        <mark key="." line="44" column="19" />
       </file>
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1591064029144">
         <mark key="[" line="0" column="0" />
@@ -167,12 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="87" column="26" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="66" column="67" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="171" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="32" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
@@ -260,13 +254,19 @@
       <jump line="17" column="15" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="18" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
-      <jump line="10" column="24" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="28" column="36" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="43" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="10" column="41" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -284,10 +284,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>240600</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>240600</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>uhubctlw</text>
