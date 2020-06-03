@@ -77,7 +77,7 @@
       <file name="/quality-control-duro-results" timestamp="1591062638912">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1591143189126">
+      <file name="/Python Console" timestamp="1591221294313">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" timestamp="1591053377127">
@@ -100,12 +100,12 @@
         <mark key="." line="28" column="115" />
         <mark key="^" line="28" column="116" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591219288487">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591220706109">
         <mark key="'" line="16" column="72" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="61" column="41" />
-        <mark key="." line="47" column="0" />
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="55" column="27" />
+        <mark key="^" line="55" column="22" />
+        <mark key="." line="55" column="27" />
       </file>
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1591064029144">
         <mark key="[" line="0" column="0" />
@@ -149,12 +149,12 @@
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591062537140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591145774245">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591221240760">
         <mark key="'" line="18" column="18" />
-        <mark key="[" line="54" column="63" />
-        <mark key="]" line="54" column="64" />
-        <mark key="^" line="54" column="64" />
-        <mark key="." line="54" column="63" />
+        <mark key="[" line="76" column="16" />
+        <mark key="]" line="76" column="21" />
+        <mark key="^" line="76" column="21" />
+        <mark key="." line="76" column="20" />
       </file>
       <file name="/dummy.sql" timestamp="1591062572445">
         <mark key="[" line="0" column="15" />
@@ -284,11 +284,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxfaW4gPSBOb25lCg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text># TODO: repeatedly read data from port and dump into file</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>uhubctlw</text>
