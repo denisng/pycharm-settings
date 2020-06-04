@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>timedelta</entry>
         <entry>(.*)</entry>
         <entry>_frame</entry>
         <entry>gn</entry>
@@ -25,9 +24,9 @@
         <entry>&quot;</entry>
         <entry>\w\+</entry>
         <entry>uhubctlw</entry>
+        <entry>hub_address</entry>
       </history-search>
       <history-cmd>
-        <entry>108,111s/timeplot_cds/histogram_cds/</entry>
         <entry>108,111s/x=&quot;index&quot;//</entry>
         <entry>108,111s/x=&quot;index&quot;,\s//</entry>
         <entry>108,111s/y=/x=/</entry>
@@ -46,6 +45,7 @@
         <entry>34,46d</entry>
         <entry>26,36d</entry>
         <entry>W</entry>
+        <entry>%s/hub_address/hub_port/</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -74,17 +74,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/quality-control-duro-results" timestamp="1591062638912">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1591235545689">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" timestamp="1591053377127">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="34" />
-        <mark key="^" line="5" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/events.py" timestamp="1591219018721">
         <mark key="'" line="1" column="33" />
@@ -93,15 +84,8 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1591232602135">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctl/uhubctlwrapper.py" timestamp="1591055779049">
-        <mark key="'" line="1" column="46" />
-        <mark key="[" line="28" column="115" />
-        <mark key="]" line="28" column="116" />
-        <mark key="." line="28" column="115" />
-        <mark key="^" line="28" column="116" />
+      <file name="/a.dummy" timestamp="1591238062874">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591237699823">
         <mark key="'" line="43" column="39" />
@@ -110,16 +94,14 @@
         <mark key="." line="47" column="54" />
         <mark key="^" line="60" column="70" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1591064029144">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/duros [Registrar]" timestamp="1591062537126">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" timestamp="1591238410066">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="/temp" timestamp="1591064382280">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1591064029159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.devices" timestamp="1591062493602">
@@ -128,21 +110,45 @@
       <file name="/runs [Registrar]" timestamp="1591064029130">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_logging_thread.py" timestamp="1591233271808">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+      </file>
+      <file name="/dummy.sql" timestamp="1591062572445">
+        <mark key="[" line="0" column="15" />
+      </file>
+      <file name="/quality-control-duro-results" timestamp="1591062638912">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1591064029144">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/duros [Registrar]" timestamp="1591062537126">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1591064029159">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" timestamp="1591238284390">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/devices [Registrar]" timestamp="1591062493512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591062537140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/config/gtt6_chamber.ini" timestamp="1591228420695">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="106" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_logging_thread.py" timestamp="1591233271808">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="20" column="4" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/config/gtt6_chamber.ini" timestamp="1591237999280">
+        <mark key="'" line="6" column="14" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591237198119">
         <mark key="'" line="18" column="18" />
@@ -150,9 +156,6 @@
         <mark key="]" line="27" column="96" />
         <mark key="^" line="27" column="96" />
         <mark key="." line="27" column="95" />
-      </file>
-      <file name="/dummy.sql" timestamp="1591062572445">
-        <mark key="[" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591064364527">
         <mark key="'" line="42" column="18" />
@@ -163,11 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="132" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="75" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="52" column="32" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
@@ -263,6 +261,11 @@
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_logging_thread.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_logging_thread.py" />
       <jump line="43" column="39" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="6" column="14" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/config/gtt6_chamber.ini" />
+      <jump line="1" column="33" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="4" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -280,43 +283,43 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
-        <text>uhubctlw</text>
+        <text>hub_address</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtc2cgPSBtc2cuZm9ybWF0KGE9J09OJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCcnKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IiIiClBhcnNlciBmb3IgdGVzdCBjb25maWd1cmF0aW9uIElOSS4KIiIiCgojIHN0ZCBsaWIKZnJvbSBjb25maWdwYXJzZXIgaW1wb3J0IENvbmZpZ1BhcnNlcgoK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCcnKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGFjdGlvbiBub3QgaW4gVkFMSURfQUNUSU9OOgo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSAie30gaXMgbm90IGEgdmFsaWQgYGFjdGlvbmAiLmZvcm1hdChhY3Rpb24pCiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihtc2cpCg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VkFMSURfQUNUSU9OID0gZnJvemVuc2V0KFtBQ1RJT05fT0ZGLCBBQ1RJT05fT04sIEFDVElPTl9DWUNMRV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cuZm9yCg==</text>
+        <text encoding="base64">ICAgIGlmIGFjdGlvbiBub3QgaW4gVkFMSURfQUNUSU9OOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -325,11 +328,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>uhubctlw</last-search>
+      <last-search>hub_address</last-search>
       <last-offset />
-      <last-pattern>uhubctlw</last-pattern>
-      <last-replace>'\0',</last-replace>
-      <last-substitute>\w\+</last-substitute>
+      <last-pattern>hub_address</last-pattern>
+      <last-replace>hub_port</last-replace>
+      <last-substitute>hub_address</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
