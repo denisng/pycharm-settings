@@ -100,12 +100,12 @@
         <mark key="." line="28" column="115" />
         <mark key="^" line="28" column="116" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591220706109">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591227923101">
         <mark key="'" line="16" column="72" />
-        <mark key="[" line="55" column="27" />
-        <mark key="]" line="55" column="27" />
-        <mark key="^" line="55" column="22" />
-        <mark key="." line="55" column="27" />
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="53" column="23" />
+        <mark key="^" line="53" column="24" />
+        <mark key="." line="53" column="23" />
       </file>
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1591064029144">
         <mark key="[" line="0" column="0" />
@@ -121,12 +121,6 @@
       </file>
       <file name="/temp" timestamp="1591064382280">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/README.md" timestamp="1591051506608">
-        <mark key="[" line="8" column="69" />
-        <mark key="]" line="8" column="78" />
-        <mark key="." line="8" column="77" />
-        <mark key="^" line="8" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/pyproject.toml" timestamp="1591051680368">
         <mark key="[" line="7" column="54" />
@@ -148,6 +142,10 @@
       </file>
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591062537140">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/config/gtt6_chamber.ini" timestamp="1591228420695">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="106" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591221240760">
         <mark key="'" line="18" column="18" />
@@ -285,16 +283,16 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/dev/serial/by-id/usb-Silicon_Labs_Swift_Navigation_Precision_GNSS_Module_00CF705F-if00-port0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>uhubctlw</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gJ3t2fSAoe3R9KSBpcyBub3QgYSB2YWxpZCBVU0IgaHViIHBvcnQnLmZvcm1hdCh2PWtleSwgdD10eXBlKGtleSkpCg==</text>
+      <register name="0" type="4">
+        <text>/dev/serial/by-id/usb-Silicon_Labs_Swift_Navigation_Precision_GNSS_Module_00CF705F-if00-port0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpYWxfaW4gPSBOb25lCg==</text>
