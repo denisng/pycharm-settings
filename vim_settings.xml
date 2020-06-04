@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>(.*)</entry>
-        <entry>_frame</entry>
         <entry>gn</entry>
         <entry>g._time_cds</entry>
         <entry>timeplot</entry>
@@ -22,15 +20,13 @@
         <entry>CONFIG</entry>
         <entry>;</entry>
         <entry>&quot;</entry>
-        <entry>\w\+</entry>
         <entry>uhubctlw</entry>
         <entry>hub_address</entry>
+        <entry>\w\+</entry>
+        <entry>862</entry>
+        <entry>863</entry>
       </history-search>
       <history-cmd>
-        <entry>108,111s/x=&quot;index&quot;//</entry>
-        <entry>108,111s/x=&quot;index&quot;,\s//</entry>
-        <entry>108,111s/y=/x=/</entry>
-        <entry>92,95s/legend/legend_label/</entry>
         <entry>92,95s/line/circle/</entry>
         <entry>92,111s/legend/legend_label/</entry>
         <entry>108,111s/y=/top=/</entry>
@@ -46,7 +42,11 @@
         <entry>26,36d</entry>
         <entry>W</entry>
         <entry>%s/hub_address/hub_port/</entry>
+        <entry>3,33s/\w\+/'\0',/</entry>
+        <entry>3,33s/862/863/</entry>
         <entry>w</entry>
+        <entry>3,33y</entry>
+        <entry>3,33s/863/862/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -74,6 +74,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/quality-control-duro-results" timestamp="1591062638912">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1591235545689">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,6 +97,12 @@
         <mark key="." line="47" column="54" />
         <mark key="^" line="60" column="70" />
       </file>
+      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1591289577782">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/duros [Registrar]" timestamp="1591289707790">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" timestamp="1591238410066">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="4" />
@@ -101,34 +110,10 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/temp" timestamp="1591064382280">
+      <file name="/temp" timestamp="1591289859620">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1591062493602">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/runs [Registrar]" timestamp="1591064029130">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_logging_thread.py" timestamp="1591233271808">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="20" column="4" />
-      </file>
-      <file name="/dummy.sql" timestamp="1591062572445">
-        <mark key="[" line="0" column="15" />
-      </file>
-      <file name="/quality-control-duro-results" timestamp="1591062638912">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dog2zb0js2j5imh.public.runs" timestamp="1591064029144">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/duros [Registrar]" timestamp="1591062537126">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1591064029159">
+      <file name="/foo.bar" timestamp="1591289707824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" timestamp="1591238284390">
@@ -137,10 +122,16 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/devices [Registrar]" timestamp="1591062493512">
+      <file name="/dog2zb0js2j5imh.public.devices" timestamp="1591289577779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591062537140">
+      <file name="/runs [Registrar]" timestamp="1591289577781">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/devices [Registrar]" timestamp="1591289577773">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591289707807">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/config/gtt6_chamber.ini" timestamp="1591237999280">
@@ -150,6 +141,12 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_logging_thread.py" timestamp="1591233271808">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591237198119">
         <mark key="'" line="18" column="18" />
         <mark key="[" line="27" column="64" />
@@ -157,12 +154,15 @@
         <mark key="^" line="27" column="96" />
         <mark key="." line="27" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591064364527">
-        <mark key="'" line="42" column="18" />
-        <mark key="[" line="1" column="20" />
+      <file name="/dummy.sql" timestamp="1591062572445">
+        <mark key="[" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591290273147">
+        <mark key="'" line="0" column="17" />
+        <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="2" column="0" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -201,8 +201,6 @@
       <jump line="17" column="64" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="1" column="46" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctl/uhubctlwrapper.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
       <jump line="42" column="18" filename="$USER_HOME$/Documents/SQL/temp.sql" />
       <jump line="1" column="38" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="33" column="33" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
@@ -266,6 +264,8 @@
       <jump line="4" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
+      <jump line="2" column="6" filename="$USER_HOME$/Documents/SQL/temp.sql" />
+      <jump line="0" column="17" filename="$USER_HOME$/Documents/SQL/temp.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -283,43 +283,43 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>pass</text>
+        <text>duro_serial_id IN (</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>duro_serial_id IN (</text>
       </register>
       <register name="/" type="4">
-        <text>hub_address</text>
+        <text>863</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSBtc2cuZm9ybWF0KGE9J09OJykK</text>
+        <text encoding="base64">JzAwODYzMDEyMzIwMTAwMTAxJywKJzAwODYzMDEyMzIwMTAwMTAyJywKJzAwODYzMDEyMzIwMTAwMTAzJywKJzAwODYzMDEyMzIwMTAwMTA0JywKJzAwODYzMDEyMzIwMTAwMTA1JywKJzAwODYzMDEyMzIwMTAwMTA2JywKJzAwODYzMDEyMzIwMTAwMTA3JywKJzAwODYzMDEyMzIwMTAwMTA4JywKJzAwODYzMDEyMzIwMTAwMTA5JywKJzAwODYzMDEyMzIwMTAwMTEwJywKJzAwODYzMDEyMzIwMTAwMTExJywKJzAwODYzMDEyMzIwMTAwMTEyJywKJzAwODYzMDEyMzIwMTAwMTEzJywKJzAwODYzMDEyMzIwMTAwMTE0JywKJzAwODYzMDEyMzIwMTAwMTE2JywKJzAwODYzMDEyMzIwMTAwMTE3JywKJzAwODYzMDEyMzIwMTAwMTE4JywKJzAwODYzMDEyMzIwMTAwMTE5JywKJzAwODYzMDEyMzIwMTAwMTIwJywKJzAwODYzMDEyMzIwMTAwMTIxJywKJzAwODYzMDEyMzIwMTAwMTIyJywKJzAwODYzMDEyMzIwMTAwMTIzJywKJzAwODYzMDEyMzIwMTAwMTI0JywKJzAwODYzMDEyMzIwMTAwMTI1JywKJzAwODYzMDEyMzIwMTAwMTI2JywKJzAwODYzMDEyMzIwMTAwMTI4JywKJzAwODYzMDEyMzIwMTAwMTI5JywKJzAwODYzMDEyMzIwMTAwMTMwJywKJzAwODYzMDEyMzIwMTAwMTMxJywKJzAwODYzMDEyMzIwMTAwMTMyJywKJzAwODYzMDEyMzIwMTAwMTQwJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiClBhcnNlciBmb3IgdGVzdCBjb25maWd1cmF0aW9uIElOSS4KIiIiCgojIHN0ZCBsaWIKZnJvbSBjb25maWdwYXJzZXIgaW1wb3J0IENvbmZpZ1BhcnNlcgoK</text>
+        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTQxJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTMyJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCcnKQo=</text>
+        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTMxJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTMwJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoKQo=</text>
+        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTI5JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5kZWJ1ZygpCg==</text>
+        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTI4JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTI2JywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGFjdGlvbiBub3QgaW4gVkFMSURfQUNUSU9OOgo=</text>
+        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTI1JywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -328,11 +328,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>hub_address</last-search>
+      <last-search>863</last-search>
       <last-offset />
-      <last-pattern>hub_address</last-pattern>
-      <last-replace>hub_port</last-replace>
-      <last-substitute>hub_address</last-substitute>
+      <last-pattern>863</last-pattern>
+      <last-replace>862</last-replace>
+      <last-substitute>863</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
