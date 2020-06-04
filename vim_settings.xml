@@ -103,12 +103,12 @@
         <mark key="." line="28" column="115" />
         <mark key="^" line="28" column="116" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591236678496">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591237699823">
         <mark key="'" line="43" column="39" />
-        <mark key="[" line="24" column="135" />
-        <mark key="]" line="24" column="154" />
-        <mark key="." line="24" column="153" />
-        <mark key="^" line="24" column="154" />
+        <mark key="[" line="47" column="54" />
+        <mark key="]" line="47" column="54" />
+        <mark key="." line="47" column="54" />
+        <mark key="^" line="60" column="70" />
       </file>
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1591064029144">
         <mark key="[" line="0" column="0" />
@@ -280,10 +280,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text># once the stop signal is received</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text># once the stop signal is received</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>uhubctlw</text>
