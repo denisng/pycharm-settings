@@ -103,12 +103,12 @@
       <file name="/duros [Registrar]" timestamp="1591289707790">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" timestamp="1591238410066">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" timestamp="1591295216326">
+        <mark key="'" line="10" column="34" />
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="9" />
+        <mark key="^" line="19" column="9" />
+        <mark key="." line="19" column="8" />
       </file>
       <file name="/temp" timestamp="1591289859620">
         <mark key="[" line="0" column="0" />
@@ -166,9 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="32" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
@@ -266,6 +263,9 @@
       <jump line="0" column="17" filename="$USER_HOME$/Documents/SQL/temp.sql" />
       <jump line="2" column="16" filename="$USER_HOME$/Documents/SQL/temp.sql" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
+      <jump line="9" column="39" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
+      <jump line="6" column="23" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
+      <jump line="10" column="34" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -282,44 +282,44 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>duro_serial_id IN (</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>duro_serial_id IN (</text>
+        <text>load(config_path)</text>
       </register>
       <register name="/" type="4">
         <text>863</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JzAwODYzMDEyMzIwMTAwMTAxJywKJzAwODYzMDEyMzIwMTAwMTAyJywKJzAwODYzMDEyMzIwMTAwMTAzJywKJzAwODYzMDEyMzIwMTAwMTA0JywKJzAwODYzMDEyMzIwMTAwMTA1JywKJzAwODYzMDEyMzIwMTAwMTA2JywKJzAwODYzMDEyMzIwMTAwMTA3JywKJzAwODYzMDEyMzIwMTAwMTA4JywKJzAwODYzMDEyMzIwMTAwMTA5JywKJzAwODYzMDEyMzIwMTAwMTEwJywKJzAwODYzMDEyMzIwMTAwMTExJywKJzAwODYzMDEyMzIwMTAwMTEyJywKJzAwODYzMDEyMzIwMTAwMTEzJywKJzAwODYzMDEyMzIwMTAwMTE0JywKJzAwODYzMDEyMzIwMTAwMTE2JywKJzAwODYzMDEyMzIwMTAwMTE3JywKJzAwODYzMDEyMzIwMTAwMTE4JywKJzAwODYzMDEyMzIwMTAwMTE5JywKJzAwODYzMDEyMzIwMTAwMTIwJywKJzAwODYzMDEyMzIwMTAwMTIxJywKJzAwODYzMDEyMzIwMTAwMTIyJywKJzAwODYzMDEyMzIwMTAwMTIzJywKJzAwODYzMDEyMzIwMTAwMTI0JywKJzAwODYzMDEyMzIwMTAwMTI1JywKJzAwODYzMDEyMzIwMTAwMTI2JywKJzAwODYzMDEyMzIwMTAwMTI4JywKJzAwODYzMDEyMzIwMTAwMTI5JywKJzAwODYzMDEyMzIwMTAwMTMwJywKJzAwODYzMDEyMzIwMTAwMTMxJywKJzAwODYzMDEyMzIwMTAwMTMyJywKJzAwODYzMDEyMzIwMTAwMTQwJwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9zZWN0aW9uKCdEVVQxJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTQxJwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9zZWN0aW9uKCdEVVQ0JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTMyJywK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9zZWN0aW9uKCdEVVQzJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTMxJywK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9zZWN0aW9uKCdEVVQyJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTMwJywK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9zZWN0aW9uKCdEVVQxJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTI5JywK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9zZWN0aW9uKCdHZW5lcmFsJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTI4JywK</text>
+        <text encoding="base64">ICAgIGRlZiBsb2FkKHNlbGYsIHBhdGg6IFBhdGgpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTI2JywK</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JzAwODYyMDEyMzIwMTAwMTI1JywK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
