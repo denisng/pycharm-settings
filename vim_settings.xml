@@ -100,20 +100,20 @@
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1591289577782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/duros [Registrar]" timestamp="1591289707790">
+      <file name="/duros [Registrar]" timestamp="1591296805336">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" timestamp="1591295216326">
-        <mark key="'" line="10" column="34" />
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="9" />
-        <mark key="^" line="19" column="9" />
-        <mark key="." line="19" column="8" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" timestamp="1591295987653">
+        <mark key="'" line="13" column="67" />
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="67" />
+        <mark key="^" line="13" column="68" />
       </file>
       <file name="/temp" timestamp="1591289859620">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1591289707824">
+      <file name="/foo.bar" timestamp="1591296805360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" timestamp="1591238284390">
@@ -131,7 +131,7 @@
       <file name="/devices [Registrar]" timestamp="1591289577773">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591289707807">
+      <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591296805349">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/config/gtt6_chamber.ini" timestamp="1591237999280">
@@ -166,10 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="29" column="15" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="109" column="4" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="215" column="32" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
@@ -266,6 +262,10 @@
       <jump line="9" column="39" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
       <jump line="6" column="23" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
       <jump line="10" column="34" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
+      <jump line="36" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
+      <jump line="13" column="67" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -286,40 +286,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>load(config_path)</text>
+        <text>General</text>
       </register>
       <register name="/" type="4">
         <text>863</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9zZWN0aW9uKCdEVVQxJykK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB2YWxpZCAmPSBzZWxmLmhhc19vcHRpb24oJ0RVVDEnLCAnaHViX3BvcnQnKQogICAgICAgIHZhbGlkICY9IHNlbGYuaGFzX29wdGlvbignRFVUMScsICdzZXJpYWxfbWFpbicpCiAgICAgICAgdmFsaWQgJj0gc2VsZi5oYXNfb3B0aW9uKCdEVVQxJywgJ3NlcmlhbF9hdXgnKQogICAgICAgIHZhbGlkICY9IHNlbGYuaGFzX29wdGlvbignRFVUMScsICdjYWJsZV9jb2xvcicpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9zZWN0aW9uKCdEVVQ0JykK</text>
+        <text encoding="base64">ICAgICAgICBkdXRfc2VjdGlvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9zZWN0aW9uKCdEVVQzJykK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZCAmPSBzZWxmLmhhc19vcHRpb24oJ0RVVDEnLCAnY2FibGVfY29sb3InKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9zZWN0aW9uKCdEVVQyJykK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZCAmPSBzZWxmLmhhc19vcHRpb24oJ0RVVDEnLCAnc2VyaWFsX2F1eCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9zZWN0aW9uKCdEVVQxJykK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZCAmPSBzZWxmLmhhc19vcHRpb24oJ0RVVDEnLCAnc2VyaWFsX21haW4nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9zZWN0aW9uKCdHZW5lcmFsJykK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZCAmPSBzZWxmLmhhc19vcHRpb24oJ0RVVDEnLCAnaHViX3BvcnQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2FkKHNlbGYsIHBhdGg6IFBhdGgpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZCAmPSBzZWxmLmhhc19vcHRpb24oJ0RVVDEnLCAnY2FibGVfY29sb3InKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZCAmPSBzZWxmLmhhc19vcHRpb24oJ0RVVDEnLCAnc2VyaWFsX2F1eCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
