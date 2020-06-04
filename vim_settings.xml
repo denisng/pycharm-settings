@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>gn</entry>
         <entry>g._time_cds</entry>
         <entry>timeplot</entry>
         <entry>x=&quot;index&quot;</entry>
@@ -22,15 +21,12 @@
         <entry>&quot;</entry>
         <entry>uhubctlw</entry>
         <entry>hub_address</entry>
-        <entry>\w\+</entry>
         <entry>862</entry>
         <entry>863</entry>
+        <entry>\w\+</entry>
+        <entry>23</entry>
       </history-search>
       <history-cmd>
-        <entry>92,95s/line/circle/</entry>
-        <entry>92,111s/legend/legend_label/</entry>
-        <entry>108,111s/y=/top=/</entry>
-        <entry>s/,\s/,\n/</entry>
         <entry>115,142s/timeplot_cds/histogram_cds/</entry>
         <entry>wq</entry>
         <entry>s/;/ ; /g</entry>
@@ -42,11 +38,15 @@
         <entry>26,36d</entry>
         <entry>W</entry>
         <entry>%s/hub_address/hub_port/</entry>
-        <entry>3,33s/\w\+/'\0',/</entry>
         <entry>3,33s/862/863/</entry>
         <entry>3,33y</entry>
         <entry>3,33s/863/862/</entry>
+        <entry>3,33s/\w\+/'\0'/</entry>
+        <entry>3,33s/\w\+/'\0',\</entry>
+        <entry>3,33s/\w\+/'\0',/</entry>
         <entry>w</entry>
+        <entry>3,33/23/22/</entry>
+        <entry>3,33s/23/22/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -110,11 +110,16 @@
         <mark key="." line="13" column="67" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="/temp" timestamp="1591289859620">
+      <file name="/temp" timestamp="1591297645298">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1591296805360">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591298031837">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" timestamp="1591238284390">
         <mark key="[" line="0" column="0" />
@@ -154,20 +159,15 @@
         <mark key="^" line="27" column="96" />
         <mark key="." line="27" column="95" />
       </file>
-      <file name="/dummy.sql" timestamp="1591062572445">
-        <mark key="[" line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591290316710">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="6" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="6" />
+      <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591297682443">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="32" column="1" />
+        <mark key="]" line="32" column="17" />
+        <mark key="^" line="32" column="21" />
+        <mark key="." line="33" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="4" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="215" column="32" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
@@ -266,6 +266,8 @@
       <jump line="36" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
       <jump line="13" column="67" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
+      <jump line="32" column="17" filename="$USER_HOME$/Documents/SQL/temp.sql" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -282,17 +284,17 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>00862012220100140</text>
       </register>
       <register name="-" type="4">
-        <text>General</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>863</text>
+        <text>23</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB2YWxpZCAmPSBzZWxmLmhhc19vcHRpb24oJ0RVVDEnLCAnaHViX3BvcnQnKQogICAgICAgIHZhbGlkICY9IHNlbGYuaGFzX29wdGlvbignRFVUMScsICdzZXJpYWxfbWFpbicpCiAgICAgICAgdmFsaWQgJj0gc2VsZi5oYXNfb3B0aW9uKCdEVVQxJywgJ3NlcmlhbF9hdXgnKQogICAgICAgIHZhbGlkICY9IHNlbGYuaGFzX29wdGlvbignRFVUMScsICdjYWJsZV9jb2xvcicpCg==</text>
+      <register name="0" type="4">
+        <text>00862012220100140</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -322,17 +324,17 @@
         <text encoding="base64">ICAgICAgICB2YWxpZCAmPSBzZWxmLmhhc19vcHRpb24oJ0RVVDEnLCAnc2VyaWFsX2F1eCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>3,33s/23/22/</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>863</last-search>
-      <last-offset />
-      <last-pattern>863</last-pattern>
-      <last-replace>862</last-replace>
-      <last-substitute>863</last-substitute>
+      <last-search>23</last-search>
+      <last-offset>2</last-offset>
+      <last-pattern>23</last-pattern>
+      <last-replace>22</last-replace>
+      <last-substitute>23</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
