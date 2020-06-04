@@ -44,9 +44,9 @@
         <entry>%s/hub_address/hub_port/</entry>
         <entry>3,33s/\w\+/'\0',/</entry>
         <entry>3,33s/862/863/</entry>
-        <entry>w</entry>
         <entry>3,33y</entry>
         <entry>3,33s/863/862/</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -157,16 +157,15 @@
       <file name="/dummy.sql" timestamp="1591062572445">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591290273147">
-        <mark key="'" line="0" column="17" />
+      <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591290316710">
+        <mark key="'" line="2" column="0" />
         <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="19" />
+        <mark key="]" line="1" column="6" />
         <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="52" column="32" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
@@ -264,8 +263,9 @@
       <jump line="4" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
-      <jump line="2" column="6" filename="$USER_HOME$/Documents/SQL/temp.sql" />
       <jump line="0" column="17" filename="$USER_HOME$/Documents/SQL/temp.sql" />
+      <jump line="2" column="16" filename="$USER_HOME$/Documents/SQL/temp.sql" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
