@@ -23,11 +23,10 @@
         <entry>hub_address</entry>
         <entry>862</entry>
         <entry>863</entry>
-        <entry>\w\+</entry>
         <entry>23</entry>
+        <entry>\w\+</entry>
       </history-search>
       <history-cmd>
-        <entry>115,142s/timeplot_cds/histogram_cds/</entry>
         <entry>wq</entry>
         <entry>s/;/ ; /g</entry>
         <entry>30,35y</entry>
@@ -44,9 +43,10 @@
         <entry>3,33s/\w\+/'\0'/</entry>
         <entry>3,33s/\w\+/'\0',\</entry>
         <entry>3,33s/\w\+/'\0',/</entry>
-        <entry>w</entry>
         <entry>3,33/23/22/</entry>
         <entry>3,33s/23/22/</entry>
+        <entry>3,63s/\w\+/'\0',/</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -159,16 +159,15 @@
         <mark key="^" line="27" column="96" />
         <mark key="." line="27" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591297682443">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="32" column="1" />
-        <mark key="]" line="32" column="17" />
-        <mark key="^" line="32" column="21" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591298091438">
+        <mark key="'" line="62" column="18" />
+        <mark key="[" line="62" column="19" />
+        <mark key="]" line="62" column="19" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="62" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
       <jump line="13" column="31" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
@@ -256,7 +255,6 @@
       <jump line="4" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
-      <jump line="0" column="17" filename="$USER_HOME$/Documents/SQL/temp.sql" />
       <jump line="2" column="16" filename="$USER_HOME$/Documents/SQL/temp.sql" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
       <jump line="9" column="39" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
@@ -268,6 +266,8 @@
       <jump line="13" column="67" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" />
       <jump line="32" column="17" filename="$USER_HOME$/Documents/SQL/temp.sql" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
+      <jump line="62" column="18" filename="$USER_HOME$/Documents/SQL/temp.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -285,13 +285,13 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>00862012220100140</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>23</text>
+        <text>\w\+</text>
       </register>
       <register name="0" type="4">
         <text>00862012220100140</text>
@@ -324,17 +324,17 @@
         <text encoding="base64">ICAgICAgICB2YWxpZCAmPSBzZWxmLmhhc19vcHRpb24oJ0RVVDEnLCAnc2VyaWFsX2F1eCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>3,33s/23/22/</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>23</last-search>
+      <last-search>\w\+</last-search>
       <last-offset>2</last-offset>
-      <last-pattern>23</last-pattern>
-      <last-replace>22</last-replace>
-      <last-substitute>23</last-substitute>
+      <last-pattern>\w\+</last-pattern>
+      <last-replace>'\0',</last-replace>
+      <last-substitute>\w\+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
