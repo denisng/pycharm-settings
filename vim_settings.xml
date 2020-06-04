@@ -103,12 +103,11 @@
         <mark key="." line="28" column="115" />
         <mark key="^" line="28" column="116" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591233468234">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591235311434">
         <mark key="'" line="26" column="28" />
-        <mark key="[" line="52" column="30" />
-        <mark key="]" line="52" column="54" />
-        <mark key="^" line="52" column="54" />
-        <mark key="." line="52" column="53" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="/dog2zb0js2j5imh.public.runs" timestamp="1591064029144">
         <mark key="[" line="0" column="0" />
@@ -144,12 +143,12 @@
         <mark key="]" line="20" column="4" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591221240760">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591235493080">
         <mark key="'" line="18" column="18" />
-        <mark key="[" line="76" column="16" />
-        <mark key="]" line="76" column="21" />
-        <mark key="^" line="76" column="21" />
-        <mark key="." line="76" column="20" />
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="84" />
+        <mark key="." line="32" column="83" />
+        <mark key="^" line="32" column="84" />
       </file>
       <file name="/dummy.sql" timestamp="1591062572445">
         <mark key="[" line="0" column="15" />
@@ -280,10 +279,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtc2cuZm9yCg==</text>
       </register>
       <register name="-" type="4">
-        <text>dut_label</text>
+        <text>'Hub: {v} {l}, Port: {p}, Action: {a}'</text>
       </register>
       <register name="/" type="4">
         <text>uhubctlw</text>
@@ -292,31 +291,31 @@
         <text>/dev/serial/by-id/usb-Silicon_Labs_Swift_Navigation_Precision_GNSS_Module_00CF705F-if00-port0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtc2cuZm9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkRFQlVHKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygnVVNCIHBvcnQge30gcG93JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBtYWxsYXJkX2NvbGRzdGFydF9sb2dnaW5nLnNsb2dnZXJzLnJ0Y20gaW1wb3J0IFJUQ01Mb2dnaW5nVGhyZWFkCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAo=</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkRFQlVHKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtYWxsYXJkX2NvbGRzdGFydF9sb2dnaW5nLnNsb2dnZXJzLmV2ZW50cyBpbXBvcnQgU0VSSUFMX0xPR0dJTkdfU1RPUAo=</text>
+        <text encoding="base64">ZnJvbSBtYWxsYXJkX2NvbGRzdGFydF9sb2dnaW5nLnNsb2dnZXJzLnJ0Y20gaW1wb3J0IFJUQ01Mb2dnaW5nVGhyZWFkCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxfaW4gPSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxfaW4gPSBOb25lCg==</text>
+        <text encoding="base64">ZnJvbSBtYWxsYXJkX2NvbGRzdGFydF9sb2dnaW5nLnNsb2dnZXJzLmV2ZW50cyBpbXBvcnQgU0VSSUFMX0xPR0dJTkdfU1RPUAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHByZXBhcmUgdGhlIGJpbmFyeSBvdXRwdXQgZmlsZSAoKi5ydGNtKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJpYWxfaW4gPSBOb25lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
