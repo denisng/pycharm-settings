@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>line</entry>
-        <entry>legend</entry>
         <entry>y=</entry>
         <entry>,\s</entry>
         <entry>timeplot_cds</entry>
@@ -25,6 +23,8 @@
         <entry>\w\+</entry>
         <entry>[\w-]\+</entry>
         <entry>\S\+</entry>
+        <entry encoding="base64">XDxleGNlcHRcPg==</entry>
+        <entry>LOGGER</entry>
       </history-search>
       <history-cmd>
         <entry>26,36d</entry>
@@ -105,12 +105,12 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591400330524">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="104" column="52" />
-        <mark key="]" line="104" column="61" />
-        <mark key="^" line="104" column="61" />
-        <mark key="." line="104" column="60" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591400935273">
+        <mark key="'" line="96" column="16" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="107" column="24" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/template_chamber.ini" timestamp="1591309272423">
         <mark key="[" line="31" column="1" />
@@ -180,9 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="56" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
-      <jump line="21" column="12" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="46" column="33" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
@@ -280,6 +277,9 @@
       <jump line="86" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="76" column="15" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="95" column="97" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="101" column="20" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="93" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,26 +296,26 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>stats</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>stats</text>
+        <text>return None</text>
       </register>
       <register name="/" type="4">
-        <text>\S\+</text>
+        <text>LOGGER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKHJlc3VsdC5zdGRvdXQpCiAgICAgICAgICAgIExPR0dFUi5kZWJ1ZyhyZXN1bHQuc3RkZXJyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiU3RvcHBpbmcgbG9nZ2luZyB0aHJlYWQiKQogICAgICAgICAgICAgICAgICAgIHNlbGYuaHViW3NlbGYuaHViX3BvcnRdLm9mZigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFNlcmlhbEV4Y2VwdGlvbjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFJldHJ5RXJyb3IgYXMgZToKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmNyaXRpY2FsKCd0aW1lb3V0IHdoaWxlIHdhaXRpbmcgZm9yIHNlcmlhbCBwb3J0JykKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmV4Y2VwdGlvbihlKQogICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoX3dhaXRfZm9yX3NlcmlhbC5yZXRyeS5zdGF0aXN0aWNzKQogICAgICAgICAgICAgICAgRVZFTlRfQVBQX1NIVVRET1dOLnNldCgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -324,16 +324,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZV9zbGVlcF9sb2csCg==</text>
+        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTZXJpYWwoc3RyKHR0eV9wYXRoKSwgNDYwODAwLCB0aW1lb3V0PTEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9vcGVuX3NlcmlhbF93aXRoX3JldHJ5KHR0eV9wYXRoOiBQYXRoKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -342,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\S\+</last-search>
+      <last-search>LOGGER</last-search>
       <last-offset />
-      <last-pattern>\S\+</last-pattern>
+      <last-pattern>LOGGER</last-pattern>
       <last-replace>'\0',</last-replace>
       <last-substitute>\S\+</last-substitute>
       <last-dir>1</last-dir>
