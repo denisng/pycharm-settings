@@ -86,12 +86,11 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" timestamp="1591322845331">
-        <mark key="'" line="14" column="34" />
-        <mark key="[" line="12" column="83" />
-        <mark key="]" line="14" column="35" />
-        <mark key="^" line="14" column="35" />
-        <mark key="." line="14" column="34" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" timestamp="1591323775543">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591308651265">
         <mark key="'" line="43" column="39" />
@@ -176,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="24" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_chamber.ini" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_chamber.ini" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_chamber.ini" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_chamber.ini" />
@@ -234,7 +232,6 @@
       <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="17" column="56" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
-      <jump line="7" column="19" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="21" column="12" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
@@ -276,6 +273,8 @@
       <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="94" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="14" column="34" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
+      <jump line="103" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -292,11 +291,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>timedelta.total_seconds() == 0:</text>
       </register>
       <register name="/" type="4">
         <text>uid</text>
@@ -305,31 +304,31 @@
         <text encoding="base64">ICAgIGR1cmF0aW9uX2NvbW1hbmRfcGFyc2VyLmFkZF9hcmd1bWVudCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlcGlsb2c9IldoZW4gY2FsbGVkIHdpdGhvdXQgYXJndW1lbnRzLCBsb2dzIGluZGVmaW5pdGVseSB1c2luZyBzZXR0aW5ncyBmb3VuZCBpbiB0aGUgY3VycmVudCBkaXJlY3RvcnkuIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1haW5fcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAib25fdGltZSIsIHR5cGU9ZmxvYXQsIGhlbHA9Ik9OIHRpbWUgZHVyaW5nIGVhY2ggbG9nZ2luZyBjeWNsZSwgaW4gc2Vjb25kcyIKICAgICkKICAgIG1haW5fcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAib2ZmX3RpbWUiLCB0eXBlPWZsb2F0LCBoZWxwPSJkZWxheSBiZXR3ZWVuIGxvZ2dpbmcgY3ljbGVzLCBpbiBzZWNvbmRzIgogICAgKQo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1haW4K</text>
+        <text encoding="base64">ICAgICAgICB0ZCA9IHRpbWVkZWx0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBhcmdzLmhvdXJzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xkCg==</text>
+        <text encoding="base64">ICAgICAgICBlcGlsb2c9IldoZW4gY2FsbGVkIHdpdGhvdXQgYXJndW1lbnRzLCBsb2dzIGluZGVmaW5pdGVseSB1c2luZyBzZXR0aW5ncyBmb3VuZCBpbiB0aGUgY3VycmVudCBkaXJlY3RvcnkuIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG1haW5fcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAib25fdGltZSIsIHR5cGU9ZmxvYXQsIGhlbHA9Ik9OIHRpbWUgZHVyaW5nIGVhY2ggbG9nZ2luZyBjeWNsZSwgaW4gc2Vjb25kcyIKICAgICkKICAgIG1haW5fcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAib2ZmX3RpbWUiLCB0eXBlPWZsb2F0LCBoZWxwPSJkZWxheSBiZXR3ZWVuIGxvZ2dpbmcgY3ljbGVzLCBpbiBzZWNvbmRzIgogICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1haW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
