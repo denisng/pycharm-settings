@@ -2,7 +2,9 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
-  <action id="ActivateRunToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
@@ -210,6 +212,9 @@
   <action id="ToggleFullScreen" />
   <action id="ToggleLineBreakpoint" />
   <action id="ToggleTemporaryLineBreakpoint" />
+  <action id="Tool_External Tools_black">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="UML.ShowChanges" />
   <action id="UnselectPreviousOccurrence" />
