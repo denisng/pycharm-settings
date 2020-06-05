@@ -99,20 +99,23 @@
       <file name="/a.dummy" timestamp="1591329957846">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591331911694">
-        <mark key="'" line="84" column="29" />
-        <mark key="[" line="84" column="24" />
-        <mark key="]" line="84" column="30" />
-        <mark key="^" line="84" column="30" />
-        <mark key="." line="84" column="29" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/events.py" timestamp="1591399762449">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591400330524">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="104" column="52" />
+        <mark key="]" line="104" column="61" />
+        <mark key="^" line="104" column="61" />
+        <mark key="." line="104" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/template_chamber.ini" timestamp="1591309272423">
         <mark key="[" line="31" column="1" />
         <mark key="]" line="31" column="25" />
         <mark key="." line="31" column="1" />
-      </file>
-      <file name="/duros [Registrar]" timestamp="1591296805336">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" timestamp="1591318375671">
         <mark key="[" line="23" column="0" />
@@ -168,13 +171,6 @@
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591296805349">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591398909121">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="93" column="12" />
-        <mark key="]" line="93" column="12" />
-        <mark key="." line="93" column="12" />
-        <mark key="^" line="66" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591388664832">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="1" column="6" />
@@ -184,11 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
-      <jump line="19" column="11" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="17" column="56" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="21" column="12" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
@@ -284,6 +275,11 @@
       <jump line="1" column="31" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/exceptions.py" />
       <jump line="82" column="30" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="82" column="31" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="85" column="28" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="86" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="76" column="15" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,10 +297,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">cmVzdWx0ID0g</text>
+        <text>stats</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzdWx0ID0g</text>
+        <text>stats</text>
       </register>
       <register name="/" type="4">
         <text>\S\+</text>
@@ -313,95 +309,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKHJlc3VsdC5zdGRvdXQpCiAgICAgICAgICAgIExPR0dFUi5kZWJ1ZyhyZXN1bHQuc3RkZXJyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKHJlc3VsdC5zdGRlcnIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKHJlc3VsdC5zdGRvdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKHJlc3VsdC5zdGRlcnIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFNlcmlhbEV4Y2VwdGlvbjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKHJlc3VsdC5zdGRvdXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncyk=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgo=</text>
+        <text encoding="base64">ICAgIGJlZm9yZV9zbGVlcF9sb2csCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QUNUSU9OX0FUVEVNUFRTID0gMgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBTZXJpYWwoc3RyKHR0eV9wYXRoKSwgNDYwODAwLCB0aW1lb3V0PTEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text>SELECT * FROM duros
-WHERE duro_serial_id IN (
-'00862012320100101',
-'00862012320100102',
-'00862012320100103',
-'00862012320100104',
-'00862012320100105',
-'00862012320100106',
-'00862012320100107',
-'00862012320100108',
-'00862012320100109',
-'00862012320100110',
-'00862012320100111',
-'00862012320100112',
-'00862012320100113',
-'00862012320100114',
-'00862012320100116',
-'00862012320100117',
-'00862012320100118',
-'00862012320100119',
-'00862012320100120',
-'00862012320100121',
-'00862012320100122',
-'00862012320100123',
-'00862012320100124',
-'00862012320100125',
-'00862012320100126',
-'00862012320100128',
-'00862012320100129',
-'00862012320100130',
-'00862012320100131',
-'00862012320100132',
-'00862012320100133',
-'00862012320100134',
-'00862012320100135',
-'00862012320100136',
-'00862012320100137',
-'00862012320100138',
-'00862012320100139',
-'00862012320100140',
-'00862012320100141',
-'00862012320100142',
-'00862012320100143',
-'00862012320100144',
-'00862012320100146',
-'00862012320100147',
-'00862012320100148',
-'00862012320100149',
-'00862012320100150',
-'00862012320100151',
-'00862012320100152',
-'00862012320100153',
-'00862012320100154',
-'00862012320100155',
-'00862012320100156',
-'00862012320100157',
-'00862012320100158',
-'00862012320100159',
-'00862012320100160',
-'00862012320100161',
-'00862012320100162',
-'00862012320100163',
-'00862012320100164'
-)
-ORDER BY serial_id</text>
+        <text encoding="base64">ZGVmIF9vcGVuX3NlcmlhbF93aXRoX3JldHJ5KHR0eV9wYXRoOiBQYXRoKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
