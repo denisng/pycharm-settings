@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>timeplot</entry>
         <entry>x=&quot;index&quot;</entry>
         <entry>x=&quot;index&quot;,\s</entry>
         <entry>line</entry>
@@ -25,9 +24,9 @@
         <entry>23</entry>
         <entry>\w\+</entry>
         <entry>uid</entry>
+        <entry>logging</entry>
       </history-search>
       <history-cmd>
-        <entry>s/;/ ; /g</entry>
         <entry>30,35y</entry>
         <entry>157,166y</entry>
         <entry>s/\w\+/'\0',/</entry>
@@ -46,6 +45,7 @@
         <entry>3,33s/23/22/</entry>
         <entry>3,63s/\w\+/'\0',/</entry>
         <entry>19,31d</entry>
+        <entry>18,52y</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -80,25 +80,21 @@
         <mark key="." line="17" column="64" />
         <mark key="^" line="17" column="65" />
       </file>
-      <file name="/Python Console" timestamp="1591314877232">
+      <file name="/Python Console" timestamp="1591327280571">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" timestamp="1591326388819">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="67" column="14" />
-        <mark key="]" line="67" column="15" />
-        <mark key="^" line="113" column="17" />
-        <mark key="." line="67" column="15" />
+      <file name="/a.dummy" timestamp="1591329957846">
+        <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591308651265">
-        <mark key="'" line="43" column="39" />
-        <mark key="[" line="65" column="69" />
-        <mark key="]" line="65" column="78" />
-        <mark key="^" line="65" column="78" />
-        <mark key="." line="65" column="77" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591331911694">
+        <mark key="'" line="84" column="29" />
+        <mark key="[" line="84" column="24" />
+        <mark key="]" line="84" column="30" />
+        <mark key="^" line="84" column="30" />
+        <mark key="." line="84" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" timestamp="1591318375671">
         <mark key="[" line="23" column="0" />
@@ -108,20 +104,17 @@
       <file name="/temp" timestamp="1591297645298">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" timestamp="1591322365686">
-        <mark key="'" line="111" column="12" />
-        <mark key="[" line="108" column="50" />
-        <mark key="]" line="108" column="50" />
-        <mark key="^" line="108" column="52" />
-        <mark key="." line="108" column="50" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" timestamp="1591331861461">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="128" column="23" />
+        <mark key="]" line="128" column="27" />
+        <mark key="^" line="128" column="27" />
+        <mark key="." line="128" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591298031837">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
-      </file>
-      <file name="/runs [Registrar]" timestamp="1591289577781">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_chamber.ini" timestamp="1591309266305">
         <mark key="'" line="25" column="0" />
@@ -161,12 +154,12 @@
         <mark key="^" line="5" column="118" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" timestamp="1591324797622">
-        <mark key="'" line="5" column="23" />
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="9" column="18" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="9" column="17" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" timestamp="1591331724724">
+        <mark key="'" line="70" column="64" />
+        <mark key="[" line="58" column="42" />
+        <mark key="]" line="58" column="42" />
+        <mark key="." line="58" column="42" />
+        <mark key="^" line="24" column="55" />
       </file>
       <file name="/dog2zb0js2j5imh.public.duros" timestamp="1591296805349">
         <mark key="[" line="0" column="0" />
@@ -180,47 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_chamber.ini" />
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_chamber.ini" />
-      <jump line="8" column="5" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="14" column="78" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="66" column="7" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="9" column="9" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="71" column="26" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="47" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="5" column="30" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="72" column="49" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="22" column="20" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="75" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="87" column="22" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="17" column="35" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_supervisor.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="45" column="38" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
@@ -245,7 +197,6 @@
       <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
-      <jump line="107" column="12" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="13" column="19" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="65" column="4" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
@@ -279,7 +230,49 @@
       <jump line="106" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="1" column="29" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
-      <jump line="5" column="23" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="142" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="99" column="47" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="16" column="30" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="22" column="17" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="46" column="22" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="6" column="23" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="50" column="3" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="8" column="28" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="52" column="44" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="9" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="55" column="17" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="13" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="5" column="36" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="39" column="35" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="18" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
+      <jump line="97" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
+      <jump line="99" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
+      <jump line="104" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
+      <jump line="20" column="24" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="63" column="27" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="12" column="34" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="17" column="3" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="70" column="64" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
+      <jump line="84" column="29" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,65 +290,43 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>cycles</text>
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text>cycles</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>uid</text>
+        <text>logging</text>
       </register>
-      <register name="0" type="4">
-        <text>cycles_command_parser.add_argument(
-        &quot;--on_time&quot;, default=300, type=float,
-        help=&quot;ON time during each logging cycle, in seconds&quot;
-    )
-    cycles_command_parser.add_argument(
-        &quot;--off_time&quot;, default=300, type=float,
-        help=&quot;delay between logging cycles, in seconds&quot;
-    )</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJ2ZXJzaW9uIjogMSwKICAgICJmb3JtYXR0ZXJzIjogewogICAgICAgICJmaWxlX2Zvcm1hdHRlciI6IHsKICAgICAgICAgICAgImZvcm1hdCI6ICJ7YXNjdGltZX0gOyB7bGV2ZWxuYW1lfSA7IHtuYW1lfSA7IHttb2R1bGV9OntmdW5jTmFtZX06e2xpbmVub30gOyB7bWVzc2FnZX0iLAogICAgICAgICAgICAic3R5bGUiOiAieyIsCiAgICAgICAgfSwKICAgICAgICAic3RyZWFtX2Zvcm1hdHRlciI6IHsKICAgICAgICAgICAgImZvcm1hdCI6ICJbIHtsZXZlbG5hbWU6Pjh9IF0ge3RocmVhZE5hbWV9IHttZXNzYWdlfSIsCiAgICAgICAgICAgICJzdHlsZSI6ICJ7IiwKICAgICAgICB9LAogICAgfSwKICAgICJmaWx0ZXJzIjoge30sCiAgICAiaGFuZGxlcnMiOiB7CiAgICAgICAgImRlYnVnX2hhbmRsZXIiOiB7CiAgICAgICAgICAgICJjbGFzcyI6ICJsb2dnaW5nLkZpbGVIYW5kbGVyIiwKICAgICAgICAgICAgImxldmVsIjogIkRFQlVHIiwKICAgICAgICAgICAgImZvcm1hdHRlciI6ICJmaWxlX2Zvcm1hdHRlciIsCiAgICAgICAgICAgICJmaWxlbmFtZSI6ICJkZWJ1Zy5sb2ciLAogICAgICAgICAgICAibW9kZSI6ICJ3IiwKICAgICAgICB9LAogICAgICAgICJjbGlfaGFuZGxlciI6IHsKICAgICAgICAgICAgImNsYXNzIjogImxvZ2dpbmcuU3RyZWFtSGFuZGxlciIsCiAgICAgICAgICAgICJsZXZlbCI6ICJJTkZPIiwKICAgICAgICAgICAgImZvcm1hdHRlciI6ICJzdHJlYW1fZm9ybWF0dGVyIiwKICAgICAgICAgICAgInN0cmVhbSI6ICJleHQ6Ly9zeXMuc3Rkb3V0IiwKICAgICAgICB9LAogICAgICAgICJlcnJvcl9oYW5kbGVyIjogewogICAgICAgICAgICAiY2xhc3MiOiAibG9nZ2luZy5GaWxlSGFuZGxlciIsCiAgICAgICAgICAgICJsZXZlbCI6ICJFUlJPUiIsCiAgICAgICAgICAgICJmb3JtYXR0ZXIiOiAiZmlsZV9mb3JtYXR0ZXIiLAogICAgICAgICAgICAiZmlsZW5hbWUiOiAiZXJyb3IubG9nIiwKICAgICAgICB9LAogICAgfSwKICAgICJsb2dnZXJzIjogeyJtYWxsYXJkX2NvbGRzdGFydF9sb2dnaW5nIjogeyJsZXZlbCI6ICJERUJVRyIsfX0sCiAgICAicm9vdCI6IHsibGV2ZWwiOiAiREVCVUciLCAiaGFuZGxlcnMiOiBbXX0sCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>duration_command_parser.add_argument(
-        &quot;on_time&quot;, type=float, help=&quot;ON time during each logging cycle, in seconds&quot;
-    )
-    duration_command_parser.add_argument(
-        &quot;off_time&quot;, type=float, help=&quot;delay between logging cycles, in seconds&quot;
-    )</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>cycles_command_parser.add_argument(
-        &quot;on_time&quot;, type=float, help=&quot;ON time during each logging cycle, in seconds&quot;
-    )
-    cycles_command_parser.add_argument(
-        &quot;off_time&quot;, type=float, help=&quot;delay between logging cycles, in seconds&quot;
-    )</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmdfc2ltcGxlX3NldHVwCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>cycles_command_parser.add_argument(
-        &quot;on_time&quot;, type=float, help=&quot;ON time during each logging cycle, in seconds&quot;
-    )
-    cycles_command_parser.add_argument(
-        &quot;off_time&quot;, type=float, help=&quot;delay between logging cycles, in seconds&quot;
-    )</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhcmdzKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmdfc2ltcGxlX3NldHVwKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CkxPR0dFUiA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
+        <text encoding="base64">ICAgICJsb2dnZXJzIjogeyJtYWxsYXJkX2NvbGRzdGFydF9sb2dnaW5nIjogeyJsZXZlbCI6ICJERUJVRyIsIH19LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE8K</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImZpbGVuYW1lIjogImVycm9yLmxvZyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImZvcm1hdHRlciI6ICJmaWxlX2Zvcm1hdHRlciIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -364,9 +335,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>uid</last-search>
+      <last-search>logging</last-search>
       <last-offset />
-      <last-pattern>uid</last-pattern>
+      <last-pattern>logging</last-pattern>
       <last-replace>'\0',</last-replace>
       <last-substitute>\w\+</last-substitute>
       <last-dir>1</last-dir>
