@@ -105,12 +105,8 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591400935273">
-        <mark key="'" line="96" column="16" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="107" column="24" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591401221587">
+        <mark key="^" line="118" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/template_chamber.ini" timestamp="1591309272423">
         <mark key="[" line="31" column="1" />
@@ -125,12 +121,12 @@
       <file name="/temp" timestamp="1591388625176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" timestamp="1591331861461">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="128" column="23" />
-        <mark key="]" line="128" column="27" />
-        <mark key="^" line="128" column="27" />
-        <mark key="." line="128" column="26" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" timestamp="1591401686859">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="156" column="30" />
+        <mark key="]" line="157" column="47" />
+        <mark key="." line="157" column="46" />
+        <mark key="^" line="157" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_supervisor.py" timestamp="1591313773858">
         <mark key="a" line="5" column="0" />
@@ -180,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="46" column="33" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
@@ -227,7 +221,6 @@
       <jump line="132" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="129" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="107" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="96" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
@@ -277,9 +270,12 @@
       <jump line="86" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="76" column="15" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
-      <jump line="95" column="97" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="101" column="20" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="93" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="95" column="26" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="121" column="27" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,26 +292,26 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>EVENT_SERIAL_LOGGING_STOP.set()</text>
       </register>
       <register name="-" type="4">
-        <text>return None</text>
+        <text>EVENT_SERIAL_LOGGING_STOP.set()</text>
       </register>
       <register name="/" type="4">
         <text>LOGGER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKHJlc3VsdC5zdGRvdXQpCiAgICAgICAgICAgIExPR0dFUi5kZWJ1ZyhyZXN1bHQuc3RkZXJyKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiBFVkVOVF9BUFBfU0hVVERPV04uaXNfc2V0KCk6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgQ3JpdGljYWxFcnJvcigncmVjZWl2ZWQgYXBwIHNodXRkb3duIGV2ZW50JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygiU3RvcHBpbmcgbG9nZ2luZyB0aHJlYWQiKQogICAgICAgICAgICAgICAgICAgIHNlbGYuaHViW3NlbGYuaHViX3BvcnRdLm9mZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFJldHJ5RXJyb3IgYXMgZToKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmNyaXRpY2FsKCd0aW1lb3V0IHdoaWxlIHdhaXRpbmcgZm9yIHNlcmlhbCBwb3J0JykKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmV4Y2VwdGlvbihlKQogICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoX3dhaXRfZm9yX3NlcmlhbC5yZXRyeS5zdGF0aXN0aWNzKQogICAgICAgICAgICAgICAgRVZFTlRfQVBQX1NIVVRET1dOLnNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -324,16 +320,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfb3V0LmNsb3NlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX291dC5jbG9zZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXJpYWxfaW4uY2xvc2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
