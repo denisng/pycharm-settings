@@ -304,10 +304,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>, UsbHubDevice</text>
+        <text>'0123456789', '--serial-port', '/dev/tty.SLAB_USBtoUART9', '--capture-time', '60'</text>
       </register>
       <register name="-" type="4">
-        <text>, UsbHubDevice</text>
+        <text>'0123456789', '--serial-port', '/dev/tty.SLAB_USBtoUART9', '--capture-time', '60'</text>
       </register>
       <register name="/" type="4">
         <text>LOGGER</text>
