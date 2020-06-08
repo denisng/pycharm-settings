@@ -143,9 +143,6 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/foo.bar" timestamp="1591296805360">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/pyproject.toml" timestamp="1591317123916">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="14" />
@@ -165,6 +162,12 @@
         <mark key="]" line="10" column="25" />
         <mark key="^" line="10" column="25" />
         <mark key="." line="31" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1591651568087">
+        <mark key="[" line="105" column="28" />
+        <mark key="]" line="105" column="31" />
+        <mark key="." line="105" column="30" />
+        <mark key="^" line="105" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591405202860">
         <mark key="[" line="71" column="17" />
