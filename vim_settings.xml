@@ -169,11 +169,11 @@
         <mark key="." line="105" column="30" />
         <mark key="^" line="105" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591405202860">
-        <mark key="[" line="71" column="17" />
-        <mark key="]" line="71" column="18" />
-        <mark key="^" line="71" column="18" />
-        <mark key="." line="71" column="17" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591661713965">
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="39" column="4" />
+        <mark key="^" line="39" column="4" />
+        <mark key="." line="39" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591388664832">
         <mark key="'" line="2" column="0" />
@@ -304,10 +304,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>red</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>LOGGER</text>
