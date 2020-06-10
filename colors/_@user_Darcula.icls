@@ -3,7 +3,7 @@
     <property name="created">2018-10-03T18:22:52</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2019-11-12T16:45:18</property>
+    <property name="modified">2020-06-10T16:45:35</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -17,6 +17,11 @@
       <value>
         <option name="EFFECT_COLOR" value="fb4934" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="2b2b2b" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
