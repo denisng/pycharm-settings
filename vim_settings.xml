@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>y=</entry>
         <entry>,\s</entry>
         <entry>timeplot_cds</entry>
         <entry>.os</entry>
@@ -25,9 +24,9 @@
         <entry>\S\+</entry>
         <entry encoding="base64">XDxleGNlcHRcPg==</entry>
         <entry>LOGGER</entry>
+        <entry>ACTION_POSTWAIT</entry>
       </history-search>
       <history-cmd>
-        <entry>3,33s/862/863/</entry>
         <entry>3,33y</entry>
         <entry>3,33s/863/862/</entry>
         <entry>3,33s/\w\+/'\0'/</entry>
@@ -47,6 +46,7 @@
         <entry>164,170d</entry>
         <entry>103,111y</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -155,12 +155,12 @@
         <mark key="." line="105" column="30" />
         <mark key="^" line="105" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591672945558">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="16" />
-        <mark key="." line="121" column="16" />
-        <mark key="^" line="112" column="24" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591748906027">
+        <mark key="'" line="34" column="11" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="19" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591388664832">
         <mark key="'" line="2" column="0" />
@@ -171,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
       <jump line="5" column="36" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
       <jump line="39" column="35" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="18" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
@@ -271,6 +270,7 @@
       <jump line="120" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="119" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="34" column="11" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -294,7 +294,7 @@
         <text>doesn't like simultaneous access</text>
       </register>
       <register name="/" type="4">
-        <text>LOGGER</text>
+        <text>ACTION_POSTWAIT</text>
       </register>
       <register name="0" type="4">
         <text>2020-06-10 00:05:32.565563 +00:00</text>
@@ -333,9 +333,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>LOGGER</last-search>
+      <last-search>ACTION_POSTWAIT</last-search>
       <last-offset />
-      <last-pattern>LOGGER</last-pattern>
+      <last-pattern>ACTION_POSTWAIT</last-pattern>
       <last-replace>'\0',</last-replace>
       <last-substitute>\S\+</last-substitute>
       <last-dir>1</last-dir>
