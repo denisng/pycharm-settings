@@ -45,8 +45,8 @@
         <entry>56,65y</entry>
         <entry>164,170d</entry>
         <entry>103,111y</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -155,12 +155,12 @@
         <mark key="." line="105" column="30" />
         <mark key="^" line="105" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591748906027">
-        <mark key="'" line="34" column="11" />
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="34" column="19" />
-        <mark key="." line="34" column="18" />
-        <mark key="^" line="34" column="19" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591749444836">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="106" column="24" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591388664832">
         <mark key="'" line="2" column="0" />
@@ -171,8 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="36" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" />
-      <jump line="39" column="35" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="18" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
@@ -228,7 +226,6 @@
       <jump line="94" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="111" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="80" column="34" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
@@ -271,6 +268,9 @@
       <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="119" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="34" column="11" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -287,8 +287,8 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>2020-06-10 00:05:32.565563 +00:00</text>
+      <register name="*" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBpcyB0aGlzIGEgeW91IHVzZSBhIGxvY2s/Cg==</text>
       </register>
       <register name="-" type="4">
         <text>doesn't like simultaneous access</text>
@@ -296,35 +296,35 @@
       <register name="/" type="4">
         <text>ACTION_POSTWAIT</text>
       </register>
-      <register name="0" type="4">
-        <text>2020-06-10 00:05:32.565563 +00:00</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9sb2NrID0gbG9jawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBpcyB0aGlzIGEgeW91IHVzZSBhIGxvY2s/Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVWRU5UX1NFUklBTF9MT0dHSU5HX1NUT1AuY2xlYXIoKQogICAgICAgICAgICAgICAgaHViLmFsbF9vbigpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIENyaXRpY2FsRXJyb3IoInVodWJjdGwgcG93ZXItb2ZmIHByb2JsZW0iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdGhlIHJlYWwgZGVhbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5kZWJ1ZyhfYWN0aW9uLnJldHJ5LnN0YXRpc3RpY3MpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5leGNlcHRpb24oZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZXhjZWVkZWQgbWF4aW11bSByZXRyaWVzIHRvIHR1cm4gT0ZGIHBvcnQge30iLmZvcm1hdChzZWxmLnBvcnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5jcml0aWNhbCgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1zZyA9ICJ1aHViY3RsIGh1Yjoge3Z9IHtsfSwgcG9ydChzKToge3B9LCBhY3Rpb246IHthfSIuZm9ybWF0KAogICAgICAgIHY9dmVuZG9yLCBsPWxvY2F0aW9uLCBwPXBvcnQsIGE9InthfSIKICAgICkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFJldHJ5RXJyb3IgYXMgZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgQ3JpdGljYWxFcnJvcigidWh1YmN0bCBwb3dlci1vZmYgcHJvYmxlbSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9hY3Rpb24oc2VsZi52ZW5kb3IsIHNlbGYubG9jYXRpb24sIHNlbGYucG9ydCwgQUNUSU9OX09GRikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
