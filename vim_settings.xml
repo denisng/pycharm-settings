@@ -74,7 +74,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591309349534">
+      <file name="/technicians [Registrar]" timestamp="1591748274872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/exceptions.py" timestamp="1591398379907">
@@ -99,17 +99,6 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/template_chamber.ini" timestamp="1591309272423">
-        <mark key="[" line="31" column="1" />
-        <mark key="]" line="31" column="25" />
-        <mark key="." line="31" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/hubloop.py" timestamp="1591738273858">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" timestamp="1591318375671">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -125,13 +114,21 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="103" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_supervisor.py" timestamp="1591313773858">
-        <mark key="a" line="5" column="0" />
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="6" column="43" />
-        <mark key="." line="6" column="42" />
-        <mark key="^" line="6" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591748306176">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+      </file>
+      <file name="/dumpDataPreview" timestamp="1591417704474">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dog2zb0js2j5imh.public.technicians" timestamp="1591748274962">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/hubloop.py" timestamp="1591738273858">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="6" />
       </file>
       <file name="/" timestamp="1591667192282">
         <mark key="[" line="0" column="0" />
@@ -142,19 +139,15 @@
         <mark key="^" line="5" column="118" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="/foo.bar" timestamp="1591748275006">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" timestamp="1591659256255">
         <mark key="'" line="116" column="64" />
         <mark key="[" line="94" column="41" />
         <mark key="]" line="94" column="47" />
         <mark key="." line="94" column="46" />
         <mark key="^" line="94" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/test_chamber.ini" timestamp="1591309266305">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="31" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1591651568087">
         <mark key="[" line="105" column="28" />
@@ -175,9 +168,6 @@
         <mark key="]" line="1" column="6" />
         <mark key="." line="1" column="6" />
         <mark key="^" line="2" column="11" />
-      </file>
-      <file name="/dumpDataPreview" timestamp="1591417704474">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -297,8 +287,8 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="*" type="4">
+        <text>2020-06-10 00:05:32.565563 +00:00</text>
       </register>
       <register name="-" type="4">
         <text>doesn't like simultaneous access</text>
@@ -306,8 +296,8 @@
       <register name="/" type="4">
         <text>LOGGER</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIF9hY3Rpb24oc2VsZi52ZW5kb3IsIHNlbGYubG9jYXRpb24sIEFDVElPTl9PTiwgc2VsZi5pZCkKICAgICAgICBleGNlcHQgUmV0cnlFcnJvciBhcyBlOgogICAgICAgICAgICBMT0dHRVIuY3JpdGljYWwoCiAgICAgICAgICAgICAgICAiZXhjZWVkZWQgbWF4aW11bSByZXRyaWVzIHRvIHR1cm4gT04gcG9ydCB7fSIuZm9ybWF0KHNlbGYuaWQpCiAgICAgICAgICAgICkKICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbihlKQogICAgICAgICAgICBMT0dHRVIuZGVidWcoX2FjdGlvbi5yZXRyeS5zdGF0aXN0aWNzKQogICAgICAgICAgICByYWlzZSBDcml0aWNhbEVycm9yKCJ1aHViY3RsIHBvd2VyLW9uIHByb2JsZW0iKQo=</text>
+      <register name="0" type="4">
+        <text>2020-06-10 00:05:32.565563 +00:00</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
