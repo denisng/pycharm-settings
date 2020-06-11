@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>,\s</entry>
         <entry>timeplot_cds</entry>
         <entry>.os</entry>
         <entry>os.</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxleGNlcHRcPg==</entry>
         <entry>LOGGER</entry>
         <entry>ACTION_POSTWAIT</entry>
+        <entry encoding="base64">PDw8</entry>
       </history-search>
       <history-cmd>
         <entry>3,33y</entry>
@@ -123,7 +123,7 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="103" column="38" />
       </file>
-      <file name="/" timestamp="1591832703329">
+      <file name="/" timestamp="1591833635723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591748306176">
@@ -152,12 +152,12 @@
         <mark key="." line="105" column="30" />
         <mark key="^" line="105" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591751735599">
-        <mark key="'" line="119" column="22" />
-        <mark key="[" line="201" column="31" />
-        <mark key="]" line="201" column="44" />
-        <mark key="." line="201" column="43" />
-        <mark key="^" line="201" column="44" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591833782467">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="169" column="44" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="/dumpDataPreview" timestamp="1591417704474">
         <mark key="[" line="0" column="0" />
@@ -171,10 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="87" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="97" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
       <jump line="99" column="18" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" />
@@ -225,9 +221,7 @@
       <jump line="118" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="94" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="80" column="34" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
@@ -267,10 +261,16 @@
       <jump line="120" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="34" column="11" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="119" column="22" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="201" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -288,43 +288,43 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBhZGQgVUhSMjA0IGRldmljZQo=</text>
       </register>
       <register name="-" type="4">
         <text>ULinx</text>
       </register>
       <register name="/" type="4">
-        <text>ACTION_POSTWAIT</text>
+        <text encoding="base64">PDw8</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9sb2NrID0gbG9jawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBhZGQgVUhSMjA0IGRldmljZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBpcyB0aGlzIGEgeW91IHVzZSBhIGxvY2s/Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIENyaXRpY2FsRXJyb3IoInVodWJjdGwgcG93ZXItb2ZmIHByb2JsZW0iKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCIwODU2IiwgbG9jYXRpb24sIDQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5kZWJ1ZyhfYWN0aW9uLnJldHJ5LnN0YXRpc3RpY3MpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5leGNlcHRpb24oZSkK</text>
+        <text encoding="base64">Pj4+Pj4+PiBtdWx0aXBsZSBwb3J0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgQ3JpdGljYWxFcnJvcigidWh1YmN0bCBwb3dlci1vZmYgcHJvYmxlbSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZXhjZWVkZWQgbWF4aW11bSByZXRyaWVzIHRvIHR1cm4gT0ZGIHBvcnQge30iLmZvcm1hdChzZWxmLnBvcnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKF9hY3Rpb24ucmV0cnkuc3RhdGlzdGljcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5jcml0aWNhbCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbihlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFJldHJ5RXJyb3IgYXMgZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -333,9 +333,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ACTION_POSTWAIT</last-search>
+      <last-search encoding="base64">PDw8</last-search>
       <last-offset />
-      <last-pattern>ACTION_POSTWAIT</last-pattern>
+      <last-pattern encoding="base64">PDw8</last-pattern>
       <last-replace>'\0',</last-replace>
       <last-substitute>\S\+</last-substitute>
       <last-dir>1</last-dir>
