@@ -18,19 +18,15 @@
         <entry>23</entry>
         <entry>uid</entry>
         <entry>logging</entry>
-        <entry>\w\+</entry>
         <entry>[\w-]\+</entry>
-        <entry>\S\+</entry>
         <entry encoding="base64">XDxleGNlcHRcPg==</entry>
         <entry>LOGGER</entry>
         <entry>ACTION_POSTWAIT</entry>
         <entry encoding="base64">PDw8</entry>
+        <entry>\w\+</entry>
+        <entry>\S\+</entry>
       </history-search>
       <history-cmd>
-        <entry>3,33y</entry>
-        <entry>3,33s/863/862/</entry>
-        <entry>3,33s/\w\+/'\0'/</entry>
-        <entry>3,33s/\w\+/'\0',\</entry>
         <entry>3,33s/\w\+/'\0',/</entry>
         <entry>3,33/23/22/</entry>
         <entry>3,33s/23/22/</entry>
@@ -46,6 +42,10 @@
         <entry>164,170d</entry>
         <entry>103,111y</entry>
         <entry>W</entry>
+        <entry>3,20s/\w\+/'\0'/</entry>
+        <entry>3,20s/\S\+/'\0'/</entry>
+        <entry>3,20s/\S\+/'\0',/</entry>
+        <entry>3,20j</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -74,7 +74,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/technicians [Registrar]" timestamp="1591748274872">
+      <file name="/technicians [Registrar]" timestamp="1592439572214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/exceptions.py" timestamp="1591398379907">
@@ -84,7 +84,7 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="/dog2zb0js2j5imh.public.technicians" timestamp="1591748274962">
+      <file name="/dog2zb0js2j5imh.public.technicians" timestamp="1592439572430">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1591667222007">
@@ -119,11 +119,6 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/config_file.py" timestamp="1591318375671">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="/temp" timestamp="1591417676218">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,7 +136,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
       </file>
-      <file name="/foo.bar" timestamp="1591748275006">
+      <file name="/foo.bar" timestamp="1592439572473">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/configuration/logging_file.py" timestamp="1591659256255">
@@ -162,19 +157,24 @@
         <mark key="]" line="202" column="0" />
         <mark key="." line="202" column="0" />
       </file>
-      <file name="/dumpDataPreview" timestamp="1591417704474">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/.gitignore" timestamp="1592439297471">
+        <mark key="[" line="131" column="5" />
+        <mark key="]" line="134" column="9" />
+        <mark key="^" line="134" column="9" />
+        <mark key="." line="134" column="8" />
+      </file>
+      <file name="/dumpDataPreview" timestamp="1592440158580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1591388664832">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="2" column="11" />
+      <file name="$USER_HOME$/Documents/SQL/temp.sql" timestamp="1592439653306">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="291" />
+        <mark key="]" line="1" column="291" />
+        <mark key="." line="1" column="291" />
+        <mark key="^" line="1" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="76" column="15" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
       <jump line="101" column="20" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" />
@@ -274,6 +274,7 @@
       <jump line="77" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="89" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/SQL/temp.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,13 +292,13 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>AmazonBasicsHU3641V1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>AmazonBasicsHU3641V1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PDw8</text>
+        <text>\S\+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9sb2NrID0gbG9jawo=</text>
@@ -336,9 +337,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">PDw8</last-search>
+      <last-search>\S\+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PDw8</last-pattern>
+      <last-pattern>\S\+</last-pattern>
       <last-replace>'\0',</last-replace>
       <last-substitute>\S\+</last-substitute>
       <last-dir>1</last-dir>
