@@ -126,11 +126,11 @@
       <file name="/" timestamp="1592525408498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1592953273434">
-        <mark key="'" line="64" column="16" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1592956060215">
+        <mark key="[" line="105" column="36" />
+        <mark key="]" line="106" column="8" />
+        <mark key="." line="106" column="7" />
+        <mark key="^" line="106" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591748306176">
         <mark key="[" line="0" column="0" />
@@ -292,7 +292,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl93YWl0X2Zvcl9pbnB1dF9xdWV1ZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>will cause the thread to stop</text>
@@ -304,31 +304,31 @@
         <text encoding="base64">ICAgICAgICBsaW5lID0gc2VsZi5pbl9xdWV1ZS5nZXQoKQogICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJwdWxsZWQge30gZnJvbSBpbnB1dCBxdWV1ZSIuZm9ybWF0KGxpbmUuc3RyaXAoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl93YWl0X2Zvcl9pbnB1dF9xdWV1ZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBzZWxmLmluX3F1ZXVlLmVtcHR5KCk6CiAgICAgICAgICAgIGlmIHNlbGYuX3N0b3BfY29uZGl0aW9uOgogICAgICAgICAgICAgICAgcmFpc2UgU3RvcFRocmVhZCgnc3RvcCBjb25kaXRpb24gZGV0ZWN0ZWQnKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgdGltZS5zbGVlcChFTVBUWV9XQUlUKQ==</text>
+        <text encoding="base64">CiAgICAgICAgbGluZSA9IHNlbGYuaW5fcXVldWUuZ2V0KCkKICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygicHVsbGVkIHt9IGZyb20gaW5wdXQgcXVldWUiLmZvcm1hdChsaW5lLnN0cmlwKCkpKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbm90aGluZyBtb3JlIGluIHRoZSBxdWV1ZSB0byBwYXJzZQo=</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VyaWFsIHBvcnQgY2FwdHVyZSBoYXMgZW5kZWQgc28gdGhlcmUgc2hvdWxkIGJlCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICB3aGlsZSBzZWxmLmluX3F1ZXVlLmVtcHR5KCk6CiAgICAgICAgICAgIGlmIHNlbGYuX3N0b3BfY29uZGl0aW9uOgogICAgICAgICAgICAgICAgcmFpc2UgU3RvcFRocmVhZCgnc3RvcCBjb25kaXRpb24gZGV0ZWN0ZWQnKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgdGltZS5zbGVlcChFTVBUWV9XQUlUKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbm90aGluZyBtb3JlIGluIHRoZSBxdWV1ZSB0byBwYXJzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VyaWFsIHBvcnQgY2FwdHVyZSBoYXMgZW5kZWQgc28gdGhlcmUgc2hvdWxkIGJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
