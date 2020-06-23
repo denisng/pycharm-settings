@@ -92,12 +92,12 @@
         <mark key="^" line="48" column="18" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/exceptions.py" timestamp="1592942259789">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/exceptions.py" timestamp="1592943457679">
         <mark key="'" line="1" column="17" />
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="27" />
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="7" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/events.py" timestamp="1591399762449">
         <mark key="[" line="6" column="35" />
@@ -129,12 +129,12 @@
       <file name="/" timestamp="1592525408498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1592881466740">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1592943500078">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="102" column="30" />
-        <mark key="]" line="102" column="33" />
-        <mark key="." line="102" column="32" />
-        <mark key="^" line="102" column="33" />
+        <mark key="[" line="102" column="34" />
+        <mark key="]" line="104" column="46" />
+        <mark key="." line="104" column="45" />
+        <mark key="^" line="104" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591748306176">
         <mark key="[" line="0" column="0" />
@@ -296,10 +296,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>reason</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>reason</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>\S\+</text>
@@ -308,31 +308,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmNyaXRpY2FsKAogICAgICAgICAgICAgICAgICAgICJ7fSB3YXMgbm90IGEgdmFsaWQgTk1FQSAwMTgzIHNlbnRlbmNlIi5mb3JtYXQobGluZSkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIEVWRU5UX0FQUF9FWElULnNldCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKHJlYXNvbikK</text>
+        <text encoding="base64">ICAgICMgdW5jYXVnaHQgZXhjZXB0aW9ucyB3aWxsIHN0b3AgYSB0aHJlYWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCByZWFzb246IHN0cik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKHJlYXNvbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSAndGVybWluYXRpbmcgdGhyZWFkIGVhcmx5Jwo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCByZWFzb246IHN0cik6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoaXMgaXMgd2h5Cg==</text>
+        <text encoding="base64">ICAgICAgICBtc2cgPSAndGVybWluYXRpbmcgdGhyZWFkIGVhcmx5Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRoaXMgaXMgd2h5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCg1KQo=</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhZGQgVUhSMjA0IGRldmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCg1KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBhZGQgVUhSMjA0IGRldmljZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCIwODU2IiwgbG9jYXRpb24sIDQpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
