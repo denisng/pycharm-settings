@@ -129,12 +129,12 @@
       <file name="/" timestamp="1592525408498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1592943500078">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="102" column="34" />
-        <mark key="]" line="104" column="46" />
-        <mark key="." line="104" column="45" />
-        <mark key="^" line="104" column="46" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1592946114897">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="99" column="42" />
+        <mark key="]" line="99" column="45" />
+        <mark key="." line="99" column="44" />
+        <mark key="^" line="99" column="45" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591748306176">
         <mark key="[" line="0" column="0" />
@@ -179,10 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="63" column="48" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="45" column="24" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="46" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
@@ -279,6 +275,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="104" column="47" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,43 +296,52 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>.</text>
+        <text>self.logger.critical(
+                    &quot;{} was not a valid NMEA 0183 sentence&quot;.format(line)
+                )
+                EVENT_APP_EXIT.set()
+                return None</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>&quot;unexpected error parsing {}&quot;</text>
       </register>
       <register name="/" type="4">
         <text>\S\+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmNyaXRpY2FsKAogICAgICAgICAgICAgICAgICAgICJ7fSB3YXMgbm90IGEgdmFsaWQgTk1FQSAwMTgzIHNlbnRlbmNlIi5mb3JtYXQobGluZSkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIEVWRU5UX0FQUF9FWElULnNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmNyaXRpY2FsKCJ1bmV4cGVjdGVkIHBhcnNpbmcgZXJyb3IiKQogICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIuZXhjZXB0aW9uKGUpCiAgICAgICAgICAgICAgICBFVkVOVF9BUFBfRVhJVC5zZXQoKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdW5jYXVnaHQgZXhjZXB0aW9ucyB3aWxsIHN0b3AgYSB0aHJlYWQK</text>
+      <register name="1" type="4">
+        <text>self.logger.critical(
+                    &quot;{} was not a valid NMEA 0183 sentence&quot;.format(line)
+                )
+                EVENT_APP_EXIT.set()
+                return None</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKHJlYXNvbikK</text>
+      <register name="2" type="4">
+        <text># proprietary messages do not have ``.sentence_type``
+                self.logger.debug(&quot;discarding proprietary sentence {}&quot;.format(line))</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCByZWFzb246IHN0cik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSAndGVybWluYXRpbmcgdGhyZWFkIGVhcmx5Jwo=</text>
+        <text encoding="base64">ICAgICMgdW5jYXVnaHQgZXhjZXB0aW9ucyB3aWxsIHN0b3AgYSB0aHJlYWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoaXMgaXMgd2h5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKHJlYXNvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCByZWFzb246IHN0cik6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCg1KQo=</text>
+        <text encoding="base64">ICAgICAgICBtc2cgPSAndGVybWluYXRpbmcgdGhyZWFkIGVhcmx5Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhZGQgVUhSMjA0IGRldmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRoaXMgaXMgd2h5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
