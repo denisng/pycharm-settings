@@ -92,12 +92,12 @@
         <mark key="^" line="48" column="18" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/exceptions.py" timestamp="1592881331859">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/exceptions.py" timestamp="1592942259789">
         <mark key="'" line="1" column="17" />
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="8" />
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/events.py" timestamp="1591399762449">
         <mark key="[" line="6" column="35" />
@@ -296,10 +296,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>&quot;{} was not a valid NMEA 0183 sentence&quot;.format(line)</text>
+        <text>reason</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;{} was not a valid NMEA 0183 sentence&quot;.format(line)</text>
+        <text>reason</text>
       </register>
       <register name="/" type="4">
         <text>\S\+</text>
@@ -308,31 +308,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmNyaXRpY2FsKAogICAgICAgICAgICAgICAgICAgICJ7fSB3YXMgbm90IGEgdmFsaWQgTk1FQSAwMTgzIHNlbnRlbmNlIi5mb3JtYXQobGluZSkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIEVWRU5UX0FQUF9FWElULnNldCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSAndGVybWluYXRpbmcgdGhyZWFkIGVhcmx5Jwo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKHJlYXNvbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoaXMgaXMgd2h5Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCByZWFzb246IHN0cik6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgICAgICBtc2cgPSAndGVybWluYXRpbmcgdGhyZWFkIGVhcmx5Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCg1KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRoaXMgaXMgd2h5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhZGQgVUhSMjA0IGRldmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCg1KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCIwODU2IiwgbG9jYXRpb24sIDQpCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBhZGQgVUhSMjA0IGRldmljZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtdWx0aXBsZSBwb3J0cwo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCIwODU2IiwgbG9jYXRpb24sIDQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
