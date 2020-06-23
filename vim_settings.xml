@@ -92,18 +92,15 @@
         <mark key="^" line="48" column="18" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/exceptions.py" timestamp="1592943457679">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/exceptions.py" timestamp="1592953104741">
         <mark key="'" line="1" column="17" />
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="36" />
-        <mark key="." line="7" column="35" />
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/events.py" timestamp="1591399762449">
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="26" />
+      <file name="/a.dummy" timestamp="1592952890589">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591836753523">
         <mark key="[" line="85" column="0" />
@@ -129,12 +126,11 @@
       <file name="/" timestamp="1592525408498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1592952537628">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="104" column="15" />
-        <mark key="]" line="104" column="68" />
-        <mark key="." line="104" column="67" />
-        <mark key="^" line="104" column="68" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1592953273434">
+        <mark key="'" line="64" column="16" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591748306176">
         <mark key="[" line="0" column="0" />
@@ -277,8 +273,8 @@
       <jump line="103" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="97" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="89" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="64" column="21" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="64" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,52 +291,44 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>any()</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>any()</text>
+        <text>will cause the thread to stop</text>
       </register>
       <register name="/" type="4">
         <text>\S\+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgc2VsZi5pbl9xdWV1ZS5lbXB0eSgpOgogICAgICAgICAgICAgICAgaWYgRVZFTlRfQ0FQVFVSRV9FTkQuaXNfc2V0KCk6CiAgICAgICAgICAgICAgICAgICAgIyBzZXJpYWwgcG9ydCBjYXB0dXJlIGhhcyBlbmRlZCBzbyB0aGVyZSBzaG91bGQgYmUKICAgICAgICAgICAgICAgICAgICAjIG5vdGhpbmcgbW9yZSBpbiB0aGUgcXVldWUgdG8gcGFyc2UKICAgICAgICAgICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKEVNUFRZX1dBSVQpCgogICAgICAgICAgICBsaW5lID0gc2VsZi5pbl9xdWV1ZS5nZXQoKQogICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygicHVsbGVkIHt9IGZyb20gaW5wdXQgcXVldWUiLmZvcm1hdChsaW5lLnN0cmlwKCkpKQoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgc2VudGVuY2UgPSBweW5tZWEyLnBhcnNlKGxpbmUpCgogICAgICAgICAgICAgICAgaWYgc2VudGVuY2Uuc2VudGVuY2VfdHlwZSA9PSAiR0dBIjoKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1Zygia2VlcGluZyBHR0Egc2VudGVuY2Uge30iLmZvcm1hdChsaW5lKSkKCiAgICAgICAgICAgICAgICAgICAgaWYgc2VudGVuY2UudGFsa2VyID09ICJHTiI6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZ25fcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgIGVsaWYgc2VudGVuY2UudGFsa2VyID09ICJHUCI6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZ3BfcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgIGVsaWYgc2VudGVuY2UudGFsa2VyID09ICJHTCI6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZ2xfcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgIGVsaWYgc2VudGVuY2UudGFsa2VyID09ICJHQSI6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZ2FfcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLndhcm5pbmcoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaW52YWxpZCB0YWxrZXIgZm9yIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJkaXNjYXJkaW5nIHNlbnRlbmNlIHt9Ii5mb3JtYXQobGluZSkpCiAgICAgICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvcjoKICAgICAgICAgICAgICAgIHNlbGYuX2hhbmRsZV9wcm9wcmlldGFyeV9tZXNzYWdlKGxpbmUpCiAgICAgICAgICAgIGV4Y2VwdCBweW5tZWEyLlBhcnNlRXJyb3I6CiAgICAgICAgICAgICAgICBzZWxmLl9oYW5kbGVfaW52YWxpZF9zZW50ZW5jZXMobGluZSkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgc2VsZi5faGFuZGxlX3VuZXhwZWN0ZWRfcHJvYmxlbXMoZSwgbGluZSk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsaW5lID0gc2VsZi5pbl9xdWV1ZS5nZXQoKQogICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJwdWxsZWQge30gZnJvbSBpbnB1dCBxdWV1ZSIuZm9ybWF0KGxpbmUuc3RyaXAoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICB3aGlsZSBzZWxmLmluX3F1ZXVlLmVtcHR5KCk6CiAgICAgICAgICAgIGlmIHNlbGYuX3N0b3BfY29uZGl0aW9uOgogICAgICAgICAgICAgICAgcmFpc2UgU3RvcFRocmVhZCgnc3RvcCBjb25kaXRpb24gZGV0ZWN0ZWQnKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgdGltZS5zbGVlcChFTVBUWV9XQUlUKQ==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgc2VsZi5pbl9xdWV1ZS5lbXB0eSgpOgogICAgICAgICAgICAgICAgaWYgRVZFTlRfQ0FQVFVSRV9FTkQuaXNfc2V0KCk6CiAgICAgICAgICAgICAgICAgICAgIyBzZXJpYWwgcG9ydCBjYXB0dXJlIGhhcyBlbmRlZCBzbyB0aGVyZSBzaG91bGQgYmUKICAgICAgICAgICAgICAgICAgICAjIG5vdGhpbmcgbW9yZSBpbiB0aGUgcXVldWUgdG8gcGFyc2UKICAgICAgICAgICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKEVNUFRZX1dBSVQpCgogICAgICAgICAgICBsaW5lID0gc2VsZi5pbl9xdWV1ZS5nZXQoKQogICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygicHVsbGVkIHt9IGZyb20gaW5wdXQgcXVldWUiLmZvcm1hdChsaW5lLnN0cmlwKCkpKQoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgc2VudGVuY2UgPSBweW5tZWEyLnBhcnNlKGxpbmUpCgogICAgICAgICAgICAgICAgaWYgc2VudGVuY2Uuc2VudGVuY2VfdHlwZSA9PSAiR0dBIjoKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1Zygia2VlcGluZyBHR0Egc2VudGVuY2Uge30iLmZvcm1hdChsaW5lKSkKCiAgICAgICAgICAgICAgICAgICAgaWYgc2VudGVuY2UudGFsa2VyID09ICJHTiI6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZ25fcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgIGVsaWYgc2VudGVuY2UudGFsa2VyID09ICJHUCI6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZ3BfcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgIGVsaWYgc2VudGVuY2UudGFsa2VyID09ICJHTCI6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZ2xfcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgIGVsaWYgc2VudGVuY2UudGFsa2VyID09ICJHQSI6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZ2FfcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLndhcm5pbmcoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaW52YWxpZCB0YWxrZXIgZm9yIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJkaXNjYXJkaW5nIHNlbnRlbmNlIHt9Ii5mb3JtYXQobGluZSkpCiAgICAgICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvcjoKICAgICAgICAgICAgICAgIHNlbGYuX2hhbmRsZV9wcm9wcmlldGFyeV9tZXNzYWdlKGxpbmUpCiAgICAgICAgICAgIGV4Y2VwdCBweW5tZWEyLlBhcnNlRXJyb3I6CiAgICAgICAgICAgICAgICBzZWxmLl9oYW5kbGVfaW52YWxpZF9zZW50ZW5jZXMobGluZSkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgc2VsZi5faGFuZGxlX3VuZXhwZWN0ZWRfcHJvYmxlbXMoZSwgbGluZSk=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBOb25lCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbm90aGluZyBtb3JlIGluIHRoZSBxdWV1ZSB0byBwYXJzZQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgRVZFTlRfQVBQX0VYSVQuaXNfc2V0KCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VyaWFsIHBvcnQgY2FwdHVyZSBoYXMgZW5kZWQgc28gdGhlcmUgc2hvdWxkIGJlCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>self.logger.critical(&quot;unexpected parsing error&quot;)
-                self.logger.exception(e)
-                EVENT_APP_EXIT.set()
-                return None</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>self.logger.critical(
-                    &quot;{} was not a valid NMEA 0183 sentence&quot;.format(line)
-                )
-                EVENT_APP_EXIT.set()
-                return None</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text># proprietary messages do not have ``.sentence_type``
-                self.logger.debug(&quot;discarding proprietary sentence {}&quot;.format(line))</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
