@@ -126,12 +126,12 @@
       <file name="/" timestamp="1592525408498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1593033921388">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1593038379176">
         <mark key="'" line="104" column="38" />
-        <mark key="[" line="86" column="42" />
-        <mark key="]" line="86" column="46" />
-        <mark key="." line="86" column="45" />
-        <mark key="^" line="86" column="46" />
+        <mark key="[" line="86" column="46" />
+        <mark key="]" line="86" column="66" />
+        <mark key="." line="86" column="65" />
+        <mark key="^" line="86" column="66" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591748306176">
         <mark key="[" line="0" column="0" />
