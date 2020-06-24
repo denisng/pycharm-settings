@@ -102,6 +102,9 @@
       <file name="/a.dummy" timestamp="1592952890589">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="/pynmea2_decode" timestamp="1593034052249">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591836753523">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -112,9 +115,6 @@
         <mark key="]" line="7" column="7" />
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="6" />
-      </file>
-      <file name="/temp" timestamp="1591417676218">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" timestamp="1592000704585">
         <mark key="'" line="80" column="0" />
