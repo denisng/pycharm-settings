@@ -141,11 +141,11 @@
       <file name="/foo.bar" timestamp="1592439572473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1593056849712">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1593123110743">
         <mark key="'" line="60" column="47" />
-        <mark key="[" line="130" column="42" />
-        <mark key="]" line="130" column="42" />
-        <mark key="." line="130" column="42" />
+        <mark key="[" line="129" column="53" />
+        <mark key="]" line="129" column="53" />
+        <mark key="." line="129" column="53" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1593122061665">
         <mark key="[" line="3" column="2" />
@@ -293,10 +293,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>SELECT DISTINCT result_type FROM public.results</text>
+        <text>, RAW_SENTENCE_QUEUE</text>
       </register>
       <register name="-" type="4">
-        <text>SELECT DISTINCT result_type FROM public.results</text>
+        <text>, RAW_SENTENCE_QUEUE</text>
       </register>
       <register name="/" type="4">
         <text>108</text>
