@@ -126,12 +126,12 @@
       <file name="/" timestamp="1592525408498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1593040185330">
-        <mark key="'" line="104" column="38" />
-        <mark key="[" line="117" column="62" />
-        <mark key="]" line="117" column="70" />
-        <mark key="." line="117" column="69" />
-        <mark key="^" line="117" column="70" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1593051137417">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="16" column="130" />
+        <mark key="." line="16" column="129" />
+        <mark key="^" line="16" column="130" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591748306176">
         <mark key="[" line="0" column="0" />
@@ -147,11 +147,8 @@
         <mark key="." line="94" column="46" />
         <mark key="^" line="94" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1591651568087">
-        <mark key="[" line="105" column="28" />
-        <mark key="]" line="105" column="31" />
-        <mark key="." line="105" column="30" />
-        <mark key="^" line="105" column="31" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1593051082441">
+        <mark key="'" line="60" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591837607827">
         <mark key="[" line="202" column="0" />
@@ -176,9 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="15" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="169" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="153" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="149" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="145" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
@@ -262,9 +256,6 @@
       <jump line="82" column="36" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="1" column="17" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/exceptions.py" />
       <jump line="58" column="15" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="104" column="47" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="103" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="97" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
@@ -276,6 +267,12 @@
       <jump line="113" column="31" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="115" column="45" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="123" column="38" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="177" column="27" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
+      <jump line="60" column="47" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
+      <jump line="60" column="27" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
