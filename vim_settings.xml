@@ -126,12 +126,12 @@
       <file name="/" timestamp="1592525408498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1593051137417">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="15" column="53" />
-        <mark key="]" line="16" column="130" />
-        <mark key="." line="16" column="129" />
-        <mark key="^" line="16" column="130" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1593055074519">
+        <mark key="'" line="104" column="16" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="108" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591748306176">
         <mark key="[" line="0" column="0" />
@@ -147,8 +147,11 @@
         <mark key="." line="94" column="46" />
         <mark key="^" line="94" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1593051082441">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1593055063696">
         <mark key="'" line="60" column="47" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591837607827">
         <mark key="[" line="202" column="0" />
@@ -173,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="149" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="145" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="140" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
       <jump line="133" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
@@ -264,7 +265,6 @@
       <jump line="92" column="33" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="89" column="11" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="106" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="113" column="31" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="115" column="45" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="123" column="38" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="177" column="27" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
@@ -273,6 +273,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="111" column="42" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="112" column="36" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="113" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,11 +292,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>line</text>
+      <register name="*" type="2">
+        <text encoding="base64">CiAgICAgICAgc2VsZi5nbl9xdWV1ZSA9IGduX3F1ZXVlCiAgICAgICAgc2VsZi5ncF9xdWV1ZSA9IGdwX3F1ZXVlCiAgICAgICAgc2VsZi5nbF9xdWV1ZSA9IGdsX3F1ZXVlCiAgICAgICAgc2VsZi5nYV9xdWV1ZSA9IGdhX3F1ZXVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>line</text>
+        <text>self.ga_queue</text>
       </register>
       <register name="/" type="4">
         <text>\S\+</text>
@@ -302,31 +305,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VudGVuY2Uuc2VudGVuY2VfdHlwZSA9PSAiR0dBIjoKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJrZWVwaW5nIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KGxpbmUpKQoKICAgICAgICAgICAgICAgIGlmIHNlbnRlbmNlLnRhbGtlciA9PSAiR04iOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ25fcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgZWxpZiBzZW50ZW5jZS50YWxrZXIgPT0gIkdQIjoKICAgICAgICAgICAgICAgICAgICBzZWxmLmdwX3F1ZXVlLnB1dChzZW50ZW5jZSkKICAgICAgICAgICAgICAgIGVsaWYgc2VudGVuY2UudGFsa2VyID09ICJHTCI6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5nbF9xdWV1ZS5wdXQoc2VudGVuY2UpCiAgICAgICAgICAgICAgICBlbGlmIHNlbnRlbmNlLnRhbGtlciA9PSAiR0EiOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ2FfcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci53YXJuaW5nKAogICAgICAgICAgICAgICAgICAgICAgICAiaW52YWxpZCB0YWxrZXIgZm9yIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJkaXNjYXJkaW5nIHNlbnRlbmNlIHt9Ii5mb3JtYXQobGluZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdHJ5X3RvX2Rpc3BhdGNoX3NlbnRlbmNlKHNlbnRlbmNlKQo=</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi5nbl9xdWV1ZSA9IGduX3F1ZXVlCiAgICAgICAgc2VsZi5ncF9xdWV1ZSA9IGdwX3F1ZXVlCiAgICAgICAgc2VsZi5nbF9xdWV1ZSA9IGdsX3F1ZXVlCiAgICAgICAgc2VsZi5nYV9xdWV1ZSA9IGdhX3F1ZXVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgR05fR0dBX1NFTlRFTkNFX1FVRVVFLAogICAgICAgICAgICBHUF9HR0FfU0VOVEVOQ0VfUVVFVUUsCiAgICAgICAgICAgIEdMX0dHQV9TRU5URU5DRV9RVUVVRSwKICAgICAgICAgICAgR0FfR0dBX1NFTlRFTkNFX1FVRVVFLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VudGVuY2Uuc2VudGVuY2VfdHlwZSA9PSAiR0dBIjoKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJrZWVwaW5nIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KGxpbmUpKQoKICAgICAgICAgICAgICAgIGlmIHNlbnRlbmNlLnRhbGtlciA9PSAiR04iOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ25fcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgZWxpZiBzZW50ZW5jZS50YWxrZXIgPT0gIkdQIjoKICAgICAgICAgICAgICAgICAgICBzZWxmLmdwX3F1ZXVlLnB1dChzZW50ZW5jZSkKICAgICAgICAgICAgICAgIGVsaWYgc2VudGVuY2UudGFsa2VyID09ICJHTCI6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5nbF9xdWV1ZS5wdXQoc2VudGVuY2UpCiAgICAgICAgICAgICAgICBlbGlmIHNlbnRlbmNlLnRhbGtlciA9PSAiR0EiOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ2FfcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci53YXJuaW5nKAogICAgICAgICAgICAgICAgICAgICAgICAiaW52YWxpZCB0YWxrZXIgZm9yIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJkaXNjYXJkaW5nIHNlbnRlbmNlIHt9Ii5mb3JtYXQobGluZSkpCiAgICAgICAgZXhjZXB0IEF0dHJpYnV0ZUVycm9yOgogICAgICAgICAgICBzZWxmLl9oYW5kbGVfcHJvcHJpZXRhcnlfbWVzc2FnZShsaW5lKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnbl9xdWV1ZTogcXVldWUuUXVldWUsCiAgICAgICAgZ3BfcXVldWU6IHF1ZXVlLlF1ZXVlLAogICAgICAgIGdsX3F1ZXVlOiBxdWV1ZS5RdWV1ZSwKICAgICAgICBnYV9xdWV1ZTogcXVldWUuUXVldWUsCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VudGVuY2Uuc2VudGVuY2VfdHlwZSA9PSAiR0dBIjoKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJrZWVwaW5nIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KGxpbmUpKQoKICAgICAgICAgICAgICAgIGlmIHNlbnRlbmNlLnRhbGtlciA9PSAiR04iOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ25fcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgZWxpZiBzZW50ZW5jZS50YWxrZXIgPT0gIkdQIjoKICAgICAgICAgICAgICAgICAgICBzZWxmLmdwX3F1ZXVlLnB1dChzZW50ZW5jZSkKICAgICAgICAgICAgICAgIGVsaWYgc2VudGVuY2UudGFsa2VyID09ICJHTCI6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5nbF9xdWV1ZS5wdXQoc2VudGVuY2UpCiAgICAgICAgICAgICAgICBlbGlmIHNlbnRlbmNlLnRhbGtlciA9PSAiR0EiOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ2FfcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci53YXJuaW5nKAogICAgICAgICAgICAgICAgICAgICAgICAiaW52YWxpZCB0YWxrZXIgZm9yIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJkaXNjYXJkaW5nIHNlbnRlbmNlIHt9Ii5mb3JtYXQobGluZSkp</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdHJ5X3RvX2Rpc3BhdGNoX3NlbnRlbmNlKHNlbnRlbmNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbnRlbmNlID0gcHlubWVhMi5wYXJzZShsaW5lKQoKICAgICAgICAgICAgaWYgc2VudGVuY2Uuc2VudGVuY2VfdHlwZSA9PSAiR0dBIjoKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJrZWVwaW5nIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KGxpbmUpKQoKICAgICAgICAgICAgICAgIGlmIHNlbnRlbmNlLnRhbGtlciA9PSAiR04iOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ25fcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgZWxpZiBzZW50ZW5jZS50YWxrZXIgPT0gIkdQIjoKICAgICAgICAgICAgICAgICAgICBzZWxmLmdwX3F1ZXVlLnB1dChzZW50ZW5jZSkKICAgICAgICAgICAgICAgIGVsaWYgc2VudGVuY2UudGFsa2VyID09ICJHTCI6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5nbF9xdWV1ZS5wdXQoc2VudGVuY2UpCiAgICAgICAgICAgICAgICBlbGlmIHNlbnRlbmNlLnRhbGtlciA9PSAiR0EiOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ2FfcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci53YXJuaW5nKAogICAgICAgICAgICAgICAgICAgICAgICAiaW52YWxpZCB0YWxrZXIgZm9yIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJkaXNjYXJkaW5nIHNlbnRlbmNlIHt9Ii5mb3JtYXQobGluZSkpCiAgICAgICAgZXhjZXB0IEF0dHJpYnV0ZUVycm9yOgogICAgICAgICAgICBzZWxmLl9oYW5kbGVfcHJvcHJpZXRhcnlfbWVzc2FnZShsaW5lKQogICAgICAgIGV4Y2VwdCBweW5tZWEyLlBhcnNlRXJyb3I6CiAgICAgICAgICAgIHNlbGYuX2hhbmRsZV9pbnZhbGlkX3NlbnRlbmNlcyhsaW5lKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgc2VsZi5faGFuZGxlX3VuZXhwZWN0ZWRfcHJvYmxlbXMoZSwgbGluZSkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VudGVuY2Uuc2VudGVuY2VfdHlwZSA9PSAiR0dBIjoKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJrZWVwaW5nIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KGxpbmUpKQoKICAgICAgICAgICAgICAgIGlmIHNlbnRlbmNlLnRhbGtlciA9PSAiR04iOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ25fcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgZWxpZiBzZW50ZW5jZS50YWxrZXIgPT0gIkdQIjoKICAgICAgICAgICAgICAgICAgICBzZWxmLmdwX3F1ZXVlLnB1dChzZW50ZW5jZSkKICAgICAgICAgICAgICAgIGVsaWYgc2VudGVuY2UudGFsa2VyID09ICJHTCI6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5nbF9xdWV1ZS5wdXQoc2VudGVuY2UpCiAgICAgICAgICAgICAgICBlbGlmIHNlbnRlbmNlLnRhbGtlciA9PSAiR0EiOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ2FfcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci53YXJuaW5nKAogICAgICAgICAgICAgICAgICAgICAgICAiaW52YWxpZCB0YWxrZXIgZm9yIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJkaXNjYXJkaW5nIHNlbnRlbmNlIHt9Ii5mb3JtYXQobGluZSkpCiAgICAgICAgZXhjZXB0IEF0dHJpYnV0ZUVycm9yOgogICAgICAgICAgICBzZWxmLl9oYW5kbGVfcHJvcHJpZXRhcnlfbWVzc2FnZShsaW5lKQ==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VudGVuY2Uuc2VudGVuY2VfdHlwZSA9PSAiR0dBIjoKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJrZWVwaW5nIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KGxpbmUpKQoKICAgICAgICAgICAgICAgIGlmIHNlbnRlbmNlLnRhbGtlciA9PSAiR04iOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ25fcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgZWxpZiBzZW50ZW5jZS50YWxrZXIgPT0gIkdQIjoKICAgICAgICAgICAgICAgICAgICBzZWxmLmdwX3F1ZXVlLnB1dChzZW50ZW5jZSkKICAgICAgICAgICAgICAgIGVsaWYgc2VudGVuY2UudGFsa2VyID09ICJHTCI6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5nbF9xdWV1ZS5wdXQoc2VudGVuY2UpCiAgICAgICAgICAgICAgICBlbGlmIHNlbnRlbmNlLnRhbGtlciA9PSAiR0EiOgogICAgICAgICAgICAgICAgICAgIHNlbGYuZ2FfcXVldWUucHV0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci53YXJuaW5nKAogICAgICAgICAgICAgICAgICAgICAgICAiaW52YWxpZCB0YWxrZXIgZm9yIEdHQSBzZW50ZW5jZSB7fSIuZm9ybWF0KHNlbnRlbmNlKQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCJkaXNjYXJkaW5nIHNlbnRlbmNlIHt9Ii5mb3JtYXQobGluZSkp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl93YWl0X2Zvcl9pbnB1dF9xdWV1ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
