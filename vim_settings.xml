@@ -110,12 +110,6 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/tests/hubloop.py" timestamp="1591738273858">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" timestamp="1592000704585">
         <mark key="'" line="80" column="0" />
         <mark key="[" line="78" column="14" />
@@ -152,6 +146,12 @@
         <mark key="[" line="130" column="42" />
         <mark key="]" line="130" column="42" />
         <mark key="." line="130" column="42" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1593122061665">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" timestamp="1591837607827">
         <mark key="[" line="202" column="0" />
@@ -293,10 +293,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>,</text>
+        <text>SELECT DISTINCT result_type FROM public.results</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>SELECT DISTINCT result_type FROM public.results</text>
       </register>
       <register name="/" type="4">
         <text>108</text>
