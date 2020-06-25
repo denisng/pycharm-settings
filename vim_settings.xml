@@ -105,11 +105,10 @@
       <file name="/pynmea2_decode" timestamp="1593034052249">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1593125307970">
-        <mark key="[" line="52" column="8" />
-        <mark key="]" line="52" column="33" />
-        <mark key="." line="52" column="32" />
-        <mark key="^" line="52" column="33" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1593127339026">
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/sloggers/rtcm.py" timestamp="1591836753523">
         <mark key="[" line="85" column="0" />
