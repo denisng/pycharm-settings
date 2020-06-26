@@ -139,11 +139,12 @@
       <file name="/foo.bar" timestamp="1592439572473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1593123110743">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1593138445027">
         <mark key="'" line="60" column="47" />
-        <mark key="[" line="129" column="53" />
-        <mark key="]" line="129" column="53" />
-        <mark key="." line="129" column="53" />
+        <mark key="[" line="126" column="21" />
+        <mark key="]" line="126" column="33" />
+        <mark key="." line="126" column="32" />
+        <mark key="^" line="126" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1593136489024">
         <mark key="'" line="17" column="0" />
@@ -297,11 +298,11 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>using</text>
       </register>
       <register name="-" type="4">
-        <text>main_</text>
+        <text>using</text>
       </register>
       <register name="/" type="4">
         <text>main_parser</text>
