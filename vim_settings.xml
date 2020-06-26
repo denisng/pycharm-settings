@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>os.</entry>
         <entry>CONFIG</entry>
         <entry>;</entry>
         <entry>&quot;</entry>
@@ -25,13 +24,9 @@
         <entry>862</entry>
         <entry>108</entry>
         <entry>os</entry>
+        <entry>main_parser</entry>
       </history-search>
       <history-cmd>
-        <entry>56,65y</entry>
-        <entry>164,170d</entry>
-        <entry>103,111y</entry>
-        <entry>W</entry>
-        <entry>3,20s/\w\+/'\0'/</entry>
         <entry>3,20s/\S\+/'\0'/</entry>
         <entry>3,20s/\S\+/'\0',/</entry>
         <entry>3,20j</entry>
@@ -46,7 +41,12 @@
         <entry>4,10s/\w\+/'\0',/</entry>
         <entry>s/862/00862/g</entry>
         <entry>s/108/00108/g</entry>
+        <entry>75,85y</entry>
+        <entry>92,105y</entry>
+        <entry>58,96y</entry>
+        <entry>107,112y</entry>
         <entry>w</entry>
+        <entry>63,101y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -105,11 +105,11 @@
       <file name="/pynmea2_decode" timestamp="1593034052249">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1593132404586">
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/configuration.py" timestamp="1593133422084">
         <mark key="'" line="111" column="0" />
-        <mark key="[" line="31" column="51" />
-        <mark key="]" line="31" column="66" />
-        <mark key="." line="31" column="65" />
+        <mark key="[" line="23" column="52" />
+        <mark key="]" line="23" column="52" />
+        <mark key="." line="23" column="52" />
         <mark key="^" line="31" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" timestamp="1592000704585">
@@ -145,12 +145,10 @@
         <mark key="]" line="129" column="53" />
         <mark key="." line="129" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1593131853211">
-        <mark key="'" line="10" column="95" />
-        <mark key="[" line="94" column="42" />
-        <mark key="]" line="94" column="43" />
-        <mark key="^" line="94" column="43" />
-        <mark key="." line="94" column="42" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1593136193697">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1593122061665">
         <mark key="[" line="3" column="2" />
@@ -181,19 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="89" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="142" column="48" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/uhubctlw/uhubctlwrapper.py" />
-      <jump line="79" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="22" column="72" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/supervisor.py" />
@@ -281,6 +266,19 @@
       <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="94" column="14" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
       <jump line="10" column="95" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="20" column="4" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="104" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="52" column="4" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="62" column="12" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="50" column="4" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="123" column="70" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -298,54 +296,92 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>, exist_ok=True</text>
+        <text encoding="base64">ICAgIG1haW5fcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249Ik1hbGxhcmQgTk1FQSBzY3JlZW5pbmcgdG9vbCIsKQoKICAgIG1haW5fcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS12ZXJzaW9uIiwKICAgICAgICAiLXYiLAogICAgICAgIGFjdGlvbj0idmVyc2lvbiIsCiAgICAgICAgdmVyc2lvbj0ie30ge30iLmZvcm1hdCgKICAgICAgICAgICAgcGtnX3Jlc291cmNlcy5nZXRfZGlzdHJpYnV0aW9uKCJtYWxsYXJkX25tZWFfc2NyZWVuIikucHJvamVjdF9uYW1lLAogICAgICAgICAgICBwa2dfcmVzb3VyY2VzLmdldF9kaXN0cmlidXRpb24oIm1hbGxhcmRfbm1lYV9zY3JlZW4iKS52ZXJzaW9uLAogICAgICAgICksCiAgICApCgogICAgdG9vbHMgPSBtYWluX3BhcnNlci5hZGRfc3VicGFyc2Vycyh0aXRsZT0idG9vbHMiLCBkZXN0PSJ0b29sIikKCiAgICBjb25maWdfdG9vbCA9IHRvb2xzLmFkZF9wYXJzZXIoImNvbmZpZyIsIGhlbHA9ImNvbmZpZ3VyZSBkZWZhdWx0IHNjcmVlbiBzZXR0aW5ncyIpCgogICAgY29uZmlnX2NvbW1hbmRzID0gY29uZmlnX3Rvb2wuYWRkX3N1YnBhcnNlcnModGl0bGU9ImNvbW1hbmRzIiwgZGVzdD0iY29tbWFuZCIpCgogICAgY29uZmlnX2NvbW1hbmRzLmFkZF9wYXJzZXIoImxpc3QiLCBoZWxwPSJzaG93IGNvbmZpZ3VyZWQgb3B0aW9ucyIpCgogICAgc2V0X2NvbmZpZyA9IGNvbmZpZ19jb21tYW5kcy5hZGRfcGFyc2VyKCJzZXQiLCBoZWxwPSJzZXQgYW4gb3B0aW9uIikKICAgIHNldF9jb25maWcuYWRkX2FyZ3VtZW50KCJzZWN0aW9uIiwgY2hvaWNlcz1bImFuYWx5emUiLCAic2NyZWVuIl0pCiAgICBzZXRfY29uZmlnLmFkZF9hcmd1bWVudCgKICAgICAgICAib3B0aW9uIiwgY2hvaWNlcz1bIm91dHB1dF9kaXIiLCAiY2FwdHVyZV90aW1lIiwgInNlcmlhbF9wb3J0Il0KICAgICkKICAgIHNldF9jb25maWcuYWRkX2FyZ3VtZW50KCJ2YWx1ZSIpCgogICAgY2xlYXJfY29uZmlnID0gY29uZmlnX2NvbW1hbmRzLmFkZF9wYXJzZXIoImNsZWFyIiwgaGVscD0iY2xlYXIgYW4gb3B0aW9uIikKICAgIGNsZWFyX2NvbmZpZy5hZGRfYXJndW1lbnQoInNlY3Rpb24iLCBjaG9pY2VzPVsiYW5hbHl6ZSIsICJzY3JlZW4iXSkKICAgIGNsZWFyX2NvbmZpZy5hZGRfYXJndW1lbnQoCiAgICAgICAgIm9wdGlvbiIsIGNob2ljZXM9WyJvdXRwdXRfZGlyIiwgImNhcHR1cmVfdGltZSIsICJzZXJpYWxfcG9ydCJdCiAgICApCgogICAgY29uZmlnX2NvbW1hbmRzLmFkZF9wYXJzZXIoInJlc2V0IiwgaGVscD0icmVzZXQgY29uZmlndXJhdGlvbiB0byBkZWZhdWx0IikKCiAgICBhbmFseXplX3Rvb2wgPSB0b29scy5hZGRfcGFyc2VyKCJhbmFseXplIiwgaGVscD0icnVuIGZ1bGwtYmxvd24gYW5hbHlzaXMgb24gYSBEVVQiKQogICAgYW5hbHl6ZV90b29sLmFkZF9hcmd1bWVudCgic2VyaWFsIikKICAgIGFuYWx5emVfdG9vbC5hZGRfYXJndW1lbnQoIi0tY2FwdHVyZS10aW1lIiwgaGVscD0iaW4gc2Vjb25kcyIsIHR5cGU9aW50KQogICAgYW5hbHl6ZV90b29sLmFkZF9hcmd1bWVudCgiLS1zZXJpYWwtcG9ydCIp</text>
       </register>
       <register name="-" type="4">
-        <text>, exist_ok=True</text>
+        <text>main_</text>
       </register>
       <register name="/" type="4">
-        <text>os</text>
+        <text>main_parser</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCJTdGFydGluZyBzZXJpYWwgcG9ydCBjYXB0dXJlIHRocmVhZC4uLiIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIG1haW5fcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249Ik1hbGxhcmQgTk1FQSBzY3JlZW5pbmcgdG9vbCIsKQoKICAgIG1haW5fcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS12ZXJzaW9uIiwKICAgICAgICAiLXYiLAogICAgICAgIGFjdGlvbj0idmVyc2lvbiIsCiAgICAgICAgdmVyc2lvbj0ie30ge30iLmZvcm1hdCgKICAgICAgICAgICAgcGtnX3Jlc291cmNlcy5nZXRfZGlzdHJpYnV0aW9uKCJtYWxsYXJkX25tZWFfc2NyZWVuIikucHJvamVjdF9uYW1lLAogICAgICAgICAgICBwa2dfcmVzb3VyY2VzLmdldF9kaXN0cmlidXRpb24oIm1hbGxhcmRfbm1lYV9zY3JlZW4iKS52ZXJzaW9uLAogICAgICAgICksCiAgICApCgogICAgdG9vbHMgPSBtYWluX3BhcnNlci5hZGRfc3VicGFyc2Vycyh0aXRsZT0idG9vbHMiLCBkZXN0PSJ0b29sIikKCiAgICBjb25maWdfdG9vbCA9IHRvb2xzLmFkZF9wYXJzZXIoImNvbmZpZyIsIGhlbHA9ImNvbmZpZ3VyZSBkZWZhdWx0IHNjcmVlbiBzZXR0aW5ncyIpCgogICAgY29uZmlnX2NvbW1hbmRzID0gY29uZmlnX3Rvb2wuYWRkX3N1YnBhcnNlcnModGl0bGU9ImNvbW1hbmRzIiwgZGVzdD0iY29tbWFuZCIpCgogICAgY29uZmlnX2NvbW1hbmRzLmFkZF9wYXJzZXIoImxpc3QiLCBoZWxwPSJzaG93IGNvbmZpZ3VyZWQgb3B0aW9ucyIpCgogICAgc2V0X2NvbmZpZyA9IGNvbmZpZ19jb21tYW5kcy5hZGRfcGFyc2VyKCJzZXQiLCBoZWxwPSJzZXQgYW4gb3B0aW9uIikKICAgIHNldF9jb25maWcuYWRkX2FyZ3VtZW50KCJzZWN0aW9uIiwgY2hvaWNlcz1bImFuYWx5emUiLCAic2NyZWVuIl0pCiAgICBzZXRfY29uZmlnLmFkZF9hcmd1bWVudCgKICAgICAgICAib3B0aW9uIiwgY2hvaWNlcz1bIm91dHB1dF9kaXIiLCAiY2FwdHVyZV90aW1lIiwgInNlcmlhbF9wb3J0Il0KICAgICkKICAgIHNldF9jb25maWcuYWRkX2FyZ3VtZW50KCJ2YWx1ZSIpCgogICAgY2xlYXJfY29uZmlnID0gY29uZmlnX2NvbW1hbmRzLmFkZF9wYXJzZXIoImNsZWFyIiwgaGVscD0iY2xlYXIgYW4gb3B0aW9uIikKICAgIGNsZWFyX2NvbmZpZy5hZGRfYXJndW1lbnQoInNlY3Rpb24iLCBjaG9pY2VzPVsiYW5hbHl6ZSIsICJzY3JlZW4iXSkKICAgIGNsZWFyX2NvbmZpZy5hZGRfYXJndW1lbnQoCiAgICAgICAgIm9wdGlvbiIsIGNob2ljZXM9WyJvdXRwdXRfZGlyIiwgImNhcHR1cmVfdGltZSIsICJzZXJpYWxfcG9ydCJdCiAgICApCgogICAgY29uZmlnX2NvbW1hbmRzLmFkZF9wYXJzZXIoInJlc2V0IiwgaGVscD0icmVzZXQgY29uZmlndXJhdGlvbiB0byBkZWZhdWx0IikKCiAgICBhbmFseXplX3Rvb2wgPSB0b29scy5hZGRfcGFyc2VyKCJhbmFseXplIiwgaGVscD0icnVuIGZ1bGwtYmxvd24gYW5hbHlzaXMgb24gYSBEVVQiKQogICAgYW5hbHl6ZV90b29sLmFkZF9hcmd1bWVudCgic2VyaWFsIikKICAgIGFuYWx5emVfdG9vbC5hZGRfYXJndW1lbnQoIi0tY2FwdHVyZS10aW1lIiwgaGVscD0iaW4gc2Vjb25kcyIsIHR5cGU9aW50KQogICAgYW5hbHl6ZV90b29sLmFkZF9hcmd1bWVudCgiLS1zZXJpYWwtcG9ydCIp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdG9vbDogQU5BTFlaRQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdG9vbDogQ09ORklHLCBjb21tYW5kOiBDTEVBUgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgdG9vbDogQ09ORklHLCBjb21tYW5kOiBTRVQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgdG9vbDogQ09ORklHLCBjb21tYW5kOiBMSVNUCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgdG9vbDogQ09ORklHIHN1YnBhcnNlcnMK</text>
+        <text encoding="base64">ICAgIHBhcnNlciA9IF9idWlsZF9tYWluX3BhcnNlcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgdG9vbDogQ09ORklHCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgbG9nZ2luZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgbWFpbiBwYXJzZXIK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGlmIG5vdCBhcmdzLnRvb2w6CiAgICAgICAgcGFyc2VyLnByaW50X2hlbHAoKQogICAgZWxpZiBhcmdzLnRvb2wgPT0gImFuYWx5emUiOgogICAgICAgIF9ydW5fYW5hbHl6ZV90b29sKGFyZ3MpCiAgICBlbGlmIGFyZ3MudG9vbCA9PSAiY29uZmlnIjoKICAgICAgICBfcnVuX2NvbmZpZ190b29sKGFyZ3Mp</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgdG9vbCBzdWJwYXJzZXJzCg==</text>
+      <register name="9" type="4">
+        <text>main_parser = argparse.ArgumentParser(description=&quot;Mallard NMEA screening tool&quot;,)
+
+    main_parser.add_argument(
+        &quot;--version&quot;,
+        &quot;-v&quot;,
+        action=&quot;version&quot;,
+        version=&quot;{} {}&quot;.format(
+            pkg_resources.get_distribution(&quot;mallard_nmea_screen&quot;).project_name,
+            pkg_resources.get_distribution(&quot;mallard_nmea_screen&quot;).version,
+        ),
+    )
+
+    tools = main_parser.add_subparsers(title=&quot;tools&quot;, dest=&quot;tool&quot;)
+
+    config_tool = tools.add_parser(&quot;config&quot;, help=&quot;configure default screen settings&quot;)
+
+    config_commands = config_tool.add_subparsers(title=&quot;commands&quot;, dest=&quot;command&quot;)
+
+    config_commands.add_parser(&quot;list&quot;, help=&quot;show configured options&quot;)
+
+    set_config = config_commands.add_parser(&quot;set&quot;, help=&quot;set an option&quot;)
+    set_config.add_argument(&quot;section&quot;, choices=[&quot;analyze&quot;, &quot;screen&quot;])
+    set_config.add_argument(
+        &quot;option&quot;, choices=[&quot;output_dir&quot;, &quot;capture_time&quot;, &quot;serial_port&quot;]
+    )
+    set_config.add_argument(&quot;value&quot;)
+
+    clear_config = config_commands.add_parser(&quot;clear&quot;, help=&quot;clear an option&quot;)
+    clear_config.add_argument(&quot;section&quot;, choices=[&quot;analyze&quot;, &quot;screen&quot;])
+    clear_config.add_argument(
+        &quot;option&quot;, choices=[&quot;output_dir&quot;, &quot;capture_time&quot;, &quot;serial_port&quot;]
+    )
+
+    config_commands.add_parser(&quot;reset&quot;, help=&quot;reset configuration to default&quot;)
+
+    analyze_tool = tools.add_parser(&quot;analyze&quot;, help=&quot;run full-blown analysis on a DUT&quot;)
+    analyze_tool.add_argument(&quot;serial&quot;)
+    analyze_tool.add_argument(&quot;--capture-time&quot;, help=&quot;in seconds&quot;, type=int)
+    analyze_tool.add_argument(&quot;--serial-port&quot;)</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>63,101y</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>os</last-search>
+      <last-search>main_parser</last-search>
       <last-offset />
-      <last-pattern>os</last-pattern>
+      <last-pattern>main_parser</last-pattern>
       <last-replace>00108</last-replace>
       <last-substitute>108</last-substitute>
       <last-dir>1</last-dir>
