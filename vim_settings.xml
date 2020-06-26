@@ -121,12 +121,12 @@
       <file name="/" timestamp="1592525408498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1593206962821">
-        <mark key="'" line="122" column="64" />
-        <mark key="[" line="122" column="42" />
-        <mark key="]" line="122" column="50" />
-        <mark key="." line="122" column="49" />
-        <mark key="^" line="122" column="50" />
+      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1593207092434">
+        <mark key="'" line="135" column="35" />
+        <mark key="[" line="122" column="46" />
+        <mark key="]" line="122" column="51" />
+        <mark key="." line="122" column="50" />
+        <mark key="^" line="122" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" timestamp="1593074847879">
         <mark key="'" line="79" column="65" />
@@ -277,11 +277,11 @@
       <jump line="12" column="10" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="131" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="135" column="42" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="121" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="115" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="124" column="46" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="122" column="64" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="124" column="12" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="122" column="36" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
+      <jump line="135" column="35" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,7 +299,8 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>and_evaluate_fix</text>
+        <text># TODO: evaluate fix quality in gga
+                pass</text>
       </register>
       <register name="-" type="4">
         <text>and_evaluate_fix</text>
@@ -310,32 +311,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbXNnID0gInVuZXhwZWN0ZWQgZXJyb3IgcGFyc2luZyB7fSIuZm9ybWF0KGxpbmUpCiAgICAgICAgICAgIHNlbGYubG9nZ2VyLmNyaXRpY2FsKG1zZykKICAgICAgICAgICAgc2VsZi5sb2dnZXIuZXhjZXB0aW9uKGUpCiAgICAgICAgICAgIEVWRU5UX0FQUF9FWElULnNldCgpCiAgICAgICAgICAgIHJhaXNlIEFwcGxpY2F0aW9uRXhjZXB0aW9uKG1zZykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text># TODO: evaluate fix quality in gga
+                pass</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxpbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoJ3B1bGxlZCB7fSBmcm9tIGlucHV0IHF1ZXVlJy5mb3JtYXQobGluZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxpbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoRU1QVFlfV0FJVCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoJ3B1bGxlZCB7fSBmcm9tIGlucHV0IHF1ZXVlJy5mb3JtYXQobGluZSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
