@@ -139,11 +139,11 @@
         <mark key="^" line="107" column="14" />
         <mark key="." line="107" column="13" />
       </file>
-      <file name="$USER_HOME$/.ssh/ssh-config/configs/vexos.ssh" timestamp="1593736439046">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/.ssh/ssh-config/configs/vexos.ssh" timestamp="1593736541521">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/events.py" timestamp="1593205566445">
         <mark key="[" line="11" column="48" />
