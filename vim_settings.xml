@@ -86,12 +86,6 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-test/coldstart-logging/src/mallard_coldstart_logging/cli.py" timestamp="1592002015521">
-        <mark key="[" line="67" column="5" />
-        <mark key="]" line="48" column="18" />
-        <mark key="^" line="48" column="18" />
-        <mark key="." line="48" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/exceptions.py" timestamp="1593143455575">
         <mark key="'" line="19" column="35" />
         <mark key="[" line="19" column="30" />
@@ -144,6 +138,12 @@
         <mark key="]" line="107" column="14" />
         <mark key="^" line="107" column="14" />
         <mark key="." line="107" column="13" />
+      </file>
+      <file name="$USER_HOME$/.ssh/ssh-config/configs/vexos.ssh" timestamp="1593736439046">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/events.py" timestamp="1593205566445">
         <mark key="[" line="11" column="48" />
