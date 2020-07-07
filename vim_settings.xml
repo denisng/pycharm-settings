@@ -74,7 +74,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1594070102563">
+      <file name="/Python Console" timestamp="1594094774271">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
         <mark key="^" line="0" column="42" />
@@ -82,13 +82,6 @@
       </file>
       <file name="/scratch" timestamp="1593740314432">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" timestamp="1593217978853">
-        <mark key="'" line="98" column="8" />
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="72" />
-        <mark key="." line="14" column="71" />
-        <mark key="^" line="14" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/pyproject.toml" timestamp="1594085367107">
         <mark key="[" line="3" column="15" />
@@ -115,18 +108,12 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/events.py" timestamp="1593205566445">
-        <mark key="[" line="11" column="48" />
-        <mark key="]" line="11" column="92" />
-        <mark key="^" line="11" column="92" />
-        <mark key="." line="11" column="91" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" timestamp="1594091582920">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="42" />
-        <mark key="^" line="16" column="42" />
-        <mark key="." line="16" column="41" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" timestamp="1594093866034">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1593740300849">
         <mark key="'" line="4" column="12" />
@@ -154,6 +141,13 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="25" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/events.py" timestamp="1594093659294">
+        <mark key="'" line="6" column="23" />
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" timestamp="1593222303464">
         <mark key="'" line="111" column="0" />
         <mark key="[" line="115" column="42" />
@@ -164,42 +158,24 @@
       <file name="/foo.bar" timestamp="1594081341571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" timestamp="1593217718386">
-        <mark key="'" line="17" column="48" />
-        <mark key="[" line="110" column="48" />
-        <mark key="]" line="110" column="53" />
-        <mark key="." line="110" column="52" />
-        <mark key="^" line="110" column="53" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" timestamp="1594095745743">
+        <mark key="'" line="42" column="38" />
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="28" />
       </file>
       <file name="/results [Registrar]" timestamp="1594081341543">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/events.py" timestamp="1594095662427">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="6" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="122" column="36" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="135" column="35" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="116" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="115" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="152" column="16" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="142" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="118" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
-      <jump line="146" column="11" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="153" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="174" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="13" column="12" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
-      <jump line="5" column="13" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
-      <jump line="18" column="39" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
-      <jump line="32" column="32" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
       <jump line="38" column="22" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
@@ -267,15 +243,39 @@
       <jump line="6" column="3" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/README.rst" />
       <jump line="6" column="24" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
       <jump line="11" column="45" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
       <jump line="24" column="8" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
       <jump line="18" column="8" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
       <jump line="29" column="26" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
       <jump line="30" column="8" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="15" column="36" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="8" column="14" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="13" column="21" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="32" column="8" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="40" column="33" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="5" column="23" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/events.py" />
+      <jump line="33" column="16" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="12" column="58" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="47" column="34" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="6" column="13" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="43" column="38" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -292,44 +292,47 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>.</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>\S\+</text>
       </register>
       <register name="0" type="4">
-        <text>, ip: Union[IPv4Address, IPv6Address]</text>
+        <text>out_queue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBpcCBVbmlvbltJUHY0QWRkcmVzcywgSVB2NkFkZHJlc3NdKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLnVybCA9ICdodHRwOi8ve2lwfTo0NDMzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl91cmwgPSAiaHR0cDovL3tpcH06NDQzMyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl91cmwgPSAiaHR0cDovL3tpcH06NTA4MiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl91cmwgPSAiaHR0cDovL3tpcH06NTA4MCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgU2VwdGVudHJpb1VybFNjYW5uZXIoR29sZGNyZXN0VXJsU2Nhbm5lcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl91cmwgPSAiaHR0cDovL3tpcH0vbm90LWltcGxlbWVudGVkLWVycm9yIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBleGl0IHF1aWV0bHkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+      <register name="7" type="4">
+        <text># TODO: get the IP address to check
+            # TODO: test the URL
+            # TODO: report if success
+            pass</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdnb2xkY3Jlc3RfY2FiaW5ldF9maW5kZXIuc2Nhbm5lcnMuJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
