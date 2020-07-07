@@ -80,9 +80,6 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1593143124372">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="/scratch" timestamp="1593740314432">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,6 +89,12 @@
         <mark key="]" line="14" column="72" />
         <mark key="." line="14" column="71" />
         <mark key="^" line="14" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/pyproject.toml" timestamp="1594085367107">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="76" />
+        <mark key="^" line="3" column="76" />
+        <mark key="." line="3" column="75" />
       </file>
       <file name="/runs [Registrar]" timestamp="1594080993286">
         <mark key="[" line="0" column="0" />
