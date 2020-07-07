@@ -121,6 +121,13 @@
         <mark key="^" line="11" column="92" />
         <mark key="." line="11" column="91" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" timestamp="1594090858922">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="16" column="57" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1593740300849">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="1" column="25" />
@@ -130,13 +137,6 @@
       </file>
       <file name="/dumpDataPreview" timestamp="1593740394759">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/exceptions.py" timestamp="1593143455575">
-        <mark key="'" line="19" column="35" />
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="30" />
-        <mark key="." line="19" column="34" />
-        <mark key="^" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" timestamp="1593465380090">
         <mark key="[" line="39" column="0" />
@@ -176,9 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="25" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="108" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
-      <jump line="113" column="41" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="8" column="11" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="114" column="37" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/parsers.py" />
@@ -276,6 +273,9 @@
       <jump line="4" column="14" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/README.rst" />
       <jump line="15" column="53" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/README.rst" />
       <jump line="6" column="3" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/README.rst" />
+      <jump line="6" column="24" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="11" column="45" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -292,50 +292,44 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>def __init__(self):</text>
       </register>
       <register name="/" type="4">
         <text>\S\+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJOTUVBIEdHQSBGSVggU0NSRUVOSU5HIFRPT0wiKQogICAgTE9HR0VSLmluZm8oInVzaW5nIHRpbWVvdXQ6IHt9cyIuZm9ybWF0KHRpbWVvdXQpKQogICAgTE9HR0VSLmluZm8oImxpc3RlbmluZyBvbiBzZXJpYWwgcG9ydDoge30iLmZvcm1hdChzZXJpYWxfcG9ydCkpCgogICAgTE9HR0VSLmluZm8oIlNjcmVlbmluZyBEVVQ6IHt9Ii5mb3JtYXQoZHV0X3NlcmlhbCkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBpcDogVW5pb25bSVB2NEFkZHJlc3MsIElQdjZBZGRyZXNzXSk6Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">SG93ZXZlciwgd2UgZG8gbm90IHdpc2ggdG8gZ2l2ZSB0aGUgb3BlcmF0b3IgYWNjZXNzIHRvIHRoZQpyb3V0ZXIncyBtYW5hZ2VtZW50IFVJLCBoZW5jZSB0aGUg</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>For the sake of avoiding problems, we cannot assume that IP addresses
-will always be assigned sequentially. That would eventually result in
-the operator performing a manual brute-force search for the IP within
-the assignable range
-; therefore, the operator will need
-a means by which to identify the IP address that has been assigned to
-the DUT currently under test.</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VG8gYXZvaWQgZnVydGhlciBwcm9ibGVtcywgd2UgY2Fubm90IHByZXRlbmQgdGhhdCAK</text>
+        <text encoding="base64">Y2xhc3MgU2VwdGVudHJpb1VybFNjYW5uZXIoR29sZGNyZXN0VXJsU2Nhbm5lcik6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVzZXJ2YXRpb25zIGZhc3QgZW5vdWdoIHRvIHRlc3QgY2FiaW5ldHMgYmFjay10by1iYWNrLikK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW55IGRldmljZSBjb25uZWN0ZWQgdG8gdGhlIGRlc2lnbmF0ZWQgc3dpdGNoLXBvcnQgYW5kIGV4cGlyZQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIHRoZSBHb2xkY3Jlc3QgRW5kLXRvLUVuZCBUZXN0IChhbHdheXMgYXNzaWduIGEgc2luZ2xlIElQIGFkZHJlc3MgdG8K</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3VmZmljaWVudGx5IGZpbmUtZ3JhaW5lZCB0byBhY2hpZXZlIHRoZSBpZGVhbCBJUCBhc3NpZ25tZW50IGJlaGF2aW9yCg==</text>
+        <text encoding="base64">YmVjYXVzZSBlbXBsb3lpbmcgc2V2ZXJhbCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
