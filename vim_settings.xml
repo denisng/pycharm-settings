@@ -74,7 +74,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1594094774271">
+      <file name="/Python Console" timestamp="1594178787998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
         <mark key="^" line="0" column="42" />
@@ -106,6 +106,9 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="25" column="31" />
       </file>
+      <file name="/scanners" timestamp="1594179477131">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/events.py" timestamp="1594093659294">
         <mark key="'" line="6" column="23" />
         <mark key="[" line="0" column="3" />
@@ -135,13 +138,6 @@
       <file name="/dog2zb0js2j5imh.public.results" timestamp="1594081341557">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/analyzer.py" timestamp="1593221876725">
-        <mark key="'" line="18" column="39" />
-        <mark key="[" line="107" column="9" />
-        <mark key="]" line="107" column="14" />
-        <mark key="^" line="107" column="14" />
-        <mark key="." line="107" column="13" />
-      </file>
       <file name="$USER_HOME$/.ssh/ssh-config/configs/vexos.ssh" timestamp="1593736541521">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="14" />
@@ -162,10 +158,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" timestamp="1594175998406">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" timestamp="1594179474181">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="51" />
+        <mark key="^" line="7" column="52" />
       </file>
       <file name="/dumpDataPreview" timestamp="1593740394759">
         <mark key="[" line="0" column="0" />
@@ -181,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
       <jump line="67" column="68" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
       <jump line="107" column="58" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
       <jump line="17" column="48" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/console.py" />
@@ -262,7 +259,6 @@
       <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/scanners.py" />
       <jump line="12" column="58" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="47" column="34" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
-      <jump line="6" column="13" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="43" column="38" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
@@ -275,12 +271,14 @@
       <jump line="58" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="23" column="31" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="1" column="39" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/pingers.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/pingers.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/pingers.py" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/pingers.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -298,10 +296,10 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="*" type="4">
-        <text>Threading because I/O bound?</text>
+        <text>31</text>
       </register>
       <register name="-" type="4">
-        <text>Threading because I/O bound?</text>
+        <text>31</text>
       </register>
       <register name="/" type="4">
         <text>Scanner</text>
