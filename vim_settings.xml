@@ -106,9 +106,6 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="25" column="31" />
       </file>
-      <file name="/scanners" timestamp="1594179477131">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/cabinet-finder/cabinet_finder/events.py" timestamp="1594093659294">
         <mark key="'" line="6" column="23" />
         <mark key="[" line="0" column="3" />
@@ -158,12 +155,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" timestamp="1594182946430">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="25" />
-        <mark key="^" line="20" column="26" />
+      <file name="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" timestamp="1594183949967">
+        <mark key="'" line="9" column="58" />
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="38" column="23" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="38" column="23" />
       </file>
       <file name="/dumpDataPreview" timestamp="1593740394759">
         <mark key="[" line="0" column="0" />
@@ -179,9 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" />
-      <jump line="88" column="48" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" />
-      <jump line="98" column="8" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/singulators.py" />
       <jump line="72" column="32" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
       <jump line="78" column="10" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
       <jump line="17" column="20" filename="$USER_HOME$/Documents/GitHub/mallard-nmea-screen/src/mallard_nmea_screen/screen.py" />
@@ -269,16 +263,19 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/pingers.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/pingers.py" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/pingers.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="5" column="13" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="10" column="34" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="6" column="22" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="16" column="50" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="37" column="39" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
+      <jump line="9" column="58" filename="$USER_HOME$/Documents/GitHub/goldcrest-factory-test/goldcrest-cabinet-finder/goldcrest_cabinet_finder/scanners.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,44 +292,44 @@
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nX3hzZGIoZXhjLm91dHB1dCwgbG9nZ2luZy5FUlJPUikK</text>
       </register>
-      <register name="*" type="4">
-        <text>Starting</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdEVVQgc2VhcmNoIGluIHByb2dyZXNzLiBQbGVhc2Ugd2FpdCBmb3IgcmVzdWx0LicpCiAgICBFVkVOVF9EVVRfRk9VTkQud2FpdCgpCgogICAgZHV0X2FkZHJlc3MgPSByZXN1bHRfcXVldWUuZ2V0KCkKICAgIExPR0dFUi5pbmZvKCcqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKicpCiAgICBMT0dHRVIuaW5mbygnRFVUIGxvY2F0ZWQgYXQgYWRkcmVzcyB7fScuZm9ybWF0KGR1dF9hZGRyZXNzKSkKICAgIExPR0dFUi5pbmZvKCcqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Starting</text>
+        <text encoding="base64">bGFzdF9vY3RldCA8IDI6</text>
       </register>
       <register name="/" type="4">
         <text>Scanner</text>
       </register>
-      <register name="0" type="4">
-        <text>out_queue</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCcqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdvcmtlcnMgPSBbXQo=</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdEVVQgc2VhcmNoIGluIHByb2dyZXNzLiBQbGVhc2Ugd2FpdCBmb3IgcmVzdWx0LicpCiAgICBFVkVOVF9EVVRfRk9VTkQud2FpdCgpCgogICAgZHV0X2FkZHJlc3MgPSByZXN1bHRfcXVldWUuZ2V0KCkKICAgIExPR0dFUi5pbmZvKCcqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKicpCiAgICBMT0dHRVIuaW5mbygnRFVUIGxvY2F0ZWQgYXQgYWRkcmVzcyB7fScuZm9ybWF0KGR1dF9hZGRyZXNzKSkKICAgIExPR0dFUi5pbmZvKCcqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2cK</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdEVVQgbG9jYXRlZCBhdCBhZGRyZXNzIHt9JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmZyb20gYWJjIGltcG9ydCBBQkMKZnJvbSBodHRwIGltcG9ydCBIVFRQU3RhdHVzCmZyb20gaXBhZGRyZXNzIGltcG9ydCBJUHY0QWRkcmVzcywgSVB2NkFkZHJlc3MKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IHF1ZXVlCmZyb20gcXVldWUgaW1wb3J0IFF1ZXVlCmZyb20gdGhyZWFkaW5nIGltcG9ydCBUaHJlYWQKZnJvbSB0eXBpbmcgaW1wb3J0IFVuaW9uCgppbXBvcnQgcmVxdWVzdHMKZnJvbSBnb2xkY3Jlc3RfY2FiaW5ldF9maW5kZXIuZXZlbnRzIGltcG9ydCBFVkVOVF9EVVRfRk9VTkQKCgpjbGFzcyBHb2xkY3Jlc3RVcmxTY2FubmVyKFRocmVhZCwgQUJDKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBpbl9xdWV1ZTogUXVldWUsIG91dF9xdWV1ZTogUXVldWUsIHBvcnQ6IGludCk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygpCiAgICAgICAgc2VsZi5sb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcigKICAgICAgICAgICAgInttfS57Y30ue259Ii5mb3JtYXQobT1zZWxmLl9fbW9kdWxlX18sIGM9c2VsZi5fX25hbWVfXywgbj1zZWxmLm5hbWUpCiAgICAgICAgKQogICAgICAgIHNlbGYuaW5fcXVldWUgPSBpbl9xdWV1ZQogICAgICAgIHNlbGYub3V0X3F1ZXVlID0gb3V0X3F1ZXVlCiAgICAgICAgc2VsZi5wb3J0ID0gcG9ydAoKICAgIGRlZiBydW4oc2VsZikgLT4gTm9uZToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYuX2lwX3Rlc3RfbG9vcCgpCiAgICAgICAgZXhjZXB0IHF1ZXVlLkVtcHR5OgogICAgICAgICAgICAjIHNlYXJjaCByYW5nZSBleGhhdXN0ZWQKICAgICAgICAgICAgcGFzcwoKICAgIGRlZiBfaXBfdGVzdF9sb29wKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgd2hpbGUgbm90IEVWRU5UX0RVVF9GT1VORC5pc19zZXQoKToKICAgICAgICAgICAgc2VsZi5pcCA9IHNlbGYuX2dldF90YXJnZXRfaXAoKQogICAgICAgICAgICBzZWxmLnVybCA9IHNlbGYuX2ludGVycG9sYXRlX3VybChzZWxmLmlwKQogICAgICAgICAgICBzZWxmLl90ZXN0X3VybChzZWxmLnVybCkKCiAgICBkZWYgX2dldF90YXJnZXRfaXAoc2VsZikgLT4gVW5pb25bSVB2NEFkZHJlc3MsIElQdjZBZGRyZXNzXToKICAgICAgICByZXR1cm4gc2VsZi5pbl9xdWV1ZS5nZXQoYmxvY2s9RmFsc2UpCgogICAgZGVmIF9pbnRlcnBvbGF0ZV91cmwoc2VsZiwgaXA6IFVuaW9uW0lQdjRBZGRyZXNzLCBJUHY2QWRkcmVzc10pIC0+IHN0cjoKICAgICAgICByZXR1cm4gImh0dHA6Ly97aXB9Ontwb3J0fSIuZm9ybWF0KGlwPWlwLCBwb3J0PXNlbGYucG9ydCkKCiAgICBkZWYgX3Rlc3RfdXJsKHNlbGYsIHVybDogc3RyKSAtPiBOb25lOgogICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCdjaGVja2luZyBVUkwge30nLmZvcm1hdCh1cmwpKQogICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KHVybCkKCiAgICAgICAgaWYgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gSFRUUFN0YXR1cy5PSzoKICAgICAgICAgICAgRVZFTlRfRFVUX0ZPVU5ELnNldCgpCiAgICAgICAgICAgIHNlbGYub3V0X3F1ZXVlLnB1dChzZWxmLmlwKQoKCmNsYXNzIENIQ1VybFNjYW5uZXIoR29sZGNyZXN0VXJsU2Nhbm5lcik6CiAgICBkZWYgX19pbml0X18oc2VsZiwgaW5fcXVldWU6IFF1ZXVlLCBvdXRfcXVldWU6IFF1ZXVlKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKGluX3F1ZXVlLCBvdXRfcXVldWUsIDUwODApCgoKY2xhc3MgU2VwdGVudHJpb1VybFNjYW5uZXIoR29sZGNyZXN0VXJsU2Nhbm5lcik6CiAgICBkZWYgX19pbml0X18oc2VsZiwgaW5fcXVldWU6IFF1ZXVlLCBvdXRfcXVldWU6IFF1ZXVlKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKGluX3F1ZXVlLCBvdXRfcXVldWUsIDUwODIpCgoKY2xhc3MgWDQxMFVybFNjYW5uZXIoR29sZGNyZXN0VXJsU2Nhbm5lcik6CiAgICBkZWYgX19pbml0X18oc2VsZiwgaW5fcXVldWU6IFF1ZXVlLCBvdXRfcXVldWU6IFF1ZXVlKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKGluX3F1ZXVlLCBvdXRfcXVldWUsIDQ0MzMpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YW55b25lIGhvbWU/Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGluZyBkb25nCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCcocGxlYXNlIHdhaXQgZm9yIHJlc3VsdHMpJykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">VkVYTwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl91cmwgPSAiaHR0cDovL3tpcH06NDQzMyIK</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzX3F1ZXVlLnB1dChhZGRyZXNzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl91cmwgPSAiaHR0cDovL3tpcH06NTA4MiIK</text>
+        <text encoding="base64">ICAgIHdvcmtlcnMgPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
