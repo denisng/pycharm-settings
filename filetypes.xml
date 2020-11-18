@@ -5,6 +5,7 @@
       <mapping pattern="idle" type="PLAIN_TEXT" />
       <mapping pattern="finished" type="PLAIN_TEXT" />
       <mapping pattern="working" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="dng-inv" type="PLAIN_TEXT" />
       <mapping ext="typed" type="PLAIN_TEXT" />
